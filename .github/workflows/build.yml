@@ -1,0 +1,26 @@
+name: build
+on:
+  pull_request:
+  push:
+jobs:
+  build:
+    strategy:
+      matrix:
+        os:
+          - ubuntu-24.04
+          # - macos-14      # FIXME(marsam): too slow
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cachix/install-nix-action@v30
+      - uses: cachix/cachix-action@v15
+        with:
+          name: tree-sitter-grammars
+          authToken: "${{ secrets.CACHIX_AUTH_TOKEN }}"
+          skipPush: "${{ github.ref != 'refs/heads/main' }}"
+      - name: Build grammars
+        run: |
+          system="$(nix eval --raw --impure --expr builtins.currentSystem)"
+          nix develop .#ci -c nix-eval-jobs --gc-roots-dir gc-roots --check-cache-status --option allow-import-from-derivation false --flake ".#packages.$system" |
+            jq --arg system "$system" 'select(.cacheStatus == "notBuilt") | ".#packages." + $system + "." + .attr' |
+            xargs -r -t nix build

@@ -1,0 +1,177 @@
+{ lib
+, stdenv
+, fetchFromGitHub
+, fetchFromGitLab
+, fetchFromGitea
+, jq
+, linkFarm
+, nodejs
+, symlinkJoin
+, tree-sitter
+}:
+
+let
+  /**
+    Build a tree-sitter grammar.
+
+    # Inputs
+
+    `version`
+    : version string.
+
+    `src`
+    : Source
+
+    `location`
+    : Path to the Grammar sources.
+
+    `generate`
+    : Whether to generate the Grammar from `grammar.js`.
+
+    `fromGrammarJson`
+    : Whether to generate the Grammar from `grammar.json`.
+  */
+  buildGrammar =
+    language:
+    { version
+    , src
+    , location ? null
+    , generate ? false
+    , fromGrammarJson ? false
+    , postPatch ? null
+    }:
+    stdenv.mkDerivation (finalAttrs: {
+      inherit version src postPatch location;
+      pname = language;
+
+      strictDeps = true;
+
+      nativeBuildInputs = [ ]
+        ++ lib.optionals generate [ nodejs ]
+        ++ lib.optionals (fromGrammarJson || generate) [ tree-sitter ];
+
+      makefile = ./makefile;
+
+      makeFlags = [
+        "PREFIX=${placeholder "out"}"
+        "LANGUAGE_NAME=${language}"
+      ] ++ lib.optionals (location != null) [ "-C ${location}" ];
+
+      preBuild =
+        if lib.hasPrefix "unstable-" finalAttrs.version then ''
+          packageJson="''${location:+$location/}package.json"
+          if [ ! -f $packageJson ] && [ -n $location ]; then
+            echo "Using top-level package.json"
+            packageJson="package.json"
+          fi
+          makeFlagsArray+=(VERSION="$(${lib.getExe jq} -r .version $packageJson)")
+        '' else ''
+          makeFlagsArray+=(VERSION="${finalAttrs.version}")
+        '';
+
+      meta = {
+        inherit (src.meta) homepage;
+      };
+    });
+
+  grammars' = import ./sources.nix { inherit fetchFromGitHub fetchFromGitLab fetchFromGitea; };
+
+  grammars =
+    grammars'
+    // { tree-sitter-asciidoc = grammars'.tree-sitter-asciidoc // { location = "tree-sitter-asciidoc"; }; }
+    // { tree-sitter-asciidoc_inline = grammars'.tree-sitter-asciidoc // { location = "tree-sitter-asciidoc_inline"; }; }
+    // { tree-sitter-latex = grammars'.tree-sitter-latex // { fromGrammarJson = true; }; }
+    // { tree-sitter-prolog = grammars'.tree-sitter-prolog // { location = "grammars/prolog"; }; }
+    // { tree-sitter-problog = grammars'.tree-sitter-prolog // { location = "grammars/problog"; }; }
+    // { tree-sitter-apex = grammars'.tree-sitter-apex // { location = "apex"; }; }
+    // { tree-sitter-soql = grammars'.tree-sitter-apex // { location = "soql"; }; }
+    // { tree-sitter-sosl = grammars'.tree-sitter-apex // { location = "sosl"; }; }
+    // { tree-sitter-csv = grammars'.tree-sitter-csv // { location = "csv"; }; }
+    // { tree-sitter-psv = grammars'.tree-sitter-csv // { location = "psv"; }; }
+    // { tree-sitter-tsv = grammars'.tree-sitter-csv // { location = "tsv"; }; }
+    // { tree-sitter-xml = grammars'.tree-sitter-xml // { location = "xml"; }; }
+    // { tree-sitter-dtd = grammars'.tree-sitter-xml // { location = "dtd"; }; }
+    // { tree-sitter-helm = grammars'.tree-sitter-gotmpl // { location = "dialects/helm"; }; }
+    // { tree-sitter-ocaml = grammars'.tree-sitter-ocaml // { location = "grammars/ocaml"; }; }
+    // { tree-sitter-ocaml-interface = grammars'.tree-sitter-ocaml // { location = "grammars/interface"; }; }
+    // { tree-sitter-terraform = grammars'.tree-sitter-hcl // { location = "dialects/terraform"; }; }
+    // { tree-sitter-tsx = grammars'.tree-sitter-typescript // { location = "tsx"; }; }
+    // { tree-sitter-typescript = grammars'.tree-sitter-typescript // { location = "typescript"; }; }
+    // { tree-sitter-markdown = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown"; }; }
+    // { tree-sitter-markdown-inline = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown-inline"; }; }
+    // { tree-sitter-jinja = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja"; }; }
+    // { tree-sitter-jinja_inline = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja_inline"; }; }
+    // { tree-sitter-wast = grammars'.tree-sitter-wast // { location = "wast"; }; }
+    // { tree-sitter-wat = grammars'.tree-sitter-wast // { location = "wat"; }; }
+    // { tree-sitter-php = grammars'.tree-sitter-php // { location = "php"; }; }
+    // { tree-sitter-magik = grammars'.tree-sitter-magik // { fromGrammarJson = true; }; }
+    // { tree-sitter-rstml = grammars'.tree-sitter-rstml // { location = "rstml"; }; }
+    // { tree-sitter-rust_with_rstml = grammars'.tree-sitter-rstml // { location = "rust_with_rstml"; }; }
+    // { tree-sitter-fsharp = grammars'.tree-sitter-fsharp // { location = "fsharp"; }; }
+    // { tree-sitter-fsharp_signature = grammars'.tree-sitter-fsharp // { location = "fsharp_signature"; }; }
+    // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
+    // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
+    // { tree-sitter-envy = grammars'.tree-sitter-envy // { location = "extensions/tree-sitter"; }; }
+    // { tree-sitter-lura = grammars'.tree-sitter-lura // { location = "tree-sitter-lura"; }; }
+    // { tree-sitter-mers = grammars'.tree-sitter-mers // { location = "tree-sitter-mers"; }; }
+    // { tree-sitter-stilts = grammars'.tree-sitter-stilts // { location = "tooling/tree-sitter-stilts"; }; }
+    // { tree-sitter-calyx = grammars'.tree-sitter-calyx // { location = "calyx-lsp/tree-sitter-calyx"; }; }
+    // { tree-sitter-darklang = grammars'.tree-sitter-darklang // { location = "tree-sitter-darklang"; fromGrammarJson = true; }; }
+    // { tree-sitter-blame = grammars'.tree-sitter-blame // { location = "ql/buramu/tree-sitter-blame"; }; }
+    // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
+    // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
+    // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
+    // { tree-sitter-ziggy-schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
+    // { tree-sitter-datazinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-datazinc"; }; }
+    // { tree-sitter-eprime = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-eprime"; }; }
+    // { tree-sitter-minizinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-minizinc"; }; }
+    // { tree-sitter-djot = grammars'.tree-sitter-djot // { location = "tree-sitter-djot"; }; }
+    // { tree-sitter-djot-inline = grammars'.tree-sitter-djot // { location = "tree-sitter-djot-inline"; }; }
+    // { tree-sitter-dotvvm = grammars'.tree-sitter-dotvvm // { location = "src/tree-sitter-dotvvm"; generate = true; }; }
+    // { tree-sitter-syncat-stylesheet = grammars'.tree-sitter-syncat-stylesheet // { location = "tree-sitter-syncat-stylesheet"; }; }
+    // { tree-sitter-mozjs = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozjs"; }; }
+    // { tree-sitter-ccomment = grammars'.tree-sitter-mozjs // { location = "tree-sitter-ccomment"; }; }
+    // { tree-sitter-mozcpp = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozcpp"; }; }
+    // { tree-sitter-preproc = grammars'.tree-sitter-mozjs // { location = "tree-sitter-preproc"; }; }
+    // { tree-sitter-v = grammars'.tree-sitter-v // { location = "tree_sitter_v"; }; }
+    // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
+    // { tree-sitter-epics-cmd = grammars'.tree-sitter-epics-cmd // { location = "epics-cmd"; }; }
+    // { tree-sitter-epics-db = grammars'.tree-sitter-epics-cmd // { location = "epics-db"; }; }
+    // { tree-sitter-epics-msi-substitution = grammars'.tree-sitter-epics-cmd // { location = "epics-msi-substitution"; }; }
+    // { tree-sitter-epics-msi-template = grammars'.tree-sitter-epics-cmd // { location = "epics-msi-template"; }; }
+    // { tree-sitter-snl = grammars'.tree-sitter-epics-cmd // { location = "snl"; }; }
+    // { tree-sitter-streamdevice-proto = grammars'.tree-sitter-epics-cmd // { location = "streamdevice-proto"; }; }
+    // { tree-sitter-cgsql = grammars'.tree-sitter-cgsql // { generate = true; }; }
+    // { tree-sitter-moshell = grammars'.tree-sitter-moshell // { generate = true; }; }
+    // { tree-sitter-corth = grammars'.tree-sitter-corth // { generate = true; }; }
+    // { tree-sitter-quint = grammars'.tree-sitter-quint // { generate = true; }; }
+    // { tree-sitter-rtf = grammars'.tree-sitter-rtf // { generate = true; }; }
+    // { tree-sitter-scfg = grammars'.tree-sitter-scfg // { generate = true; }; }
+    // { tree-sitter-scilab = grammars'.tree-sitter-scilab // { generate = true; }; }
+    // { tree-sitter-systemrdl = grammars'.tree-sitter-systemrdl // { generate = true; }; }
+    // { tree-sitter-man-db-config = grammars'.tree-sitter-man-db-config // { generate = true; }; }
+    # // { tree-sitter-carbon = grammars'.tree-sitter-carbon // { location = "utils/tree_sitter"; generate = true; }; }  # FIXME(marsam): Requires tree-sitter upgrade
+
+    # Fix upstream issues
+    // { tree-sitter-fga = grammars'.tree-sitter-fga // { postPatch = "rm -v src/parser.o"; }; }
+    // { tree-sitter-context = grammars'.tree-sitter-context // { postPatch = "rm -v src/*.o"; }; }
+    // { tree-sitter-yaml = grammars'.tree-sitter-yaml // { postPatch = "sed -i src/schema.core.c -i src/schema.json.c -e '1i #include <stdint.h>'"; }; }
+    // { tree-sitter-unison = grammars'.tree-sitter-unison // { postPatch = "sed -i src/maybe.c -e '1i #include <stdint.h>'"; }; }
+  ;
+  builtGrammars = lib.mapAttrs buildGrammar grammars;
+  withGrammars = func: symlinkJoin { name = "tree-sitter-grammars"; paths = func builtGrammars; };
+  withGrammarsNvim =
+    func:
+    let
+      grammars = func builtGrammars;
+      linkEntry = grammar:
+        lib.nameValuePair
+          "${lib.removePrefix "tree-sitter-" (lib.getName grammar)}.so"
+          "${grammar}/lib/lib${lib.getName grammar}${stdenv.hostPlatform.extensions.sharedLibrary}";
+    in
+    linkFarm "nvim-tree-sitter-grammars" (lib.listToAttrs (map linkEntry grammars));
+in
+{
+  inherit buildGrammar builtGrammars withGrammars withGrammarsNvim;
+  grammars = builtGrammars;
+}
