@@ -120,6 +120,7 @@ let
     // { tree-sitter-blame = grammars'.tree-sitter-blame // { location = "ql/buramu/tree-sitter-blame"; }; }
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
+    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; }; }
     // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
     // { tree-sitter-ziggy-schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
     // { tree-sitter-datazinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-datazinc"; }; }
@@ -154,6 +155,7 @@ let
 
     # Fix upstream issues
     // { tree-sitter-fga = grammars'.tree-sitter-fga // { postPatch = "rm -v src/parser.o"; }; }
+    // { tree-sitter-vhs = grammars'.tree-sitter-vhs // { postPatch = "rm -v src/parser.o"; }; }
     // { tree-sitter-context = grammars'.tree-sitter-context // { postPatch = "rm -v src/*.o"; }; }
     // { tree-sitter-yaml = grammars'.tree-sitter-yaml // { postPatch = "sed -i src/schema.core.c -i src/schema.json.c -e '1i #include <stdint.h>'"; }; }
     // { tree-sitter-unison = grammars'.tree-sitter-unison // { postPatch = "sed -i src/maybe.c -e '1i #include <stdint.h>'"; }; }
