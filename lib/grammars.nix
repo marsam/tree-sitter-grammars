@@ -93,12 +93,13 @@ let
     // { tree-sitter-dtd = grammars'.tree-sitter-xml // { location = "dtd"; }; }
     // { tree-sitter-helm = grammars'.tree-sitter-gotmpl // { location = "dialects/helm"; }; }
     // { tree-sitter-ocaml = grammars'.tree-sitter-ocaml // { location = "grammars/ocaml"; }; }
-    // { tree-sitter-ocaml-interface = grammars'.tree-sitter-ocaml // { location = "grammars/interface"; }; }
+    // { tree-sitter-ocaml_interface = grammars'.tree-sitter-ocaml // { location = "grammars/interface"; }; }
+    // { tree-sitter-ocaml_type = grammars'.tree-sitter-ocaml // { location = "grammars/type"; }; }
     // { tree-sitter-terraform = grammars'.tree-sitter-hcl // { location = "dialects/terraform"; }; }
     // { tree-sitter-tsx = grammars'.tree-sitter-typescript // { location = "tsx"; }; }
     // { tree-sitter-typescript = grammars'.tree-sitter-typescript // { location = "typescript"; }; }
     // { tree-sitter-markdown = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown"; }; }
-    // { tree-sitter-markdown-inline = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown-inline"; }; }
+    // { tree-sitter-markdown_inline = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown-inline"; }; }
     // { tree-sitter-jinja = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja"; }; }
     // { tree-sitter-jinja_inline = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja_inline"; }; }
     // { tree-sitter-wast = grammars'.tree-sitter-wast // { location = "wast"; }; }
@@ -122,26 +123,26 @@ let
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
     // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; }; }
     // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
-    // { tree-sitter-ziggy-schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
+    // { tree-sitter-ziggy_schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
     // { tree-sitter-datazinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-datazinc"; }; }
     // { tree-sitter-eprime = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-eprime"; }; }
     // { tree-sitter-minizinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-minizinc"; }; }
     // { tree-sitter-djot = grammars'.tree-sitter-djot // { location = "tree-sitter-djot"; }; }
-    // { tree-sitter-djot-inline = grammars'.tree-sitter-djot // { location = "tree-sitter-djot-inline"; }; }
+    // { tree-sitter-djot_inline = grammars'.tree-sitter-djot // { location = "tree-sitter-djot-inline"; }; }
     // { tree-sitter-dotvvm = grammars'.tree-sitter-dotvvm // { location = "src/tree-sitter-dotvvm"; generate = true; }; }
-    // { tree-sitter-syncat-stylesheet = grammars'.tree-sitter-syncat-stylesheet // { location = "tree-sitter-syncat-stylesheet"; }; }
+    // { tree-sitter-syncat_stylesheet = grammars'.tree-sitter-syncat_stylesheet // { location = "tree-sitter-syncat-stylesheet"; }; }
     // { tree-sitter-mozjs = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozjs"; }; }
     // { tree-sitter-ccomment = grammars'.tree-sitter-mozjs // { location = "tree-sitter-ccomment"; }; }
     // { tree-sitter-mozcpp = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozcpp"; }; }
     // { tree-sitter-preproc = grammars'.tree-sitter-mozjs // { location = "tree-sitter-preproc"; }; }
     // { tree-sitter-v = grammars'.tree-sitter-v // { location = "tree_sitter_v"; }; }
     // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
-    // { tree-sitter-epics-cmd = grammars'.tree-sitter-epics-cmd // { location = "epics-cmd"; }; }
-    // { tree-sitter-epics-db = grammars'.tree-sitter-epics-cmd // { location = "epics-db"; }; }
-    // { tree-sitter-epics-msi-substitution = grammars'.tree-sitter-epics-cmd // { location = "epics-msi-substitution"; }; }
-    // { tree-sitter-epics-msi-template = grammars'.tree-sitter-epics-cmd // { location = "epics-msi-template"; }; }
-    // { tree-sitter-snl = grammars'.tree-sitter-epics-cmd // { location = "snl"; }; }
-    // { tree-sitter-streamdevice-proto = grammars'.tree-sitter-epics-cmd // { location = "streamdevice-proto"; }; }
+    // { tree-sitter-epics_cmd = grammars'.tree-sitter-epics_cmd // { location = "epics-cmd"; }; }
+    // { tree-sitter-epics_db = grammars'.tree-sitter-epics_cmd // { location = "epics-db"; }; }
+    // { tree-sitter-epics_msi_substitution = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-substitution"; }; }
+    // { tree-sitter-epics_msi_template = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-template"; }; }
+    // { tree-sitter-snl = grammars'.tree-sitter-epics_cmd // { location = "snl"; }; }
+    // { tree-sitter-streamdevice_proto = grammars'.tree-sitter-epics_cmd // { location = "streamdevice-proto"; }; }
     // { tree-sitter-cgsql = grammars'.tree-sitter-cgsql // { generate = true; }; }
     // { tree-sitter-moshell = grammars'.tree-sitter-moshell // { generate = true; }; }
     // { tree-sitter-corth = grammars'.tree-sitter-corth // { generate = true; }; }
@@ -150,7 +151,7 @@ let
     // { tree-sitter-scfg = grammars'.tree-sitter-scfg // { generate = true; }; }
     // { tree-sitter-scilab = grammars'.tree-sitter-scilab // { generate = true; }; }
     // { tree-sitter-systemrdl = grammars'.tree-sitter-systemrdl // { generate = true; }; }
-    // { tree-sitter-man-db-config = grammars'.tree-sitter-man-db-config // { generate = true; }; }
+    // { tree-sitter-mandbconfig = grammars'.tree-sitter-mandbconfig // { generate = true; }; }
     # // { tree-sitter-carbon = grammars'.tree-sitter-carbon // { location = "utils/tree_sitter"; generate = true; }; }  # FIXME(marsam): Requires tree-sitter upgrade
 
     # Fix upstream issues
