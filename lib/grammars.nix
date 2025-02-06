@@ -121,7 +121,7 @@ let
     // { tree-sitter-blame = grammars'.tree-sitter-blame // { location = "ql/buramu/tree-sitter-blame"; }; }
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
-    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; }; }
+    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
     // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
     // { tree-sitter-ziggy_schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
     // { tree-sitter-datazinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-datazinc"; }; }
