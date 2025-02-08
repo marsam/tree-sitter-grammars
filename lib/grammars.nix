@@ -3,6 +3,7 @@
 , fetchFromGitHub
 , fetchFromGitLab
 , fetchFromGitea
+, fetchFromSourcehut
 , jq
 , linkFarm
 , nodejs
@@ -118,7 +119,6 @@ let
     // { tree-sitter-stilts = grammars'.tree-sitter-stilts // { location = "tooling/tree-sitter-stilts"; }; }
     // { tree-sitter-calyx = grammars'.tree-sitter-calyx // { location = "calyx-lsp/tree-sitter-calyx"; }; }
     // { tree-sitter-darklang = grammars'.tree-sitter-darklang // { location = "tree-sitter-darklang"; fromGrammarJson = true; }; }
-    // { tree-sitter-blame = grammars'.tree-sitter-blame // { location = "ql/buramu/tree-sitter-blame"; }; }
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
     // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
@@ -160,6 +160,48 @@ let
     // { tree-sitter-context = grammars'.tree-sitter-context // { postPatch = "rm -v src/*.o"; }; }
     // { tree-sitter-yaml = grammars'.tree-sitter-yaml // { postPatch = "sed -i src/schema.core.c -i src/schema.json.c -e '1i #include <stdint.h>'"; }; }
     // { tree-sitter-unison = grammars'.tree-sitter-unison // { postPatch = "sed -i src/maybe.c -e '1i #include <stdint.h>'"; }; }
+    // {
+      tree-sitter-blame = {
+        # Big repository, only do a sparse checkout of the grammar directory.
+        version = "0.0.1";
+        src = fetchFromGitHub {
+          owner = "github";
+          repo = "codeql";
+          rev = "codeql-cli/v2.20.4";
+          hash = "sha256-tGgC/ECoc9aszUX44l2euEjVQiKAHUl2ETDcv4CI9HI=";
+          sparseCheckout = [ "ql/buramu/tree-sitter-blame" ];
+        };
+        location = "ql/buramu/tree-sitter-blame";
+      };
+      # TODO: Use SourceHut API. Unfortunately, only allows authenticated requests.
+      tree-sitter-gemini = {
+        version = "unstable-2023-11-27";
+        src = fetchFromSourcehut {
+          owner = "~nbsp";
+          repo = "tree-sitter-gemini";
+          rev = "b60a42df3f76bd4e8f988465309d705a007dc506";
+          hash = "sha256-xs0M5MvgatWLMMZ1FqEngS7sWUvpLDUTM3qAeWWBoL4=";
+        };
+      };
+      tree-sitter-wren = {
+        version = "unstable-2023-08-15";
+        src = fetchFromSourcehut {
+          owner = "~jummit";
+          repo = "tree-sitter-wren";
+          rev = "6748694be32f11e7ec6b5faeb1b48ca6156d4e06";
+          hash = "sha256-CU08QY4X/u4W4AEkK+gUmy5P8/XoBHDJmWX1vdGjmsI=";
+        };
+      };
+      tree-sitter-xidoc = {
+        version = "unstable-2023-01-03";
+        src = fetchFromSourcehut {
+          owner = "~xigoi";
+          repo = "tree-sitter-xidoc";
+          rev = "d24aea769493c19d3b55ad682e0d459fac27ee5c";
+          hash = "sha256-V5ngyO6RfzsdbFYl8YOl0va4A79mYnobtvj9tDOQgbo=";
+        };
+      };
+    }
   ;
   builtGrammars = lib.mapAttrs buildGrammar grammars;
   withGrammars = func: symlinkJoin { name = "tree-sitter-grammars"; paths = func builtGrammars; };

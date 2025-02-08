@@ -181,7 +181,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-bio": Grammar("https://github.com/cryptocode/tree-sitter-bio"),
     "tree-sitter-bitbake": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-bitbake", "HEAD"),
     "tree-sitter-blade": Grammar("https://github.com/EmranMR/tree-sitter-blade"),
-    "tree-sitter-blame": Grammar("https://github.com/github/codeql", "HEAD"),
     "tree-sitter-blom": Grammar("https://github.com/xhyrom-utils/tree-sitter-blom"),
     "tree-sitter-blueprint": Grammar("https://gitlab.com/gabmus/tree-sitter-blueprint"),
     "tree-sitter-bp": Grammar("https://github.com/ambroisie/tree-sitter-bp"),
@@ -729,9 +728,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-zscript": Grammar("https://github.com/dastrukar/tree-sitter-zscript"),
     "tree-sitter-zsh": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-zsh"),
     # "tree-sitter-carbon": Grammar("https://github.com/carbon-language/carbon-lang"), # FIXME(marsam)
-    # "tree-sitter-gemini": Grammar("https://git.sr.ht/~nbsp/tree-sitter-gemini"),
-    # "tree-sitter-wren": Grammar("https://git.sr.ht/~jummit/tree-sitter-wren"),
-    # "tree-sitter-xidoc": Grammar("https://git.sr.ht/~xigoi/tree-sitter-xidoc"),
 }
 # fmt: on
 

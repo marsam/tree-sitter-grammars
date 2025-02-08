@@ -576,15 +576,6 @@
       hash = "sha256-PTGdsXlLoE+xlU0uWOU6LQalX4fhJ/qhpyEKmTAazLU=";
     };
   };
-  "tree-sitter-blame" = {
-    version = "unstable-2025-02-06";
-    src = fetchFromGitHub {
-      owner = "github";
-      repo = "codeql";
-      rev = "37ddaa36adcbe2e69525945459cd721b471d6f31";
-      hash = "sha256-ecOW3PwqaNcZxUb7+vC2dWRqi5l9DI93V6t1ydFJ5l0=";
-    };
-  };
   "tree-sitter-blom" = {
     version = "unstable-2025-01-08";
     src = fetchFromGitHub {
