@@ -34,7 +34,8 @@ jobs:
 
           nix develop -c python update.py -o lib/sources.nix
           if ! git diff --quiet lib/sources.nix; then
-            git commit -m "Update grammars" lib/sources.nix
+            nix develop .#readme -c update-readme
+            git commit -m "Update grammars" lib/sources.nix README.md
             git push
           fi
 
