@@ -62,7 +62,10 @@ install: all
 	install -m755 lib$(LANGUAGE_NAME).$(SOEXT) '$(DESTDIR)$(LIBDIR)'/lib$(LANGUAGE_NAME).$(SOEXTVER)
 	ln -sf lib$(LANGUAGE_NAME).$(SOEXTVER) '$(DESTDIR)$(LIBDIR)'/lib$(LANGUAGE_NAME).$(SOEXTVER_MAJOR)
 	ln -sf lib$(LANGUAGE_NAME).$(SOEXTVER_MAJOR) '$(DESTDIR)$(LIBDIR)'/lib$(LANGUAGE_NAME).$(SOEXT)
-	-test -d queries && install -D -m644 queries/*.scm -t '$(DESTDIR)$(DATADIR)'/tree-sitter/queries/$(LANGUAGE_NAME:tree-sitter-%=%)
+ifneq ("$(wildcard queries)", "")
+	install -d '$(DESTDIR)$(DATADIR)'/tree-sitter/queries/
+	cp -av queries '$(DESTDIR)$(DATADIR)'/tree-sitter/queries/$(LANGUAGE_NAME:tree-sitter-%=%)
+endif
 
 test:
 	$(TS) test
