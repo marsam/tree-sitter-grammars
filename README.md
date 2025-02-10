@@ -280,7 +280,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-hyperlink | [2024-10-21](https://github.com/savetheclocktower/tree-sitter-hyperlink/tree/0704b3e5a72892495dd13b85a5064582414cb39a) |
 | tree-sitter-hyprlang | [3.0.0](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang/tree/v3.0.0) |
 | tree-sitter-ic10 | [0.2.0](https://github.com/Xandaros/tree-sitter-ic10/tree/v0.2.0) |
-| tree-sitter-idl | [3.11.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.11.0) |
+| tree-sitter-idl | [3.12.1](https://github.com/cathaysia/tree-sitter-idl/tree/v3.12.1) |
 | tree-sitter-idris | [2024-11-05](https://github.com/kayhide/tree-sitter-idris/tree/c56a25cf57c68ff929356db25505c1cc4c7820f6) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
 | tree-sitter-ignis | [2024-12-06](https://github.com/Ignis-lang/tree-sitter-ignis/tree/b071a650ca0dca29723693e7e0be04581c61cd4b) |
@@ -420,7 +420,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pascal | [0.9.1](https://github.com/Isopod/tree-sitter-pascal/tree/v0.9.1) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |
-| tree-sitter-perl | [2025-02-01](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/db79ba96ba13e2e89ce9da07c1cc1dfbe6e2e0f6) |
+| tree-sitter-perl | [2025-02-09](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/4a6272ad32b8d9d41996644190b2b2874cbe7882) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.0.2](https://github.com/pest-parser/tree-sitter-pest/tree/v0.0.2) |
 | tree-sitter-pgn | [1.1.4](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.1.4) |
@@ -662,7 +662,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ziggy | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy) |
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
-| tree-sitter-zql | [2025-02-08](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a06c4ea396953f39928ba3c3f204b451024867c7) |
+| tree-sitter-zql | [2025-02-09](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/7378120a4943b75c8918bb84eb5cdbc1678e3451) |
 | tree-sitter-zscript | [2025-01-30](https://github.com/dastrukar/tree-sitter-zscript/tree/75138fe22616127d5bfcefce240b8b13e7130ab7) |
 | tree-sitter-zsh | [2023-08-26](https://github.com/tree-sitter-grammars/tree-sitter-zsh/tree/47e2caf4ed7e466f51cfbb13a860a192c300506f) |
 
