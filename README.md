@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (645)</strong></summary>
+  <summary><strong>Available grammars (648)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -93,6 +93,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cel | [2024-02-13](https://github.com/bufbuild/tree-sitter-cel/tree/df0585025e6f50cdb07347f5009ae3f47c652890) |
 | tree-sitter-cfhtml | [2025-01-10](https://github.com/cfmleditor/tree-sitter-cfml/tree/728c00e5ebf2b2c42ba8db8ade4440455be4119c/cfhtml) |
 | tree-sitter-cfml | [2025-01-10](https://github.com/cfmleditor/tree-sitter-cfml/tree/728c00e5ebf2b2c42ba8db8ade4440455be4119c/cfml) |
+| tree-sitter-cfscript | [2025-01-10](https://github.com/cfmleditor/tree-sitter-cfml/tree/728c00e5ebf2b2c42ba8db8ade4440455be4119c/cfscript) |
 | tree-sitter-cgsql | [2025-01-08](https://github.com/ricomariani/tree-sitter-cgsql/tree/e1d3ee70ac926af3afb8fde5ffe037d27ca3e133) |
 | tree-sitter-chatito | [0.1.2](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.1.2) |
 | tree-sitter-cicada | [2023-12-20](https://github.com/Cicada-Software/tree-sitter-cicada/tree/813272eb6f192b2ee8f7dc9fbaf0b083afef3061) |
@@ -371,6 +372,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mlir | [2025-02-08](https://github.com/artagnon/tree-sitter-mlir/tree/65bca19232744b920859ce682cd830b5006b8ccd) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-01-18](https://github.com/moonbitlang/tree-sitter-moonbit/tree/f1cb273b1d188d9433839bc48f815b939b5db6ab) |
+| tree-sitter-moonscript | [2024-09-22](https://github.com/kmafeni04/tree-sitter-moonscript/tree/e4f174f5a845d5e70e79dc046c928f3f049df65b) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
 | tree-sitter-motoko | [2024-11-03](https://github.com/polychromatist/tree-sitter-motoko/tree/a172fd1ddc09b9c3806c0d6ecd71ee2f5160aebc) |
@@ -387,6 +389,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-navi | [0.1.0](https://github.com/navi-language/tree-sitter-navi/tree/v0.1.0) |
 | tree-sitter-navi_stream | [0.0.4](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.0.4) |
 | tree-sitter-ned | [2024-08-30](https://github.com/omnetpp/tree-sitter-ned/tree/03e7478994474bfe9dec2bb947e4b30372848d7f) |
+| tree-sitter-nelua | [2025-02-09](https://github.com/kmafeni04/tree-sitter-nelua/tree/ebc89eeb9d0a1a15fccc3b2d6be326d9db46fc6c) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
 | tree-sitter-newick | [2024-02-12](https://github.com/delehef/tree-sitter-newick/tree/efb5d960e10582a598a09d8dd4bea2924a7c51b7) |
 | tree-sitter-nginx | [2025-01-25](https://github.com/opa-oz/tree-sitter-nginx/tree/989da760be05a3334af3ec88705cbf57e6a9c41d) |

@@ -465,6 +465,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-mlir": Grammar("https://github.com/artagnon/tree-sitter-mlir"),
     "tree-sitter-mojo": Grammar("https://github.com/lsh/tree-sitter-mojo"),
     "tree-sitter-moonbit": Grammar("https://github.com/moonbitlang/tree-sitter-moonbit"),
+    "tree-sitter-moonscript": Grammar("https://github.com/kmafeni04/tree-sitter-moonscript"),
     "tree-sitter-mor": Grammar("https://github.com/veqox/tree-sitter-mor"),
     "tree-sitter-moshell": Grammar("https://github.com/moshell-lang/tree-sitter-moshell"),
     "tree-sitter-motoko": Grammar("https://github.com/polychromatist/tree-sitter-motoko"),
@@ -480,6 +481,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-navi": Grammar("https://github.com/navi-language/tree-sitter-navi"),
     "tree-sitter-navi_stream": Grammar("https://github.com/navi-language/tree-sitter-navi-stream"),
     "tree-sitter-ned": Grammar("https://github.com/omnetpp/tree-sitter-ned"),
+    "tree-sitter-nelua": Grammar("https://github.com/kmafeni04/tree-sitter-nelua"),  # Alternative https://github.com/mbekkomo/tree-sitter-nelua
     "tree-sitter-nesfab": Grammar("https://github.com/hnd2/tree-sitter-nesfab"),
     "tree-sitter-newick": Grammar("https://github.com/delehef/tree-sitter-newick"),
     "tree-sitter-nginx": Grammar("https://github.com/opa-oz/tree-sitter-nginx"),  # Alternative: https://gitlab.com/joncoole/tree-sitter-nginx

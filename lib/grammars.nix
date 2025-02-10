@@ -113,6 +113,7 @@ let
     // { tree-sitter-fsharp_signature = grammars'.tree-sitter-fsharp // { location = "fsharp_signature"; }; }
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
     // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
+    // { tree-sitter-cfscript = grammars'.tree-sitter-cfml // { location = "cfscript"; }; }
     // { tree-sitter-envy = grammars'.tree-sitter-envy // { location = "extensions/tree-sitter"; }; }
     // { tree-sitter-lura = grammars'.tree-sitter-lura // { location = "tree-sitter-lura"; }; }
     // { tree-sitter-mers = grammars'.tree-sitter-mers // { location = "tree-sitter-mers"; }; }

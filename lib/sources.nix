@@ -3114,6 +3114,15 @@
       hash = "sha256-PkoDNGC2YkQtGumwtJk28cUB5od7eVUDzPnM3BYGlZ4=";
     };
   };
+  "tree-sitter-moonscript" = {
+    version = "unstable-2024-09-22";
+    src = fetchFromGitHub {
+      owner = "kmafeni04";
+      repo = "tree-sitter-moonscript";
+      rev = "e4f174f5a845d5e70e79dc046c928f3f049df65b";
+      hash = "sha256-V2pyC9zJv/Y9DW3X5eT21W0m9GErUAp3prEkijmfhCw=";
+    };
+  };
   "tree-sitter-mor" = {
     version = "unstable-2024-12-13";
     src = fetchFromGitHub {
@@ -3247,6 +3256,15 @@
       repo = "tree-sitter-ned";
       rev = "03e7478994474bfe9dec2bb947e4b30372848d7f";
       hash = "sha256-hapZyI6Ogf2V7tRWlZUVQDLY1KkFzta8MRL+wIu3yzM=";
+    };
+  };
+  "tree-sitter-nelua" = {
+    version = "unstable-2025-02-09";
+    src = fetchFromGitHub {
+      owner = "kmafeni04";
+      repo = "tree-sitter-nelua";
+      rev = "ebc89eeb9d0a1a15fccc3b2d6be326d9db46fc6c";
+      hash = "sha256-3OMVTYueTFHVH+0Y3X1qIV6qD5xKMRUfd9LWSUR1Ki8=";
     };
   };
   "tree-sitter-nesfab" = {
