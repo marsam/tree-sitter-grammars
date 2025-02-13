@@ -114,12 +114,10 @@ let
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
     // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
     // { tree-sitter-cfscript = grammars'.tree-sitter-cfml // { location = "cfscript"; }; }
-    // { tree-sitter-envy = grammars'.tree-sitter-envy // { location = "extensions/tree-sitter"; }; }
     // { tree-sitter-lura = grammars'.tree-sitter-lura // { location = "tree-sitter-lura"; }; }
     // { tree-sitter-mers = grammars'.tree-sitter-mers // { location = "tree-sitter-mers"; }; }
     // { tree-sitter-stilts = grammars'.tree-sitter-stilts // { location = "tooling/tree-sitter-stilts"; }; }
     // { tree-sitter-calyx = grammars'.tree-sitter-calyx // { location = "calyx-lsp/tree-sitter-calyx"; }; }
-    // { tree-sitter-darklang = grammars'.tree-sitter-darklang // { location = "tree-sitter-darklang"; fromGrammarJson = true; }; }
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
     // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
@@ -130,7 +128,6 @@ let
     // { tree-sitter-minizinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-minizinc"; }; }
     // { tree-sitter-djot = grammars'.tree-sitter-djot // { location = "tree-sitter-djot"; }; }
     // { tree-sitter-djot_inline = grammars'.tree-sitter-djot // { location = "tree-sitter-djot-inline"; }; }
-    // { tree-sitter-dotvvm = grammars'.tree-sitter-dotvvm // { location = "src/tree-sitter-dotvvm"; generate = true; }; }
     // { tree-sitter-syncat_stylesheet = grammars'.tree-sitter-syncat_stylesheet // { location = "tree-sitter-syncat-stylesheet"; }; }
     // { tree-sitter-mozjs = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozjs"; }; }
     // { tree-sitter-ccomment = grammars'.tree-sitter-mozjs // { location = "tree-sitter-ccomment"; }; }
@@ -173,6 +170,42 @@ let
           sparseCheckout = [ "ql/buramu/tree-sitter-blame" ];
         };
         location = "ql/buramu/tree-sitter-blame";
+      };
+      tree-sitter-darklang = {
+        # Tags aren't stable, they often get deleted/regenerated
+        version = "unstable-2025-02-05";
+        src = fetchFromGitHub {
+          owner = "darklang";
+          repo = "dark";
+          rev = "e78bc97559fa4b47c30bf97ce6bff5dc2e779615";
+          hash = "sha256-pfCLzTHBySsAJ/fcBZzo3E4F+4QiYyA9y+InVpU/fvg=";
+          sparseCheckout = [ "tree-sitter-darklang" ];
+        };
+        fromGrammarJson = true;
+        location = "tree-sitter-darklang";
+      };
+      tree-sitter-envy = {
+        version = "unstable-2024-08-19";
+        src = fetchFromGitHub {
+          owner = "envyhq";
+          repo = "envy";
+          rev = "82386ecea370fd45680b2d04f2823f762aad5693";
+          hash = "sha256-lcMdJ6JnAJMnVmcpWuLtB86XUX46QS6++JJhdUZKnBk=";
+          sparseCheckout = [ "extensions/tree-sitter" ];
+        };
+        location = "extensions/tree-sitter";
+      };
+      tree-sitter-dotvvm = {
+        version = "unstable-2023-06-01";
+        src = fetchFromGitHub {
+          owner = "riganti";
+          repo = "dotvvm-extension-vscode";
+          rev = "deb85fc48ab9bb16cb8cd80091344c0116030b1b";
+          hash = "sha256-mphbCqWWtmgcXYCFEn5w8VFVBuE/1XmQmXfiHL2ic0I=";
+          sparseCheckout = [ "src/tree-sitter-dotvvm" ];
+        };
+        generate = true;
+        location = "src/tree-sitter-dotvvm";
       };
       # TODO: Use SourceHut API. Unfortunately, only allows authenticated requests.
       tree-sitter-gemini = {
