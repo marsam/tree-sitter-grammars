@@ -811,12 +811,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2025-02-10";
+    version = "unstable-2025-02-12";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "9d99e25084a79d9e53b2afe064a103cf1a297ace";
-      hash = "sha256-DEQ98O9Pz3bVSlHw6MVtssW4n4JKq0ZKMKXDHU0deUQ=";
+      rev = "1b06ddde6dd41c8c7ffa9ce0f4ab6cee8700fd06";
+      hash = "sha256-emgn5D6BiQ89JiXOmLeCzeVB7ImDm9BrHq4yfYJ/p+U=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1153,12 +1153,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2025-02-04";
+    version = "unstable-2025-02-12";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "aee37cdf0b1ce205df44e6bf8ca0f4a60225c869";
-      hash = "sha256-FxptGnk/9RwIB1kSG90CNOGbQdRsnrV0BUNpU32dAj8=";
+      rev = "ea57e6924fef6505f961fa8b8736e53e43b98c06";
+      hash = "sha256-xpBCHmpctRA6yyHgEDCorGeMW3Kq5VzFjUfLF6p/K5g=";
     };
   };
   "tree-sitter-dbml" = {
@@ -4314,12 +4314,12 @@
     };
   };
   "tree-sitter-skbdrc" = {
-    version = "unstable-2025-01-23";
+    version = "unstable-2025-02-12";
     src = fetchFromGitHub {
       owner = "starkwm";
       repo = "tree-sitter-skbdrc";
-      rev = "723e61dd7c15440b56c4b75804e0a617c8e41353";
-      hash = "sha256-LBDxrG/YfVwvD6iTf1cXKiWHwUmQcb9+ex42iuMYh00=";
+      rev = "c9e8e19bb2a2a3a859d5c887bf8e77638399c709";
+      hash = "sha256-LIQGjhwqavqu++u1GW8qvi2m88tWxGR7JlGP4aRp6gg=";
     };
   };
   "tree-sitter-slang" = {
@@ -4431,12 +4431,12 @@
     };
   };
   "tree-sitter-spade" = {
-    version = "unstable-2025-01-18";
+    version = "unstable-2025-02-12";
     src = fetchFromGitLab {
       owner = "spade-lang";
       repo = "tree-sitter-spade";
-      rev = "78bf09a88fc1d396f66b69879f908fc6bd2e6934";
-      hash = "sha256-nn1jZduKVfFXnnQyT+rm/+7U/Ewe+K3+RlEBmTB4WfQ=";
+      rev = "ddea816c4c640d2df52772cec785129b272915e5";
+      hash = "sha256-ptez0BYimwPslHJKdhqeaZUC66W4YWfoUtFF5DdZuNc=";
     };
   };
   "tree-sitter-sparql" = {
