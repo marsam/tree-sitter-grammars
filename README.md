@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (653)</strong></summary>
+  <summary><strong>Available grammars (655)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -168,6 +168,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
 | tree-sitter-embedded_template | [0.23.2](https://github.com/tree-sitter/tree-sitter-embedded-template/tree/v0.23.2) |
+| tree-sitter-enforce | [2025-02-06](https://github.com/simonvic/tree-sitter-enforce/tree/9db7a49f3d73222c05b75dcfa8892f5e93542d1e) |
 | tree-sitter-envy | [2024-08-19](https://github.com/envyhq/envy/tree/82386ecea370fd45680b2d04f2823f762aad5693/extensions/tree-sitter) |
 | tree-sitter-epics_cmd | [2024-10-29](https://github.com/epics-extensions/tree-sitter-epics/tree/693df55b52d286a32709512c189cde0ccc7b1cae/epics-cmd) |
 | tree-sitter-epics_db | [2024-10-29](https://github.com/epics-extensions/tree-sitter-epics/tree/693df55b52d286a32709512c189cde0ccc7b1cae/epics-db) |
@@ -295,7 +296,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
 | tree-sitter-ispc | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-ispc/tree/v0.1.1) |
 | tree-sitter-jack | [2024-10-04](https://github.com/nverno/tree-sitter-jack/tree/1a617413ea92c237bff4cbe7fa67eb3bf4425596) |
-| tree-sitter-jai | [2024-07-15](https://github.com/SogoCZE/tree-sitter-jai/tree/dd2d38d44bf71a0db95c7e745f86b06c3aa7e4d6) |
+| tree-sitter-jai | [2025-02-14](https://github.com/constantitus/tree-sitter-jai/tree/999cb94e0e786d3b5bda1fd332a443fd640082eb) |
 | tree-sitter-jakt | [2023-02-26](https://github.com/SerenityOS/tree-sitter-jakt/tree/3d2c7e4b030644854fb3bfec05de2ee36716653b) |
 | tree-sitter-janet_simple | [0.0.7](https://github.com/sogaiu/tree-sitter-janet-simple/tree/v0.0.7) |
 | tree-sitter-java | [0.23.5](https://github.com/tree-sitter/tree-sitter-java/tree/v0.23.5) |
@@ -503,6 +504,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
 | tree-sitter-rpmspec | [2024-10-07](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/a7b1cff462c2069b005a41848f462d79d67c738f) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
+| tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.1.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.1.0) |
 | tree-sitter-rstml | [2.0.0](https://github.com/rayliwell/tree-sitter-rstml/tree/v2.0.0/rstml) |
 | tree-sitter-rtf | [2024-10-16](https://github.com/GoodNotes/tree-sitter-rtf/tree/3bbc47cb5d991bef4ebab1118459f6c8d5064c54) |
@@ -545,7 +547,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
 | tree-sitter-spicy | [2025-02-02](https://github.com/bbannier/tree-sitter-spicy/tree/e53123a37030a8669546fea704f7fa249d4d22ae) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
-| tree-sitter-sql | [0.3.7.2](https://github.com/DerekStride/tree-sitter-sql/tree/9853b887c5e4309de273922b681cc7bc09e30c78) |
+| tree-sitter-sql | [0.3.8](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.8) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
 | tree-sitter-ssh_client_config | [2025.1.9](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.1.9) |

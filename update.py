@@ -276,6 +276,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-elm": Grammar("https://github.com/elm-tooling/tree-sitter-elm"),
     "tree-sitter-elsa": Grammar("https://github.com/glapa-grossklag/tree-sitter-elsa"),
     "tree-sitter-elvish": Grammar("https://github.com/elves/tree-sitter-elvish"),
+    "tree-sitter-enforce": Grammar("https://github.com/simonvic/tree-sitter-enforce"),
     "tree-sitter-envy": Grammar("https://github.com/envyhq/envy"),
     "tree-sitter-epics_cmd": Grammar("https://github.com/epics-extensions/tree-sitter-epics"),
     "tree-sitter-epscript": Grammar("https://github.com/zuhanit/tree-sitter-epscript"),
@@ -394,7 +395,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-isle": Grammar("https://github.com/eagr/tree-sitter-isle"),
     "tree-sitter-ispc": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ispc"),
     "tree-sitter-jack": Grammar("https://github.com/nverno/tree-sitter-jack"),
-    "tree-sitter-jai": Grammar("https://github.com/SogoCZE/tree-sitter-jai"),  # Alternative: https://github.com/adragomir/tree-sitter-jai
+    "tree-sitter-jai": Grammar("https://github.com/constantitus/tree-sitter-jai"),  # Alternative: https://github.com/adragomir/tree-sitter-jai https://github.com/SogoCZE/tree-sitter-jai
     "tree-sitter-jakt": Grammar("https://github.com/SerenityOS/tree-sitter-jakt"),
     "tree-sitter-janet_simple": Grammar("https://github.com/sogaiu/tree-sitter-janet-simple"),
     "tree-sitter-jelly": Grammar("https://github.com/OpenJelly/tree-sitter-jelly"),
@@ -569,6 +570,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-rec": Grammar("https://github.com/thmsmlr/tree-sitter-rec"),
     "tree-sitter-regent": Grammar("https://github.com/ellishg/tree-sitter-regent"),
     "tree-sitter-rego": Grammar("https://github.com/FallenAngel97/tree-sitter-rego"),
+    "tree-sitter-rson": Grammar("https://github.com/TheNeikos/tree-sitter-rson"),
     "tree-sitter-requirements": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-requirements"),
     "tree-sitter-rescript": Grammar("https://github.com/rescript-lang/tree-sitter-rescript", "HEAD"),
     "tree-sitter-restedlang": Grammar("https://github.com/Gnarus-G/tree-sitter-restedlang"),
@@ -618,7 +620,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-spicedb": Grammar("https://github.com/authzed/tree-sitter-spicedb"),
     "tree-sitter-spicy": Grammar("https://github.com/bbannier/tree-sitter-spicy"),
     "tree-sitter-spml": Grammar("https://github.com/DrWursterich/tree-sitter-spml"),
-    "tree-sitter-sql": Grammar("https://github.com/DerekStride/tree-sitter-sql", ("branch", "gh-pages"), "0.3.7.2"),  # Published files don't have a version set
+    "tree-sitter-sql": Grammar("https://github.com/DerekStride/tree-sitter-sql"),
     "tree-sitter-sql_bigquery": Grammar("https://github.com/takegue/tree-sitter-sql-bigquery"),
     "tree-sitter-squirrel": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-squirrel"),
     "tree-sitter-ssh_client_config": Grammar("https://github.com/metio/tree-sitter-ssh-client-config", ("tag", "2025.1.9")),  # FIXME(marsam): later versions yield different hash on Darwin

@@ -119,6 +119,7 @@ let
     // { tree-sitter-stilts = grammars'.tree-sitter-stilts // { location = "tooling/tree-sitter-stilts"; }; }
     // { tree-sitter-calyx = grammars'.tree-sitter-calyx // { location = "calyx-lsp/tree-sitter-calyx"; }; }
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
+    // { tree-sitter-sql = grammars'.tree-sitter-sql // { generate = true; }; }
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
     // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
     // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
