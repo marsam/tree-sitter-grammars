@@ -77,7 +77,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bsv | [2025-02-10](https://github.com/yuyuranium/tree-sitter-bsv/tree/3ea0574ddd3363214bd6d2c55508c352093367a2) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.23.5](https://github.com/tree-sitter/tree-sitter-c/tree/v0.23.5) |
-| tree-sitter-c3 | [0.2.5](https://github.com/c3lang/tree-sitter-c3/tree/v0.2.5) |
+| tree-sitter-c3 | [0.3.1](https://github.com/c3lang/tree-sitter-c3/tree/v0.3.1) |
 | tree-sitter-c_sharp | [0.23.1](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.1) |
 | tree-sitter-ca65 | [2024-07-28](https://github.com/babasbot/tree-sitter-ca65/tree/fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
@@ -91,9 +91,9 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2024-02-13](https://github.com/bufbuild/tree-sitter-cel/tree/df0585025e6f50cdb07347f5009ae3f47c652890) |
-| tree-sitter-cfhtml | [2025-02-14](https://github.com/cfmleditor/tree-sitter-cfml/tree/ce4a6ca1f17f46cc8ed5e028ecd07240cbe90a21/cfhtml) |
-| tree-sitter-cfml | [2025-02-14](https://github.com/cfmleditor/tree-sitter-cfml/tree/ce4a6ca1f17f46cc8ed5e028ecd07240cbe90a21/cfml) |
-| tree-sitter-cfscript | [2025-02-14](https://github.com/cfmleditor/tree-sitter-cfml/tree/ce4a6ca1f17f46cc8ed5e028ecd07240cbe90a21/cfscript) |
+| tree-sitter-cfhtml | [2025-02-17](https://github.com/cfmleditor/tree-sitter-cfml/tree/a6c3e9f43af0a9058d8c20cf8e94bee61237f88d/cfhtml) |
+| tree-sitter-cfml | [2025-02-17](https://github.com/cfmleditor/tree-sitter-cfml/tree/a6c3e9f43af0a9058d8c20cf8e94bee61237f88d/cfml) |
+| tree-sitter-cfscript | [2025-02-17](https://github.com/cfmleditor/tree-sitter-cfml/tree/a6c3e9f43af0a9058d8c20cf8e94bee61237f88d/cfscript) |
 | tree-sitter-cgsql | [2025-01-08](https://github.com/ricomariani/tree-sitter-cgsql/tree/e1d3ee70ac926af3afb8fde5ffe037d27ca3e133) |
 | tree-sitter-chatito | [0.1.2](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.1.2) |
 | tree-sitter-cicada | [2023-12-20](https://github.com/Cicada-Software/tree-sitter-cicada/tree/813272eb6f192b2ee8f7dc9fbaf0b083afef3061) |
@@ -130,7 +130,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cypher | [0.0.1](https://github.com/pupli/tree-sitter-cypher/tree/v0.0.1) |
 | tree-sitter-cython | [2024-12-21](https://github.com/b0o/tree-sitter-cython/tree/62f44f5e7e41dde03c5f0a05f035e293bcf2bcf8) |
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
-| tree-sitter-d2 | [0.4.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.4.2) |
+| tree-sitter-d2 | [0.5.1](https://github.com/ravsii/tree-sitter-d2/tree/v0.5.1) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
 | tree-sitter-dart | [2024-11-17](https://github.com/UserNobody14/tree-sitter-dart/tree/e81af6ab94a728ed99c30083be72d88e6d56cf9e) |
 | tree-sitter-datazinc | [2025-02-12](https://github.com/shackle-rs/shackle/tree/ea57e6924fef6505f961fa8b8736e53e43b98c06/parsers/tree-sitter-datazinc) |
@@ -526,7 +526,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-selinux | [2024-04-26](https://github.com/mdmfernandes/tree-sitter-selinux/tree/e13c6cdbe05845c0e9379c6937b59d7424e9ece3) |
 | tree-sitter-semver | [0.0.1](https://github.com/uselessscat/tree-sitter-semver/tree/0.0.1) |
 | tree-sitter-shosts | [2025-01-15](https://github.com/Smart-Hosts/tree-sitter-shosts/tree/0b62b6e0fddb6ee7ac6940bbc967fa1956233c60) |
-| tree-sitter-skbdrc | [2025-02-12](https://github.com/starkwm/tree-sitter-skbdrc/tree/c9e8e19bb2a2a3a859d5c887bf8e77638399c709) |
+| tree-sitter-skbdrc | [2025-02-16](https://github.com/starkwm/tree-sitter-skbdrc/tree/21c5df29af0cdba9cef85a0f211d82dae543ef5a) |
 | tree-sitter-slang | [0.2.3](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.2.3) |
 | tree-sitter-slim | [2025-01-21](https://github.com/theoo/tree-sitter-slim/tree/a0f08e85b787248219ea645423c5916c8d620ef6) |
 | tree-sitter-slint | [2025-02-02](https://github.com/slint-ui/tree-sitter-slint/tree/f7d510b6a2f70ee7277135c34865c7286f597453) |
@@ -565,7 +565,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealdb | [2024-02-20](https://github.com/DariusCorvus/tree-sitter-surrealdb/tree/17a7ed4481bdaaa35a1372f3a94bc851d634a19e) |
 | tree-sitter-surrealql | [0.1.1](https://github.com/Ce11an/tree-sitter-surrealql/tree/0.1.1) |
-| tree-sitter-sus | [2025-02-10](https://github.com/pc2/sus-compiler/tree/9ea5a21c600132e0d67065364d78ca276392af8c/tree-sitter-sus) |
+| tree-sitter-sus | [2025-02-16](https://github.com/pc2/sus-compiler/tree/c75792d1f87d04217da1087c86df9691ed09f741/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
 | tree-sitter-swift | [0.7.0](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.0) |

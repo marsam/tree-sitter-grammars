@@ -694,12 +694,12 @@
     };
   };
   "tree-sitter-c3" = {
-    version = "0.2.5";
+    version = "0.3.1";
     src = fetchFromGitHub {
       owner = "c3lang";
       repo = "tree-sitter-c3";
-      rev = "v0.2.5";
-      hash = "sha256-xlvcKV0hHeH1kby2WTUYlRHtlqEg+tj/27VoFu+fhj0=";
+      rev = "v0.3.1";
+      hash = "sha256-mb803L3D5z1KXItYBMeAgVknV/Jx2VRjfzL0S1kPv20=";
     };
   };
   "tree-sitter-ca65" = {
@@ -811,12 +811,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2025-02-14";
+    version = "unstable-2025-02-17";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "ce4a6ca1f17f46cc8ed5e028ecd07240cbe90a21";
-      hash = "sha256-FaNL7boG7no/pScgSNFvsbwSkYq/UBomLnzeT3ZVm7c=";
+      rev = "a6c3e9f43af0a9058d8c20cf8e94bee61237f88d";
+      hash = "sha256-idfOTIaUoeRa+vR+PmjL2iZFOmtjqXCrzW5D6s73DVA=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1126,12 +1126,12 @@
     };
   };
   "tree-sitter-d2" = {
-    version = "0.4.2";
+    version = "0.5.1";
     src = fetchFromGitHub {
       owner = "ravsii";
       repo = "tree-sitter-d2";
-      rev = "v0.4.2";
-      hash = "sha256-KwrApBYDsDhKKdLGIAkkBPzt1psugtVkFr3USlvVFls=";
+      rev = "v0.5.1";
+      hash = "sha256-Ru+EAtnBl+Td4HxHPXLwcXOiFB/NbYPE5AhMNFyP2Kg=";
     };
   };
   "tree-sitter-dart" = {
@@ -4350,12 +4350,12 @@
     };
   };
   "tree-sitter-skbdrc" = {
-    version = "unstable-2025-02-12";
+    version = "unstable-2025-02-16";
     src = fetchFromGitHub {
       owner = "starkwm";
       repo = "tree-sitter-skbdrc";
-      rev = "c9e8e19bb2a2a3a859d5c887bf8e77638399c709";
-      hash = "sha256-LIQGjhwqavqu++u1GW8qvi2m88tWxGR7JlGP4aRp6gg=";
+      rev = "21c5df29af0cdba9cef85a0f211d82dae543ef5a";
+      hash = "sha256-0ED7nBKVL1/YhmxU97pZEb53nKr480BsRlKDDiHZaOY=";
     };
   };
   "tree-sitter-slang" = {
@@ -4665,12 +4665,12 @@
     };
   };
   "tree-sitter-sus" = {
-    version = "unstable-2025-02-10";
+    version = "unstable-2025-02-16";
     src = fetchFromGitHub {
       owner = "pc2";
       repo = "sus-compiler";
-      rev = "9ea5a21c600132e0d67065364d78ca276392af8c";
-      hash = "sha256-JxMCH+66/iX2pzPU8zpNTVs0G5+HkpmS3rNKu5Wy4rQ=";
+      rev = "c75792d1f87d04217da1087c86df9691ed09f741";
+      hash = "sha256-zX+NcNz4w085CdUUaL3YW92vQ8iaxnyDow3S6MdzqgU=";
     };
   };
   "tree-sitter-svelte" = {
