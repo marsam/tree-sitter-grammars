@@ -407,7 +407,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-jakt": Grammar("https://github.com/SerenityOS/tree-sitter-jakt"),
     "tree-sitter-janet_simple": Grammar("https://github.com/sogaiu/tree-sitter-janet-simple"),
     "tree-sitter-jelly": Grammar("https://github.com/OpenJelly/tree-sitter-jelly"),
-    "tree-sitter-jinja": Grammar("https://github.com/cathaysia/tree-sitter-jinja"), # Alternative: https://github.com/dbt-labs/tree-sitter-jinja2
+    "tree-sitter-jinja": Grammar("https://github.com/cathaysia/tree-sitter-jinja", "HEAD"), # Alternative: https://github.com/dbt-labs/tree-sitter-jinja2
     "tree-sitter-jjdescription": Grammar("https://github.com/kareigu/tree-sitter-jjdescription"),
     "tree-sitter-jq": Grammar("https://github.com/nverno/tree-sitter-jq"),  # Alternative: https://github.com/flurie/tree-sitter-jq
     "tree-sitter-jslt": Grammar("https://github.com/Kuzat/tree-sitter-jslt"),
