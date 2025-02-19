@@ -105,7 +105,8 @@ let
     // { tree-sitter-jinja_inline = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja_inline"; }; }
     // { tree-sitter-wast = grammars'.tree-sitter-wast // { location = "wast"; }; }
     // { tree-sitter-wat = grammars'.tree-sitter-wast // { location = "wat"; }; }
-    // { tree-sitter-php = grammars'.tree-sitter-php // { location = "php"; }; }
+    // { tree-sitter-php = grammars'.tree-sitter-php // { location = "php"; postPatch = "cp -av queries php/queries"; }; }
+    // { tree-sitter-php_only = grammars'.tree-sitter-php // { location = "php_only"; }; }
     // { tree-sitter-magik = grammars'.tree-sitter-magik // { fromGrammarJson = true; }; }
     // { tree-sitter-rstml = grammars'.tree-sitter-rstml // { location = "rstml"; }; }
     // { tree-sitter-rust_with_rstml = grammars'.tree-sitter-rstml // { location = "rust_with_rstml"; }; }
