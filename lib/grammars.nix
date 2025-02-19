@@ -42,7 +42,7 @@ let
     , postPatch ? null
     }:
     stdenv.mkDerivation (finalAttrs: {
-      inherit version src postPatch location;
+      inherit version src postPatch language location;
       pname = language;
 
       strictDeps = true;
@@ -55,8 +55,8 @@ let
 
       makeFlags = [
         "PREFIX=${placeholder "out"}"
-        "LANGUAGE_NAME=${language}"
-      ] ++ lib.optionals (location != null) [ "-C ${location}" ];
+        "LANGUAGE_NAME=${finalAttrs.language}"
+      ] ++ lib.optionals (finalAttrs.location != null) [ "-C ${finalAttrs.location}" ];
 
       preBuild =
         if lib.hasPrefix "unstable-" finalAttrs.version then ''
