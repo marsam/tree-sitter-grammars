@@ -134,8 +134,10 @@ let
     // { tree-sitter-ccomment = grammars'.tree-sitter-mozjs // { location = "tree-sitter-ccomment"; }; }
     // { tree-sitter-mozcpp = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozcpp"; }; }
     // { tree-sitter-preproc = grammars'.tree-sitter-mozjs // { location = "tree-sitter-preproc"; }; }
+    // { tree-sitter-catala_en = grammars'.tree-sitter-catala_en // { location = "en"; }; }
+    // { tree-sitter-catala_fr = grammars'.tree-sitter-catala_en // { location = "fr"; }; }
+    // { tree-sitter-catala_pl = grammars'.tree-sitter-catala_en // { location = "pl"; }; }
     // { tree-sitter-v = grammars'.tree-sitter-v // { location = "tree_sitter_v"; }; }
-    // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
     // { tree-sitter-epics_cmd = grammars'.tree-sitter-epics_cmd // { location = "epics-cmd"; }; }
     // { tree-sitter-epics_db = grammars'.tree-sitter-epics_cmd // { location = "epics-db"; }; }
     // { tree-sitter-epics_msi_substitution = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-substitution"; }; }
@@ -195,6 +197,17 @@ let
           sparseCheckout = [ "extensions/tree-sitter" ];
         };
         location = "extensions/tree-sitter";
+      };
+      tree-sitter-sus = {
+        version = "unstable-2025-01-20";
+        src = fetchFromGitHub {
+          owner = "pc2";
+          repo = "sus-compiler";
+          rev = "11f7f8e6e7610a1125de79750b3bbd0d2eee7f5d";
+          hash = "sha256-6Xa1FhOLLGQBlohouHfj75Ne3LgE2R9iY0EF8BA/GZ8=";
+          sparseCheckout = [ "tree-sitter-sus" ];
+        };
+        location = "tree-sitter-sus";
       };
       tree-sitter-dotvvm = {
         version = "unstable-2023-06-01";
