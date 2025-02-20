@@ -1063,12 +1063,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-02-18";
+    version = "unstable-2025-02-19";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "2947333cf7d47ce842e8df70c709deb51ee86ae5";
-      hash = "sha256-98hDMsOsyltx2kJLfDlKJDtw9YVSpjp+LiEQwfPoneY=";
+      rev = "083cbfb2ba50ecce6eda50cd4e4830a8e1a4c22e";
+      hash = "sha256-KSHOs9fbfzw/atPIXPVL81rMtzcBy8PBParixPpAZIA=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -2647,12 +2647,12 @@
     };
   };
   "tree-sitter-kamailio_cfg" = {
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchFromGitHub {
       owner = "IbrahimShahzad";
       repo = "tree-sitter-kamailio-cfg";
-      rev = "v0.1.2";
-      hash = "sha256-ufUuBEs/po0OzGwU2jGoG9XRJ4WdIUXnkB6Gb+O+6KM=";
+      rev = "v0.1.3";
+      hash = "sha256-LzJFsIq+yClSKpAqS31IzyvBCvfMmfO7cpbbVEhIMwU=";
     };
   };
   "tree-sitter-kanata" = {
@@ -3170,12 +3170,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2025-02-18";
+    version = "unstable-2025-02-19";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "5e6e3df4694fa9a3411089192d195c7bacb7e878";
-      hash = "sha256-ypIVjt5xPMTa4mSnpW7+ZkxMEAlG5wb8kzzskt/2lr0=";
+      rev = "95351bec224f1f0338b96a17c7cf422bcfc3163b";
+      hash = "sha256-B2Csuie2Ht4K9oZp5TwNrsq90kon1ytnoMw16YlKNnU=";
     };
   };
   "tree-sitter-moonscript" = {
@@ -3584,12 +3584,12 @@
     };
   };
   "tree-sitter-pascal" = {
-    version = "0.9.1";
+    version = "0.10.0";
     src = fetchFromGitHub {
       owner = "Isopod";
       repo = "tree-sitter-pascal";
-      rev = "v0.9.1";
-      hash = "sha256-IRRPkYqszq99bpDeYDs1/nShc7L/q96wTFF7g6YToeM=";
+      rev = "v0.10.0";
+      hash = "sha256-EsomDnHHpbRrPuASVl2LIP+wYOyB551fYWLcvcM0r3M=";
     };
   };
   "tree-sitter-passwd" = {

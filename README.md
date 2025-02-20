@@ -124,7 +124,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cpon | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cpon/tree/v1.0.0) |
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
-| tree-sitter-crystal | [2025-02-18](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/2947333cf7d47ce842e8df70c709deb51ee86ae5) |
+| tree-sitter-crystal | [2025-02-19](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/083cbfb2ba50ecce6eda50cd4e4830a8e1a4c22e) |
 | tree-sitter-css | [0.23.2](https://github.com/tree-sitter/tree-sitter-css/tree/v0.23.2) |
 | tree-sitter-css_in_js | [2024-06-13](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/42c61e232eadd05027c118497a04cd4acbe5d802) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -321,7 +321,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-juice | [2024-10-15](https://github.com/juicelang/tree-sitter-juice/tree/ae1a5b8b5c3c4875d1c11107ef96dc7e0c20c4b6) |
 | tree-sitter-julia | [0.23.1](https://github.com/tree-sitter/tree-sitter-julia/tree/v0.23.1) |
 | tree-sitter-just | [2025-01-05](https://github.com/IndianBoy42/tree-sitter-just/tree/bb0c898a80644de438e6efe5d88d30bf092935cd) |
-| tree-sitter-kamailio_cfg | [0.1.2](https://github.com/IbrahimShahzad/tree-sitter-kamailio-cfg/tree/v0.1.2) |
+| tree-sitter-kamailio_cfg | [0.1.3](https://github.com/IbrahimShahzad/tree-sitter-kamailio-cfg/tree/v0.1.3) |
 | tree-sitter-kanata | [2024-04-20](https://github.com/postsolar/tree-sitter-kanata/tree/a6213d06ea6efa432702bbbc6b4c5dcddc21df2a) |
 | tree-sitter-kanshi | [2024-12-09](https://github.com/marcelarie/tree-sitter-kanshi/tree/bb650b1275ba8e4e76f6ffff06cff1408a0f926f) |
 | tree-sitter-kappa | [2024-12-19](https://github.com/Spyderisk/tree-sitter-kappa/tree/45fcd46d3769f45421c2a5d9651bf8621de8ff86) |
@@ -381,7 +381,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
 | tree-sitter-mlir | [2025-02-18](https://github.com/artagnon/tree-sitter-mlir/tree/2a8476371ff4f8b9e451d702033fdf9410fc1a16) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
-| tree-sitter-moonbit | [2025-02-18](https://github.com/moonbitlang/tree-sitter-moonbit/tree/5e6e3df4694fa9a3411089192d195c7bacb7e878) |
+| tree-sitter-moonbit | [2025-02-19](https://github.com/moonbitlang/tree-sitter-moonbit/tree/95351bec224f1f0338b96a17c7cf422bcfc3163b) |
 | tree-sitter-moonscript | [2024-09-22](https://github.com/kmafeni04/tree-sitter-moonscript/tree/e4f174f5a845d5e70e79dc046c928f3f049df65b) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
@@ -431,7 +431,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ott | [2024-08-10](https://github.com/armonjam/tree-sitter-ott/tree/67df80de360e04efde264508ec496916e3ddbd4c) |
 | tree-sitter-owl_ms | [2025-02-13](https://github.com/janekx21/tree-sitter-owl-ms/tree/e380af981f90a9f4985fbaf737897e84745502a7) |
 | tree-sitter-pactum | [2025-01-10](https://github.com/pactbuf/tree-sitter-pactum/tree/654ea221f79e2dbbcefade40d5b468440ac5d2a6) |
-| tree-sitter-pascal | [0.9.1](https://github.com/Isopod/tree-sitter-pascal/tree/v0.9.1) |
+| tree-sitter-pascal | [0.10.0](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.0) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |
 | tree-sitter-perl | [2025-02-11](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/bb53f204aa3e7507960014642965c9f9a9e84b1d) |
