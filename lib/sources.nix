@@ -1207,12 +1207,12 @@
     };
   };
   "tree-sitter-devicetree" = {
-    version = "0.12.1";
+    version = "0.13.0";
     src = fetchFromGitHub {
       owner = "joelspadin";
       repo = "tree-sitter-devicetree";
-      rev = "v0.12.1";
-      hash = "sha256-UVxLF4IKRXexz+PbSlypS/1QsWXkS/iYVbgmFCgjvZM=";
+      rev = "v0.13.0";
+      hash = "sha256-jK8e52b/VBVKf8DnoIUKF6EFKiX8bMp8hYp0+TYzy2o=";
     };
   };
   "tree-sitter-dezyne" = {
@@ -2652,7 +2652,7 @@
       owner = "IbrahimShahzad";
       repo = "tree-sitter-kamailio-cfg";
       rev = "v0.1.3";
-      hash = "sha256-LzJFsIq+yClSKpAqS31IzyvBCvfMmfO7cpbbVEhIMwU=";
+      hash = "sha256-J38eHe4B5LeCgk5mWswtLDHItOUfxHoiCB2O5CBiS+I=";
     };
   };
   "tree-sitter-kanata" = {
@@ -3449,12 +3449,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-02-15";
+    version = "unstable-2025-02-22";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "2a153c88d5d44d96653057c7cc14292f4e641bef";
-      hash = "sha256-Mv4XxJSO0bLF/JB6U5WCtu6sXqW6T6tOTKzsbnc/zcs=";
+      rev = "3673f18a834a75c655d14ed529bda5cb059e884e";
+      hash = "sha256-uMhkCkIpbwMmmSKRaLF234KFl22WKrFf1zsEGbfgCyM=";
     };
   };
   "tree-sitter-numbat" = {
@@ -3548,12 +3548,12 @@
     };
   };
   "tree-sitter-org" = {
-    version = "1.3.2";
+    version = "1.3.4";
     src = fetchFromGitHub {
       owner = "nvim-orgmode";
       repo = "tree-sitter-org";
-      rev = "v1.3.2";
-      hash = "sha256-kYjNQ2VLGciGLDqFEY0Bv+njPtgUlVhtKFjUupfyLfg=";
+      rev = "1.3.4";
+      hash = "sha256-mSyD1L/fpwsUh9O6IbmvjiGLblRMPbRR91ZkOvdmlSI=";
     };
   };
   "tree-sitter-ott" = {

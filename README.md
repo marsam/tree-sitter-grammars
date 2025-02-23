@@ -142,7 +142,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
 | tree-sitter-desktop | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v0.1.1) |
-| tree-sitter-devicetree | [0.12.1](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.12.1) |
+| tree-sitter-devicetree | [0.13.0](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.13.0) |
 | tree-sitter-dezyne | [2025-02-17](https://github.com/j0ran/tree-sitter-dezyne/tree/d69df1ea7de1b9f632f7f6ed1a40c02c75002691) |
 | tree-sitter-dhall | [0.2.0](https://github.com/jbellerb/tree-sitter-dhall/tree/0.2.0) |
 | tree-sitter-dialogue | [2025-02-03](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/091bf1ff645d483bf85fdbbd5bd938ff19d12c74) |
@@ -413,7 +413,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
 | tree-sitter-npf | [2025-02-17](https://github.com/ntyunyayev/tree-sitter-npf/tree/ea05f09ead0af235a70a735888b169a9e3e2180b) |
 | tree-sitter-nqc | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-nqc/tree/v1.0.0) |
-| tree-sitter-nu | [2025-02-15](https://github.com/nushell/tree-sitter-nu/tree/2a153c88d5d44d96653057c7cc14292f4e641bef) |
+| tree-sitter-nu | [2025-02-22](https://github.com/nushell/tree-sitter-nu/tree/3673f18a834a75c655d14ed529bda5cb059e884e) |
 | tree-sitter-numbat | [2024-04-04](https://github.com/irevoire/tree-sitter-numbat/tree/b4dd180397cad0638abbf18b54e354ea43276f46) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
@@ -427,7 +427,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-onyx | [2024-06-25](https://github.com/brendanfh/tree-sitter-onyx/tree/4aafe1df4f7c06af39a68116a4ec61e20076b3a4) |
 | tree-sitter-opencl | [2023-03-30](https://github.com/lefp/tree-sitter-opencl/tree/8e1d24a57066b3cd1bb9685bbc1ca9de5c1b78fb) |
 | tree-sitter-openscad | [0.5.1](https://github.com/openscad/tree-sitter-openscad/tree/v0.5.1) |
-| tree-sitter-org | [1.3.2](https://github.com/nvim-orgmode/tree-sitter-org/tree/v1.3.2) |
+| tree-sitter-org | [1.3.4](https://github.com/nvim-orgmode/tree-sitter-org/tree/1.3.4) |
 | tree-sitter-ott | [2024-08-10](https://github.com/armonjam/tree-sitter-ott/tree/67df80de360e04efde264508ec496916e3ddbd4c) |
 | tree-sitter-owl_ms | [2025-02-13](https://github.com/janekx21/tree-sitter-owl-ms/tree/e380af981f90a9f4985fbaf737897e84745502a7) |
 | tree-sitter-pactum | [2025-01-10](https://github.com/pactbuf/tree-sitter-pactum/tree/654ea221f79e2dbbcefade40d5b468440ac5d2a6) |
