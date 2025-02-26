@@ -142,7 +142,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
 | tree-sitter-desktop | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v0.1.1) |
-| tree-sitter-devicetree | [0.13.0](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.13.0) |
+| tree-sitter-devicetree | [0.14.1](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.14.1) |
 | tree-sitter-dezyne | [2025-02-17](https://github.com/j0ran/tree-sitter-dezyne/tree/d69df1ea7de1b9f632f7f6ed1a40c02c75002691) |
 | tree-sitter-dhall | [0.2.0](https://github.com/jbellerb/tree-sitter-dhall/tree/0.2.0) |
 | tree-sitter-dialogue | [2025-02-03](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/091bf1ff645d483bf85fdbbd5bd938ff19d12c74) |
@@ -360,7 +360,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
 | tree-sitter-lx | [2024-12-19](https://github.com/curist/tree-sitter-lx/tree/31b9ef54ce48a10c070918c73ea8bbfc53648c68) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2025-02-24](https://github.com/krn-robin/tree-sitter-magik/tree/c60c42a9001f49ef808941b117d158bb334a6170) |
+| tree-sitter-magik | [2025-02-25](https://github.com/krn-robin/tree-sitter-magik/tree/6b65a2999dae9e338a8f0fedb1a0be6ca6a75eae) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -535,7 +535,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-selinux | [2024-04-26](https://github.com/mdmfernandes/tree-sitter-selinux/tree/e13c6cdbe05845c0e9379c6937b59d7424e9ece3) |
 | tree-sitter-semver | [0.0.1](https://github.com/uselessscat/tree-sitter-semver/tree/0.0.1) |
 | tree-sitter-shosts | [2025-01-15](https://github.com/Smart-Hosts/tree-sitter-shosts/tree/0b62b6e0fddb6ee7ac6940bbc967fa1956233c60) |
-| tree-sitter-skbdrc | [2025-02-25](https://github.com/starkwm/tree-sitter-skbdrc/tree/4c3936e11a1002bfef0c5f2090b05196e5748ba6) |
+| tree-sitter-skbdrc | [2025-02-25](https://github.com/starkwm/tree-sitter-skbdrc/tree/0436b5573bd1e4ee49bef4e08966486d72d4a221) |
 | tree-sitter-slang | [0.2.3](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.2.3) |
 | tree-sitter-slim | [2025-01-21](https://github.com/theoo/tree-sitter-slim/tree/a0f08e85b787248219ea645423c5916c8d620ef6) |
 | tree-sitter-slint | [2025-02-18](https://github.com/slint-ui/tree-sitter-slint/tree/54d458da4aa82bcaa35d9e25b48bd10e11f1fa52) |
@@ -569,7 +569,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-streamdevice_proto | [2024-10-29](https://github.com/epics-extensions/tree-sitter-epics/tree/693df55b52d286a32709512c189cde0ccc7b1cae/streamdevice-proto) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
 | tree-sitter-structurizr | [2025-01-17](https://github.com/josteink/tree-sitter-structurizr/tree/f4e73672df094d424b5f9353931258238bc54a9e) |
-| tree-sitter-styled | [2024-12-01](https://github.com/mskelton/tree-sitter-styled/tree/75d3ad20818c30c49b445ca2cb35999c278b3453) |
+| tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
 | tree-sitter-supercollider | [0.2.8](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.2.8) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealdb | [2024-02-20](https://github.com/DariusCorvus/tree-sitter-surrealdb/tree/17a7ed4481bdaaa35a1372f3a94bc851d634a19e) |
