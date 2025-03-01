@@ -137,7 +137,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
 | tree-sitter-d2 | [0.5.1](https://github.com/ravsii/tree-sitter-d2/tree/v0.5.1) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
-| tree-sitter-dart | [2024-11-17](https://github.com/UserNobody14/tree-sitter-dart/tree/e81af6ab94a728ed99c30083be72d88e6d56cf9e) |
+| tree-sitter-dart | [2025-02-28](https://github.com/UserNobody14/tree-sitter-dart/tree/80e23c07b64494f7e21090bb3450223ef0b192f4) |
 | tree-sitter-datazinc | [2025-02-12](https://github.com/shackle-rs/shackle/tree/ea57e6924fef6505f961fa8b8736e53e43b98c06/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
@@ -228,7 +228,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gherkin | [2025-02-27](https://github.com/binhtran432k/tree-sitter-gherkin/tree/1a709aebeecbe81bd70dfd6ea784894844be1511) |
 | tree-sitter-ghostty | [1.1](https://github.com/bezhermoso/tree-sitter-ghostty/tree/1.1) |
 | tree-sitter-git_commit | [2023-08-04](https://github.com/the-mikedavis/tree-sitter-git-commit/tree/6f193a66e9aa872760823dff020960c6cedc37b3) |
-| tree-sitter-git_config | [2025-02-24](https://github.com/the-mikedavis/tree-sitter-git-config/tree/7edc5af4f7221a8754e705a3235654d1db5d1f72) |
+| tree-sitter-git_config | [2025-02-28](https://github.com/the-mikedavis/tree-sitter-git-config/tree/6d0ed53decd9d9374913fb7e49ec1ff278de71b3) |
 | tree-sitter-git_merge_conflict | [1.0.0](https://github.com/pv-hernandez/tree-sitter-git-merge-conflict/tree/v1.0.0) |
 | tree-sitter-git_rebase | [2024-07-22](https://github.com/the-mikedavis/tree-sitter-git-rebase/tree/bff4b66b44b020d918d67e2828eada1974a966aa) |
 | tree-sitter-gitattributes | [0.1.6](https://github.com/tree-sitter-grammars/tree-sitter-gitattributes/tree/v0.1.6) |
@@ -379,7 +379,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-meson | [1.2.1](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/1.2.1) |
 | tree-sitter-minizinc | [2025-02-12](https://github.com/shackle-rs/shackle/tree/ea57e6924fef6505f961fa8b8736e53e43b98c06/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
-| tree-sitter-mlir | [2025-02-21](https://github.com/artagnon/tree-sitter-mlir/tree/ad381783044e107ce144af3c36342cc34183d5b4) |
+| tree-sitter-mlir | [2025-02-28](https://github.com/artagnon/tree-sitter-mlir/tree/855130574db8f33521be163368973c4e2e6dda55) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-02-24](https://github.com/moonbitlang/tree-sitter-moonbit/tree/acf5a72a019c14317cded1bf1daff54c60c7cff4) |
 | tree-sitter-moonscript | [2024-09-22](https://github.com/kmafeni04/tree-sitter-moonscript/tree/e4f174f5a845d5e70e79dc046c928f3f049df65b) |
@@ -427,7 +427,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-onyx | [2024-06-25](https://github.com/brendanfh/tree-sitter-onyx/tree/4aafe1df4f7c06af39a68116a4ec61e20076b3a4) |
 | tree-sitter-opencl | [2023-03-30](https://github.com/lefp/tree-sitter-opencl/tree/8e1d24a57066b3cd1bb9685bbc1ca9de5c1b78fb) |
 | tree-sitter-openscad | [0.5.1](https://github.com/openscad/tree-sitter-openscad/tree/v0.5.1) |
-| tree-sitter-org | [1.3.4](https://github.com/nvim-orgmode/tree-sitter-org/tree/1.3.4) |
+| tree-sitter-org | [2.0.0](https://github.com/nvim-orgmode/tree-sitter-org/tree/2.0.0) |
 | tree-sitter-ott | [2024-08-10](https://github.com/armonjam/tree-sitter-ott/tree/67df80de360e04efde264508ec496916e3ddbd4c) |
 | tree-sitter-owl_ms | [2025-02-13](https://github.com/janekx21/tree-sitter-owl-ms/tree/e380af981f90a9f4985fbaf737897e84745502a7) |
 | tree-sitter-pactum | [2025-01-10](https://github.com/pactbuf/tree-sitter-pactum/tree/654ea221f79e2dbbcefade40d5b468440ac5d2a6) |
@@ -584,7 +584,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-syphon | [2024-11-15](https://github.com/syphon-lang/tree-sitter-syphon/tree/16b2698841e0854dc1c13d8257f62618a954c7fd) |
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
-| tree-sitter-systemverilog | [2024-12-24](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/15fbf73dafaffc89050d247857beb27500ea30e8) |
+| tree-sitter-systemverilog | [2025-02-28](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/3251f8cee388314ed425c5e5da2021113f0b6afb) |
 | tree-sitter-t32 | [5.4.1](https://codeberg.org/xasc/tree-sitter-t32/src/v5.4.1) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.5.2](https://github.com/tact-lang/tree-sitter-tact/tree/v1.5.2) |
@@ -619,7 +619,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-turtle | [0.1.0](https://github.com/GordianDziwis/tree-sitter-turtle/tree/0.1.0) |
 | tree-sitter-twig | [1.0.2](https://github.com/gbprod/tree-sitter-twig/tree/v1.0.2) |
 | tree-sitter-typescript | [0.23.2](https://github.com/tree-sitter/tree-sitter-typescript/tree/v0.23.2/typescript) |
-| tree-sitter-typespec | [2024-12-10](https://github.com/happenslol/tree-sitter-typespec/tree/42fb163442ef2691b9b720fb4e4e846809415d18) |
+| tree-sitter-typespec | [2025-02-28](https://github.com/happenslol/tree-sitter-typespec/tree/cfcf94c59a020c9be8312424d910553956d975cb) |
 | tree-sitter-typoscript | [0.0.3](https://github.com/Teddytrombone/tree-sitter-typoscript/tree/v0.0.3) |
 | tree-sitter-typst | [0.11.0](https://github.com/uben0/tree-sitter-typst/tree/v0.11.0) |
 | tree-sitter-udev | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-udev/tree/v0.2.1) |
