@@ -34,7 +34,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.3.1](https://github.com/s-ol/tree-sitter-alv/tree/v0.3.1) |
 | tree-sitter-amber | [2024-10-25](https://github.com/amber-lang/tree-sitter-amber/tree/c6df3ec2ec243ed76550c525e7ac3d9a10c6c814) |
-| tree-sitter-angular | [0.5.0](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.5.0) |
+| tree-sitter-angular | [0.5.1](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.5.1) |
 | tree-sitter-aotcl | [2024-10-02](https://github.com/NexushasTaken/tree-sitter-aotcl/tree/753532e19d4d4ad7ec143af0fb9af528a7c597e6) |
 | tree-sitter-apachesynapse | [2024-01-02](https://github.com/DaAlbrecht/tree-sitter-apachesynapse/tree/e125e0f6d40bdacbe6bcca05aff4f4145fcacdc4) |
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
@@ -385,7 +385,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
 | tree-sitter-mlir | [2025-03-05](https://github.com/artagnon/tree-sitter-mlir/tree/c7c62f37a8612a897d25906d93363fec36c1591c) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
-| tree-sitter-moonbit | [2025-03-02](https://github.com/moonbitlang/tree-sitter-moonbit/tree/836e9369e5f7b824d4695f607bd2c98af351ea4f) |
+| tree-sitter-moonbit | [2025-03-06](https://github.com/moonbitlang/tree-sitter-moonbit/tree/fcdcb3d7366a1cf3a31f4af54705da909eb391f8) |
 | tree-sitter-moonscript | [2024-09-22](https://github.com/kmafeni04/tree-sitter-moonscript/tree/e4f174f5a845d5e70e79dc046c928f3f049df65b) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
@@ -430,7 +430,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ohm | [2024-03-24](https://github.com/novusnota/tree-sitter-ohm/tree/8b77e85eecd5597831bd8827f14a3a4fbc4a1337) |
 | tree-sitter-onyx | [2024-06-25](https://github.com/brendanfh/tree-sitter-onyx/tree/4aafe1df4f7c06af39a68116a4ec61e20076b3a4) |
 | tree-sitter-opencl | [2023-03-30](https://github.com/lefp/tree-sitter-opencl/tree/8e1d24a57066b3cd1bb9685bbc1ca9de5c1b78fb) |
-| tree-sitter-openscad | [0.5.1](https://github.com/openscad/tree-sitter-openscad/tree/v0.5.1) |
+| tree-sitter-openscad | [0.6.0](https://github.com/openscad/tree-sitter-openscad/tree/v0.6.0) |
 | tree-sitter-org | [2.0.0](https://github.com/nvim-orgmode/tree-sitter-org/tree/2.0.0) |
 | tree-sitter-ott | [2024-08-10](https://github.com/armonjam/tree-sitter-ott/tree/67df80de360e04efde264508ec496916e3ddbd4c) |
 | tree-sitter-owl_ms | [2025-02-13](https://github.com/janekx21/tree-sitter-owl-ms/tree/e380af981f90a9f4985fbaf737897e84745502a7) |
@@ -633,7 +633,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-umka | [2024-06-15](https://github.com/thacuber2a03/tree-sitter-umka/tree/f2588765c45d7f5099d53cf34b46883f31407ff2) |
 | tree-sitter-ungrammar | [2023-02-28](https://github.com/tree-sitter-grammars/tree-sitter-ungrammar/tree/debd26fed283d80456ebafa33a06957b0c52e451) |
 | tree-sitter-unifieddiff | [2022-12-23](https://github.com/monaqa/tree-sitter-unifieddiff/tree/d4556131c279d73961943a2ebf878198ab7976a6) |
-| tree-sitter-unison | [2024-11-07](https://github.com/kylegoetz/tree-sitter-unison/tree/3c97db76d3cdbd002dfba493620c2d5df2fd6fa9) |
+| tree-sitter-unison | [2025-03-06](https://github.com/kylegoetz/tree-sitter-unison/tree/169e7f748a540ec360c0cb086b448faad012caa4) |
 | tree-sitter-uri | [2023-11-15](https://github.com/atusy/tree-sitter-uri/tree/b2d3e37e95166c5d5075526015478a990d24a241) |
 | tree-sitter-ursa | [1.0.24](https://github.com/ursalang/tree-sitter-ursa/tree/v1.0.24) |
 | tree-sitter-usd | [0.6.0](https://github.com/ColinKennedy/tree-sitter-usd/tree/v0.6.0) |
