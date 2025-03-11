@@ -49,6 +49,10 @@ class Forge(Protocol):
         """Return a tuple with the information of the latest commit in a branch."""
         ...
 
+    def fetch_commit(self, commit: str) -> tuple[str, datetime]:
+        """Return a tuple with the information of a commit."""
+        ...
+
 
 class Grammar(NamedTuple):
     url: str
@@ -57,7 +61,7 @@ class Grammar(NamedTuple):
     Currently GitHub and CodeBerg are supported.
     """
 
-    spec: str | tuple[Literal["branch"] | Literal["tag"], str] | None = None
+    spec: str | tuple[Literal["branch"] | Literal["commit"] | Literal["tag"], str] | None = None
     """
     Revision to fetch.
     It can have the following values::
@@ -108,6 +112,9 @@ class Grammar(NamedTuple):
                 return tag.removeprefix("v"), forge.fetcher(tag)
             case ("branch", branch):
                 revision, date = forge.latest_branch_commit(branch)
+                return self.version or f"unstable-{date.date()}", forge.fetcher(revision)
+            case ("commit", commit):
+                revision, date = forge.fetch_commit(commit)
                 return self.version or f"unstable-{date.date()}", forge.fetcher(revision)
             case _:
                 raise NotImplementedError(f"Unknown revision: {self.spec=}")
@@ -844,6 +851,29 @@ class GitHub:
         date = datetime.fromisoformat(commits[0]["node"]["committedDate"])
         return sha, date
 
+    def fetch_commit(self, commit: str) -> tuple[str, datetime]:
+        json = self.graphql_request(f"""
+          {{
+            repository(owner: "{self.owner}", name: "{self.repo}") {{
+              nameWithOwner
+              object(oid: "{commit}") {{
+                ... on Commit {{
+                  oid
+                  committedDate
+                }}
+              }}
+            }}
+          }}
+        """)
+        repository: dict[str, Any] | None = json["data"]["repository"]
+        if repository is None:
+            raise RuntimeError(f"GitHub repository {self.name} not found")
+        self.check_rename(repository["nameWithOwner"])
+        obj: dict[str, str] = repository["object"]
+        sha = obj["oid"]
+        date = datetime.fromisoformat(obj["committedDate"])
+        return sha, date
+
     def latest_branch_commit(self, branch: str) -> tuple[str, datetime]:
         json = self.graphql_request(f"""
           {{
@@ -923,6 +953,9 @@ class GitLab:
     def latest_branch_commit(self, branch: str) -> Never:
         raise NotImplementedError
 
+    def fetch_commit(self, commit: str) -> Never:
+        raise NotImplementedError
+
 
 class CodeBerg:
     def __init__(self, owner: str, repo: str, session: HTTPSession) -> None:
@@ -963,6 +996,9 @@ class CodeBerg:
         return response.json()
 
     def latest_branch_commit(self, branch: str) -> Never:
+        raise NotImplementedError
+
+    def fetch_commit(self, commit: str) -> Never:
         raise NotImplementedError
 
 
