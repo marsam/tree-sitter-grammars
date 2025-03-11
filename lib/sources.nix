@@ -4252,12 +4252,12 @@
     };
   };
   "tree-sitter-roc" = {
-    version = "unstable-2025-03-10";
+    version = "unstable-2025-02-03";
     src = fetchFromGitHub {
       owner = "faldor20";
       repo = "tree-sitter-roc";
-      rev = "32e20cb1133a5a189f986c3b5df47ac730fbee3d";
-      hash = "sha256-kBuVTL2elBM398Il6t8WuzUu4MrL9md+NEtVy7EGkdE=";
+      rev = "3292b071b2574e71a9fcf66b2cc6e3092daa39f4";
+      hash = "sha256-wubBZthcKKXXegZa8f1gmREsiNhKH4OQGa9xR2bkrwM=";
     };
   };
   "tree-sitter-ron" = {

@@ -598,7 +598,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-rnoweb": Grammar("https://github.com/bamonroe/tree-sitter-rnoweb"),
     "tree-sitter-robot": Grammar("https://github.com/Hubro/tree-sitter-robot"),
     "tree-sitter-robots": Grammar("https://github.com/opa-oz/tree-sitter-robots-txt"),
-    "tree-sitter-roc": Grammar("https://github.com/faldor20/tree-sitter-roc"),
+    "tree-sitter-roc": Grammar("https://github.com/faldor20/tree-sitter-roc", ("commit", "3292b071b2574e71a9fcf66b2cc6e3092daa39f4")), # The next commit includes build/, which somehow makes the fetcher fail
     "tree-sitter-ron": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ron"),
     "tree-sitter-rpmspec": Grammar("https://gitlab.com/cryptomilk/tree-sitter-rpmspec"),
     "tree-sitter-rslox": Grammar("https://github.com/boycgit/tree-sitter-rslox"),
