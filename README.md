@@ -69,7 +69,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-blame | [0.0.1](https://github.com/github/codeql/tree/codeql-cli/v2.20.4/ql/buramu/tree-sitter-blame) |
 | tree-sitter-blom | [2025-01-08](https://github.com/xhyrom-utils/tree-sitter-blom/tree/fdd9a62978f33ee35ca70b90dc6a5b1c998d3d8c) |
 | tree-sitter-blueprint | [2024-04-28](https://gitlab.com/gabmus/tree-sitter-blueprint//tree/60ba73739c6083c693d86a1a7cf039c07eb4ed59) |
-| tree-sitter-bp | [0.5.0](https://github.com/ambroisie/tree-sitter-bp/tree/v0.5.0) |
+| tree-sitter-bp | [0.6.0](https://github.com/ambroisie/tree-sitter-bp/tree/v0.6.0) |
 | tree-sitter-bqn | [0.3.2](https://github.com/shnarazk/tree-sitter-bqn/tree/v0.3.2) |
 | tree-sitter-branescript | [2024-11-02](https://github.com/DanielVoogsgerd/treesitter-branescript/tree/c293852df20288952d5b65197670dfb0fe2cabcc) |
 | tree-sitter-breaker | [2024-04-30](https://github.com/mielpeeters/tree-sitter-breaker/tree/8c61b9633dcc08d7841bc399a7280ba5f8506607) |
@@ -312,8 +312,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-java | [0.23.5](https://github.com/tree-sitter/tree-sitter-java/tree/v0.23.5) |
 | tree-sitter-javascript | [0.23.1](https://github.com/tree-sitter/tree-sitter-javascript/tree/v0.23.1) |
 | tree-sitter-jelly | [0.1](https://github.com/OpenJelly/tree-sitter-jelly/tree/0.1) |
-| tree-sitter-jinja | [2025-03-11](https://github.com/cathaysia/tree-sitter-jinja/tree/dd2c42ea360b7e4b6c6fb809494203ae251e1c87/tree-sitter-jinja) |
-| tree-sitter-jinja_inline | [2025-03-11](https://github.com/cathaysia/tree-sitter-jinja/tree/dd2c42ea360b7e4b6c6fb809494203ae251e1c87/tree-sitter-jinja_inline) |
+| tree-sitter-jinja | [2025-03-12](https://github.com/cathaysia/tree-sitter-jinja/tree/9af6ce9380fabd3d5b19d0254b8c8936e879c471/tree-sitter-jinja) |
+| tree-sitter-jinja_inline | [2025-03-12](https://github.com/cathaysia/tree-sitter-jinja/tree/9af6ce9380fabd3d5b19d0254b8c8936e879c471/tree-sitter-jinja_inline) |
 | tree-sitter-jjdescription | [2025-02-20](https://github.com/kareigu/tree-sitter-jjdescription/tree/1613b8c85b6ead48464d73668f39910dcbb41911) |
 | tree-sitter-jq | [1.0.0](https://github.com/nverno/tree-sitter-jq/tree/v1.0.0) |
 | tree-sitter-jsdoc | [0.23.2](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.23.2) |
@@ -638,7 +638,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ursa | [1.0.24](https://github.com/ursalang/tree-sitter-ursa/tree/v1.0.24) |
 | tree-sitter-usd | [0.6.0](https://github.com/ColinKennedy/tree-sitter-usd/tree/v0.6.0) |
 | tree-sitter-uxntal | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-uxntal/tree/v1.0.0) |
-| tree-sitter-v | [0.0.6](https://github.com/vlang/v-analyzer/tree/0.0.6/tree_sitter_v) |
+| tree-sitter-v | [nightly](https://github.com/vlang/v-analyzer/tree/nightly/tree_sitter_v) |
 | tree-sitter-vala | [2024-10-29](https://github.com/vala-lang/tree-sitter-vala/tree/97e6db3c8c73b15a9541a458d8e797a07f588ef4) |
 | tree-sitter-vcard | [0.1.0](https://github.com/TitouanReal/tree-sitter-vcard/tree/0.1.0) |
 | tree-sitter-vento | [2024-12-30](https://github.com/ventojs/tree-sitter-vento/tree/3b32474bc29584ea214e4e84b47102408263fe0e) |
@@ -675,7 +675,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-xml | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-xml/tree/v0.7.0/xml) |
 | tree-sitter-xresources | [0.1.2](https://github.com/ValdezFOmar/tree-sitter-xresources/tree/v0.1.2) |
 | tree-sitter-xtc | [2024-04-15](https://github.com/Alexis-Lapierre/tree-sitter-xtc/tree/7bc11b736250c45e25cfb0215db2f8393779957e) |
-| tree-sitter-yadl | [2024-12-20](https://github.com/DeSc1998/tree-sitter-yadl/tree/2e7ff243c32c0e2d63f39d3cfe6c43220e6f2ae9) |
+| tree-sitter-yadl | [2025-03-12](https://github.com/DeSc1998/tree-sitter-yadl/tree/a8dd3df53ac21a936aafac9e0c09a95900c5a66b) |
 | tree-sitter-yaml | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-yaml/tree/v0.7.0) |
 | tree-sitter-yang | [2022-11-21](https://github.com/Hubro/tree-sitter-yang/tree/2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502) |
 | tree-sitter-yap | [2024-11-28](https://github.com/vscosta/tree-sitter-yap/tree/1eeb4630494ad9844c95e25fdbb1f1b2a2369f79) |
