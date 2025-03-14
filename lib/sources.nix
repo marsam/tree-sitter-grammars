@@ -288,15 +288,6 @@
       hash = "sha256-gYEtTjjy8qClYg4+ZnKwNUWMxKTc3sUXQdsVCwB7H6w=";
     };
   };
-  "tree-sitter-aidl" = {
-    version = "unstable-2024-03-16";
-    src = fetchFromGitHub {
-      owner = "AndroidIDEOfficial";
-      repo = "tree-sitter-aidl";
-      rev = "76999e068fab22487e50111baaf0e160a3e953b8";
-      hash = "sha256-PcRD1ry/nzMI3heoNfEiGZNVexuDqe5lXQ5OSm7oLcs=";
-    };
-  };
   "tree-sitter-aiken" = {
     version = "unstable-2024-08-12";
     src = fetchFromGitHub {
@@ -358,15 +349,6 @@
       repo = "tree-sitter-angular";
       rev = "v0.5.1";
       hash = "sha256-ZYBmTu6wNDBMBE/nFrNZdNX2o4uG+4wFIA1XBT4rgCA=";
-    };
-  };
-  "tree-sitter-aotcl" = {
-    version = "unstable-2024-10-02";
-    src = fetchFromGitHub {
-      owner = "NexushasTaken";
-      repo = "tree-sitter-aotcl";
-      rev = "753532e19d4d4ad7ec143af0fb9af528a7c597e6";
-      hash = "sha256-VScrKzh7MR1+Zq9toDPjZESv9J2yzSs6ueA6P1iN1gs=";
     };
   };
   "tree-sitter-apachesynapse" = {
@@ -882,15 +864,6 @@
       hash = "sha256-U3RY6puadyG4foZVP+1JTI8d1nXUlJ24Q/iiczsxTvc=";
     };
   };
-  "tree-sitter-cicada" = {
-    version = "unstable-2023-12-20";
-    src = fetchFromGitHub {
-      owner = "Cicada-Software";
-      repo = "tree-sitter-cicada";
-      rev = "813272eb6f192b2ee8f7dc9fbaf0b083afef3061";
-      hash = "sha256-mU10SpqYhsu1VDoV7w+XixdhXxJX3pwKOydUVrUpT0w=";
-    };
-  };
   "tree-sitter-circom" = {
     version = "unstable-2024-09-09";
     src = fetchFromGitHub {
@@ -1285,15 +1258,6 @@
       repo = "tree-sitter-disassembly";
       rev = "1.3.1";
       hash = "sha256-IM3HzOhJmbb334PZ8q+r2EMi5Bv/rLoy+llPN0aghr8=";
-    };
-  };
-  "tree-sitter-ditto" = {
-    version = "unstable-2023-01-13";
-    src = fetchFromGitHub {
-      owner = "ditto-lang";
-      repo = "tree-sitter-ditto";
-      rev = "8ef1dd94a722c846cf5f3538bc610cdda8a57a74";
-      hash = "sha256-5mZ6Hxj4/Gb4gislf9S9hI6vbNJRnYwyXagXrH6DN6k=";
     };
   };
   "tree-sitter-djot" = {
@@ -4204,15 +4168,6 @@
       repo = "tree-sitter-risor";
       rev = "bec6f2e385597d0cae55b38f54515eee5f0ebffd";
       hash = "sha256-MoFiGk88tvGBAczqKjJ1UaGyWUDtqjr75hUuSrVndFI=";
-    };
-  };
-  "tree-sitter-river" = {
-    version = "unstable-2023-11-22";
-    src = fetchFromGitHub {
-      owner = "grafana";
-      repo = "tree-sitter-river";
-      rev = "eafcdc5147f985fea120feb670f1df7babb2f79e";
-      hash = "sha256-fhuIO++hLr5DqqwgFXgg8QGmcheTpYaYLMo7117rjyk=";
     };
   };
   "tree-sitter-rnc" = {
