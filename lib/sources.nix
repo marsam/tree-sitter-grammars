@@ -5207,15 +5207,6 @@
       hash = "sha256-9iZs/4Fz5OlnvdsoF6i5LAczQXSKTQlbAzh600zmfGk=";
     };
   };
-  "tree-sitter-v" = {
-    version = "nightly";
-    src = fetchFromGitHub {
-      owner = "vlang";
-      repo = "v-analyzer";
-      rev = "nightly";
-      hash = "sha256-sKD4CoClychNS5B6JmnGCPLiNxWbOLt0t2PV30mvjoI=";
-    };
-  };
   "tree-sitter-vala" = {
     version = "unstable-2024-10-29";
     src = fetchFromGitHub {

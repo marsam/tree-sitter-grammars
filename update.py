@@ -290,7 +290,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-envy": Grammar("https://github.com/envyhq/envy"),
     "tree-sitter-epics_cmd": Grammar("https://github.com/epics-extensions/tree-sitter-epics"),
     "tree-sitter-epscript": Grammar("https://github.com/zuhanit/tree-sitter-epscript"),
-    "tree-sitter-erlang": Grammar("https://github.com/WhatsApp/tree-sitter-erlang"),  # Alternative https://github.com/the-mikedavis/tree-sitter-erlang
+    "tree-sitter-erlang": Grammar("https://github.com/WhatsApp/tree-sitter-erlang", "HEAD"),  # Alternative https://github.com/the-mikedavis/tree-sitter-erlang
     "tree-sitter-esdl": Grammar("https://github.com/matoous/tree-sitter-esdl"),
     "tree-sitter-esl": Grammar("https://github.com/NSSAC/tree-sitter-esl"),
     "tree-sitter-eu4mod": Grammar("https://github.com/Coyote-31/tree-sitter-eu4mod"),
@@ -635,7 +635,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-sql": Grammar("https://github.com/DerekStride/tree-sitter-sql"),
     "tree-sitter-sql_bigquery": Grammar("https://github.com/takegue/tree-sitter-sql-bigquery"),
     "tree-sitter-squirrel": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-squirrel"),
-    "tree-sitter-ssh_client_config": Grammar("https://github.com/metio/tree-sitter-ssh-client-config", ("tag", "2025.1.9")),  # FIXME(marsam): later versions yield different hash on Darwin
+    "tree-sitter-ssh_client_config": Grammar("https://github.com/metio/tree-sitter-ssh-client-config"),
     "tree-sitter-ssh_config": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ssh-config"),
     "tree-sitter-st": Grammar("https://github.com/bortech/tree-sitter-st"),
     "tree-sitter-stan": Grammar("https://github.com/WardBrian/tree-sitter-stan"),
@@ -702,7 +702,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-ursa": Grammar("https://github.com/ursalang/tree-sitter-ursa"),
     "tree-sitter-usd": Grammar("https://github.com/ColinKennedy/tree-sitter-usd"),
     "tree-sitter-uxntal": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-uxntal"),
-    "tree-sitter-v": Grammar("https://github.com/vlang/v-analyzer"),
     "tree-sitter-vala": Grammar("https://github.com/vala-lang/tree-sitter-vala"),
     "tree-sitter-vcard": Grammar("https://github.com/TitouanReal/tree-sitter-vcard"),
     "tree-sitter-vento": Grammar("https://github.com/ventojs/tree-sitter-vento"),

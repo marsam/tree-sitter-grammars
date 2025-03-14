@@ -138,7 +138,6 @@ let
     // { tree-sitter-catala_en = grammars'.tree-sitter-catala_en // { location = "en"; }; }
     // { tree-sitter-catala_fr = grammars'.tree-sitter-catala_en // { location = "fr"; }; }
     // { tree-sitter-catala_pl = grammars'.tree-sitter-catala_en // { location = "pl"; }; }
-    // { tree-sitter-v = grammars'.tree-sitter-v // { location = "tree_sitter_v"; }; }
     // { tree-sitter-epics_cmd = grammars'.tree-sitter-epics_cmd // { location = "epics-cmd"; }; }
     // { tree-sitter-epics_db = grammars'.tree-sitter-epics_cmd // { location = "epics-db"; }; }
     // { tree-sitter-epics_msi_substitution = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-substitution"; }; }
@@ -209,6 +208,17 @@ let
           sparseCheckout = [ "tree-sitter-sus" ];
         };
         location = "tree-sitter-sus";
+      };
+      tree-sitter-v = {
+        version = "0.0.6";
+        src = fetchFromGitHub {
+          owner = "vlang";
+          repo = "v-analyzer";
+          rev = "0.0.6";
+          hash = "sha256-fKJtPxvQcf5qUQcIpl9DV2p8LIJRc9BamhvzwI4Br+w=";
+          sparseCheckout = [ "tree_sitter_v" ];
+        };
+        location = "tree_sitter_v";
       };
       tree-sitter-dotvvm = {
         version = "unstable-2023-06-01";
