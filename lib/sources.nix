@@ -1495,12 +1495,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "0.1.0";
+    version = "unstable-2025-03-11";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "0.1.0";
-      hash = "sha256-FH8DNE03k95ZsRwaiXHkaU9/cdWrWALCEdChN5ZPdog=";
+      rev = "364e323b32d098ad0e7b29e7adb4005c2bb5cf34";
+      hash = "sha256-mMaJCF+xLIN3x+4PWspdJdKWDRbnSWSKH5v0jJ/fs50=";
     };
   };
   "tree-sitter-esdl" = {
@@ -2873,12 +2873,12 @@
     };
   };
   "tree-sitter-liquid" = {
-    version = "unstable-2025-02-21";
+    version = "unstable-2025-03-13";
     src = fetchFromGitHub {
       owner = "hankthetank27";
       repo = "tree-sitter-liquid";
-      rev = "6e03a054a71cd419d9702725243137641e97ba51";
-      hash = "sha256-KDbI8jmSeXm1T3WGoZ60IFWK8xaJwmU2Ofnr/khKz+U=";
+      rev = "d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42";
+      hash = "sha256-vOQirMsR+UqUyC7yJfuFynXEorkkUYjAB4C08Wf+zE4=";
     };
   };
   "tree-sitter-liquidsoap" = {
@@ -3170,12 +3170,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2025-03-10";
+    version = "unstable-2025-03-13";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "f09031f94f89c02da3ca5b8128f5f1c3fcc2b4fb";
-      hash = "sha256-rvfbN/yrPgDQ8i+JEfjkhZcgqkkR4EDBfgoiDODJamc=";
+      rev = "0fe2b99c80451587c8be7742122901a90a5da2c4";
+      hash = "sha256-rmjt1+tZ6jufBXkTsroCxSdf7IMCi2HAUdwuWoOVQCA=";
     };
   };
   "tree-sitter-moonscript" = {
@@ -3882,12 +3882,12 @@
     };
   };
   "tree-sitter-publicodes" = {
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchFromGitHub {
       owner = "publicodes";
       repo = "tree-sitter-publicodes";
-      rev = "v0.1.4";
-      hash = "sha256-5XDeCjRS3JH3GdMpifLqHYBjpUlWKR7jzlyyHXjlBOY=";
+      rev = "v0.1.5";
+      hash = "sha256-HrqGMk81S17ifIJ52k0N5ruiqqw8I6Bi7tsyxLBdKLE=";
     };
   };
   "tree-sitter-pug" = {
@@ -4603,12 +4603,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.1.9";
+    version = "2025.3.13";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.1.9";
-      hash = "sha256-JDuvJEKV+fGKlUwGVe5NwkTVmvjJub1Ls/EFDGM+sk4=";
+      rev = "2025.3.13";
+      hash = "sha256-4P0yZwy4Y6Z2Yz86iiYXPHv/MKanM5SDO6xcF8GUQQA=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -4911,12 +4911,12 @@
     };
   };
   "tree-sitter-tera" = {
-    version = "unstable-2025-03-10";
+    version = "unstable-2025-03-13";
     src = fetchFromGitHub {
       owner = "uncenter";
       repo = "tree-sitter-tera";
-      rev = "588f14ce363904bebd926492bbd1d2c53f8d5f14";
-      hash = "sha256-BDL1LRTPf/h5SHeF17OHWlKAeao3dOq+d/JzeL0ktv4=";
+      rev = "482b475b32e6bae67f9d57abc60545399fd9b0a3";
+      hash = "sha256-ndauBItrpUTIVjt5Sm0+jUjQtuAcHwLVdmw6IwcNXII=";
     };
   };
   "tree-sitter-test" = {
