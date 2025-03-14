@@ -770,18 +770,20 @@ class GitHub:
         self.owner = owner
         self.repo = repo
         self.session = session
-        self.validated_rename = False
+        self.validated = False
 
     @property
     def name(self) -> str:
         return f"{self.owner}/{self.repo}"
 
-    def check_rename(self, name: str) -> None:
-        if self.validated_rename:
+    def validate(self, repository: dict[str, Any]) -> None:
+        if self.validated:
             return
-        if name != self.name:
-            logger.warning("GitHub Repository %s was renamed to: %s", self.name, name)
-        self.validated_rename = True
+        if (name := repository["nameWithOwner"]) != self.name:
+            logger.warning("GitHub Repository %s was renamed to %s", self.name, name)
+        if (archived_at := repository["archivedAt"]) is not None:
+            logger.warning("GitHub Repository %s was archived at %s", self.name, archived_at)
+        self.validated = True
 
     def fetcher(self, rev: str) -> str:
         hash = flake_prefetch(f"github:{self.owner}/{self.repo}/{rev}")
@@ -797,6 +799,7 @@ class GitHub:
         json = self.graphql_request(f"""
           {{
             repository(owner: "{self.owner}", name: "{self.repo}") {{
+              archivedAt
               nameWithOwner
               refs(
                 refPrefix: "refs/tags/"
@@ -816,7 +819,7 @@ class GitHub:
         repository: dict[str, Any] | None = json["data"]["repository"]
         if repository is None:
             raise RuntimeError(f"GitHub repository {self.name} not found")
-        self.check_rename(repository["nameWithOwner"])
+        self.validate(repository)
         refs = repository["refs"]["edges"]
         if not refs:
             return None
@@ -827,6 +830,7 @@ class GitHub:
         json = self.graphql_request(f"""
           {{
             repository(owner: "{self.owner}", name: "{self.repo}") {{
+              archivedAt
               nameWithOwner
               defaultBranchRef {{
                 target {{
@@ -845,7 +849,7 @@ class GitHub:
         repository: dict[str, Any] | None = json["data"]["repository"]
         if repository is None:
             raise RuntimeError(f"GitHub repository {self.name} not found")
-        self.check_rename(repository["nameWithOwner"])
+        self.validate(repository)
         commits = repository["defaultBranchRef"]["target"]["history"]["edges"]
         sha: str = commits[0]["node"]["oid"]
         date = datetime.fromisoformat(commits[0]["node"]["committedDate"])
@@ -855,6 +859,7 @@ class GitHub:
         json = self.graphql_request(f"""
           {{
             repository(owner: "{self.owner}", name: "{self.repo}") {{
+              archivedAt
               nameWithOwner
               object(oid: "{commit}") {{
                 ... on Commit {{
@@ -868,7 +873,7 @@ class GitHub:
         repository: dict[str, Any] | None = json["data"]["repository"]
         if repository is None:
             raise RuntimeError(f"GitHub repository {self.name} not found")
-        self.check_rename(repository["nameWithOwner"])
+        self.validate(repository)
         obj: dict[str, str] = repository["object"]
         sha = obj["oid"]
         date = datetime.fromisoformat(obj["committedDate"])
@@ -878,6 +883,7 @@ class GitHub:
         json = self.graphql_request(f"""
           {{
             repository(owner: "{self.owner}", name: "{self.repo}") {{
+              archivedAt
               nameWithOwner
               ref(qualifiedName: "{branch}") {{
                 target {{
@@ -893,7 +899,7 @@ class GitHub:
         repository: dict[str, Any] | None = json["data"]["repository"]
         if repository is None:
             raise RuntimeError(f"GitHub repository {self.name} not found")
-        self.check_rename(repository["nameWithOwner"])
+        self.validate(repository)
         commit = repository["ref"]["target"]
         sha: str = commit["oid"]
         date = datetime.fromisoformat(commit["committedDate"])
