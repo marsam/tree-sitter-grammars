@@ -4811,12 +4811,12 @@
     };
   };
   "tree-sitter-systemverilog" = {
-    version = "unstable-2025-03-10";
+    version = "unstable-2025-03-14";
     src = fetchFromGitHub {
       owner = "gmlarumbe";
       repo = "tree-sitter-systemverilog";
-      rev = "d5899210c623b799a93f40439f3ff8981a7fa187";
-      hash = "sha256-bMo/ish2J29Nrpf/JkXA7A2NSarhppxm0MpV/bdBWJQ=";
+      rev = "f6be2c3c1d6c73a06c70b797631a02c90b133360";
+      hash = "sha256-hxacduvnal35jX1Fvrs8I5CYi8aF8EolKxtWri8NemI=";
     };
   };
   "tree-sitter-t32" = {

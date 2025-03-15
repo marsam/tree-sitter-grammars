@@ -585,7 +585,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-syphon | [2024-11-15](https://github.com/syphon-lang/tree-sitter-syphon/tree/16b2698841e0854dc1c13d8257f62618a954c7fd) |
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
-| tree-sitter-systemverilog | [2025-03-10](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/d5899210c623b799a93f40439f3ff8981a7fa187) |
+| tree-sitter-systemverilog | [2025-03-14](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/f6be2c3c1d6c73a06c70b797631a02c90b133360) |
 | tree-sitter-t32 | [5.4.2](https://codeberg.org/xasc/tree-sitter-t32/src/v5.4.2) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.5.2](https://github.com/tact-lang/tree-sitter-tact/tree/v1.5.2) |
