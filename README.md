@@ -302,7 +302,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
 | tree-sitter-ispc | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-ispc/tree/v0.1.1) |
 | tree-sitter-jack | [2024-10-04](https://github.com/nverno/tree-sitter-jack/tree/1a617413ea92c237bff4cbe7fa67eb3bf4425596) |
-| tree-sitter-jai | [2025-03-02](https://github.com/constantitus/tree-sitter-jai/tree/889f8b310fa005c668853ba40a1c6cfc060b1a8b) |
+| tree-sitter-jai | [2025-03-15](https://github.com/constantitus/tree-sitter-jai/tree/048d78773f75b38ad1831754ad737bb418e53484) |
 | tree-sitter-jakt | [2025-03-04](https://github.com/SerenityOS/tree-sitter-jakt/tree/e67a5de093cab9eb79be721bf39bc9115193534a) |
 | tree-sitter-janet_simple | [0.0.7](https://github.com/sogaiu/tree-sitter-janet-simple/tree/v0.0.7) |
 | tree-sitter-java | [0.23.5](https://github.com/tree-sitter/tree-sitter-java/tree/v0.23.5) |
@@ -411,7 +411,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-noir | [2023-10-22](https://github.com/hhamud/tree-sitter-noir/tree/4cc223f677d72db319f1c8331b65a9564805c7bf) |
 | tree-sitter-nois | [2024-04-20](https://github.com/nois-lang/tree-sitter-nois/tree/0e9c9e962177dc0a17d6bd79ff14330334466800) |
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
-| tree-sitter-npf | [2025-03-09](https://github.com/ntyunyayev/tree-sitter-npf/tree/ba48353490dbe6998fca5ef009bcc2a8e9aaed38) |
+| tree-sitter-npf | [2025-03-15](https://github.com/ntyunyayev/tree-sitter-npf/tree/8040987bd48d5ead7606853276ca72e4e5d59bc4) |
 | tree-sitter-nqc | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-nqc/tree/v1.0.0) |
 | tree-sitter-nu | [2025-03-11](https://github.com/nushell/tree-sitter-nu/tree/c10340b5bb3789f69182acf8f34c3d4fc24d2fe1) |
 | tree-sitter-numbat | [2024-04-04](https://github.com/irevoire/tree-sitter-numbat/tree/b4dd180397cad0638abbf18b54e354ea43276f46) |
@@ -430,7 +430,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-org | [2.0.0](https://github.com/nvim-orgmode/tree-sitter-org/tree/2.0.0) |
 | tree-sitter-ott | [2024-08-10](https://github.com/armonjam/tree-sitter-ott/tree/67df80de360e04efde264508ec496916e3ddbd4c) |
 | tree-sitter-owl_ms | [2025-02-13](https://github.com/janekx21/tree-sitter-owl-ms/tree/e380af981f90a9f4985fbaf737897e84745502a7) |
-| tree-sitter-pactum | [2025-01-10](https://github.com/pactbuf/tree-sitter-pactum/tree/654ea221f79e2dbbcefade40d5b468440ac5d2a6) |
+| tree-sitter-pactum | [2025-03-15](https://github.com/pactbuf/tree-sitter-pactum/tree/ac4ae047efc4b37ed9bd6c3250ad9e266f37b4d0) |
 | tree-sitter-pascal | [0.10.0](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.0) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |

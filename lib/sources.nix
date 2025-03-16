@@ -2530,12 +2530,12 @@
     };
   };
   "tree-sitter-jai" = {
-    version = "unstable-2025-03-02";
+    version = "unstable-2025-03-15";
     src = fetchFromGitHub {
       owner = "constantitus";
       repo = "tree-sitter-jai";
-      rev = "889f8b310fa005c668853ba40a1c6cfc060b1a8b";
-      hash = "sha256-7aPhX6co/ckCVrvCqDWa3IkgBo7yITxjXkeT2lIOn2Q=";
+      rev = "048d78773f75b38ad1831754ad737bb418e53484";
+      hash = "sha256-8AeNHGBbZkZ2emBaccRPeW7GAN24v/XdwJ1MjQ5fX2Q=";
     };
   };
   "tree-sitter-jakt" = {
@@ -3431,12 +3431,12 @@
     };
   };
   "tree-sitter-npf" = {
-    version = "unstable-2025-03-09";
+    version = "unstable-2025-03-15";
     src = fetchFromGitHub {
       owner = "ntyunyayev";
       repo = "tree-sitter-npf";
-      rev = "ba48353490dbe6998fca5ef009bcc2a8e9aaed38";
-      hash = "sha256-r3g4HxsKi/CQDCjQR8MyeRAAweokmQw7pq+uVOY7O0o=";
+      rev = "8040987bd48d5ead7606853276ca72e4e5d59bc4";
+      hash = "sha256-B0AzW2P7nZH0GkBFV7VoW1kmDsfIWOWXJLmTMcHezrc=";
     };
   };
   "tree-sitter-nqc" = {
@@ -3575,12 +3575,12 @@
     };
   };
   "tree-sitter-pactum" = {
-    version = "unstable-2025-01-10";
+    version = "unstable-2025-03-15";
     src = fetchFromGitHub {
       owner = "pactbuf";
       repo = "tree-sitter-pactum";
-      rev = "654ea221f79e2dbbcefade40d5b468440ac5d2a6";
-      hash = "sha256-H8Y11xNVeyELFcujWwkOPvobfhIDY1zU303GjiwHuwo=";
+      rev = "ac4ae047efc4b37ed9bd6c3250ad9e266f37b4d0";
+      hash = "sha256-dQ8FBKS9V8qmJxeeGINF9merDfk+VtdQkfCGWdcPZzA=";
     };
   };
   "tree-sitter-pascal" = {
