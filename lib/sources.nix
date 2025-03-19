@@ -712,12 +712,12 @@
     };
   };
   "tree-sitter-c3" = {
-    version = "0.4.1";
+    version = "0.5.0";
     src = fetchFromGitHub {
       owner = "c3lang";
       repo = "tree-sitter-c3";
-      rev = "v0.4.1";
-      hash = "sha256-b1DBYSlAKj1dx0bWQGA2zfQ6rLKrJlAh/XEQ6HT3Qpc=";
+      rev = "v0.5.0";
+      hash = "sha256-MTWg7G1GBqtqCYs1uWQ87+jvR/cK4pIRR/Sgox34Sn4=";
     };
   };
   "tree-sitter-ca65" = {
@@ -838,12 +838,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2025-03-17";
+    version = "unstable-2025-03-18";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "ab8381f87b6f611fa2b134a906e24c870fc9daa7";
-      hash = "sha256-oD6Fk7+CmEqhZX41xqSgVaek6xMsFXxRuwR+62NCccI=";
+      rev = "269c8f173bbf9ffb7253cdd36ce72304517ad239";
+      hash = "sha256-sKuCKCN6bZiMSI3599C0aHbG3tBFPZJ5CmtdHzr3VLs=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -3981,12 +3981,12 @@
     };
   };
   "tree-sitter-query" = {
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-query";
-      rev = "v0.5.0";
-      hash = "sha256-2JxX4KntUP/DvoCik0NYzfrU/qzs43uDwy21JkU8Hjc=";
+      rev = "v0.5.1";
+      hash = "sha256-uXApakOZy9Gd/fl9C9qFZgptlT6rUlOmT6KW8sWP5Ag=";
     };
   };
   "tree-sitter-quint" = {
@@ -4811,12 +4811,12 @@
     };
   };
   "tree-sitter-systemverilog" = {
-    version = "unstable-2025-03-17";
+    version = "unstable-2025-03-18";
     src = fetchFromGitHub {
       owner = "gmlarumbe";
       repo = "tree-sitter-systemverilog";
-      rev = "0992cba4bdb8945f472b3d8021174fccdd202c76";
-      hash = "sha256-u0bTUddcHfmpB6LcktsbGiB1c2X/bga2DrsoepW8mgc=";
+      rev = "f2cdd6a7c3f6eb3b6cd7050e51713ee785b28def";
+      hash = "sha256-P4oYbXcjxX7dTOGXucN6BiiqZslkYaUWMkgxj48vV7Q=";
     };
   };
   "tree-sitter-t32" = {
@@ -5262,12 +5262,12 @@
     };
   };
   "tree-sitter-vimdoc" = {
-    version = "3.0.0";
+    version = "3.0.1";
     src = fetchFromGitHub {
       owner = "neovim";
       repo = "tree-sitter-vimdoc";
-      rev = "v3.0.0";
-      hash = "sha256-v+XSWGm2Wdn9/rxNFMqXYACkGn6AvxZdxkClLuKnWGU=";
+      rev = "v3.0.1";
+      hash = "sha256-HHOUgQ9qV1nb2zEScRDwmvlE39XPmLxShlDeLuxID2s=";
     };
   };
   "tree-sitter-virgil" = {
