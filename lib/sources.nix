@@ -1054,12 +1054,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-03-07";
+    version = "unstable-2025-03-23";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "1bc5d80dfc398db865856d7fb9a69e2dc8aaf23b";
-      hash = "sha256-+sKV305LqjOo9kPXz4UvpVlb0CAsy9KflMg11aBc6LA=";
+      rev = "2af0dc12e65b98ea4c9737f645776277ef8d8f55";
+      hash = "sha256-bos95XyRINnJTgcbHI2Zgg36dQYP0BT2nV75N8db/qg=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -2260,12 +2260,12 @@
     };
   };
   "tree-sitter-hlsl" = {
-    version = "0.1.5";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-hlsl";
-      rev = "v0.1.5";
-      hash = "sha256-RwkpIVOWAPbml0MjKoDBXvHBFvn69BRBQptapoHifTc=";
+      rev = "v0.2.0";
+      hash = "sha256-BWjgXtMN6y/0ahD44Cm8a+MxxVMpCNhkf33V/vsCBTU=";
     };
   };
   "tree-sitter-hlsplaylist" = {

@@ -123,7 +123,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cpon | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cpon/tree/v1.0.0) |
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
-| tree-sitter-crystal | [2025-03-07](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/1bc5d80dfc398db865856d7fb9a69e2dc8aaf23b) |
+| tree-sitter-crystal | [2025-03-23](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/2af0dc12e65b98ea4c9737f645776277ef8d8f55) |
 | tree-sitter-css | [0.23.2](https://github.com/tree-sitter/tree-sitter-css/tree/v0.23.2) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -271,7 +271,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-hicad | [0.0.1](https://github.com/petrisch/tree-sitter-hicad/tree/0.0.1) |
 | tree-sitter-hjson | [2021-08-02](https://github.com/winston0410/tree-sitter-hjson/tree/02fa3b79b3ff9a296066da6277adfc3f26cbc9e0) |
 | tree-sitter-hl7 | [2024-10-28](https://github.com/hamaluik/tree-sitter-hl7/tree/420753abfe3873ec9e31b0c9640741756671292c) |
-| tree-sitter-hlsl | [0.1.5](https://github.com/tree-sitter-grammars/tree-sitter-hlsl/tree/v0.1.5) |
+| tree-sitter-hlsl | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-hlsl/tree/v0.2.0) |
 | tree-sitter-hlsplaylist | [0.0.5](https://github.com/Freed-Wu/tree-sitter-hlsplaylist/tree/0.0.5) |
 | tree-sitter-hocon | [2022-11-07](https://github.com/antosha417/tree-sitter-hocon/tree/c390f10519ae69fdb03b3e5764f5592fb6924bcc) |
 | tree-sitter-hoon | [0.0.3](https://github.com/urbit-pilled/tree-sitter-hoon/tree/0.0.3) |
