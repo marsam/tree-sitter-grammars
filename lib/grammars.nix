@@ -31,6 +31,12 @@ let
 
     `fromGrammarJson`
     : Whether to generate the Grammar from `grammar.json`.
+
+    `languageName`
+    : Value of the tree-sitter language name.
+
+    `guessVersion`
+    : Whether to fetch the version from `package.json`, instead of the version attribute.
   */
   buildGrammar =
     language:
@@ -40,10 +46,12 @@ let
     , generate ? false
     , fromGrammarJson ? false
     , postPatch ? null
+    , languageName ? language
+    , guessVersion ? lib.hasPrefix "unstable-" version
     }:
     stdenv.mkDerivation (finalAttrs: {
-      inherit version src postPatch language location;
-      pname = language;
+      inherit version src postPatch location languageName guessVersion;
+      pname = languageName;
 
       strictDeps = true;
 
@@ -55,15 +63,20 @@ let
 
       makeFlags = [
         "PREFIX=${placeholder "out"}"
-        "LANGUAGE_NAME=${finalAttrs.language}"
+        "LANGUAGE_NAME=${finalAttrs.languageName}"
       ] ++ lib.optionals (finalAttrs.location != null) [ "-C ${finalAttrs.location}" ];
 
       preBuild =
-        if lib.hasPrefix "unstable-" finalAttrs.version then ''
+        if finalAttrs.guessVersion then ''
           packageJson="''${location:+$location/}package.json"
           if [ ! -f $packageJson ] && [ -n $location ]; then
-            echo "Using top-level package.json"
-            packageJson="package.json"
+            if [ -f "package.json" ]; then
+              echo "Using top-level package.json"
+              packageJson="package.json"
+            else
+              echo "package.json not found. Could not guess grammar version."
+              exit 1
+            fi
           fi
           makeFlagsArray+=(VERSION="$(${lib.getExe jq} -r .version $packageJson)")
         '' else ''
