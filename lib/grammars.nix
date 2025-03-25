@@ -135,7 +135,8 @@ let
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
     // { tree-sitter-sql = grammars'.tree-sitter-sql // { generate = true; }; }
     // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
-    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
+    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { languageName = "tree-sitter-swift"; generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
+    // { tree-sitter-systemverilog = grammars'.tree-sitter-systemverilog // { languageName = "tree-sitter-verilog"; }; }
     // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
     // { tree-sitter-ziggy_schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
     // { tree-sitter-datazinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-datazinc"; }; }
@@ -162,6 +163,7 @@ let
     // { tree-sitter-corth = grammars'.tree-sitter-corth // { generate = true; }; }
     // { tree-sitter-quint = grammars'.tree-sitter-quint // { generate = true; }; }
     // { tree-sitter-rtf = grammars'.tree-sitter-rtf // { generate = true; }; }
+    // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
     // { tree-sitter-scfg = grammars'.tree-sitter-scfg // { generate = true; }; }
     // { tree-sitter-scilab = grammars'.tree-sitter-scilab // { generate = true; }; }
     // { tree-sitter-systemrdl = grammars'.tree-sitter-systemrdl // { generate = true; }; }
@@ -210,17 +212,6 @@ let
           sparseCheckout = [ "extensions/tree-sitter" ];
         };
         location = "extensions/tree-sitter";
-      };
-      tree-sitter-sus = {
-        version = "unstable-2025-01-20";
-        src = fetchFromGitHub {
-          owner = "pc2";
-          repo = "sus-compiler";
-          rev = "11f7f8e6e7610a1125de79750b3bbd0d2eee7f5d";
-          hash = "sha256-6Xa1FhOLLGQBlohouHfj75Ne3LgE2R9iY0EF8BA/GZ8=";
-          sparseCheckout = [ "tree-sitter-sus" ];
-        };
-        location = "tree-sitter-sus";
       };
       tree-sitter-v = {
         version = "0.0.6";
