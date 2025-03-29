@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2025-03-18";
+    version = "unstable-2025-03-28";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "269c8f173bbf9ffb7253cdd36ce72304517ad239";
-      hash = "sha256-sKuCKCN6bZiMSI3599C0aHbG3tBFPZJ5CmtdHzr3VLs=";
+      rev = "7991feed4415cb2854f49ad1d8b92e2216f052fe";
+      hash = "sha256-1GSvfnIGYbJUpggm+tHHwJM7h6XcoypYRNyfvPAb/fs=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1063,12 +1063,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-03-23";
+    version = "unstable-2025-03-28";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "2af0dc12e65b98ea4c9737f645776277ef8d8f55";
-      hash = "sha256-bos95XyRINnJTgcbHI2Zgg36dQYP0BT2nV75N8db/qg=";
+      rev = "cf69a6504a82fecc55ee1680983744a94a9edfaa";
+      hash = "sha256-UPEUIMPz914ueWsbCDr0+qutjgOykSP4LS78DJ2c9Us=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -1522,12 +1522,12 @@
     };
   };
   "tree-sitter-esl" = {
-    version = "unstable-2025-03-25";
+    version = "unstable-2025-03-28";
     src = fetchFromGitHub {
       owner = "NSSAC";
       repo = "tree-sitter-esl";
-      rev = "538a6efa621072844727f3ed94284860f91f4f68";
-      hash = "sha256-0E26lAdwEGfUjALBmYGCg9jch2wihc0NWaKO4NmGtTE=";
+      rev = "76392437d041fe45dca2e36bf8251097bbc7991c";
+      hash = "sha256-hqZB0lXgqcEGYoL6V6/uXZUxOXPqXOhvD+jD5iG3SBg=";
     };
   };
   "tree-sitter-eu4mod" = {
@@ -5344,12 +5344,12 @@
     };
   };
   "tree-sitter-vola" = {
-    version = "unstable-2025-03-27";
+    version = "unstable-2025-03-28";
     src = fetchFromGitLab {
       owner = "tendsinmende";
       repo = "tree-sitter-vola";
-      rev = "b700b72a03016b7743ba2d1f3e986f3aacee024c";
-      hash = "sha256-a/ug6JTlHbqswsIb17E3ELJOBAUI2457BJwbXfse6fA=";
+      rev = "2e59494a3ecb2554709b57ce1f3e05a1f108377d";
+      hash = "sha256-lOzhl1h0jjKpFDZxvLXTH1/bVlahfUnCKioTcrvQiB8=";
     };
   };
   "tree-sitter-vrl" = {
