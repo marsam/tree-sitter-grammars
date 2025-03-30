@@ -417,7 +417,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
 | tree-sitter-npf | [2025-03-21](https://github.com/ntyunyayev/tree-sitter-npf/tree/dba734a638ce8c783f8821868ebe4ab4666ad7fb) |
 | tree-sitter-nqc | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-nqc/tree/v1.0.0) |
-| tree-sitter-nu | [2025-03-11](https://github.com/nushell/tree-sitter-nu/tree/c10340b5bb3789f69182acf8f34c3d4fc24d2fe1) |
+| tree-sitter-nu | [2025-03-29](https://github.com/nushell/tree-sitter-nu/tree/d5c71a10b4d1b02e38967b05f8de70e847448dd1) |
 | tree-sitter-numbat | [2024-04-04](https://github.com/irevoire/tree-sitter-numbat/tree/b4dd180397cad0638abbf18b54e354ea43276f46) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
@@ -482,7 +482,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pymanifest | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.5.1) |
 | tree-sitter-pyrope | [2025-02-20](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/ddc0813f17ceee06b60aff6e7bea1e29515b4e8a) |
 | tree-sitter-python | [0.23.6](https://github.com/tree-sitter/tree-sitter-python/tree/v0.23.6) |
-| tree-sitter-q | [2025-03-21](https://github.com/Gchouchou/tree-sitter-q/tree/c3a60e1040161bf6706e3d217bd09399f0509992) |
+| tree-sitter-q | [2025-03-29](https://github.com/Gchouchou/tree-sitter-q/tree/f53cb17422c2f8d60a5ce0d1346d42e7d235ceb9) |
 | tree-sitter-ql | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql/tree/v0.23.1) |
 | tree-sitter-ql_dbscheme | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql-dbscheme/tree/v0.23.1) |
 | tree-sitter-qmldir | [0.2.2](https://github.com/tree-sitter-grammars/tree-sitter-qmldir/tree/0.2.2) |
@@ -597,11 +597,11 @@ nix build .#tree-sitter-javascript
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
 | tree-sitter-task | [2022-08-17](https://github.com/AlexanderBrevig/tree-sitter-task/tree/ed4fb3674dd2d889c36e121f7173099290452af2) |
 | tree-sitter-taskjuggler | [2024-05-01](https://gitlab.com/bricka/tree-sitter-taskjuggler//tree/941791e2c40593f40897a35c21cec9129eee0968) |
-| tree-sitter-tcl | [2024-11-05](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/98015ebe182d94e5a4439e32ffd91beaac32fcb9) |
+| tree-sitter-tcl | [2025-03-29](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/3755c8c18c039ca4125797fd0212f7e59974e58e) |
 | tree-sitter-teal | [0.0.4](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.0.4) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
 | tree-sitter-templ | [2025-03-01](https://github.com/vrischmann/tree-sitter-templ/tree/7f7f06b3931ca00e8ddfbeab3fc08ad00d297fad) |
-| tree-sitter-tera | [2025-03-13](https://github.com/uncenter/tree-sitter-tera/tree/482b475b32e6bae67f9d57abc60545399fd9b0a3) |
+| tree-sitter-tera | [2025-03-29](https://github.com/uncenter/tree-sitter-tera/tree/25a7c617192253bddfa65e378975d8c476419010) |
 | tree-sitter-terraform | [2025-03-27](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/de10d494dbd6b71cdf07a678fecbf404dbfe4398/dialects/terraform) |
 | tree-sitter-test | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-test/tree/v0.1.0) |
 | tree-sitter-textproto | [2024-10-16](https://github.com/PorterAtGoogle/tree-sitter-textproto/tree/568471b80fd8793d37ed01865d8c2208a9fefd1b) |

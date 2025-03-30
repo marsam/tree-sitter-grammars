@@ -3486,12 +3486,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-03-11";
+    version = "unstable-2025-03-29";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "c10340b5bb3789f69182acf8f34c3d4fc24d2fe1";
-      hash = "sha256-EyaFrO9NE2Ivo8YTXZ6nmC31PB7WFbFdz7AMRw0ooHo=";
+      rev = "d5c71a10b4d1b02e38967b05f8de70e847448dd1";
+      hash = "sha256-7Ny3wXa5iE6s7szqTkPqaXWL/NL5yA2MbhdQHylxwE0=";
     };
   };
   "tree-sitter-numbat" = {
@@ -3991,12 +3991,12 @@
     };
   };
   "tree-sitter-q" = {
-    version = "unstable-2025-03-21";
+    version = "unstable-2025-03-29";
     src = fetchFromGitHub {
       owner = "Gchouchou";
       repo = "tree-sitter-q";
-      rev = "c3a60e1040161bf6706e3d217bd09399f0509992";
-      hash = "sha256-0gcQTrjISC4OEP3yR1JIteJ34XLh5Ya6xqDefvoMR+8=";
+      rev = "f53cb17422c2f8d60a5ce0d1346d42e7d235ceb9";
+      hash = "sha256-+4gpTzUOsyaOCqRH488EPQ5+x8dqfb9KH8xaTz0L2Vs=";
     };
   };
   "tree-sitter-qmldir" = {
@@ -4930,12 +4930,12 @@
     };
   };
   "tree-sitter-tcl" = {
-    version = "unstable-2024-11-05";
+    version = "unstable-2025-03-29";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-tcl";
-      rev = "98015ebe182d94e5a4439e32ffd91beaac32fcb9";
-      hash = "sha256-zpswRch3xYjymQhc69noDTCsPrFzVRm1RN3jjIrUeDE=";
+      rev = "3755c8c18c039ca4125797fd0212f7e59974e58e";
+      hash = "sha256-ucejyWW+9RjYVraFPN4FfT/jId3AMNiKiC4N0eJGuSM=";
     };
   };
   "tree-sitter-teal" = {
@@ -4966,12 +4966,12 @@
     };
   };
   "tree-sitter-tera" = {
-    version = "unstable-2025-03-13";
+    version = "unstable-2025-03-29";
     src = fetchFromGitHub {
       owner = "uncenter";
       repo = "tree-sitter-tera";
-      rev = "482b475b32e6bae67f9d57abc60545399fd9b0a3";
-      hash = "sha256-ndauBItrpUTIVjt5Sm0+jUjQtuAcHwLVdmw6IwcNXII=";
+      rev = "25a7c617192253bddfa65e378975d8c476419010";
+      hash = "sha256-5ahHmvvuOY+1FhfOdbNIQokodfG1WXG1gK7BA1sEyYk=";
     };
   };
   "tree-sitter-test" = {
