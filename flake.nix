@@ -3,10 +3,14 @@
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs?ref=nixos-unstable";
+    flake-compat = {
+      url = "git+https://git.lix.systems/lix-project/flake-compat";
+      flake = false;
+    };
   };
 
   outputs =
-    { self, nixpkgs }:
+    { self, nixpkgs, flake-compat }:
     let
       forAllSystems =
         function:
