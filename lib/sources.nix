@@ -3991,12 +3991,12 @@
     };
   };
   "tree-sitter-q" = {
-    version = "unstable-2025-04-04";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "Gchouchou";
       repo = "tree-sitter-q";
-      rev = "abd8412e71227ab6059aec12ea79db2a088bb725";
-      hash = "sha256-tdlXLYskf6YunBp5A1DUOntEZy/ONXK2FCQz8Rbxy+w=";
+      rev = "v0.2.0";
+      hash = "sha256-JSK3E7MFQlO4DlxO0gY+Y3911OQMI3SzFn4NzVM+SMA=";
     };
   };
   "tree-sitter-qmldir" = {
