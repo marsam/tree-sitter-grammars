@@ -1747,12 +1747,12 @@
     };
   };
   "tree-sitter-fram" = {
-    version = "unstable-2025-03-22";
+    version = "unstable-2025-04-06";
     src = fetchFromGitHub {
       owner = "Brychlikov";
       repo = "tree-sitter-fram";
-      rev = "ad4f791fd01574f026fd7b7253ed9731253ee92e";
-      hash = "sha256-k+6KtzJLrDBYvAANft56IDgS8NBK665B4PF26Lc5sKE=";
+      rev = "e8d8dcc70a276df49447e5b4384a4f61444afe9a";
+      hash = "sha256-soTJuP/qUpWXGJrlQ4kavQVTKGnf+QYmCJ+0g8khPw4=";
     };
   };
   "tree-sitter-fsh" = {

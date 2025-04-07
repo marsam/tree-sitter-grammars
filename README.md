@@ -209,7 +209,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
 | tree-sitter-forth | [2023-11-03](https://github.com/AlexanderBrevig/tree-sitter-forth/tree/90189238385cf636b9ee99ce548b9e5b5e569d48) |
 | tree-sitter-fortran | [0.5.1](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.5.1) |
-| tree-sitter-fram | [2025-03-22](https://github.com/Brychlikov/tree-sitter-fram/tree/ad4f791fd01574f026fd7b7253ed9731253ee92e) |
+| tree-sitter-fram | [2025-04-06](https://github.com/Brychlikov/tree-sitter-fram/tree/e8d8dcc70a276df49447e5b4384a4f61444afe9a) |
 | tree-sitter-fsh | [2024-04-27](https://github.com/mgramigna/tree-sitter-fsh/tree/fad2e175099a45efbc98f000cc196d3674cc45e0) |
 | tree-sitter-fsharp | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp) |
 | tree-sitter-fsharp_signature | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp_signature) |
