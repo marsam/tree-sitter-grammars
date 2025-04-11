@@ -72,7 +72,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bqn | [0.3.2](https://github.com/shnarazk/tree-sitter-bqn/tree/v0.3.2) |
 | tree-sitter-branescript | [2024-11-02](https://github.com/DanielVoogsgerd/treesitter-branescript/tree/c293852df20288952d5b65197670dfb0fe2cabcc) |
 | tree-sitter-breaker | [2024-04-30](https://github.com/mielpeeters/tree-sitter-breaker/tree/8c61b9633dcc08d7841bc399a7280ba5f8506607) |
-| tree-sitter-brightscript | [2025-03-30](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/a556a2720bbde1c647c19d3046607837e75aa34b) |
+| tree-sitter-brightscript | [2025-04-10](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/6d6471a7c20211e867c30a21ee5fadb1879b5061) |
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
 | tree-sitter-bsl | [0.1.5](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.5) |
@@ -565,7 +565,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sql | [0.3.8](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.8) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2025.3.27](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.3.27) |
+| tree-sitter-ssh_client_config | [2025.4.10](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.4.10) |
 | tree-sitter-ssh_config | [2024-12-28](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/0dd3c7e9f301758f6c69a6efde43d3048deb4d8a) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.2.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.2.1) |
@@ -692,7 +692,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2025-01-30](https://github.com/dastrukar/tree-sitter-zscript/tree/75138fe22616127d5bfcefce240b8b13e7130ab7) |
+| tree-sitter-zscript | [2025-04-10](https://github.com/dastrukar/tree-sitter-zscript/tree/9e16ef5b8585c4b22700c71aa7c46973bc1d5fe4) |
 | tree-sitter-zsh | [2023-08-26](https://github.com/tree-sitter-grammars/tree-sitter-zsh/tree/47e2caf4ed7e466f51cfbb13a860a192c300506f) |
 
 </details>
