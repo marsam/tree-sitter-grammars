@@ -2874,12 +2874,12 @@
     };
   };
   "tree-sitter-lilypond" = {
-    version = "unstable-2025-03-05";
+    version = "unstable-2025-04-12";
     src = fetchFromGitHub {
       owner = "nwhetsell";
       repo = "tree-sitter-lilypond";
-      rev = "c24ae14502e119222816620564f59ef116726129";
-      hash = "sha256-9kIiR5vOg3SJb43DcbA1R5UaJrY5jblSXa9EVWaQCrM=";
+      rev = "aa476ce8dfd9612af6ca910a63d8719737237c2c";
+      hash = "sha256-/rDiYPPtPI/iJQTJYCeYu/tK6S/h/HLTo9fgzA9Q8FY=";
     };
   };
   "tree-sitter-lilypond_scheme" = {
@@ -3991,12 +3991,12 @@
     };
   };
   "tree-sitter-q" = {
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchFromGitHub {
       owner = "Gchouchou";
       repo = "tree-sitter-q";
-      rev = "v0.2.1";
-      hash = "sha256-wOAE8TxzzAK2jfJyCUBR4K6b3F+PbfVYhFTQracf9CU=";
+      rev = "v0.2.2";
+      hash = "sha256-IDDAMd24WvLOSLgUbnNmPe2RSId0r6BOBoxWaw7TSUU=";
     };
   };
   "tree-sitter-qmldir" = {
