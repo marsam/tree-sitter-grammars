@@ -221,6 +221,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-cfml": Grammar("https://github.com/cfmleditor/tree-sitter-cfml", "HEAD"),
     "tree-sitter-cgsql": Grammar("https://github.com/ricomariani/tree-sitter-cgsql"),
     "tree-sitter-chatito": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-chatito"),
+    "tree-sitter-chuck": Grammar("https://github.com/tymbalodeon/tree-sitter-chuck"),
     "tree-sitter-circom": Grammar("https://github.com/Decurity/tree-sitter-circom"),
     "tree-sitter-clingo": Grammar("https://github.com/potassco/tree-sitter-clingo"),
     "tree-sitter-clojure": Grammar("https://github.com/sogaiu/tree-sitter-clojure"),
@@ -249,7 +250,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-cue": Grammar("https://github.com/eonpatapon/tree-sitter-cue"),
     "tree-sitter-curry": Grammar("https://github.com/matthesjh/tree-sitter-curry"),
     "tree-sitter-cylc": Grammar("https://github.com/elliotfontaine/tree-sitter-cylc"),
-    "tree-sitter-cypher": Grammar("https://github.com/pupli/tree-sitter-cypher"),
+    "tree-sitter-cypher": Grammar("https://github.com/simplificare-org/tree-sitter-cypher"),
     "tree-sitter-cython": Grammar("https://github.com/b0o/tree-sitter-cython"),
     "tree-sitter-d": Grammar("https://github.com/gdamore/tree-sitter-d"),
     "tree-sitter-d2": Grammar("https://github.com/ravsii/tree-sitter-d2"), # Alternative https://codeberg.org/p8i/tree-sitter-d2
@@ -343,8 +344,8 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-gitignore": Grammar("https://github.com/shunsambongi/tree-sitter-gitignore"),
     "tree-sitter-gleam": Grammar("https://github.com/gleam-lang/tree-sitter-gleam"),
     "tree-sitter-glimmer": Grammar("https://github.com/ember-tooling/tree-sitter-glimmer"),
-    "tree-sitter-glimmer_javascript": Grammar("https://github.com/NullVoxPopuli/tree-sitter-glimmer-javascript"),
-    "tree-sitter-glimmer_typescript": Grammar("https://github.com/NullVoxPopuli/tree-sitter-glimmer-typescript"),
+    "tree-sitter-glimmer_javascript": Grammar("https://github.com/ember-tooling/tree-sitter-glimmer-javascript"),
+    "tree-sitter-glimmer_typescript": Grammar("https://github.com/ember-tooling/tree-sitter-glimmer-typescript"),
     "tree-sitter-glsl": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-glsl"),
     "tree-sitter-gn": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-gn"),
     "tree-sitter-gnuplot": Grammar("https://github.com/dpezto/tree-sitter-gnuplot"),
@@ -444,7 +445,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-leo": Grammar("https://github.com/r001/tree-sitter-leo"),
     "tree-sitter-lfe": Grammar("https://github.com/raw1z/tree-sitter-lfe"),
     "tree-sitter-lilypond": Grammar("https://github.com/nwhetsell/tree-sitter-lilypond", "HEAD"),
-    "tree-sitter-lilypond_scheme": Grammar("https://github.com/nwhetsell/tree-sitter-lilypond-scheme"),
     "tree-sitter-linkerscript": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-linkerscript"),
     "tree-sitter-liquid": Grammar("https://github.com/hankthetank27/tree-sitter-liquid"),
     "tree-sitter-liquidsoap": Grammar("https://github.com/savonet/tree-sitter-liquidsoap"),
@@ -655,7 +655,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-surrealdb": Grammar("https://github.com/DariusCorvus/tree-sitter-surrealdb"),
     "tree-sitter-surrealql": Grammar("https://github.com/Ce11an/tree-sitter-surrealql"),  # Alternative: https://github.com/DelSkayn/tree-sitter-surrealql
     "tree-sitter-sus": Grammar("https://github.com/pc2/sus-compiler"),
-    "tree-sitter-svelte": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-svelte"),
+    "tree-sitter-svelte": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-svelte"),  # Alternative: https://github.com/Himujjal/tree-sitter-svelte
     "tree-sitter-sway": Grammar("https://github.com/FuelLabs/tree-sitter-sway"),
     "tree-sitter-swift": Grammar("https://github.com/alex-pinkus/tree-sitter-swift"),
     "tree-sitter-swifter": Grammar("https://codeberg.org/woolsweater/tree-sitter-swifter"),
@@ -727,7 +727,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-webidl": Grammar("https://github.com/Endoqa/tree-sitter-webidl"),
     "tree-sitter-wenyan": Grammar("https://github.com/duskmoon314/tree-sitter-wenyan"),
     "tree-sitter-werk": Grammar("https://github.com/jakobhellermann/tree-sitter-werk"),
-    "tree-sitter-wgsl": Grammar("https://github.com/szebniok/tree-sitter-wgsl"),
+    "tree-sitter-wgsl": Grammar("https://github.com/szebniok/tree-sitter-wgsl"),  # Alternative: https://github.com/include-yy/tree-sitter-wgsl
     "tree-sitter-wgsl_bevy": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-wgsl-bevy"),
     "tree-sitter-while": Grammar("https://github.com/RubixDev/tree-sitter-while"),
     "tree-sitter-wing": Grammar("https://github.com/winglang/tree-sitter-wing"),

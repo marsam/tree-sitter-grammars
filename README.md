@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (674)</strong></summary>
+  <summary><strong>Available grammars (675)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -102,6 +102,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cfscript | [2025-04-03](https://github.com/cfmleditor/tree-sitter-cfml/tree/6077d73a232102547472acd5ff339fa8397e4bde/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.1.2](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.1.2) |
+| tree-sitter-chuck | [2025-04-12](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68f07bde52093c868fbc7a104d871ba886fac6dd) |
 | tree-sitter-circom | [2024-09-09](https://github.com/Decurity/tree-sitter-circom/tree/02150524228b1e6afef96949f2d6b7cc0aaf999e) |
 | tree-sitter-clingo | [2024-06-28](https://github.com/potassco/tree-sitter-clingo/tree/cb06e649c2994de6dc6b4bafb3dd864e2ed33675) |
 | tree-sitter-clojure | [0.0.13](https://github.com/sogaiu/tree-sitter-clojure/tree/v0.0.13) |
@@ -132,7 +133,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cue | [0.1.0](https://github.com/eonpatapon/tree-sitter-cue/tree/v0.1.0) |
 | tree-sitter-curry | [0.0.3](https://github.com/matthesjh/tree-sitter-curry/tree/v0.0.3) |
 | tree-sitter-cylc | [0.2.0](https://github.com/elliotfontaine/tree-sitter-cylc/tree/v0.2.0) |
-| tree-sitter-cypher | [0.0.1](https://github.com/pupli/tree-sitter-cypher/tree/v0.0.1) |
+| tree-sitter-cypher | [0.0.1](https://github.com/simplificare-org/tree-sitter-cypher/tree/v0.0.1) |
 | tree-sitter-cython | [2024-12-21](https://github.com/b0o/tree-sitter-cython/tree/62f44f5e7e41dde03c5f0a05f035e293bcf2bcf8) |
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
 | tree-sitter-d2 | [0.6.0](https://github.com/ravsii/tree-sitter-d2/tree/v0.6.0) |
@@ -236,8 +237,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gitignore | [2022-05-04](https://github.com/shunsambongi/tree-sitter-gitignore/tree/f4685bf11ac466dd278449bcfe5fd014e94aa504) |
 | tree-sitter-gleam | [1.0.0](https://github.com/gleam-lang/tree-sitter-gleam/tree/v1.0.0) |
 | tree-sitter-glimmer | [1.4.0-tree-sitter-glimmer](https://github.com/ember-tooling/tree-sitter-glimmer/tree/v1.4.0-tree-sitter-glimmer) |
-| tree-sitter-glimmer_javascript | [0.2.0-tree-sitter-glimmer-javascript](https://github.com/NullVoxPopuli/tree-sitter-glimmer-javascript/tree/v0.2.0-tree-sitter-glimmer-javascript) |
-| tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/NullVoxPopuli/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
+| tree-sitter-glimmer_javascript | [0.2.0-tree-sitter-glimmer-javascript](https://github.com/ember-tooling/tree-sitter-glimmer-javascript/tree/v0.2.0-tree-sitter-glimmer-javascript) |
+| tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
 | tree-sitter-glsl | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-glsl/tree/v0.2.0) |
 | tree-sitter-gn | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-gn/tree/v1.0.0) |
 | tree-sitter-gnuplot | [2024-12-23](https://github.com/dpezto/tree-sitter-gnuplot/tree/8923c1e38b9634a688a6c0dce7c18c8ffb823e79) |
@@ -346,8 +347,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ledger | [2024-12-02](https://github.com/cbarrete/tree-sitter-ledger/tree/d313153eef68c557ba4538b20de2d0e92f3ef6f8) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
-| tree-sitter-lilypond | [2025-04-12](https://github.com/nwhetsell/tree-sitter-lilypond/tree/aa476ce8dfd9612af6ca910a63d8719737237c2c) |
-| tree-sitter-lilypond_scheme | [tree-sitter-abi-14-main](https://github.com/nwhetsell/tree-sitter-lilypond-scheme/tree/tree-sitter-abi-14-main) |
+| tree-sitter-lilypond | [2025-04-12](https://github.com/nwhetsell/tree-sitter-lilypond/tree/aa476ce8dfd9612af6ca910a63d8719737237c2c/lilypond) |
+| tree-sitter-lilypond_scheme | [2025-04-12](https://github.com/nwhetsell/tree-sitter-lilypond/tree/aa476ce8dfd9612af6ca910a63d8719737237c2c/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2025-03-13](https://github.com/hankthetank27/tree-sitter-liquid/tree/d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42) |
 | tree-sitter-liquidsoap | [1.1.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.1.2) |

@@ -128,6 +128,8 @@ let
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
     // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
     // { tree-sitter-cfscript = grammars'.tree-sitter-cfml // { location = "cfscript"; }; }
+    // { tree-sitter-lilypond = grammars'.tree-sitter-lilypond // { location = "lilypond"; }; }
+    // { tree-sitter-lilypond_scheme = grammars'.tree-sitter-lilypond // { location = "lilypond-scheme"; }; }
     // { tree-sitter-lura = grammars'.tree-sitter-lura // { location = "tree-sitter-lura"; }; }
     // { tree-sitter-mers = grammars'.tree-sitter-mers // { location = "tree-sitter-mers"; }; }
     // { tree-sitter-stilts = grammars'.tree-sitter-stilts // { location = "tooling/tree-sitter-stilts"; }; }

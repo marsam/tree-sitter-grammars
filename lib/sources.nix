@@ -873,6 +873,15 @@
       hash = "sha256-U3RY6puadyG4foZVP+1JTI8d1nXUlJ24Q/iiczsxTvc=";
     };
   };
+  "tree-sitter-chuck" = {
+    version = "unstable-2025-04-12";
+    src = fetchFromGitHub {
+      owner = "tymbalodeon";
+      repo = "tree-sitter-chuck";
+      rev = "68f07bde52093c868fbc7a104d871ba886fac6dd";
+      hash = "sha256-mpdSadR6gpYqgkhlLWd7Bsk2SoPg9Ldkd3V5zOHPMZM=";
+    };
+  };
   "tree-sitter-circom" = {
     version = "unstable-2024-09-09";
     src = fetchFromGitHub {
@@ -1128,7 +1137,7 @@
   "tree-sitter-cypher" = {
     version = "0.0.1";
     src = fetchFromGitHub {
-      owner = "pupli";
+      owner = "simplificare-org";
       repo = "tree-sitter-cypher";
       rev = "v0.0.1";
       hash = "sha256-FBlGKZkGdY2V1ZG/gHOzYUU3DJwS7xmckZhOPFVIeeI=";
@@ -1974,7 +1983,7 @@
   "tree-sitter-glimmer_javascript" = {
     version = "0.2.0-tree-sitter-glimmer-javascript";
     src = fetchFromGitHub {
-      owner = "NullVoxPopuli";
+      owner = "ember-tooling";
       repo = "tree-sitter-glimmer-javascript";
       rev = "v0.2.0-tree-sitter-glimmer-javascript";
       hash = "sha256-wK8buxg2Yil6eS4u+m/iursdx9GHcj6CTCRz1nhdCNs=";
@@ -1983,7 +1992,7 @@
   "tree-sitter-glimmer_typescript" = {
     version = "0.3.0-tree-sitter-glimmer-typescript";
     src = fetchFromGitHub {
-      owner = "NullVoxPopuli";
+      owner = "ember-tooling";
       repo = "tree-sitter-glimmer-typescript";
       rev = "v0.3.0-tree-sitter-glimmer-typescript";
       hash = "sha256-lW0R/PMCeM5kuNJE9pyj/Gksi90jHyJ6/D49FTqMCSI=";
@@ -2880,15 +2889,6 @@
       repo = "tree-sitter-lilypond";
       rev = "aa476ce8dfd9612af6ca910a63d8719737237c2c";
       hash = "sha256-/rDiYPPtPI/iJQTJYCeYu/tK6S/h/HLTo9fgzA9Q8FY=";
-    };
-  };
-  "tree-sitter-lilypond_scheme" = {
-    version = "tree-sitter-abi-14-main";
-    src = fetchFromGitHub {
-      owner = "nwhetsell";
-      repo = "tree-sitter-lilypond-scheme";
-      rev = "tree-sitter-abi-14-main";
-      hash = "sha256-dkuKAlBIJ4VORUrmhcCXqj7qJh8UzKbIQD5Rp7EIogQ=";
     };
   };
   "tree-sitter-linkerscript" = {
