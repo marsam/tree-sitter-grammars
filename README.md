@@ -146,7 +146,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-devicetree | [0.14.1](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.14.1) |
 | tree-sitter-dezyne | [2025-02-17](https://github.com/j0ran/tree-sitter-dezyne/tree/d69df1ea7de1b9f632f7f6ed1a40c02c75002691) |
 | tree-sitter-df | [0.0.4](https://github.com/usagi-coffee/tree-sitter-df/tree/v0.0.4) |
-| tree-sitter-dhall | [0.2.1](https://github.com/jbellerb/tree-sitter-dhall/tree/0.2.1) |
+| tree-sitter-dhall | [1.0.0](https://github.com/jbellerb/tree-sitter-dhall/tree/1.0.0) |
 | tree-sitter-dialogue | [2025-02-03](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/091bf1ff645d483bf85fdbbd5bd938ff19d12c74) |
 | tree-sitter-diff | [0.1.0](https://github.com/the-mikedavis/tree-sitter-diff/tree/v0.1.0) |
 | tree-sitter-disassembly | [1.3.1](https://github.com/ColinKennedy/tree-sitter-disassembly/tree/1.3.1) |
@@ -267,7 +267,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-haskell | [0.23.1](https://github.com/tree-sitter/tree-sitter-haskell/tree/v0.23.1) |
 | tree-sitter-haskell_persistent | [2023-09-19](https://github.com/MercuryTechnologies/tree-sitter-haskell-persistent/tree/577259b4068b2c281c9ebf94c109bd50a74d5857) |
 | tree-sitter-haxe | [0.13.0](https://github.com/vantreeseba/tree-sitter-haxe/tree/v0.13.0) |
-| tree-sitter-hcl | [2025-03-27](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/de10d494dbd6b71cdf07a678fecbf404dbfe4398) |
+| tree-sitter-hcl | [2025-04-13](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/41a2e702413a53f2614533b2aa9c187816116cbc) |
 | tree-sitter-heex | [0.8.0](https://github.com/phoenixframework/tree-sitter-heex/tree/v0.8.0) |
 | tree-sitter-helm | [2025-01-29](https://github.com/ngalaiko/tree-sitter-go-template/tree/5f19a36bb1eebb30454e277b222b278ceafed0dd/dialects/helm) |
 | tree-sitter-hicad | [0.0.1](https://github.com/petrisch/tree-sitter-hicad/tree/0.0.1) |
@@ -603,7 +603,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
 | tree-sitter-templ | [2025-03-01](https://github.com/vrischmann/tree-sitter-templ/tree/7f7f06b3931ca00e8ddfbeab3fc08ad00d297fad) |
 | tree-sitter-tera | [2025-03-29](https://github.com/uncenter/tree-sitter-tera/tree/25a7c617192253bddfa65e378975d8c476419010) |
-| tree-sitter-terraform | [2025-03-27](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/de10d494dbd6b71cdf07a678fecbf404dbfe4398/dialects/terraform) |
+| tree-sitter-terraform | [2025-04-13](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/41a2e702413a53f2614533b2aa9c187816116cbc/dialects/terraform) |
 | tree-sitter-test | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-test/tree/v0.1.0) |
 | tree-sitter-textproto | [2024-10-16](https://github.com/PorterAtGoogle/tree-sitter-textproto/tree/568471b80fd8793d37ed01865d8c2208a9fefd1b) |
 | tree-sitter-tfvars | [2024-06-25](https://github.com/opa-oz/tree-sitter-tfvars/tree/dbe19193dd51ccbcc4bfd5294804aa45960b4369) |
@@ -693,7 +693,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2025-04-10](https://github.com/dastrukar/tree-sitter-zscript/tree/9e16ef5b8585c4b22700c71aa7c46973bc1d5fe4) |
+| tree-sitter-zscript | [2025-04-13](https://github.com/dastrukar/tree-sitter-zscript/tree/243462969008a85145e014dc89495175346ae77b) |
 | tree-sitter-zsh | [2023-08-26](https://github.com/tree-sitter-grammars/tree-sitter-zsh/tree/47e2caf4ed7e466f51cfbb13a860a192c300506f) |
 
 </details>
