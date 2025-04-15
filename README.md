@@ -85,7 +85,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [2025-01-26](https://github.com/opa-oz/tree-sitter-caddy/tree/2686186edb61be47960431c93a204fb249681360) |
-| tree-sitter-caddyfile | [2025-01-29](https://github.com/matthewpi/tree-sitter-caddyfile/tree/2c74f94ca43748e01f336b774324b98f93aa0de4) |
+| tree-sitter-caddyfile | [2025-04-14](https://github.com/matthewpi/tree-sitter-caddyfile/tree/dae750c699fa023bb87c725860f0cec840e5694f) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -327,7 +327,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-just | [2025-01-05](https://github.com/IndianBoy42/tree-sitter-just/tree/bb0c898a80644de438e6efe5d88d30bf092935cd) |
 | tree-sitter-kamailio_cfg | [0.1.3](https://github.com/IbrahimShahzad/tree-sitter-kamailio-cfg/tree/v0.1.3) |
 | tree-sitter-kanata | [2024-04-20](https://github.com/postsolar/tree-sitter-kanata/tree/a6213d06ea6efa432702bbbc6b4c5dcddc21df2a) |
-| tree-sitter-kanshi | [2024-12-09](https://github.com/marcelarie/tree-sitter-kanshi/tree/bb650b1275ba8e4e76f6ffff06cff1408a0f926f) |
+| tree-sitter-kanshi | [2025-04-14](https://github.com/marcelarie/tree-sitter-kanshi/tree/14826e4c4b034efb0850c27562860822cd34610e) |
 | tree-sitter-kappa | [2024-12-19](https://github.com/Spyderisk/tree-sitter-kappa/tree/45fcd46d3769f45421c2a5d9651bf8621de8ff86) |
 | tree-sitter-kcl | [0.1.0](https://github.com/kcl-lang/tree-sitter-kcl/tree/v0.1.0) |
 | tree-sitter-kconfig | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-kconfig/tree/v1.3.0) |
@@ -693,7 +693,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2025-04-13](https://github.com/dastrukar/tree-sitter-zscript/tree/243462969008a85145e014dc89495175346ae77b) |
+| tree-sitter-zscript | [2025-04-14](https://github.com/dastrukar/tree-sitter-zscript/tree/5467091d7951839aec720104c3faca37a9e9274c) |
 | tree-sitter-zsh | [2023-08-26](https://github.com/tree-sitter-grammars/tree-sitter-zsh/tree/47e2caf4ed7e466f51cfbb13a860a192c300506f) |
 
 </details>
