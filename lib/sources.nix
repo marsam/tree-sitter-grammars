@@ -1072,12 +1072,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-04-08";
+    version = "unstable-2025-04-17";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "4d64f3dae42e970a9da2d4f93f92d00b85954ddf";
-      hash = "sha256-cV7IJbsUfGniSoUEAUsYR04TAUqRKeCtX44H1V6dVnU=";
+      rev = "c95134d13f69f78ef75a9bb08831287a0f1f273a";
+      hash = "sha256-3JImE0FDzQLEK9RIxQ0R7QoZdwAJfAqv+Oy4PBEq+q0=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -1621,12 +1621,12 @@
     };
   };
   "tree-sitter-fennel" = {
-    version = "unstable-2024-05-31";
+    version = "unstable-2025-04-17";
     src = fetchFromGitHub {
       owner = "alexmozaidze";
       repo = "tree-sitter-fennel";
-      rev = "cfbfa478dc2dbef267ee94ae4323d9c886f45e94";
-      hash = "sha256-0LusII7BPGFQTyEkxZi6h9HUDF0eHvGwA4fiQE2h3YQ=";
+      rev = "de06b9ad366f0186080056109a8c3be980129538";
+      hash = "sha256-DLwCJcF+zrBX/cZ8rYU97FpMgZlpVsfqLv1bFdwTj3c=";
     };
   };
   "tree-sitter-fga" = {
@@ -2603,12 +2603,12 @@
     };
   };
   "tree-sitter-jinja" = {
-    version = "unstable-2025-03-12";
+    version = "unstable-2025-04-17";
     src = fetchFromGitHub {
       owner = "cathaysia";
       repo = "tree-sitter-jinja";
-      rev = "9af6ce9380fabd3d5b19d0254b8c8936e879c471";
-      hash = "sha256-9powNKoE5JpB+5vVtZLE5falMiS6I/ZXp4NrqabiWLs=";
+      rev = "258d7fb22fa6cd2dc800f201cfdcbe05111a836c";
+      hash = "sha256-pf9jYK/Rj/axmQ9GVrMLjcfL6xtv3rDPr+hjTwfOWxU=";
     };
   };
   "tree-sitter-jjdescription" = {
@@ -4649,12 +4649,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.4.10";
+    version = "2025.4.17";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.4.10";
-      hash = "sha256-Ize22jQ/2VfTwMwLx7ZHG/ylKyil2Wp7mgkiiBnsnz0=";
+      rev = "2025.4.17";
+      hash = "sha256-v9ruk2H9opj/mZ0jqWzSOfWLQP9VlaSjVf6npw7gFP8=";
     };
   };
   "tree-sitter-ssh_config" = {
