@@ -1072,12 +1072,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-04-17";
+    version = "unstable-2025-04-18";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "c95134d13f69f78ef75a9bb08831287a0f1f273a";
-      hash = "sha256-3JImE0FDzQLEK9RIxQ0R7QoZdwAJfAqv+Oy4PBEq+q0=";
+      rev = "07b93b9f9dc38ace8890fecb002e6fb7666d6d1e";
+      hash = "sha256-r2wKpQlWwgSHqPh7wkxf402tm4T5Ici8ISOwvVbquY8=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -4577,12 +4577,12 @@
     };
   };
   "tree-sitter-spade" = {
-    version = "unstable-2025-02-23";
+    version = "unstable-2025-04-18";
     src = fetchFromGitLab {
       owner = "spade-lang";
       repo = "tree-sitter-spade";
-      rev = "59dcaf6cfec5f7cfe3282f30a5e76f52e76aa6d1";
-      hash = "sha256-ptez0BYimwPslHJKdhqeaZUC66W4YWfoUtFF5DdZuNc=";
+      rev = "548aa0d3b386bde18567d0c87403ca374ff85dfd";
+      hash = "sha256-zTEW6bmuV0kh+rs8wJHndh+kyj/wdF5P31GqCWyPn/0=";
     };
   };
   "tree-sitter-sparql" = {

@@ -125,7 +125,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cpon | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cpon/tree/v1.0.0) |
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
-| tree-sitter-crystal | [2025-04-17](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/c95134d13f69f78ef75a9bb08831287a0f1f273a) |
+| tree-sitter-crystal | [2025-04-18](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/07b93b9f9dc38ace8890fecb002e6fb7666d6d1e) |
 | tree-sitter-css | [0.23.2](https://github.com/tree-sitter/tree-sitter-css/tree/v0.23.2) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -558,7 +558,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sosl | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/sosl) |
 | tree-sitter-souffle | [0.4.0](https://github.com/langston-barrett/tree-sitter-souffle/tree/v0.4.0) |
 | tree-sitter-sourcepawn | [0.7.7](https://github.com/nilshelmig/tree-sitter-sourcepawn/tree/v0.7.7) |
-| tree-sitter-spade | [2025-02-23](https://gitlab.com/spade-lang/tree-sitter-spade//tree/59dcaf6cfec5f7cfe3282f30a5e76f52e76aa6d1) |
+| tree-sitter-spade | [2025-04-18](https://gitlab.com/spade-lang/tree-sitter-spade//tree/548aa0d3b386bde18567d0c87403ca374ff85dfd) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
 | tree-sitter-spicy | [2025-02-24](https://github.com/bbannier/tree-sitter-spicy/tree/473f8059ff38cf59df25d7045ee026735fa02efa) |
