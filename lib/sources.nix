@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2025-04-15";
+    version = "unstable-2025-04-17";
     src = fetchFromGitHub {
-      owner = "matthewpi";
+      owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "7374a9d1080e4c5685397edcda7bf20b873d6e69";
-      hash = "sha256-h6Z/k6I/QUuDz0f6esUr9crhthypMq87t/PquElppqc=";
+      rev = "23f88b568a4f11de8c6c6a1d5b0aeb34b06c07d4";
+      hash = "sha256-rx3G5TNPJEaaQTQXBDXNcoQ8LFxvV7VTLekdwHBwEoE=";
     };
   };
   "tree-sitter-cairo" = {
@@ -1447,6 +1447,15 @@
       repo = "tree-sitter-elixir";
       rev = "v0.3.4";
       hash = "sha256-9M/DpqpGivDtgGt3ojU/kHR51sla59+KtZ/95hT6IIo=";
+    };
+  };
+  "tree-sitter-elle" = {
+    version = "unstable-2025-04-16";
+    src = fetchFromGitHub {
+      owner = "acquitelol";
+      repo = "tree-sitter-elle";
+      rev = "d14e60684b3c2e3151d937dba822e090d25960b4";
+      hash = "sha256-Efy3QOtQx6artXLtg1l9GXRkf5QlepSKSZw3gUfH2vo=";
     };
   };
   "tree-sitter-elm" = {
@@ -3620,6 +3629,15 @@
       hash = "sha256-5OTxeW2SoiOmHlVQXdX3EHSCAM6oPdC6CxgCpHi4MBA=";
     };
   };
+  "tree-sitter-p4" = {
+    version = "unstable-2025-04-18";
+    src = fetchFromGitHub {
+      owner = "oxidecomputer";
+      repo = "tree-sitter-p4";
+      rev = "178257470b83af08663f68e25571f9643307a16c";
+      hash = "sha256-DG6wH/ngersOUnM4ZdvktCvZ/+sHz7BFzqB5EI8q8mI=";
+    };
+  };
   "tree-sitter-pactum" = {
     version = "unstable-2025-03-16";
     src = fetchFromGitHub {
@@ -3999,6 +4017,15 @@
       hash = "sha256-IDDAMd24WvLOSLgUbnNmPe2RSId0r6BOBoxWaw7TSUU=";
     };
   };
+  "tree-sitter-qbe" = {
+    version = "unstable-2024-09-01";
+    src = fetchFromGitHub {
+      owner = "bitterbloom";
+      repo = "tree-sitter-qbe";
+      rev = "20d1d194ee81c1a08d6681919d3cf09656c83b83";
+      hash = "sha256-8bXG24VWqbY+Q3SWEzZeHMStQ091tY1YQNvkrhLvTEA=";
+    };
+  };
   "tree-sitter-qmldir" = {
     version = "0.2.2";
     src = fetchFromGitHub {
@@ -4151,6 +4178,15 @@
       repo = "tree-sitter-rec";
       rev = "a7732557aaa55e6947729e354950434dd775aae0";
       hash = "sha256-8E2a+rns6TOYwuEE1uS7rfhDyqDyuGcNxZgc0b6U89k=";
+    };
+  };
+  "tree-sitter-refal" = {
+    version = "0.2.0";
+    src = fetchFromGitHub {
+      owner = "ilya-klyuchnikov";
+      repo = "tree-sitter-refal";
+      rev = "0.2.0";
+      hash = "sha256-KFK1/1YOaJtUnEF/pq5PggCUeE0yS18m3X1IqjDayug=";
     };
   };
   "tree-sitter-regent" = {
