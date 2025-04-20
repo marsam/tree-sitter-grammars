@@ -1,8 +1,9 @@
 name: update
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "18 4 * * *" # Arbitrary hour to avoid GitHub high load times at start of every hour.
 
 jobs:
   update:
