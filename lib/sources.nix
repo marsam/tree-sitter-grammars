@@ -559,12 +559,12 @@
     };
   };
   "tree-sitter-bibtex" = {
-    version = "unstable-2021-03-26";
+    version = "unstable-2025-04-19";
     src = fetchFromGitHub {
       owner = "latex-lsp";
       repo = "tree-sitter-bibtex";
-      rev = "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34";
-      hash = "sha256-wgduSxlpbJy/ITenBLfj5lhziUM1BApX6MjXhWcb7lQ=";
+      rev = "8d04ed27b3bc7929f14b7df9236797dab9f3fa66";
+      hash = "sha256-UOXGWm8k9YP0GUwvNEuIxeiXqJo4Jf9uBt+/oYaYUl4=";
     };
   };
   "tree-sitter-bicep" = {
@@ -2820,12 +2820,12 @@
     };
   };
   "tree-sitter-latex" = {
-    version = "unstable-2024-11-11";
+    version = "unstable-2025-04-19";
     src = fetchFromGitHub {
       owner = "latex-lsp";
       repo = "tree-sitter-latex";
-      rev = "7b06f6ed394308e7407a1703d2724128c45fc9d7";
-      hash = "sha256-HbRjblLBExpBkBBjHyEHfnK0oootjAsqkwjmGH3/UYI=";
+      rev = "f736d24d89acbd90092d92089e5171e6a449db40";
+      hash = "sha256-R2HYfoLL4vEeSRbp3APVw6YsEYSppu7k3g0aN3+ld2Q=";
     };
   };
   "tree-sitter-ld" = {
@@ -4469,12 +4469,12 @@
     };
   };
   "tree-sitter-slang" = {
-    version = "0.2.3";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-slang";
-      rev = "v0.2.3";
-      hash = "sha256-uxEh3Ir9L/g19qy7c5djNscIXyIP6YydOjV1ZxHf1Mw=";
+      rev = "v0.3.0";
+      hash = "sha256-Oj3Z1Zw1geM2jid7xg0041cYtStV+CRl7anXbIIGE5c=";
     };
   };
   "tree-sitter-slim" = {

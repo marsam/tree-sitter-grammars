@@ -59,7 +59,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bass | [2024-05-03](https://github.com/vito/tree-sitter-bass/tree/28dc7059722be090d04cd751aed915b2fee2f89a) |
 | tree-sitter-beancount | [2.3.3](https://github.com/polarmutex/tree-sitter-beancount/tree/v2.3.3) |
 | tree-sitter-bend | [2024-05-21](https://github.com/atomheartother/tree-sitter-bend/tree/3fda267484f868aacea6ea609adac4954f240d41) |
-| tree-sitter-bibtex | [2021-03-26](https://github.com/latex-lsp/tree-sitter-bibtex/tree/ccfd77db0ed799b6c22c214fe9d2937f47bc8b34) |
+| tree-sitter-bibtex | [2025-04-19](https://github.com/latex-lsp/tree-sitter-bibtex/tree/8d04ed27b3bc7929f14b7df9236797dab9f3fa66) |
 | tree-sitter-bicep | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-bicep/tree/v1.1.0) |
 | tree-sitter-bio | [2024-09-18](https://github.com/cryptocode/tree-sitter-bio/tree/f056eb58b25ae484ba1be7c41d3e257721d2dd63) |
 | tree-sitter-bison | [1.0.0](https://gitlab.com/btuin2/tree-sitter-bison//tree/1.0.0) |
@@ -340,7 +340,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
 | tree-sitter-lalrpop | [2025-03-20](https://github.com/traxys/tree-sitter-lalrpop/tree/8d38e9755c05d37df8a24dadb0fc64f6588ac188) |
 | tree-sitter-lama | [2025-02-15](https://codeberg.org/ProgramSnail/tree-sitter-lama/src/747b20dfed4934868ba457fd811eb2fb9ffc0ff3) |
-| tree-sitter-latex | [2024-11-11](https://github.com/latex-lsp/tree-sitter-latex/tree/7b06f6ed394308e7407a1703d2724128c45fc9d7) |
+| tree-sitter-latex | [2025-04-19](https://github.com/latex-lsp/tree-sitter-latex/tree/f736d24d89acbd90092d92089e5171e6a449db40) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
 | tree-sitter-lean | [2024-12-25](https://github.com/Julian/tree-sitter-lean/tree/efe6b87145608d12f5996bd7f0cf6095a0e82261) |
@@ -543,7 +543,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-semver | [0.0.1](https://github.com/uselessscat/tree-sitter-semver/tree/0.0.1) |
 | tree-sitter-shosts | [2025-01-15](https://github.com/Smart-Hosts/tree-sitter-shosts/tree/0b62b6e0fddb6ee7ac6940bbc967fa1956233c60) |
 | tree-sitter-skbdrc | [2025-02-25](https://github.com/starkwm/tree-sitter-skbdrc/tree/0436b5573bd1e4ee49bef4e08966486d72d4a221) |
-| tree-sitter-slang | [0.2.3](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.2.3) |
+| tree-sitter-slang | [0.3.0](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.0) |
 | tree-sitter-slim | [2025-03-04](https://github.com/theoo/tree-sitter-slim/tree/546e3aa1af8a3b355c7734efccd9a759ffc0b43a) |
 | tree-sitter-slint | [2025-03-05](https://github.com/slint-ui/tree-sitter-slint/tree/3493309534cd08ae176c7b917ec79068dca2c1c9) |
 | tree-sitter-smali | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-smali/tree/v1.0.0) |
