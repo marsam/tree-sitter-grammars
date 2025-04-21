@@ -388,12 +388,12 @@
     };
   };
   "tree-sitter-arcana" = {
-    version = "unstable-2025-03-20";
+    version = "unstable-2025-04-20";
     src = fetchFromGitHub {
       owner = "Skyppex";
       repo = "tree-sitter-arcana";
-      rev = "1ae5ec86eb5cebefc7460ce908c1524b8a39b8a4";
-      hash = "sha256-/Ca30CLgN+FIV0kUCWxjg5p8zsw7ulrk/L0azexRlWg=";
+      rev = "c7b29dae92a92356e2979634616abb1fab237463";
+      hash = "sha256-1oXxXia0/uZm11prZPrcCt6HXoDxLqn88BhZwNLT7FI=";
     };
   };
   "tree-sitter-arduino" = {
@@ -2792,12 +2792,12 @@
     };
   };
   "tree-sitter-koto" = {
-    version = "unstable-2025-04-09";
+    version = "unstable-2025-04-20";
     src = fetchFromGitHub {
       owner = "koto-lang";
       repo = "tree-sitter-koto";
-      rev = "f4e64231b5a2ddd3ff2731896b3bbcaf1c0b32a1";
-      hash = "sha256-aiorm1anQL5GX98qImT/w1LDf8Qw/4v6DfTOaQjvjUQ=";
+      rev = "d2ac6d6f13deb256a1f156f713c1261a2e5098ec";
+      hash = "sha256-RaZUUE0Z3Oygufn2H2oBeJCkg0pSaiUA0x9lf3LNWUQ=";
     };
   };
   "tree-sitter-kusto" = {
@@ -2892,12 +2892,12 @@
     };
   };
   "tree-sitter-lilypond" = {
-    version = "unstable-2025-04-12";
+    version = "unstable-2025-04-20";
     src = fetchFromGitHub {
       owner = "nwhetsell";
       repo = "tree-sitter-lilypond";
-      rev = "aa476ce8dfd9612af6ca910a63d8719737237c2c";
-      hash = "sha256-/rDiYPPtPI/iJQTJYCeYu/tK6S/h/HLTo9fgzA9Q8FY=";
+      rev = "84bec31cd69b05f8039ea043879351b12beb23fa";
+      hash = "sha256-wKRETg0ve9JqpIXgBFAlCSDU+iifLZRkVcgG6twnH7g=";
     };
   };
   "tree-sitter-linkerscript" = {
@@ -4613,12 +4613,12 @@
     };
   };
   "tree-sitter-spade" = {
-    version = "unstable-2025-04-18";
+    version = "unstable-2025-04-20";
     src = fetchFromGitLab {
       owner = "spade-lang";
       repo = "tree-sitter-spade";
-      rev = "548aa0d3b386bde18567d0c87403ca374ff85dfd";
-      hash = "sha256-zTEW6bmuV0kh+rs8wJHndh+kyj/wdF5P31GqCWyPn/0=";
+      rev = "39dba69d26782bf3439c62298cd1cf6b06901e31";
+      hash = "sha256-nRAS+HjzcFqpRxo68JbDfgeVEQwYrNtA8MWuvdgt0Wc=";
     };
   };
   "tree-sitter-sparql" = {

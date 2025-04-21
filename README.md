@@ -38,7 +38,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
 | tree-sitter-apparmor | [2024-11-23](https://github.com/Su3h7aM/tree-sitter-apparmor/tree/1a600d3b93cde5c86af0940b376241cd770061cc) |
 | tree-sitter-applesoft | [4.0.0](https://github.com/dfgordon/tree-sitter-applesoft/tree/v4.0.0) |
-| tree-sitter-arcana | [2025-03-20](https://github.com/Skyppex/tree-sitter-arcana/tree/1ae5ec86eb5cebefc7460ce908c1524b8a39b8a4) |
+| tree-sitter-arcana | [2025-04-20](https://github.com/Skyppex/tree-sitter-arcana/tree/c7b29dae92a92356e2979634616abb1fab237463) |
 | tree-sitter-arduino | [0.23.0](https://github.com/tree-sitter-grammars/tree-sitter-arduino/tree/v0.23.0) |
 | tree-sitter-asa | [2024-11-20](https://github.com/menaruben/tree-sitter-asa/tree/ddc26bd9dd5ad59aae23f4cf5bad67751a1dc0ae) |
 | tree-sitter-asciidoc | [0.3.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.3.0/tree-sitter-asciidoc) |
@@ -337,7 +337,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-koka | [2025-01-26](https://github.com/mtoohey31/tree-sitter-koka/tree/33c333f7ff4cac4138c0786198481b33d2880656) |
 | tree-sitter-kos | [2025-01-21](https://github.com/kos-lang/tree-sitter-kos/tree/eff4e8a6e3b5ac283b17fa8df5a67f6e024b4150) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
-| tree-sitter-koto | [2025-04-09](https://github.com/koto-lang/tree-sitter-koto/tree/f4e64231b5a2ddd3ff2731896b3bbcaf1c0b32a1) |
+| tree-sitter-koto | [2025-04-20](https://github.com/koto-lang/tree-sitter-koto/tree/d2ac6d6f13deb256a1f156f713c1261a2e5098ec) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
 | tree-sitter-lalrpop | [2025-03-20](https://github.com/traxys/tree-sitter-lalrpop/tree/8d38e9755c05d37df8a24dadb0fc64f6588ac188) |
 | tree-sitter-lama | [2025-02-15](https://codeberg.org/ProgramSnail/tree-sitter-lama/src/747b20dfed4934868ba457fd811eb2fb9ffc0ff3) |
@@ -348,8 +348,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ledger | [2024-12-02](https://github.com/cbarrete/tree-sitter-ledger/tree/d313153eef68c557ba4538b20de2d0e92f3ef6f8) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
-| tree-sitter-lilypond | [2025-04-12](https://github.com/nwhetsell/tree-sitter-lilypond/tree/aa476ce8dfd9612af6ca910a63d8719737237c2c/lilypond) |
-| tree-sitter-lilypond_scheme | [2025-04-12](https://github.com/nwhetsell/tree-sitter-lilypond/tree/aa476ce8dfd9612af6ca910a63d8719737237c2c/lilypond-scheme) |
+| tree-sitter-lilypond | [2025-04-20](https://github.com/nwhetsell/tree-sitter-lilypond/tree/84bec31cd69b05f8039ea043879351b12beb23fa/lilypond) |
+| tree-sitter-lilypond_scheme | [2025-04-20](https://github.com/nwhetsell/tree-sitter-lilypond/tree/84bec31cd69b05f8039ea043879351b12beb23fa/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2025-03-13](https://github.com/hankthetank27/tree-sitter-liquid/tree/d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42) |
 | tree-sitter-liquidsoap | [1.1.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.1.2) |
@@ -562,7 +562,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sosl | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/sosl) |
 | tree-sitter-souffle | [0.4.0](https://github.com/langston-barrett/tree-sitter-souffle/tree/v0.4.0) |
 | tree-sitter-sourcepawn | [0.7.7](https://github.com/nilshelmig/tree-sitter-sourcepawn/tree/v0.7.7) |
-| tree-sitter-spade | [2025-04-18](https://gitlab.com/spade-lang/tree-sitter-spade//tree/548aa0d3b386bde18567d0c87403ca374ff85dfd) |
+| tree-sitter-spade | [2025-04-20](https://gitlab.com/spade-lang/tree-sitter-spade//tree/39dba69d26782bf3439c62298cd1cf6b06901e31) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
 | tree-sitter-spicy | [2025-02-24](https://github.com/bbannier/tree-sitter-spicy/tree/473f8059ff38cf59df25d7045ee026735fa02efa) |
