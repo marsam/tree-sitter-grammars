@@ -4866,12 +4866,12 @@
     };
   };
   "tree-sitter-syncat_stylesheet" = {
-    version = "3.7.0";
+    version = "3.8.0";
     src = fetchFromGitHub {
       owner = "foxfriends";
       repo = "syncat";
-      rev = "3.7.0";
-      hash = "sha256-CUOfuEGmh3EitwVcij9CZ5MLJTuWMdde6jYuezokAt8=";
+      rev = "3.8.0";
+      hash = "sha256-W+oHzn+n65IwKceNfYMnN5CLM5VC14+f84zhBl2nk0Y=";
     };
   };
   "tree-sitter-syphon" = {
