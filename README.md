@@ -66,7 +66,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bitbake | [2024-04-27](https://github.com/tree-sitter-grammars/tree-sitter-bitbake/tree/a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b) |
 | tree-sitter-blade | [0.11.0](https://github.com/EmranMR/tree-sitter-blade/tree/v0.11.0) |
 | tree-sitter-blame | [0.0.1](https://github.com/github/codeql/tree/codeql-cli/v2.20.4/ql/buramu/tree-sitter-blame) |
-| tree-sitter-blom | [2025-01-08](https://github.com/xhyrom-utils/tree-sitter-blom/tree/fdd9a62978f33ee35ca70b90dc6a5b1c998d3d8c) |
+| tree-sitter-blom | [2025-04-22](https://github.com/xhyrom-utils/tree-sitter-blom/tree/bf6d000a34679a258beab24b464a6136cccf25c6) |
 | tree-sitter-blueprint | [2024-04-28](https://gitlab.com/gabmus/tree-sitter-blueprint//tree/60ba73739c6083c693d86a1a7cf039c07eb4ed59) |
 | tree-sitter-bp | [0.7.0](https://github.com/ambroisie/tree-sitter-bp/tree/v0.7.0) |
 | tree-sitter-bqn | [0.3.2](https://github.com/shnarazk/tree-sitter-bqn/tree/v0.3.2) |
@@ -337,7 +337,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-koka | [2025-01-26](https://github.com/mtoohey31/tree-sitter-koka/tree/33c333f7ff4cac4138c0786198481b33d2880656) |
 | tree-sitter-kos | [2025-01-21](https://github.com/kos-lang/tree-sitter-kos/tree/eff4e8a6e3b5ac283b17fa8df5a67f6e024b4150) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
-| tree-sitter-koto | [2025-04-20](https://github.com/koto-lang/tree-sitter-koto/tree/d2ac6d6f13deb256a1f156f713c1261a2e5098ec) |
+| tree-sitter-koto | [2025-04-22](https://github.com/koto-lang/tree-sitter-koto/tree/1e610746f48c24607733fac158d5bae79accd845) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
 | tree-sitter-lalrpop | [2025-03-20](https://github.com/traxys/tree-sitter-lalrpop/tree/8d38e9755c05d37df8a24dadb0fc64f6588ac188) |
 | tree-sitter-lama | [2025-02-15](https://codeberg.org/ProgramSnail/tree-sitter-lama/src/747b20dfed4934868ba457fd811eb2fb9ffc0ff3) |
@@ -366,7 +366,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
 | tree-sitter-lx | [2024-12-19](https://github.com/curist/tree-sitter-lx/tree/31b9ef54ce48a10c070918c73ea8bbfc53648c68) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2025-04-07](https://github.com/krn-robin/tree-sitter-magik/tree/1842e770b8f4ee757a4fa669301279873970cc8c) |
+| tree-sitter-magik | [2025-04-22](https://github.com/krn-robin/tree-sitter-magik/tree/05469c78e4371a9da403016472fd79ad77074cea) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -602,7 +602,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
 | tree-sitter-task | [2022-08-17](https://github.com/AlexanderBrevig/tree-sitter-task/tree/ed4fb3674dd2d889c36e121f7173099290452af2) |
 | tree-sitter-taskjuggler | [2024-05-01](https://gitlab.com/bricka/tree-sitter-taskjuggler//tree/941791e2c40593f40897a35c21cec9129eee0968) |
-| tree-sitter-tcl | [2025-04-16](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/7b582f8b113bd8a014a44e07d103f70205ac983d) |
+| tree-sitter-tcl | [2025-04-22](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/2b7caac46a25e45e6f8ec9c2e1fa4bfc998ae21b) |
 | tree-sitter-teal | [0.0.4](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.0.4) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
 | tree-sitter-templ | [2025-03-01](https://github.com/vrischmann/tree-sitter-templ/tree/7f7f06b3931ca00e8ddfbeab3fc08ad00d297fad) |

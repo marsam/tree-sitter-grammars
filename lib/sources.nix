@@ -613,12 +613,12 @@
     };
   };
   "tree-sitter-blom" = {
-    version = "unstable-2025-01-08";
+    version = "unstable-2025-04-22";
     src = fetchFromGitHub {
       owner = "xhyrom-utils";
       repo = "tree-sitter-blom";
-      rev = "fdd9a62978f33ee35ca70b90dc6a5b1c998d3d8c";
-      hash = "sha256-hOE+DeAbjrEIll6+Qe7qQVplyXyzXoCTJ8V5ALSTF10=";
+      rev = "bf6d000a34679a258beab24b464a6136cccf25c6";
+      hash = "sha256-SX+nNoOgIW8Okmbo/wBEviH1LLF62Ukenydr4diWlhI=";
     };
   };
   "tree-sitter-blueprint" = {
@@ -2792,12 +2792,12 @@
     };
   };
   "tree-sitter-koto" = {
-    version = "unstable-2025-04-20";
+    version = "unstable-2025-04-22";
     src = fetchFromGitHub {
       owner = "koto-lang";
       repo = "tree-sitter-koto";
-      rev = "d2ac6d6f13deb256a1f156f713c1261a2e5098ec";
-      hash = "sha256-RaZUUE0Z3Oygufn2H2oBeJCkg0pSaiUA0x9lf3LNWUQ=";
+      rev = "1e610746f48c24607733fac158d5bae79accd845";
+      hash = "sha256-+Qzj4jliz4KyitBln6YyQyxpNrngnZo6KICqdvmIAsk=";
     };
   };
   "tree-sitter-kusto" = {
@@ -3045,12 +3045,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2025-04-07";
+    version = "unstable-2025-04-22";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "1842e770b8f4ee757a4fa669301279873970cc8c";
-      hash = "sha256-7W9+9/oiXd1ENzPSRCqCndoFEAKapvKdCFq0EKJ/IjQ=";
+      rev = "05469c78e4371a9da403016472fd79ad77074cea";
+      hash = "sha256-GM8+pErQqR/y6nAHj7yKw2jJFOU/amsdHMuoJARXEIE=";
     };
   };
   "tree-sitter-make" = {
@@ -4966,12 +4966,12 @@
     };
   };
   "tree-sitter-tcl" = {
-    version = "unstable-2025-04-16";
+    version = "unstable-2025-04-22";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-tcl";
-      rev = "7b582f8b113bd8a014a44e07d103f70205ac983d";
-      hash = "sha256-d1k2gZOg9OJFoU+h9Y6Bcqsb0XXj7jE2kDLvUPJxvRI=";
+      rev = "2b7caac46a25e45e6f8ec9c2e1fa4bfc998ae21b";
+      hash = "sha256-zzox6E3E5d3PBnel7CN+QVtvpVJDyUm2fHRUU97d1aU=";
     };
   };
   "tree-sitter-teal" = {
