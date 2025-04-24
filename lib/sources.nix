@@ -388,12 +388,12 @@
     };
   };
   "tree-sitter-arcana" = {
-    version = "unstable-2025-04-20";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "Skyppex";
       repo = "tree-sitter-arcana";
-      rev = "c7b29dae92a92356e2979634616abb1fab237463";
-      hash = "sha256-1oXxXia0/uZm11prZPrcCt6HXoDxLqn88BhZwNLT7FI=";
+      rev = "7092ea9631a39113c462ab56594cc478fcf7704f";
+      hash = "sha256-qnDlJm0yNwvvq7I3AG8B5LtEJXGWhY0hzcuwYlA3ZT4=";
     };
   };
   "tree-sitter-arduino" = {
@@ -469,12 +469,12 @@
     };
   };
   "tree-sitter-astro" = {
-    version = "unstable-2024-12-26";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "virchau13";
       repo = "tree-sitter-astro";
-      rev = "0ad33e32ae9726e151d16ca20ba3e507ff65e01f";
-      hash = "sha256-LhehKOhCDPExEgEiOj3TiuFk8/DohzYhy/9GmUSxaIg=";
+      rev = "213f6e6973d9b456c6e50e86f19f66877e7ef0ee";
+      hash = "sha256-TpXs3jbYn39EHxTdtSfR7wLA1L8v9uyK/ATPp5v4WqE=";
     };
   };
   "tree-sitter-august" = {
@@ -1684,12 +1684,12 @@
     };
   };
   "tree-sitter-flamingo" = {
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchFromGitHub {
       owner = "inobulles";
       repo = "tree-sitter-flamingo";
-      rev = "v0.1.2";
-      hash = "sha256-QpN3CtoVZ1xU8Tv401vl8tQTvrissE4VgyAHsQTieZ8=";
+      rev = "v0.1.3";
+      hash = "sha256-5ssOROkC5sUOce7Ajwvqx6rg4UK2ZXjKIr6uh4jZN4A=";
     };
   };
   "tree-sitter-fluentbit" = {
@@ -2865,12 +2865,12 @@
     };
   };
   "tree-sitter-ledger" = {
-    version = "unstable-2024-12-02";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "cbarrete";
       repo = "tree-sitter-ledger";
-      rev = "d313153eef68c557ba4538b20de2d0e92f3ef6f8";
-      hash = "sha256-/dE3Uqi5zuTWtbjPAm9j7+z6RnTKJeXdS5na+XoGCE0=";
+      rev = "4d828c87e8bf3f7cef9927417b47ce1126c1ca29";
+      hash = "sha256-GveTtxLVeMDK1w2E4GTFG8KQ/LIC2pyaDzmJOEsh0p0=";
     };
   };
   "tree-sitter-leo" = {
@@ -3198,12 +3198,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-04-11";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "8a9c57fe224cbc9194a08c1d5b734290b354edc2";
-      hash = "sha256-sW610esBYCicK+wy6A0WOZlFCnM5/xpZHaTl540xVHQ=";
+      rev = "5766159d81687a834874432417bfbcc22f43bcf1";
+      hash = "sha256-J3r7+MHuawdoE/csC3+x1K0T9qFODmfO7SemG5JfvDQ=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3369,12 +3369,12 @@
     };
   };
   "tree-sitter-nelua" = {
-    version = "unstable-2025-03-16";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "kmafeni04";
       repo = "tree-sitter-nelua";
-      rev = "1dbd50e7cbafc6c5d9e12cefb0d431c9ed4709f7";
-      hash = "sha256-RmlAHcDcX/NvsI1+L7uzMN9amI8F4DpqVmUZWK6UoqQ=";
+      rev = "25ea4feba72b8a0461ffd7ae3d4ff0a9f007e060";
+      hash = "sha256-eht8CTfiMp54Ive54S8xQmvZz06vFWDnJFUR/3VbcLc=";
     };
   };
   "tree-sitter-nesfab" = {
@@ -3630,12 +3630,12 @@
     };
   };
   "tree-sitter-p4" = {
-    version = "unstable-2025-04-18";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "oxidecomputer";
       repo = "tree-sitter-p4";
-      rev = "178257470b83af08663f68e25571f9643307a16c";
-      hash = "sha256-DG6wH/ngersOUnM4ZdvktCvZ/+sHz7BFzqB5EI8q8mI=";
+      rev = "ec27f5123d4f80ced59302820bec3e212794132f";
+      hash = "sha256-v1nJq5nuiJJ/TFjQMXzNSoXhVKjDejnKKtlT4A6RWiM=";
     };
   };
   "tree-sitter-pactum" = {
@@ -4514,12 +4514,12 @@
     };
   };
   "tree-sitter-slim" = {
-    version = "unstable-2025-03-04";
+    version = "unstable-2025-04-23";
     src = fetchFromGitHub {
       owner = "theoo";
       repo = "tree-sitter-slim";
-      rev = "546e3aa1af8a3b355c7734efccd9a759ffc0b43a";
-      hash = "sha256-G9+9TdEDqIDt3HvXWxMrjKixtgey7qkFNNp9fWx7Uec=";
+      rev = "d8a79d15c7b9a68d2d1616c319d2b04d1999ab9f";
+      hash = "sha256-jgED9DCpv3Kz24LvUbUmO1/G+O8hVQTY2K0qI6j+fRA=";
     };
   };
   "tree-sitter-slint" = {
