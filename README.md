@@ -38,7 +38,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
 | tree-sitter-apparmor | [2024-11-23](https://github.com/Su3h7aM/tree-sitter-apparmor/tree/1a600d3b93cde5c86af0940b376241cd770061cc) |
 | tree-sitter-applesoft | [4.0.0](https://github.com/dfgordon/tree-sitter-applesoft/tree/v4.0.0) |
-| tree-sitter-arcana | [2025-04-23](https://github.com/Skyppex/tree-sitter-arcana/tree/7092ea9631a39113c462ab56594cc478fcf7704f) |
+| tree-sitter-arcana | [2025-04-24](https://github.com/Skyppex/tree-sitter-arcana/tree/88f12b009bf02b65affb4c9ce2919a9ffc9890e5) |
 | tree-sitter-arduino | [0.23.0](https://github.com/tree-sitter-grammars/tree-sitter-arduino/tree/v0.23.0) |
 | tree-sitter-asa | [2024-11-20](https://github.com/menaruben/tree-sitter-asa/tree/ddc26bd9dd5ad59aae23f4cf5bad67751a1dc0ae) |
 | tree-sitter-asciidoc | [0.3.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.3.0/tree-sitter-asciidoc) |
@@ -485,7 +485,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pymanifest | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.5.1) |
 | tree-sitter-pyrope | [2025-04-15](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/75ac0fb6577a5e0698722d9b1510c78741d389e3) |
 | tree-sitter-python | [0.23.6](https://github.com/tree-sitter/tree-sitter-python/tree/v0.23.6) |
-| tree-sitter-q | [0.2.2](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.2) |
+| tree-sitter-q | [0.2.4](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.4) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
 | tree-sitter-ql | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql/tree/v0.23.1) |
 | tree-sitter-ql_dbscheme | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql-dbscheme/tree/v0.23.1) |

@@ -388,12 +388,12 @@
     };
   };
   "tree-sitter-arcana" = {
-    version = "unstable-2025-04-23";
+    version = "unstable-2025-04-24";
     src = fetchFromGitHub {
       owner = "Skyppex";
       repo = "tree-sitter-arcana";
-      rev = "7092ea9631a39113c462ab56594cc478fcf7704f";
-      hash = "sha256-qnDlJm0yNwvvq7I3AG8B5LtEJXGWhY0hzcuwYlA3ZT4=";
+      rev = "88f12b009bf02b65affb4c9ce2919a9ffc9890e5";
+      hash = "sha256-lwdFxgyEZ9pJL71CEKGY2fIBcQ+wOlDOdT8BDI6540c=";
     };
   };
   "tree-sitter-arduino" = {
@@ -4009,12 +4009,12 @@
     };
   };
   "tree-sitter-q" = {
-    version = "0.2.2";
+    version = "0.2.4";
     src = fetchFromGitHub {
       owner = "Gchouchou";
       repo = "tree-sitter-q";
-      rev = "v0.2.2";
-      hash = "sha256-IDDAMd24WvLOSLgUbnNmPe2RSId0r6BOBoxWaw7TSUU=";
+      rev = "v0.2.4";
+      hash = "sha256-HB8UF7yzpkQgQ9dHg4In1ikn0WQZXPIcf/4iJEfVl8Y=";
     };
   };
   "tree-sitter-qbe" = {
