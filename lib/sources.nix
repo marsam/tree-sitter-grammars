@@ -388,12 +388,12 @@
     };
   };
   "tree-sitter-arcana" = {
-    version = "unstable-2025-04-24";
+    version = "unstable-2025-04-25";
     src = fetchFromGitHub {
       owner = "Skyppex";
       repo = "tree-sitter-arcana";
-      rev = "88f12b009bf02b65affb4c9ce2919a9ffc9890e5";
-      hash = "sha256-lwdFxgyEZ9pJL71CEKGY2fIBcQ+wOlDOdT8BDI6540c=";
+      rev = "23a2b244893d17dbb7612f4dccfc37b8cd447e9e";
+      hash = "sha256-uDWMoxiV4GbH04/HCKU1169CQ5G31SxR5xSn3pGj6NA=";
     };
   };
   "tree-sitter-arduino" = {
@@ -3198,12 +3198,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-04-23";
+    version = "unstable-2025-04-25";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "5766159d81687a834874432417bfbcc22f43bcf1";
-      hash = "sha256-J3r7+MHuawdoE/csC3+x1K0T9qFODmfO7SemG5JfvDQ=";
+      rev = "c6c67b6138eba6b6efb7be2ca8febe5f1954ca7a";
+      hash = "sha256-Fnl0SHm+8g0iTY0qgMql55rBvS3bPY5adtlI0692Hcs=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4009,12 +4009,12 @@
     };
   };
   "tree-sitter-q" = {
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchFromGitHub {
       owner = "Gchouchou";
       repo = "tree-sitter-q";
-      rev = "v0.2.4";
-      hash = "sha256-HB8UF7yzpkQgQ9dHg4In1ikn0WQZXPIcf/4iJEfVl8Y=";
+      rev = "v0.2.5";
+      hash = "sha256-jZIAcTbz3UGMjT6yusrHhrt9CA9lU9c6rUjXejrkCjU=";
     };
   };
   "tree-sitter-qbe" = {
