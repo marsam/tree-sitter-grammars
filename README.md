@@ -517,7 +517,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-risor | [2024-09-05](https://github.com/applejag/tree-sitter-risor/tree/bec6f2e385597d0cae55b38f54515eee5f0ebffd) |
 | tree-sitter-rnc | [0.0.1-alpha](https://github.com/LdBeth/tree-sitter-rnc/tree/v0.0.1-alpha) |
 | tree-sitter-rnoweb | [2024-03-14](https://github.com/bamonroe/tree-sitter-rnoweb/tree/1a74dc0ed731ad07db39f063e2c5a6fe528cae7f) |
-| tree-sitter-robot | [2024-11-21](https://github.com/Hubro/tree-sitter-robot/tree/17c2300e91fc9da4ba14c16558bf4292941dc074) |
+| tree-sitter-robot | [1.1.0](https://github.com/Hubro/tree-sitter-robot/tree/v1.1.0) |
 | tree-sitter-robots | [2024-06-29](https://github.com/opa-oz/tree-sitter-robots-txt/tree/8e3a4205b76236bb6dbebdbee5afc262ce38bb62) |
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
@@ -602,7 +602,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
 | tree-sitter-task | [2022-08-17](https://github.com/AlexanderBrevig/tree-sitter-task/tree/ed4fb3674dd2d889c36e121f7173099290452af2) |
 | tree-sitter-taskjuggler | [2024-05-01](https://gitlab.com/bricka/tree-sitter-taskjuggler//tree/941791e2c40593f40897a35c21cec9129eee0968) |
-| tree-sitter-tcl | [2025-04-22](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/2b7caac46a25e45e6f8ec9c2e1fa4bfc998ae21b) |
+| tree-sitter-tcl | [2025-04-30](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/93ad361b77faa39af410052e1ece22b9e6b8136c) |
 | tree-sitter-teal | [0.0.4](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.0.4) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
 | tree-sitter-templ | [2025-04-28](https://github.com/vrischmann/tree-sitter-templ/tree/be45a9fb20afd145b879b6fddafd88fcfc1b5b68) |

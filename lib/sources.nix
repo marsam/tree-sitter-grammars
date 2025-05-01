@@ -4271,12 +4271,12 @@
     };
   };
   "tree-sitter-robot" = {
-    version = "unstable-2024-11-21";
+    version = "1.1.0";
     src = fetchFromGitHub {
       owner = "Hubro";
       repo = "tree-sitter-robot";
-      rev = "17c2300e91fc9da4ba14c16558bf4292941dc074";
-      hash = "sha256-9f0xFmhEQnETvV2SAZW+jRtsVdl0ZT3CDmGkcd3Fn88=";
+      rev = "v1.1.0";
+      hash = "sha256-nP3BdE1m0Z+9oLaLJxDfycqVetQ223q8N0k4+AdZcWM=";
     };
   };
   "tree-sitter-robots" = {
@@ -4966,12 +4966,12 @@
     };
   };
   "tree-sitter-tcl" = {
-    version = "unstable-2025-04-22";
+    version = "unstable-2025-04-30";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-tcl";
-      rev = "2b7caac46a25e45e6f8ec9c2e1fa4bfc998ae21b";
-      hash = "sha256-zzox6E3E5d3PBnel7CN+QVtvpVJDyUm2fHRUU97d1aU=";
+      rev = "93ad361b77faa39af410052e1ece22b9e6b8136c";
+      hash = "sha256-J9mVVVgo92i9Pf2efa6XjopTi1XUxkpA5XiNHVDlQTI=";
     };
   };
   "tree-sitter-teal" = {
