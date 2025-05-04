@@ -112,7 +112,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-coalton | [2024-06-07](https://github.com/coalton-lang/tree-sitter-coalton/tree/7a44c8e6606b95e00b84f6a729f8a9db9e9d73fe) |
 | tree-sitter-cobol | [0.1.1](https://github.com/yutaro-sakamoto/tree-sitter-cobol/tree/0.1.1) |
 | tree-sitter-cognate | [2024-09-16](https://github.com/hedyhli/tree-sitter-cognate/tree/22ab34878b984ba6c5201bb65ade02f146d712bb) |
-| tree-sitter-comment | [0.2.0](https://github.com/stsewd/tree-sitter-comment/tree/v0.2.0) |
+| tree-sitter-comment | [0.3.0](https://github.com/stsewd/tree-sitter-comment/tree/v0.3.0) |
 | tree-sitter-commonlisp | [0.4.1](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp/tree/v0.4.1) |
 | tree-sitter-conl | [2025-01-03](https://github.com/ConradIrwin/tree-sitter-conl/tree/0b3ffc461c343f00b83a860ed5d7520493f76efb) |
 | tree-sitter-conllu | [2025-01-07](https://github.com/pmagistry/tree-sitter-conllu/tree/150f73417d2c8798d0f19a86d859bd4b3ccbc071) |
@@ -171,7 +171,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-eiffel | [1.0.0](https://github.com/imustafin/tree-sitter-eiffel/tree/v1.0.0) |
 | tree-sitter-elisp | [1.5.0](https://github.com/Wilfred/tree-sitter-elisp/tree/1.5.0) |
 | tree-sitter-elixir | [0.3.4](https://github.com/elixir-lang/tree-sitter-elixir/tree/v0.3.4) |
-| tree-sitter-elle | [2025-05-01](https://github.com/acquitelol/tree-sitter-elle/tree/4557fd6c7b6bc196c2afc8578d3abc0091c7e20a) |
+| tree-sitter-elle | [2025-05-03](https://github.com/acquitelol/tree-sitter-elle/tree/49090501d367618276a92ae35a1fb7eb35b1f566) |
 | tree-sitter-elm | [5.8.0](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.8.0) |
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
@@ -374,8 +374,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.4.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.4.1/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.0.4](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.4) |
-| tree-sitter-mcfuncx | [2024-07-16](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/e825832f938070305dc406737a542b43ebea3f64) |
+| tree-sitter-matlab | [1.0.5](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.5) |
+| tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
 | tree-sitter-melody | [2024-03-21](https://github.com/abiriadev/tree-sitter-melody/tree/ade2f6aa32bd8e87eba3f7c736ff97c6047b69d1) |
 | tree-sitter-menhir | [0.4.0](https://github.com/Kerl13/tree-sitter-menhir/tree/v0.4.0) |
@@ -650,7 +650,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-verilog | [1.0.3](https://github.com/tree-sitter/tree-sitter-verilog/tree/v1.0.3) |
 | tree-sitter-vhdl | [1.2.5](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v1.2.5) |
 | tree-sitter-vhs | [2025-03-26](https://github.com/charmbracelet/tree-sitter-vhs/tree/0c6fae9d2cfc5b217bfd1fe84a7678f5917116db) |
-| tree-sitter-vim | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-vim/tree/v0.5.0) |
+| tree-sitter-vim | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-vim/tree/v0.6.0) |
 | tree-sitter-vimdoc | [3.0.1](https://github.com/neovim/tree-sitter-vimdoc/tree/v3.0.1) |
 | tree-sitter-virgil | [2024-07-05](https://github.com/btwj/tree-sitter-virgil/tree/8e6907839b384af9019f4d52ee24d7b7cfb9cf70) |
 | tree-sitter-void | [2024-07-16](https://github.com/ge0mk/tree-sitter-void/tree/82ba59e160925a646b9b3c5e3aad846124cd4d05) |

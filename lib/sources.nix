@@ -964,12 +964,12 @@
     };
   };
   "tree-sitter-comment" = {
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "stsewd";
       repo = "tree-sitter-comment";
-      rev = "v0.2.0";
-      hash = "sha256-LZiDB9L0rMDOs/sRU6q403I47ImITDcOcC+7kJEHT78=";
+      rev = "v0.3.0";
+      hash = "sha256-O9BBcsMfIfDDzvm2eWuOhgLclUNdgZ/GsQd0kuFFFPQ=";
     };
   };
   "tree-sitter-commonlisp" = {
@@ -1450,12 +1450,12 @@
     };
   };
   "tree-sitter-elle" = {
-    version = "unstable-2025-05-01";
+    version = "unstable-2025-05-03";
     src = fetchFromGitHub {
       owner = "acquitelol";
       repo = "tree-sitter-elle";
-      rev = "4557fd6c7b6bc196c2afc8578d3abc0091c7e20a";
-      hash = "sha256-okIsbbryCT+uY/OoyX1rJlP7oV+JqH5UWx8mTSUbdcE=";
+      rev = "49090501d367618276a92ae35a1fb7eb35b1f566";
+      hash = "sha256-zra+GPloXNggyWlFJArMsBzVwa67gRq4HaHuRWHh1yA=";
     };
   };
   "tree-sitter-elm" = {
@@ -3108,21 +3108,21 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.0.4";
-      hash = "sha256-dFsHOqleUTJCzidlKv/5kpawYhbn0jmOIpPrpJQJj80=";
+      rev = "v1.0.5";
+      hash = "sha256-iiELNwO4m0lr2Bcowu5zj0VdA2Eg2i5N58MwC7HiGbs=";
     };
   };
   "tree-sitter-mcfuncx" = {
-    version = "unstable-2024-07-16";
+    version = "unstable-2025-05-03";
     src = fetchFromGitHub {
       owner = "PFiS1737";
       repo = "tree-sitter-mcfuncx";
-      rev = "e825832f938070305dc406737a542b43ebea3f64";
-      hash = "sha256-NZaFZ6EkIDEGc/syTelCcH5nRViSDfNqPPKCR07rBq8=";
+      rev = "ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831";
+      hash = "sha256-bOkRIzS1tHTRJDRLtUJlWxoKgY9IB8YRptLvXk/6HbM=";
     };
   };
   "tree-sitter-mediawiki" = {
@@ -5344,12 +5344,12 @@
     };
   };
   "tree-sitter-vim" = {
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-vim";
-      rev = "v0.5.0";
-      hash = "sha256-UvH/k0gWEhrgxG1HnrdmaLHzygkaKk4hx2gK/6TZYNM=";
+      rev = "v0.6.0";
+      hash = "sha256-XTmfjrADPCi28qV5M/DWwIfzp735U+tMqEVofqC1gHQ=";
     };
   };
   "tree-sitter-vimdoc" = {
