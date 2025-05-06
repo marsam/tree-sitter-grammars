@@ -1072,12 +1072,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-04-18";
+    version = "unstable-2025-05-05";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "07b93b9f9dc38ace8890fecb002e6fb7666d6d1e";
-      hash = "sha256-r2wKpQlWwgSHqPh7wkxf402tm4T5Ici8ISOwvVbquY8=";
+      rev = "f332617d66ef452552800c1a3a979a5826225570";
+      hash = "sha256-f0/i9JHYWeif9xeZPKNacEnwcp6mPRRfFZ90I3lRgW8=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -1225,12 +1225,12 @@
     };
   };
   "tree-sitter-dezyne" = {
-    version = "unstable-2025-02-17";
+    version = "unstable-2025-05-05";
     src = fetchFromGitHub {
       owner = "j0ran";
       repo = "tree-sitter-dezyne";
-      rev = "d69df1ea7de1b9f632f7f6ed1a40c02c75002691";
-      hash = "sha256-/cW6aZio3+mPG+DghLXe/CKErKYbXwQDxpgc2b/60R0=";
+      rev = "824c0e858ec5a0190ed69c2106f0f042530a3860";
+      hash = "sha256-mctc5ImjvBjYlk7GEgpBJz6lFjIq27n05jFg2rQGPDk=";
     };
   };
   "tree-sitter-df" = {
@@ -3045,12 +3045,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2025-04-28";
+    version = "unstable-2025-05-05";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "cb3010fb6888a00383d9d9996ac038ca92a0be3a";
-      hash = "sha256-+M/GdFrVWV1SSDOG3J7SiuvR0GV2uEDJlwFzzuWUF/w=";
+      rev = "e58a7b9e940056ac0726413b8f1df93db3dcb532";
+      hash = "sha256-52fZQC0siZhRJoqtiHFWXVWPO0u0goYNRPiX3rbhCMU=";
     };
   };
   "tree-sitter-make" = {
@@ -4276,7 +4276,7 @@
       owner = "Hubro";
       repo = "tree-sitter-robot";
       rev = "v1.1.2";
-      hash = "sha256-fTV45TQp2Z+ivh2YWphlJjyuBh0iMCpaNDyKoHrNAh0=";
+      hash = "sha256-M0Um0JYvxQDYC3kqIENCiEIdEPOPNa05/2idih/fWas=";
     };
   };
   "tree-sitter-robots" = {
@@ -5056,12 +5056,12 @@
     };
   };
   "tree-sitter-times" = {
-    version = "unstable-2025-04-02";
+    version = "unstable-2025-05-05";
     src = fetchFromGitHub {
       owner = "michaeladler";
       repo = "tree-sitter-times";
-      rev = "fa216fb2375ddf4e2fc7ed4406b4911b818f2dc5";
-      hash = "sha256-cr9DBq+LnHUp8kK9l13FPK6roAK1DsQPZVU3TeoqOBo=";
+      rev = "eaa966b425cb71e1f122ab7eb3859fc424f4d936";
+      hash = "sha256-x2OmB93Yc/rVW/RLbiafMhi8uuEqmtxW8pH1aqKNYeU=";
     };
   };
   "tree-sitter-tl" = {
