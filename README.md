@@ -348,8 +348,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ledger | [2025-05-04](https://github.com/cbarrete/tree-sitter-ledger/tree/96c92d4908a836bf8f661166721c98439f8afb80) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
-| tree-sitter-lilypond | [2025-04-20](https://github.com/nwhetsell/tree-sitter-lilypond/tree/84bec31cd69b05f8039ea043879351b12beb23fa/lilypond) |
-| tree-sitter-lilypond_scheme | [2025-04-20](https://github.com/nwhetsell/tree-sitter-lilypond/tree/84bec31cd69b05f8039ea043879351b12beb23fa/lilypond-scheme) |
+| tree-sitter-lilypond | [2025-05-06](https://github.com/nwhetsell/tree-sitter-lilypond/tree/61a8e95e334c3a5450c82ed454d8b7941a8b435d/lilypond) |
+| tree-sitter-lilypond_scheme | [2025-05-06](https://github.com/nwhetsell/tree-sitter-lilypond/tree/61a8e95e334c3a5450c82ed454d8b7941a8b435d/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2025-03-13](https://github.com/hankthetank27/tree-sitter-liquid/tree/d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42) |
 | tree-sitter-liquidsoap | [1.1.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.1.2) |
@@ -485,7 +485,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pymanifest | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.5.1) |
 | tree-sitter-pyrope | [2025-04-15](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/75ac0fb6577a5e0698722d9b1510c78741d389e3) |
 | tree-sitter-python | [0.23.6](https://github.com/tree-sitter/tree-sitter-python/tree/v0.23.6) |
-| tree-sitter-q | [0.2.8](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.8) |
+| tree-sitter-q | [0.2.9](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.9) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
 | tree-sitter-ql | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql/tree/v0.23.1) |
 | tree-sitter-ql_dbscheme | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql-dbscheme/tree/v0.23.1) |
