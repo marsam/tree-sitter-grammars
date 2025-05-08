@@ -2892,12 +2892,12 @@
     };
   };
   "tree-sitter-lilypond" = {
-    version = "unstable-2025-05-06";
+    version = "unstable-2025-05-07";
     src = fetchFromGitHub {
       owner = "nwhetsell";
       repo = "tree-sitter-lilypond";
-      rev = "61a8e95e334c3a5450c82ed454d8b7941a8b435d";
-      hash = "sha256-SKxUpAZpGqXxqQmUMHtZUrOV+eHTiy0eQSaZb+3YwYs=";
+      rev = "bdb61ec81f533553407b56dfef79c47154bd6cb9";
+      hash = "sha256-0wmfC0gesa3XEiqXgk82iscibKgfRiVLGLvH8S5EW6I=";
     };
   };
   "tree-sitter-linkerscript" = {

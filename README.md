@@ -348,8 +348,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ledger | [2025-05-04](https://github.com/cbarrete/tree-sitter-ledger/tree/96c92d4908a836bf8f661166721c98439f8afb80) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
-| tree-sitter-lilypond | [2025-05-06](https://github.com/nwhetsell/tree-sitter-lilypond/tree/61a8e95e334c3a5450c82ed454d8b7941a8b435d/lilypond) |
-| tree-sitter-lilypond_scheme | [2025-05-06](https://github.com/nwhetsell/tree-sitter-lilypond/tree/61a8e95e334c3a5450c82ed454d8b7941a8b435d/lilypond-scheme) |
+| tree-sitter-lilypond | [2025-05-07](https://github.com/nwhetsell/tree-sitter-lilypond/tree/bdb61ec81f533553407b56dfef79c47154bd6cb9/lilypond) |
+| tree-sitter-lilypond_scheme | [2025-05-07](https://github.com/nwhetsell/tree-sitter-lilypond/tree/bdb61ec81f533553407b56dfef79c47154bd6cb9/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2025-03-13](https://github.com/hankthetank27/tree-sitter-liquid/tree/d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42) |
 | tree-sitter-liquidsoap | [1.1.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.1.2) |
