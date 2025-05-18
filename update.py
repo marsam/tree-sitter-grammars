@@ -225,6 +225,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-circom": Grammar("https://github.com/Decurity/tree-sitter-circom"),
     "tree-sitter-clingo": Grammar("https://github.com/potassco/tree-sitter-clingo"),
     "tree-sitter-clojure": Grammar("https://github.com/sogaiu/tree-sitter-clojure"),
+    "tree-sitter-clojure-simple": Grammar("https://github.com/sogaiu/tree-sitter-clojure-simple", "HEAD"),
     "tree-sitter-cloudflare": Grammar("https://github.com/nfowl/tree-sitter-cloudflare"),
     "tree-sitter-clue": Grammar("https://github.com/ClueLang/tree-sitter-clue"),
     "tree-sitter-cmake": Grammar("https://github.com/uyha/tree-sitter-cmake"),
@@ -477,6 +478,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-mermaid": Grammar("https://github.com/monaqa/tree-sitter-mermaid"),
     "tree-sitter-mers": Grammar("https://github.com/Dummi26/mers"),
     "tree-sitter-meson": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-meson"),
+    "tree-sitter-metal": Grammar("https://github.com/save-buffer/tree-sitter-metal"),
     "tree-sitter-mips": Grammar("https://github.com/cknacayama/tree-sitter-mips"),
     "tree-sitter-mlir": Grammar("https://github.com/artagnon/tree-sitter-mlir"),
     "tree-sitter-mojo": Grammar("https://github.com/lsh/tree-sitter-mojo"),
@@ -499,6 +501,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-ned": Grammar("https://github.com/omnetpp/tree-sitter-ned"),
     "tree-sitter-nelua": Grammar("https://github.com/kmafeni04/tree-sitter-nelua"),  # Alternative https://github.com/mbekkomo/tree-sitter-nelua
     "tree-sitter-nesfab": Grammar("https://github.com/hnd2/tree-sitter-nesfab"),
+    "tree-sitter-netlinx": Grammar("https://github.com/Norgate-AV/tree-sitter-netlinx"),
     "tree-sitter-newick": Grammar("https://github.com/delehef/tree-sitter-newick"),
     "tree-sitter-nginx": Grammar("https://github.com/opa-oz/tree-sitter-nginx"),  # Alternative: https://gitlab.com/joncoole/tree-sitter-nginx
     "tree-sitter-nickel": Grammar("https://github.com/nickel-lang/tree-sitter-nickel"),
@@ -693,6 +696,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-toml": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-toml"),
     "tree-sitter-topas": Grammar("https://github.com/JamesDoingStuff/tree-sitter-topas", "HEAD"),
     "tree-sitter-tplspec": Grammar("https://github.com/citorva/tree-sitter-tplspec"),
+    "tree-sitter-tsql": Grammar("https://github.com/Crary-Systems/tree-sitter-tsql"),
     "tree-sitter-tup": Grammar("https://github.com/RoBaertschi/tree-sitter-tup"),
     "tree-sitter-turbowave": Grammar("https://github.com/dfgordon/tree-sitter-turbowave"),
     "tree-sitter-turtle": Grammar("https://github.com/GordianDziwis/tree-sitter-turtle"),

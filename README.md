@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (678)</strong></summary>
+  <summary><strong>Available grammars (682)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -106,6 +106,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-circom | [2024-09-09](https://github.com/Decurity/tree-sitter-circom/tree/02150524228b1e6afef96949f2d6b7cc0aaf999e) |
 | tree-sitter-clingo | [2024-06-28](https://github.com/potassco/tree-sitter-clingo/tree/cb06e649c2994de6dc6b4bafb3dd864e2ed33675) |
 | tree-sitter-clojure | [0.0.13](https://github.com/sogaiu/tree-sitter-clojure/tree/v0.0.13) |
+| tree-sitter-clojure-simple | [2025-05-21](https://github.com/sogaiu/tree-sitter-clojure-simple/tree/8aac2a045b29ffb83bd0695b7c6941909687eac9) |
 | tree-sitter-cloudflare | [2024-09-09](https://github.com/nfowl/tree-sitter-cloudflare/tree/6cfec8711ca7b1a6e24a710d7987f6286d504caa) |
 | tree-sitter-clue | [2025-01-24](https://github.com/ClueLang/tree-sitter-clue/tree/0a32781235e38a81dac8c4e06cca186b90a77189) |
 | tree-sitter-cmake | [0.7.0](https://github.com/uyha/tree-sitter-cmake/tree/v0.7.0) |
@@ -383,6 +384,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mermaid | [2024-04-22](https://github.com/monaqa/tree-sitter-mermaid/tree/90ae195b31933ceb9d079abfa8a3ad0a36fee4cc) |
 | tree-sitter-mers | [2025-02-07](https://github.com/Dummi26/mers/tree/ac6b405a3cd92edfffa6108b836ed781e21d100d/tree-sitter-mers) |
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
+| tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-05-12](https://github.com/shackle-rs/shackle/tree/958f80dd6c28e2298003a7246d248c77e73bea3b/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
 | tree-sitter-mlir | [2025-05-16](https://github.com/artagnon/tree-sitter-mlir/tree/3b2ae4ce9a8abca997ed3b34625d462248d1bbac) |
@@ -407,6 +409,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ned | [2025-03-31](https://github.com/omnetpp/tree-sitter-ned/tree/f18d2c7c0224ff868d8610367ed720147aa227e4) |
 | tree-sitter-nelua | [2025-05-19](https://github.com/kmafeni04/tree-sitter-nelua/tree/e77f174d771d7c62fd1813b799ce4a798f680bc6) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
+| tree-sitter-netlinx | [1.0.4](https://github.com/Norgate-AV/tree-sitter-netlinx/tree/v1.0.4) |
 | tree-sitter-newick | [2024-02-12](https://github.com/delehef/tree-sitter-newick/tree/efb5d960e10582a598a09d8dd4bea2924a7c51b7) |
 | tree-sitter-nginx | [2025-01-25](https://github.com/opa-oz/tree-sitter-nginx/tree/989da760be05a3334af3ec88705cbf57e6a9c41d) |
 | tree-sitter-nickel | [0.3](https://github.com/nickel-lang/tree-sitter-nickel/tree/0.3) |
@@ -622,6 +625,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-toml | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-toml/tree/v0.7.0) |
 | tree-sitter-topas | [2025-01-16](https://github.com/JamesDoingStuff/tree-sitter-topas/tree/3c78eecccbd2e644828aa4cbc843e747ce644c6a) |
 | tree-sitter-tplspec | [2024-05-14](https://github.com/citorva/tree-sitter-tplspec/tree/80eea8624bd4fa3c6c0beeb3ca44ec53f5c1209d) |
+| tree-sitter-tsql | [0.0.1](https://github.com/Crary-Systems/tree-sitter-tsql/tree/0.0.1) |
 | tree-sitter-tsv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/tsv) |
 | tree-sitter-tsx | [0.23.2](https://github.com/tree-sitter/tree-sitter-typescript/tree/v0.23.2/tsx) |
 | tree-sitter-tup | [2025-03-10](https://github.com/RoBaertschi/tree-sitter-tup/tree/f315d25a11f8bb25a6ccdf7fd0b8dead4d361695) |
