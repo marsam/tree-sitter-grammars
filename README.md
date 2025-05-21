@@ -79,7 +79,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bsv | [2025-03-17](https://github.com/yuyuranium/tree-sitter-bsv/tree/bf617f32ad0eba34f0561c1acf3e4b831c430f22) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.23.5](https://github.com/tree-sitter/tree-sitter-c/tree/v0.23.5) |
-| tree-sitter-c3 | [0.5.3](https://github.com/c3lang/tree-sitter-c3/tree/v0.5.3) |
+| tree-sitter-c3 | [0.6.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.6.0) |
 | tree-sitter-c_sharp | [0.23.1](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.1) |
 | tree-sitter-ca65 | [2024-07-28](https://github.com/babasbot/tree-sitter-ca65/tree/fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
@@ -142,7 +142,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-datazinc | [2025-05-12](https://github.com/shackle-rs/shackle/tree/958f80dd6c28e2298003a7246d248c77e73bea3b/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
-| tree-sitter-desktop | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v0.1.1) |
+| tree-sitter-desktop | [0.1.2](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v0.1.2) |
 | tree-sitter-devicetree | [0.14.1](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.14.1) |
 | tree-sitter-dezyne | [2025-05-05](https://github.com/j0ran/tree-sitter-dezyne/tree/824c0e858ec5a0190ed69c2106f0f042530a3860) |
 | tree-sitter-df | [0.0.4](https://github.com/usagi-coffee/tree-sitter-df/tree/v0.0.4) |
@@ -207,7 +207,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
 | tree-sitter-fodot | [2024-07-17](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/674dabc2f34907d47d9e77e51ac39e1e098a1637) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
-| tree-sitter-format_string | [0.1.0](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.0) |
+| tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
 | tree-sitter-forth | [2023-11-03](https://github.com/AlexanderBrevig/tree-sitter-forth/tree/90189238385cf636b9ee99ce548b9e5b5e569d48) |
 | tree-sitter-fortran | [0.5.1](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.5.1) |
@@ -678,7 +678,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-xidoc | [2023-01-03](https://git.sr.ht/~xigoi/tree-sitter-xidoc/tree/d24aea769493c19d3b55ad682e0d459fac27ee5c) |
 | tree-sitter-xit | [0.2](https://github.com/synaptiko/tree-sitter-xit/tree/0.2) |
 | tree-sitter-xml | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-xml/tree/v0.7.0/xml) |
-| tree-sitter-xresources | [0.1.2](https://github.com/ValdezFOmar/tree-sitter-xresources/tree/v0.1.2) |
+| tree-sitter-xresources | [0.1.3](https://github.com/ValdezFOmar/tree-sitter-xresources/tree/v0.1.3) |
 | tree-sitter-xtc | [2024-04-15](https://github.com/Alexis-Lapierre/tree-sitter-xtc/tree/7bc11b736250c45e25cfb0215db2f8393779957e) |
 | tree-sitter-yadl | [2025-03-12](https://github.com/DeSc1998/tree-sitter-yadl/tree/a8dd3df53ac21a936aafac9e0c09a95900c5a66b) |
 | tree-sitter-yaml | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-yaml/tree/v0.7.0) |
