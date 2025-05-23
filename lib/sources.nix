@@ -3225,12 +3225,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2025-05-19";
+    version = "unstable-2025-05-23";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "b394da6728545ab34f0264aac4141edcfe59e523";
-      hash = "sha256-djM9fXJ3z4Zher1vN9HPLuZNDUqpR1vQ8McT4ezZPbE=";
+      rev = "84a53c8510e81a37da519991d2444febba09f0c9";
+      hash = "sha256-FtC5zqLvqAG/GaLJs7g6A+1/OBVg4aDyhNyF+OBSJx8=";
     };
   };
   "tree-sitter-moonscript" = {
@@ -5623,12 +5623,12 @@
     };
   };
   "tree-sitter-yaml" = {
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-yaml";
-      rev = "v0.7.0";
-      hash = "sha256-23/zcjnQUQt32N2EdQMzWM9srkXfQxlBvOo7FWH6rnw=";
+      rev = "v0.7.1";
+      hash = "sha256-Z2L/aQWIyZ8cSqbfjm/i10fJP++yZ2tZgho0U3asA0g=";
     };
   };
   "tree-sitter-yang" = {

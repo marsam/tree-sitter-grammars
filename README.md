@@ -389,7 +389,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
 | tree-sitter-mlir | [2025-05-16](https://github.com/artagnon/tree-sitter-mlir/tree/3b2ae4ce9a8abca997ed3b34625d462248d1bbac) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
-| tree-sitter-moonbit | [2025-05-19](https://github.com/moonbitlang/tree-sitter-moonbit/tree/b394da6728545ab34f0264aac4141edcfe59e523) |
+| tree-sitter-moonbit | [2025-05-23](https://github.com/moonbitlang/tree-sitter-moonbit/tree/84a53c8510e81a37da519991d2444febba09f0c9) |
 | tree-sitter-moonscript | [2025-03-10](https://github.com/kmafeni04/tree-sitter-moonscript/tree/7c594e6501f046c52250e17095a1cf925069b4af) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
@@ -685,7 +685,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-xresources | [0.1.3](https://github.com/ValdezFOmar/tree-sitter-xresources/tree/v0.1.3) |
 | tree-sitter-xtc | [2024-04-15](https://github.com/Alexis-Lapierre/tree-sitter-xtc/tree/7bc11b736250c45e25cfb0215db2f8393779957e) |
 | tree-sitter-yadl | [2025-03-12](https://github.com/DeSc1998/tree-sitter-yadl/tree/a8dd3df53ac21a936aafac9e0c09a95900c5a66b) |
-| tree-sitter-yaml | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-yaml/tree/v0.7.0) |
+| tree-sitter-yaml | [0.7.1](https://github.com/tree-sitter-grammars/tree-sitter-yaml/tree/v0.7.1) |
 | tree-sitter-yang | [2022-11-21](https://github.com/Hubro/tree-sitter-yang/tree/2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502) |
 | tree-sitter-yap | [2024-11-28](https://github.com/vscosta/tree-sitter-yap/tree/1eeb4630494ad9844c95e25fdbb1f1b2a2369f79) |
 | tree-sitter-yaral | [2025-01-13](https://github.com/MXfive/tree-sitter-yaral/tree/cfe781b121ad7dcb2e76c3e0f1043c4d03ad331b) |
