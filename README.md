@@ -109,7 +109,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-clojure-simple | [2025-05-21](https://github.com/sogaiu/tree-sitter-clojure-simple/tree/8aac2a045b29ffb83bd0695b7c6941909687eac9) |
 | tree-sitter-cloudflare | [2024-09-09](https://github.com/nfowl/tree-sitter-cloudflare/tree/6cfec8711ca7b1a6e24a710d7987f6286d504caa) |
 | tree-sitter-clue | [2025-01-24](https://github.com/ClueLang/tree-sitter-clue/tree/0a32781235e38a81dac8c4e06cca186b90a77189) |
-| tree-sitter-cmake | [0.7.0](https://github.com/uyha/tree-sitter-cmake/tree/v0.7.0) |
+| tree-sitter-cmake | [0.7.1](https://github.com/uyha/tree-sitter-cmake/tree/v0.7.1) |
 | tree-sitter-coalton | [2024-06-07](https://github.com/coalton-lang/tree-sitter-coalton/tree/7a44c8e6606b95e00b84f6a729f8a9db9e9d73fe) |
 | tree-sitter-cobol | [0.1.1](https://github.com/yutaro-sakamoto/tree-sitter-cobol/tree/0.1.1) |
 | tree-sitter-cognate | [2024-09-16](https://github.com/hedyhli/tree-sitter-cognate/tree/22ab34878b984ba6c5201bb65ade02f146d712bb) |
@@ -172,7 +172,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-eiffel | [1.0.0](https://github.com/imustafin/tree-sitter-eiffel/tree/v1.0.0) |
 | tree-sitter-elisp | [1.5.0](https://github.com/Wilfred/tree-sitter-elisp/tree/1.5.0) |
 | tree-sitter-elixir | [0.3.4](https://github.com/elixir-lang/tree-sitter-elixir/tree/v0.3.4) |
-| tree-sitter-elle | [2025-05-20](https://github.com/acquitelol/tree-sitter-elle/tree/19ca3411821f6164cf408158892978f5ca9be5a3) |
+| tree-sitter-elle | [2025-05-23](https://github.com/acquitelol/tree-sitter-elle/tree/3e7d9c88fb29b8caabc67cf3eb3542dbaddb4b8c) |
 | tree-sitter-elm | [5.8.0](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.8.0) |
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
@@ -206,7 +206,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-flamingo | [0.1.3](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.3) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2024-07-17](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/674dabc2f34907d47d9e77e51ac39e1e098a1637) |
+| tree-sitter-fodot | [2025-05-21](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/fba9b7a42239e7a9412107a3448592c8831f894e) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -352,7 +352,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-lilypond | [0.0.1](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.1/lilypond) |
 | tree-sitter-lilypond_scheme | [0.0.1](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.1/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
-| tree-sitter-liquid | [2025-03-13](https://github.com/hankthetank27/tree-sitter-liquid/tree/d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42) |
+| tree-sitter-liquid | [2025-05-23](https://github.com/hankthetank27/tree-sitter-liquid/tree/d6ebde3974742cd1b61b55d1d94aab1dacb41056) |
 | tree-sitter-liquidsoap | [1.1.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.1.2) |
 | tree-sitter-lispbm | [2025-03-31](https://github.com/cortex/tree-sitter-lispbm/tree/a9db6b6faf409b46d5f82a49d881045fc94bda7a) |
 | tree-sitter-llvm | [2025-05-13](https://github.com/benwilliamgraham/tree-sitter-llvm/tree/1ac83114e71839fa67f4cce2f864ebbbdf6e2a4f) |
@@ -387,9 +387,9 @@ nix build .#tree-sitter-javascript
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-05-12](https://github.com/shackle-rs/shackle/tree/958f80dd6c28e2298003a7246d248c77e73bea3b/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
-| tree-sitter-mlir | [2025-05-16](https://github.com/artagnon/tree-sitter-mlir/tree/3b2ae4ce9a8abca997ed3b34625d462248d1bbac) |
+| tree-sitter-mlir | [2025-05-23](https://github.com/artagnon/tree-sitter-mlir/tree/4d2396f21722d0c8d2ea285f380b21f1a71668b3) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
-| tree-sitter-moonbit | [2025-05-23](https://github.com/moonbitlang/tree-sitter-moonbit/tree/84a53c8510e81a37da519991d2444febba09f0c9) |
+| tree-sitter-moonbit | [2025-05-23](https://github.com/moonbitlang/tree-sitter-moonbit/tree/c4091f41a7d08c666981ac2dddf9f387a9f94584) |
 | tree-sitter-moonscript | [2025-03-10](https://github.com/kmafeni04/tree-sitter-moonscript/tree/7c594e6501f046c52250e17095a1cf925069b4af) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
@@ -407,7 +407,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-navi | [0.1.0](https://github.com/navi-language/tree-sitter-navi/tree/v0.1.0) |
 | tree-sitter-navi_stream | [0.0.4](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.0.4) |
 | tree-sitter-ned | [2025-03-31](https://github.com/omnetpp/tree-sitter-ned/tree/f18d2c7c0224ff868d8610367ed720147aa227e4) |
-| tree-sitter-nelua | [2025-05-21](https://github.com/kmafeni04/tree-sitter-nelua/tree/964c069abf6d20a95dc815b8f244e7c76e7d55cb) |
+| tree-sitter-nelua | [2025-05-23](https://github.com/kmafeni04/tree-sitter-nelua/tree/6b623bea71110412fb1efeaf05a9065279eabea7) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
 | tree-sitter-netlinx | [1.0.4](https://github.com/Norgate-AV/tree-sitter-netlinx/tree/v1.0.4) |
 | tree-sitter-newick | [2024-02-12](https://github.com/delehef/tree-sitter-newick/tree/efb5d960e10582a598a09d8dd4bea2924a7c51b7) |
@@ -607,7 +607,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-tcl | [2025-05-14](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/8f11ac7206a54ed11210491cee1e0657e2962c47) |
 | tree-sitter-teal | [0.1.0](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.1.0) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
-| tree-sitter-templ | [2025-05-01](https://github.com/vrischmann/tree-sitter-templ/tree/54367acb2b250879f39f2afee123c917ed0798e0) |
+| tree-sitter-templ | [2025-05-23](https://github.com/vrischmann/tree-sitter-templ/tree/5504cc96fbf5c9a029add2dfcb6e585e8fdaad75) |
 | tree-sitter-tera | [2025-04-16](https://github.com/uncenter/tree-sitter-tera/tree/d006172998fa8b81f96b0f2fc7fa2bf25207c46b) |
 | tree-sitter-terraform | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/v1.1.1/dialects/terraform) |
 | tree-sitter-test | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-test/tree/v0.1.0) |
