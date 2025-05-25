@@ -19,12 +19,12 @@
     };
   };
   "tree-sitter-c" = {
-    version = "0.23.5";
+    version = "0.24.1";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-c";
-      rev = "v0.23.5";
-      hash = "sha256-6sebiNg9P/B/5HrbGO7bl3GHVMfVUepetJuszEeTh+8=";
+      rev = "v0.24.1";
+      hash = "sha256-gmzbdwvrKSo6C1fqTJFGxy8x0+T+vUTswm7F5sojzKc=";
     };
   };
   "tree-sitter-c_sharp" = {
@@ -298,21 +298,21 @@
     };
   };
   "tree-sitter-al" = {
-    version = "unstable-2025-04-08";
+    version = "unstable-2025-05-24";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "890d708ca2318206b95858423336887c62b8f0d6";
-      hash = "sha256-mTw/lq0GkKqa+odlh9sUq+gv3co5C7mm15P/TKwliSI=";
+      rev = "81193e39ef16d223091a9d5957241b1caeca6950";
+      hash = "sha256-KGcM5q4zeA5bitdy1tJFtTPAELkpvNv5VMP57Ibed7k=";
     };
   };
   "tree-sitter-alcha" = {
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "jpt13653903";
       repo = "tree-sitter-alcha";
-      rev = "v0.1.1";
-      hash = "sha256-OPATlQn9urooSMfSoUkNyehdkHV36ny+flu5sATsvqs=";
+      rev = "v0.2.0";
+      hash = "sha256-heQ5IO/w0ijBe3cv+6ExBvUPM1PAH38BdoEs0tJvap0=";
     };
   };
   "tree-sitter-alfa" = {
@@ -4388,12 +4388,12 @@
     };
   };
   "tree-sitter-rustfmt" = {
-    version = "unstable-2025-05-14";
+    version = "unstable-2025-05-25";
     src = fetchFromGitHub {
       owner = "nik-rev";
       repo = "tree-sitter-rust-format-args";
-      rev = "2ca0bdd763d0c9dbb1d0bd14aea7544cbe81309c";
-      hash = "sha256-DkqyiywDKFzDTPwFnbfBE+H3upbUOXmUgoS5t+tJ0ho=";
+      rev = "7bb00d7b5e39140b1e5e2cf9fdf17034be996e36";
+      hash = "sha256-DTkNs8iFOcSkzmXqLu8Sdoq+WHWHtT0AhKPl8OGxGtQ=";
     };
   };
   "tree-sitter-rvparam" = {
@@ -5344,12 +5344,12 @@
     };
   };
   "tree-sitter-vhdl" = {
-    version = "1.2.5";
+    version = "1.3.1";
     src = fetchFromGitHub {
       owner = "jpt13653903";
       repo = "tree-sitter-vhdl";
-      rev = "v1.2.5";
-      hash = "sha256-tMv2dJEkrJU2Y7OFVHSRlx4sdum4Hsb/rnHXNl4UJlc=";
+      rev = "v1.3.1";
+      hash = "sha256-UbrTs3r+0gSHePTRiHyxZe55t9EIkaK2Auwojq6Dd+A=";
     };
   };
   "tree-sitter-vhs" = {
