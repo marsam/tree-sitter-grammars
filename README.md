@@ -79,7 +79,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bsv | [2025-03-17](https://github.com/yuyuranium/tree-sitter-bsv/tree/bf617f32ad0eba34f0561c1acf3e4b831c430f22) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
-| tree-sitter-c3 | [0.6.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.6.0) |
+| tree-sitter-c3 | [0.7.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.7.0) |
 | tree-sitter-c_sharp | [0.23.1](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.1) |
 | tree-sitter-ca65 | [2024-07-28](https://github.com/babasbot/tree-sitter-ca65/tree/fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
@@ -389,7 +389,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
 | tree-sitter-mlir | [2025-05-23](https://github.com/artagnon/tree-sitter-mlir/tree/4d2396f21722d0c8d2ea285f380b21f1a71668b3) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
-| tree-sitter-moonbit | [2025-05-26](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a796f03743055cdd7b1d19b5ab1c3777bba2b736) |
+| tree-sitter-moonbit | [2025-05-26](https://github.com/moonbitlang/tree-sitter-moonbit/tree/93137b58608b4e68fdd3005fe7ec3d9d67038057) |
 | tree-sitter-moonscript | [2025-03-10](https://github.com/kmafeni04/tree-sitter-moonscript/tree/7c594e6501f046c52250e17095a1cf925069b4af) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
@@ -407,7 +407,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-navi | [0.1.0](https://github.com/navi-language/tree-sitter-navi/tree/v0.1.0) |
 | tree-sitter-navi_stream | [0.0.4](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.0.4) |
 | tree-sitter-ned | [2025-03-31](https://github.com/omnetpp/tree-sitter-ned/tree/f18d2c7c0224ff868d8610367ed720147aa227e4) |
-| tree-sitter-nelua | [2025-05-23](https://github.com/kmafeni04/tree-sitter-nelua/tree/6b623bea71110412fb1efeaf05a9065279eabea7) |
+| tree-sitter-nelua | [2025-05-26](https://github.com/kmafeni04/tree-sitter-nelua/tree/170806d84f0791e1911ecbf2daa9999ae55e8826) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
 | tree-sitter-netlinx | [1.0.4](https://github.com/Norgate-AV/tree-sitter-netlinx/tree/v1.0.4) |
 | tree-sitter-newick | [2024-02-12](https://github.com/delehef/tree-sitter-newick/tree/efb5d960e10582a598a09d8dd4bea2924a7c51b7) |
