@@ -732,7 +732,7 @@
   "tree-sitter-ca65" = {
     version = "unstable-2024-07-28";
     src = fetchFromGitHub {
-      owner = "babasbot";
+      owner = "quienestatocando";
       repo = "tree-sitter-ca65";
       rev = "fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270";
       hash = "sha256-4kbDSOQozxZ6U4o9HHt66ey0iJgmRl7AC0NIXmPqSiU=";
@@ -907,15 +907,6 @@
       repo = "tree-sitter-clojure";
       rev = "v0.0.13";
       hash = "sha256-pLOCUReklkRt9t5kalDrOAlE9U7a2O8sXaZFjYhagcg=";
-    };
-  };
-  "tree-sitter-clojure-simple" = {
-    version = "unstable-2025-05-21";
-    src = fetchFromGitHub {
-      owner = "sogaiu";
-      repo = "tree-sitter-clojure-simple";
-      rev = "8aac2a045b29ffb83bd0695b7c6941909687eac9";
-      hash = "sha256-HhkdPreQFgki9nJFJCRDA0+vW/r8S8U2UkbXOJ6q9WM=";
     };
   };
   "tree-sitter-cloudflare" = {
@@ -3231,15 +3222,6 @@
       repo = "tree-sitter-moonbit";
       rev = "efc589f970ad45ab4d9bc3c772e8866b0aaa8ef9";
       hash = "sha256-022Amy37NTyjBpo0PvQBaEkyOJMDrhJhwb5JjXmugHo=";
-    };
-  };
-  "tree-sitter-moonscript" = {
-    version = "unstable-2025-03-10";
-    src = fetchFromGitHub {
-      owner = "kmafeni04";
-      repo = "tree-sitter-moonscript";
-      rev = "7c594e6501f046c52250e17095a1cf925069b4af";
-      hash = "sha256-iifyPyoV5l7rXVFcgfE3ehduZDtLnSkweCTnVne+k/0=";
     };
   };
   "tree-sitter-mor" = {
@@ -5755,15 +5737,6 @@
       repo = "tree-sitter-zscript";
       rev = "5467091d7951839aec720104c3faca37a9e9274c";
       hash = "sha256-emIoE5Uccxk/TUimh3zDtAvs4AdauTOUdd6SsyjM6HY=";
-    };
-  };
-  "tree-sitter-zsh" = {
-    version = "unstable-2023-08-26";
-    src = fetchFromGitHub {
-      owner = "tree-sitter-grammars";
-      repo = "tree-sitter-zsh";
-      rev = "47e2caf4ed7e466f51cfbb13a860a192c300506f";
-      hash = "sha256-rK/B75roTnHdrzbDqxwVDSs3s/kWNLSPuoZ8pTvTPjM=";
     };
   };
 }

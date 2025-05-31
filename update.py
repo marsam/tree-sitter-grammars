@@ -61,7 +61,7 @@ class Grammar(NamedTuple):
     Currently GitHub and CodeBerg are supported.
     """
 
-    spec: str | tuple[Literal["branch"] | Literal["commit"] | Literal["tag"], str] | None = None
+    spec: str | tuple[Literal["branch", "commit", "tag"], str] | None = None
     """
     Revision to fetch.
     It can have the following values::
@@ -205,7 +205,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-bsv": Grammar("https://github.com/yuyuranium/tree-sitter-bsv"),  # Alternative https://github.com/robertszafa/tree-sitter-bsv
     "tree-sitter-bteq": Grammar("https://github.com/aamayam/tree-sitter-bteq"),
     "tree-sitter-c3": Grammar("https://github.com/c3lang/tree-sitter-c3"),
-    "tree-sitter-ca65": Grammar("https://github.com/babasbot/tree-sitter-ca65"),
+    "tree-sitter-ca65": Grammar("https://github.com/quienestatocando/tree-sitter-ca65"),
     "tree-sitter-cab": Grammar("https://github.com/cull-os/tree-sitter-cab"),
     "tree-sitter-cabal": Grammar("https://github.com/thomasvergne/tree-sitter-cabal"),
     "tree-sitter-caddy": Grammar("https://github.com/opa-oz/tree-sitter-caddy"),
@@ -225,7 +225,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-circom": Grammar("https://github.com/Decurity/tree-sitter-circom"),
     "tree-sitter-clingo": Grammar("https://github.com/potassco/tree-sitter-clingo"),
     "tree-sitter-clojure": Grammar("https://github.com/sogaiu/tree-sitter-clojure"),
-    "tree-sitter-clojure-simple": Grammar("https://github.com/sogaiu/tree-sitter-clojure-simple", "HEAD"),
     "tree-sitter-cloudflare": Grammar("https://github.com/nfowl/tree-sitter-cloudflare"),
     "tree-sitter-clue": Grammar("https://github.com/ClueLang/tree-sitter-clue"),
     "tree-sitter-cmake": Grammar("https://github.com/uyha/tree-sitter-cmake"),
@@ -483,7 +482,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-mlir": Grammar("https://github.com/artagnon/tree-sitter-mlir"),
     "tree-sitter-mojo": Grammar("https://github.com/lsh/tree-sitter-mojo"),
     "tree-sitter-moonbit": Grammar("https://github.com/moonbitlang/tree-sitter-moonbit"),
-    "tree-sitter-moonscript": Grammar("https://github.com/kmafeni04/tree-sitter-moonscript"),
     "tree-sitter-mor": Grammar("https://github.com/veqox/tree-sitter-mor"),
     "tree-sitter-moshell": Grammar("https://github.com/moshell-lang/tree-sitter-moshell"),
     "tree-sitter-motoko": Grammar("https://github.com/polychromatist/tree-sitter-motoko"),
@@ -763,7 +761,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-zote": Grammar("https://github.com/KvGeijer/tree-sitter-zote"),
     "tree-sitter-zql": Grammar("https://github.com/cmus-enjoyers/tree-sitter-zql"),
     "tree-sitter-zscript": Grammar("https://github.com/dastrukar/tree-sitter-zscript"),
-    "tree-sitter-zsh": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-zsh"),
     # "tree-sitter-carbon": Grammar("https://github.com/carbon-language/carbon-lang"), # FIXME(marsam)
 }
 # fmt: on

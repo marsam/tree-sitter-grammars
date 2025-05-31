@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (682)</strong></summary>
+  <summary><strong>Available grammars (679)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -81,7 +81,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
 | tree-sitter-c3 | [0.8.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.8.0) |
 | tree-sitter-c_sharp | [0.23.1](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.1) |
-| tree-sitter-ca65 | [2024-07-28](https://github.com/babasbot/tree-sitter-ca65/tree/fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270) |
+| tree-sitter-ca65 | [2024-07-28](https://github.com/quienestatocando/tree-sitter-ca65/tree/fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [2025-01-26](https://github.com/opa-oz/tree-sitter-caddy/tree/2686186edb61be47960431c93a204fb249681360) |
@@ -106,7 +106,6 @@ nix build .#tree-sitter-javascript
 | tree-sitter-circom | [2024-09-09](https://github.com/Decurity/tree-sitter-circom/tree/02150524228b1e6afef96949f2d6b7cc0aaf999e) |
 | tree-sitter-clingo | [2024-06-28](https://github.com/potassco/tree-sitter-clingo/tree/cb06e649c2994de6dc6b4bafb3dd864e2ed33675) |
 | tree-sitter-clojure | [0.0.13](https://github.com/sogaiu/tree-sitter-clojure/tree/v0.0.13) |
-| tree-sitter-clojure-simple | [2025-05-21](https://github.com/sogaiu/tree-sitter-clojure-simple/tree/8aac2a045b29ffb83bd0695b7c6941909687eac9) |
 | tree-sitter-cloudflare | [2024-09-09](https://github.com/nfowl/tree-sitter-cloudflare/tree/6cfec8711ca7b1a6e24a710d7987f6286d504caa) |
 | tree-sitter-clue | [2025-01-24](https://github.com/ClueLang/tree-sitter-clue/tree/0a32781235e38a81dac8c4e06cca186b90a77189) |
 | tree-sitter-cmake | [0.7.1](https://github.com/uyha/tree-sitter-cmake/tree/v0.7.1) |
@@ -390,7 +389,6 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mlir | [2025-05-28](https://github.com/artagnon/tree-sitter-mlir/tree/56753db408dbcc098e514c73cbb2351d344039e0) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-05-30](https://github.com/moonbitlang/tree-sitter-moonbit/tree/efc589f970ad45ab4d9bc3c772e8866b0aaa8ef9) |
-| tree-sitter-moonscript | [2025-03-10](https://github.com/kmafeni04/tree-sitter-moonscript/tree/7c594e6501f046c52250e17095a1cf925069b4af) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
 | tree-sitter-motoko | [2024-11-03](https://github.com/polychromatist/tree-sitter-motoko/tree/a172fd1ddc09b9c3806c0d6ecd71ee2f5160aebc) |
@@ -701,7 +699,6 @@ nix build .#tree-sitter-javascript
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
 | tree-sitter-zscript | [2025-04-14](https://github.com/dastrukar/tree-sitter-zscript/tree/5467091d7951839aec720104c3faca37a9e9274c) |
-| tree-sitter-zsh | [2023-08-26](https://github.com/tree-sitter-grammars/tree-sitter-zsh/tree/47e2caf4ed7e466f51cfbb13a860a192c300506f) |
 
 </details>
 <!-- end-gramars -->
