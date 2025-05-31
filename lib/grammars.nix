@@ -163,7 +163,7 @@ let
     // { tree-sitter-cgsql = grammars'.tree-sitter-cgsql // { generate = true; }; }
     // { tree-sitter-moshell = grammars'.tree-sitter-moshell // { generate = true; }; }
     // { tree-sitter-corth = grammars'.tree-sitter-corth // { generate = true; }; }
-    // { tree-sitter-quint = grammars'.tree-sitter-quint // { generate = true; }; }
+    // { tree-sitter-quint = grammars'.tree-sitter-quint // { generate = true; postPatch = "rm -v tree-sitter.json"; }; } # Missing metadata field
     // { tree-sitter-rtf = grammars'.tree-sitter-rtf // { generate = true; }; }
     // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
     // { tree-sitter-scfg = grammars'.tree-sitter-scfg // { generate = true; }; }
