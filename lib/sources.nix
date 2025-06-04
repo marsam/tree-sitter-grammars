@@ -3495,12 +3495,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-03-29";
+    version = "unstable-2025-06-03";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "d5c71a10b4d1b02e38967b05f8de70e847448dd1";
-      hash = "sha256-7Ny3wXa5iE6s7szqTkPqaXWL/NL5yA2MbhdQHylxwE0=";
+      rev = "100d06e29d13a8ebfc3f29173c07a5c4f2050586";
+      hash = "sha256-ZKpaAvXwMP6Z/15u1TwocCrgfD+ebPywM+UDTt04Sh0=";
     };
   };
   "tree-sitter-numbat" = {

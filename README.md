@@ -420,7 +420,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
 | tree-sitter-npf | [2025-05-12](https://github.com/ntyunyayev/tree-sitter-npf/tree/2ce02b5340e02dee3846edf46386e0284de44c77) |
 | tree-sitter-nqc | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-nqc/tree/v1.0.0) |
-| tree-sitter-nu | [2025-03-29](https://github.com/nushell/tree-sitter-nu/tree/d5c71a10b4d1b02e38967b05f8de70e847448dd1) |
+| tree-sitter-nu | [2025-06-03](https://github.com/nushell/tree-sitter-nu/tree/100d06e29d13a8ebfc3f29173c07a5c4f2050586) |
 | tree-sitter-numbat | [2024-04-04](https://github.com/irevoire/tree-sitter-numbat/tree/b4dd180397cad0638abbf18b54e354ea43276f46) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
