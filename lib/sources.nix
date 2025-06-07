@@ -2521,15 +2521,6 @@
       hash = "sha256-A8ZaZamxtq9m0uuEGsygldzDJo67SvJI+w2JQupNIxg=";
     };
   };
-  "tree-sitter-ipkg" = {
-    version = "unstable-2024-11-11";
-    src = fetchFromGitHub {
-      owner = "srghma";
-      repo = "tree-sitter-ipkg";
-      rev = "8d3e9782f2d091d0cd39c13bfb3068db0c675960";
-      hash = "sha256-DyxD+Ehoqh0ywgU+J6EgnOQTcwOUJEuuXSOVjZ8M89c=";
-    };
-  };
   "tree-sitter-isle" = {
     version = "unstable-2025-01-15";
     src = fetchFromGitHub {

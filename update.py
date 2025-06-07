@@ -404,7 +404,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-inko": Grammar("https://github.com/inko-lang/tree-sitter-inko"),
     "tree-sitter-integerbasic": Grammar("https://github.com/dfgordon/tree-sitter-integerbasic"),
     "tree-sitter-ion": Grammar("https://github.com/Ignis-lang/tree-sitter-ion"),
-    "tree-sitter-ipkg": Grammar("https://github.com/srghma/tree-sitter-ipkg"),
     "tree-sitter-isle": Grammar("https://github.com/eagr/tree-sitter-isle"),
     "tree-sitter-ispc": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ispc"),
     "tree-sitter-jack": Grammar("https://github.com/nverno/tree-sitter-jack"),

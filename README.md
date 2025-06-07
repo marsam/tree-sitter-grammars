@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (679)</strong></summary>
+  <summary><strong>Available grammars (678)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -302,7 +302,6 @@ nix build .#tree-sitter-javascript
 | tree-sitter-inko | [0.1.0](https://github.com/inko-lang/tree-sitter-inko/tree/v0.1.0) |
 | tree-sitter-integerbasic | [2.0.0](https://github.com/dfgordon/tree-sitter-integerbasic/tree/v2.0.0) |
 | tree-sitter-ion | [2024-04-04](https://github.com/Ignis-lang/tree-sitter-ion/tree/3d87d54106c3b71fd90efda2b8bd442d1b4a3314) |
-| tree-sitter-ipkg | [2024-11-11](https://github.com/srghma/tree-sitter-ipkg/tree/8d3e9782f2d091d0cd39c13bfb3068db0c675960) |
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
 | tree-sitter-ispc | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-ispc/tree/v0.1.1) |
 | tree-sitter-jack | [2024-10-04](https://github.com/nverno/tree-sitter-jack/tree/1a617413ea92c237bff4cbe7fa67eb3bf4425596) |
