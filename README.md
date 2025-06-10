@@ -365,7 +365,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
 | tree-sitter-lx | [2024-12-19](https://github.com/curist/tree-sitter-lx/tree/31b9ef54ce48a10c070918c73ea8bbfc53648c68) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2025-06-02](https://github.com/krn-robin/tree-sitter-magik/tree/034b543b210f1c115f20a287b7562f742f8038fc) |
+| tree-sitter-magik | [2025-06-09](https://github.com/krn-robin/tree-sitter-magik/tree/c0c02781db67b58eb38d629e9220dcaa322a9211) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -428,7 +428,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ocaml_type | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/type) |
 | tree-sitter-ocamllex | [0.24.0](https://github.com/314eter/tree-sitter-ocamllex/tree/v0.24.0) |
 | tree-sitter-ocen | [2025-03-18](https://github.com/ocen-lang/ocen-tree-sitter/tree/bd63fef7b172b217c332f8f09d25a860e6605f06) |
-| tree-sitter-octizys | [2025-06-07](https://github.com/Luis-omega/tree-sitter-octizys/tree/092c765035ef0a681ba9ff84cb97d76e191ba970) |
+| tree-sitter-octizys | [2025-06-09](https://github.com/Luis-omega/tree-sitter-octizys/tree/fcab69d57b5eb30cc9a04ca22e200c24fdb00840) |
 | tree-sitter-odin | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-odin/tree/v1.3.0) |
 | tree-sitter-ohm | [2024-03-24](https://github.com/novusnota/tree-sitter-ohm/tree/8b77e85eecd5597831bd8827f14a3a4fbc4a1337) |
 | tree-sitter-onyx | [2024-06-25](https://github.com/brendanfh/tree-sitter-onyx/tree/4aafe1df4f7c06af39a68116a4ec61e20076b3a4) |
