@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2025-06-12";
+    version = "unstable-2025-06-13";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "d856beaddccb128d0413f61ba68ae90fd702eead";
-      hash = "sha256-XIudiJ/UBY0Ca8abC9YucVTKUShFh9r8k2B7fgAaqDM=";
+      rev = "0e1a15f1033fb71709d695cc7f96f8e97c3c1b03";
+      hash = "sha256-lB+96xiU9dsR0QXUpqQw3WBhIJaNmtikP4OjRY6aTAc=";
     };
   };
   "tree-sitter-cairo" = {
@@ -1702,12 +1702,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2025-05-21";
+    version = "unstable-2025-06-12";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "fba9b7a42239e7a9412107a3448592c8831f894e";
-      hash = "sha256-ypvhhUyWLAizUQWRZl9UgwPU3WWEXua0pZjhT6HTCqE=";
+      rev = "ee9ba34edff4677ea6bd7486b127bf48d47f3566";
+      hash = "sha256-C/kOHMzT2cHwm1FMKKXgMCb8dPB49VYNsIlN8x6MzLU=";
     };
   };
   "tree-sitter-forester" = {
@@ -2811,12 +2811,12 @@
     };
   };
   "tree-sitter-latex" = {
-    version = "unstable-2025-04-19";
+    version = "unstable-2025-06-12";
     src = fetchFromGitHub {
       owner = "latex-lsp";
       repo = "tree-sitter-latex";
-      rev = "f736d24d89acbd90092d92089e5171e6a449db40";
-      hash = "sha256-R2HYfoLL4vEeSRbp3APVw6YsEYSppu7k3g0aN3+ld2Q=";
+      rev = "8e130cd5394487f5b686fbbb547f4ad7dbe811db";
+      hash = "sha256-n8earQJI1KEuU89o7NmvzczB4HiJsKHRkvMTNccckic=";
     };
   };
   "tree-sitter-ld" = {
@@ -3189,12 +3189,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-06-07";
+    version = "unstable-2025-06-13";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "3e214fc380b1159dd157cd6ed489a3b8fd8888a8";
-      hash = "sha256-4r1btJG3IzmQZLPyjnjP0RWmwLzekDKMYBqnOGbCXb8=";
+      rev = "35450deddf7176583534763a8d3fbaa9988c423e";
+      hash = "sha256-to/g3nEF8IlpmD4i/4j443l0H/JJT2+5Iu34cwPzHyk=";
     };
   };
   "tree-sitter-mojo" = {

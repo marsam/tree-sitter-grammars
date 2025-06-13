@@ -85,7 +85,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [2025-01-26](https://github.com/opa-oz/tree-sitter-caddy/tree/2686186edb61be47960431c93a204fb249681360) |
-| tree-sitter-caddyfile | [2025-06-12](https://github.com/caddyserver/tree-sitter-caddyfile/tree/d856beaddccb128d0413f61ba68ae90fd702eead) |
+| tree-sitter-caddyfile | [2025-06-13](https://github.com/caddyserver/tree-sitter-caddyfile/tree/0e1a15f1033fb71709d695cc7f96f8e97c3c1b03) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -205,7 +205,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-flamingo | [0.1.3](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.3) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2025-05-21](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/fba9b7a42239e7a9412107a3448592c8831f894e) |
+| tree-sitter-fodot | [2025-06-12](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/ee9ba34edff4677ea6bd7486b127bf48d47f3566) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -340,7 +340,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
 | tree-sitter-lalrpop | [2025-03-20](https://github.com/traxys/tree-sitter-lalrpop/tree/8d38e9755c05d37df8a24dadb0fc64f6588ac188) |
 | tree-sitter-lama | [2025-02-15](https://codeberg.org/ProgramSnail/tree-sitter-lama/src/747b20dfed4934868ba457fd811eb2fb9ffc0ff3) |
-| tree-sitter-latex | [2025-04-19](https://github.com/latex-lsp/tree-sitter-latex/tree/f736d24d89acbd90092d92089e5171e6a449db40) |
+| tree-sitter-latex | [2025-06-12](https://github.com/latex-lsp/tree-sitter-latex/tree/8e130cd5394487f5b686fbbb547f4ad7dbe811db) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
 | tree-sitter-lean | [2024-12-25](https://github.com/Julian/tree-sitter-lean/tree/efe6b87145608d12f5996bd7f0cf6095a0e82261) |
@@ -385,7 +385,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-05-12](https://github.com/shackle-rs/shackle/tree/958f80dd6c28e2298003a7246d248c77e73bea3b/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
-| tree-sitter-mlir | [2025-06-07](https://github.com/artagnon/tree-sitter-mlir/tree/3e214fc380b1159dd157cd6ed489a3b8fd8888a8) |
+| tree-sitter-mlir | [2025-06-13](https://github.com/artagnon/tree-sitter-mlir/tree/35450deddf7176583534763a8d3fbaa9988c423e) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-06-05](https://github.com/moonbitlang/tree-sitter-moonbit/tree/2ae65572ecc111655a30ffa6dcfc48d2ee37c3e1) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
