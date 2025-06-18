@@ -2811,12 +2811,12 @@
     };
   };
   "tree-sitter-latex" = {
-    version = "unstable-2025-06-12";
+    version = "unstable-2025-06-17";
     src = fetchFromGitHub {
       owner = "latex-lsp";
       repo = "tree-sitter-latex";
-      rev = "8e130cd5394487f5b686fbbb547f4ad7dbe811db";
-      hash = "sha256-n8earQJI1KEuU89o7NmvzczB4HiJsKHRkvMTNccckic=";
+      rev = "73c9b8992f72203386092ffd2a05f2dcba02d2cb";
+      hash = "sha256-Z0zyXP86eRcKYjw4lVMPXXwQAusuEhFgMUFuE3GmIrM=";
     };
   };
   "tree-sitter-ld" = {
@@ -3207,12 +3207,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2025-06-13";
+    version = "unstable-2025-06-17";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "2de5f180dea85c4540c3e6e156416f9b296084db";
-      hash = "sha256-JbB1ZOr4ohi1ir4LN9YgUqLRsHXM/cT3dz+kJY2sZyY=";
+      rev = "6b58b2c3916435eb654f9bf7ddfc4a4572789fb9";
+      hash = "sha256-7mzCReT8B6Ese1ZG+KaCt58pygDSZ6uP55UZkytKiUA=";
     };
   };
   "tree-sitter-mor" = {
@@ -3243,12 +3243,12 @@
     };
   };
   "tree-sitter-move" = {
-    version = "unstable-2024-12-09";
+    version = "unstable-2025-06-17";
     src = fetchFromGitHub {
       owner = "tzakian";
       repo = "tree-sitter-move";
-      rev = "f5b37f63569f69dfbe7a9950527786d2f6b1d35c";
-      hash = "sha256-rylKiJVkT48IJzYVRUW6L3fZsvFVXLUTq/Q7eI4qGnk=";
+      rev = "640ee15e4a7b0d09a4bc95dcc71336c28d97999b";
+      hash = "sha256-rLIyJZEjMRo8am+ivKCwAESvv6jFtTPYJuuebN3T5Es=";
     };
   };
   "tree-sitter-move_on_aptos" = {
@@ -3486,12 +3486,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-06-16";
+    version = "unstable-2025-06-17";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "ef125933dc254e5b362f32ef4f364186091414e4";
-      hash = "sha256-UoX6GU3SidHKhGioKSF1H8/1DUMyt2SnLBYEhBboQSU=";
+      rev = "7983592fe54750b750f2ee9dc8e89449257855d4";
+      hash = "sha256-v4Nr+dN7VT4AMuejvDWJZK0+wH9/Q3h29vvAKYABaXE=";
     };
   };
   "tree-sitter-numbat" = {
@@ -3955,12 +3955,12 @@
     };
   };
   "tree-sitter-purescript" = {
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "postsolar";
       repo = "tree-sitter-purescript";
-      rev = "v0.2.0";
-      hash = "sha256-fcV/giG8rSzqaT/yoyJj52GWYGDBkXKjQF2vtbI7Oww=";
+      rev = "v0.3.0";
+      hash = "sha256-tONS2Eai/eVDecn6ow4nN9F7++UjY6OAKezeCco8hYU=";
     };
   };
   "tree-sitter-pyjsx" = {
