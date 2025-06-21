@@ -404,7 +404,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-navi | [0.2.2](https://github.com/navi-language/tree-sitter-navi/tree/v0.2.2) |
 | tree-sitter-navi_stream | [0.0.4](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.0.4) |
 | tree-sitter-ned | [2025-06-10](https://github.com/omnetpp/tree-sitter-ned/tree/2f2db34e7e6b0d3f897ba50cdafd41142de9608b) |
-| tree-sitter-nelua | [2025-06-02](https://github.com/kmafeni04/tree-sitter-nelua/tree/921d2a1db1a51068ca014592876759b6a890ed20) |
+| tree-sitter-nelua | [2025-06-20](https://github.com/kmafeni04/tree-sitter-nelua/tree/0c2c67027abbc798a3865595a4ddac8e2fee6752) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
 | tree-sitter-netlinx | [1.0.4](https://github.com/Norgate-AV/tree-sitter-netlinx/tree/v1.0.4) |
 | tree-sitter-newick | [2024-02-12](https://github.com/delehef/tree-sitter-newick/tree/efb5d960e10582a598a09d8dd4bea2924a7c51b7) |

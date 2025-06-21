@@ -3351,12 +3351,12 @@
     };
   };
   "tree-sitter-nelua" = {
-    version = "unstable-2025-06-02";
+    version = "unstable-2025-06-20";
     src = fetchFromGitHub {
       owner = "kmafeni04";
       repo = "tree-sitter-nelua";
-      rev = "921d2a1db1a51068ca014592876759b6a890ed20";
-      hash = "sha256-g8EJ67RVv1HgAWUzwF5fQdLjxhjOKEfN8E2glF8EVDk=";
+      rev = "0c2c67027abbc798a3865595a4ddac8e2fee6752";
+      hash = "sha256-rO+s1NIVk+6duZNlbBbPJIR5fhypwEo4ZwXuH6CvG3o=";
     };
   };
   "tree-sitter-nesfab" = {
