@@ -298,12 +298,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "unstable-2025-06-09";
+    version = "unstable-2025-06-21";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "2427bd6d7409b13eca598f905b98768a6874b75c";
-      hash = "sha256-axBGkfIYFU4hWyoC564s0XE36263PXYJGh9rtSFrblw=";
+      rev = "5b11a690f9960e7b01826b65ec2b0f1bdae5c03d";
+      hash = "sha256-OpJk3PxaN3bNFiZZl0EJYfsC30WfrcERmb7vhaJFV40=";
     };
   };
   "tree-sitter-alcha" = {
@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2025-04-03";
+    version = "unstable-2025-06-21";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "6077d73a232102547472acd5ff339fa8397e4bde";
-      hash = "sha256-4JpdwZwo2l4fwhS4Fb6pfNQ94GqPBeDol+XzsQIvu6c=";
+      rev = "47ec9accdc2a35dfac235f8e24f79227f44d51c4";
+      hash = "sha256-mNMgIJdUu1TU5B8ogLVgWSEIaGLFl+i0AL1EdVR0VJM=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -2684,12 +2684,12 @@
     };
   };
   "tree-sitter-kanata" = {
-    version = "unstable-2024-04-20";
+    version = "0.1.0";
     src = fetchFromGitHub {
       owner = "postsolar";
       repo = "tree-sitter-kanata";
-      rev = "a6213d06ea6efa432702bbbc6b4c5dcddc21df2a";
-      hash = "sha256-C1JEvaSJAwV/040KAjAK2aX+jdkIMVixr78c7jY0COU=";
+      rev = "v0.1.0";
+      hash = "sha256-2U5S+5d3h77OIqemnC/Exfdo1j1gA6MLsnk3EciYHOU=";
     };
   };
   "tree-sitter-kanshi" = {
@@ -5173,12 +5173,12 @@
     };
   };
   "tree-sitter-typespec" = {
-    version = "unstable-2025-04-16";
+    version = "unstable-2025-06-21";
     src = fetchFromGitHub {
       owner = "happenslol";
       repo = "tree-sitter-typespec";
-      rev = "b6b6a66a18e98f44cc2f2cdbfd2e1df845b59852";
-      hash = "sha256-Hf/7ZQjAevTxvQ2coKUq/FjJQpEds283zfq4kOx4YW0=";
+      rev = "814c98283fd92a248ba9d49ebfe61bc672a35875";
+      hash = "sha256-3/zNoawx1DsKmG0KFvJD+o80IMBsJd2VV2ng+fSrV1c=";
     };
   };
   "tree-sitter-typoscript" = {
