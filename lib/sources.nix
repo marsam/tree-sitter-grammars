@@ -2594,12 +2594,12 @@
     };
   };
   "tree-sitter-jinja" = {
-    version = "unstable-2025-04-17";
+    version = "unstable-2025-06-25";
     src = fetchFromGitHub {
       owner = "cathaysia";
       repo = "tree-sitter-jinja";
-      rev = "258d7fb22fa6cd2dc800f201cfdcbe05111a836c";
-      hash = "sha256-pf9jYK/Rj/axmQ9GVrMLjcfL6xtv3rDPr+hjTwfOWxU=";
+      rev = "251101981d86ccb2901741eddf3e7cf21567a66d";
+      hash = "sha256-JbutCmJFKmB1UKIGkEJdiBJOaFmIeea8jK9nhYMkikY=";
     };
   };
   "tree-sitter-jjdescription" = {
@@ -4889,7 +4889,7 @@
       owner = "gmlarumbe";
       repo = "tree-sitter-systemverilog";
       rev = "v0.1.1";
-      hash = "sha256-L1cgzH/yruI7xuzz54UdZxcnJTGBP4aU09uUuK2FKTA=";
+      hash = "sha256-s3oFaMNjdZ1m9b0DgSlfEKFc8tmPfHtYalxZm4fuaCY=";
     };
   };
   "tree-sitter-t32" = {

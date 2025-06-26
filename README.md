@@ -312,8 +312,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-javadoc | [0.1.1](https://github.com/rmuir/tree-sitter-javadoc/tree/v0.1.1) |
 | tree-sitter-javascript | [0.23.1](https://github.com/tree-sitter/tree-sitter-javascript/tree/v0.23.1) |
 | tree-sitter-jelly | [0.1](https://github.com/OpenJelly/tree-sitter-jelly/tree/0.1) |
-| tree-sitter-jinja | [2025-04-17](https://github.com/cathaysia/tree-sitter-jinja/tree/258d7fb22fa6cd2dc800f201cfdcbe05111a836c/tree-sitter-jinja) |
-| tree-sitter-jinja_inline | [2025-04-17](https://github.com/cathaysia/tree-sitter-jinja/tree/258d7fb22fa6cd2dc800f201cfdcbe05111a836c/tree-sitter-jinja_inline) |
+| tree-sitter-jinja | [2025-06-25](https://github.com/cathaysia/tree-sitter-jinja/tree/251101981d86ccb2901741eddf3e7cf21567a66d/tree-sitter-jinja) |
+| tree-sitter-jinja_inline | [2025-06-25](https://github.com/cathaysia/tree-sitter-jinja/tree/251101981d86ccb2901741eddf3e7cf21567a66d/tree-sitter-jinja_inline) |
 | tree-sitter-jjdescription | [2025-02-20](https://github.com/kareigu/tree-sitter-jjdescription/tree/1613b8c85b6ead48464d73668f39910dcbb41911) |
 | tree-sitter-jq | [1.0.0](https://github.com/nverno/tree-sitter-jq/tree/v1.0.0) |
 | tree-sitter-jsdoc | [0.23.2](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.23.2) |
