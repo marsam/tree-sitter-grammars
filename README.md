@@ -102,7 +102,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cfscript | [2025-06-21](https://github.com/cfmleditor/tree-sitter-cfml/tree/47ec9accdc2a35dfac235f8e24f79227f44d51c4/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.1.2](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.1.2) |
-| tree-sitter-chuck | [2025-06-19](https://github.com/tymbalodeon/tree-sitter-chuck/tree/db277ef3866a6952bb302204db9f9a0c1651668c) |
+| tree-sitter-chuck | [2025-06-27](https://github.com/tymbalodeon/tree-sitter-chuck/tree/3ef3d8e60646efebafa9776b2f708e3528b5a44f) |
 | tree-sitter-circom | [2024-09-09](https://github.com/Decurity/tree-sitter-circom/tree/02150524228b1e6afef96949f2d6b7cc0aaf999e) |
 | tree-sitter-clingo | [2024-06-28](https://github.com/potassco/tree-sitter-clingo/tree/cb06e649c2994de6dc6b4bafb3dd864e2ed33675) |
 | tree-sitter-clojure | [0.0.13](https://github.com/sogaiu/tree-sitter-clojure/tree/v0.0.13) |
@@ -229,7 +229,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gemtext | [2024-12-14](https://github.com/pebbe/tree-sitter-gemtext/tree/5b5a96a17889bd8aab5c413bda9e7d29391a5a1c) |
 | tree-sitter-gherkin | [2025-02-27](https://github.com/binhtran432k/tree-sitter-gherkin/tree/1a709aebeecbe81bd70dfd6ea784894844be1511) |
 | tree-sitter-ghostty | [1.1](https://github.com/bezhermoso/tree-sitter-ghostty/tree/1.1) |
-| tree-sitter-git_commit | [2023-08-04](https://github.com/the-mikedavis/tree-sitter-git-commit/tree/6f193a66e9aa872760823dff020960c6cedc37b3) |
+| tree-sitter-git_commit | [2025-06-27](https://github.com/the-mikedavis/tree-sitter-git-commit/tree/5a50da19b3841ac51e9d483cd9c856a85232233d) |
 | tree-sitter-git_config | [2025-05-11](https://github.com/the-mikedavis/tree-sitter-git-config/tree/0fbc9f99d5a28865f9de8427fb0672d66f9d83a5) |
 | tree-sitter-git_merge_conflict | [1.0.0](https://github.com/pv-hernandez/tree-sitter-git-merge-conflict/tree/v1.0.0) |
 | tree-sitter-git_rebase | [2024-07-22](https://github.com/the-mikedavis/tree-sitter-git-rebase/tree/bff4b66b44b020d918d67e2828eada1974a966aa) |
