@@ -2188,12 +2188,12 @@
     };
   };
   "tree-sitter-haml" = {
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchFromGitHub {
       owner = "vitallium";
       repo = "tree-sitter-haml";
-      rev = "v0.0.5";
-      hash = "sha256-Y2B6wZXXST3/+liTPcvmJOMQyIQdT/FGWExnsW5x8Gg=";
+      rev = "v0.0.6";
+      hash = "sha256-NqxOsJRIrq5dbYIYuoFbL4hJNP8dABy8QOcbQ+eNwi4=";
     };
   };
   "tree-sitter-haproxy" = {
@@ -3486,12 +3486,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-06-19";
+    version = "unstable-2025-06-28";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "b64f0d1c93a76d167fabb01271905f0d18c5f10c";
-      hash = "sha256-bKWbEdgRzOqQDKQFf4soaBW9Ug7DNpe6c/4dYKL44Sk=";
+      rev = "d62bb4a0c78e9476a6dd0081761444f6870252ed";
+      hash = "sha256-pmW4F3Gif5VRosA+4CVzbF0ZrZioRujyiEJyWq6+dwg=";
     };
   };
   "tree-sitter-numbat" = {
@@ -4289,12 +4289,12 @@
     };
   };
   "tree-sitter-rpmspec" = {
-    version = "unstable-2024-10-07";
+    version = "unstable-2025-06-28";
     src = fetchFromGitLab {
       owner = "cryptomilk";
       repo = "tree-sitter-rpmspec";
-      rev = "a7b1cff462c2069b005a41848f462d79d67c738f";
-      hash = "sha256-jwkj0d7hV2m5XktRsO3n0PEm4cM5TLHpxDVYaiM+/2g=";
+      rev = "0342cb3cfe8ba39b6f778463fa826f356e555ca6";
+      hash = "sha256-fg/ILtOKA8rx1VL0e107JuzdM8ZpxGGQ/WpqSYIp01o=";
     };
   };
   "tree-sitter-rslox" = {
@@ -4829,13 +4829,13 @@
     };
   };
   "tree-sitter-swifter" = {
-    version = "0.9.21";
+    version = "0.9.22";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "woolsweater";
       repo = "tree-sitter-swifter";
-      rev = "v0.9.21";
-      hash = "sha256-Q4kM2ylT6tiP0Hrp3U8xr1clNSYv3IouNgiQ+2Zr11A=";
+      rev = "v0.9.22";
+      hash = "sha256-gcjKFDivmibREnBqhd4vqvUqgaYSWQS0mWgt9Uki7K0=";
     };
   };
   "tree-sitter-sxhkdrc" = {
@@ -5722,12 +5722,12 @@
     };
   };
   "tree-sitter-zscript" = {
-    version = "unstable-2025-04-14";
+    version = "unstable-2025-06-28";
     src = fetchFromGitHub {
       owner = "dastrukar";
       repo = "tree-sitter-zscript";
-      rev = "5467091d7951839aec720104c3faca37a9e9274c";
-      hash = "sha256-emIoE5Uccxk/TUimh3zDtAvs4AdauTOUdd6SsyjM6HY=";
+      rev = "3332adb9c9dbcee8fed4e4de41abf1004f6e10ad";
+      hash = "sha256-M/hBRLyWBBXyTVQJBssNB3Hvi6d5nVo1uFy9Zf0Bvcw=";
     };
   };
 }
