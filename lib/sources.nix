@@ -298,12 +298,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "unstable-2025-06-22";
+    version = "unstable-2025-06-29";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "e6e761e2bb0758f22669c252ccb8480bd05d486f";
-      hash = "sha256-5BCp1CiXhIAg36UwJge6qLYZf6PvEPSVxt8by4ccsyQ=";
+      rev = "b8b0a41e0915e420af53134eaafc5a69e14cc133";
+      hash = "sha256-5etpTIAh9oXb8IJRDXR4RPLHX+/aSHLZcv6hbOpNJuY=";
     };
   };
   "tree-sitter-alcha" = {

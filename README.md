@@ -28,7 +28,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [2025-06-22](https://github.com/SShadowS/tree-sitter-al/tree/e6e761e2bb0758f22669c252ccb8480bd05d486f) |
+| tree-sitter-al | [2025-06-29](https://github.com/SShadowS/tree-sitter-al/tree/b8b0a41e0915e420af53134eaafc5a69e14cc133) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.3.1](https://github.com/s-ol/tree-sitter-alv/tree/v0.3.1) |
