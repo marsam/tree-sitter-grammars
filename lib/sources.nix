@@ -1612,12 +1612,12 @@
     };
   };
   "tree-sitter-faust" = {
-    version = "unstable-2025-06-13";
+    version = "unstable-2025-07-01";
     src = fetchFromGitHub {
       owner = "khiner";
       repo = "tree-sitter-faust";
-      rev = "aa033eb46c3b40e936db5847e0e91445ab606ee4";
-      hash = "sha256-OTevU/b8jcnShXXPHTHhF5urppU0QMa+6iFO/m+7NDY=";
+      rev = "122dd101919289ea809bad643712fcb483a1bed0";
+      hash = "sha256-5T+Om1qdSIal1pMIoaM44FexSqZyhZCZb/Pa0/udzZI=";
     };
   };
   "tree-sitter-fennel" = {
@@ -3027,12 +3027,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2025-06-16";
+    version = "unstable-2025-06-30";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "761da4194518c113ef1a0c2acc14a7fb7f12ec99";
-      hash = "sha256-AQCMSgHw4DPa6ZkbZ5gJJ8GxYFGQh9GlcCLwBR5x3hw=";
+      rev = "cead595941ab17a893e2c8c06d5ac780d63efd49";
+      hash = "sha256-EllV2k8Gfi2ugukRjBd6R9AYByaxmwoF03aB+YQ5f6M=";
     };
   };
   "tree-sitter-make" = {
@@ -3342,21 +3342,21 @@
     };
   };
   "tree-sitter-ned" = {
-    version = "unstable-2025-06-10";
+    version = "0.0.3";
     src = fetchFromGitHub {
       owner = "omnetpp";
       repo = "tree-sitter-ned";
-      rev = "2f2db34e7e6b0d3f897ba50cdafd41142de9608b";
-      hash = "sha256-i8kZHjRshB2vjt6MS6VeNOxyWQyV7dL8SNr/tfAT0nc=";
+      rev = "0.0.3";
+      hash = "sha256-5/wUl7C6YVvvIUK9K0h2ii1ZYoI4FTzWnzDK41ZzAUg=";
     };
   };
   "tree-sitter-nelua" = {
-    version = "unstable-2025-06-20";
+    version = "unstable-2025-06-30";
     src = fetchFromGitHub {
       owner = "kmafeni04";
       repo = "tree-sitter-nelua";
-      rev = "0c2c67027abbc798a3865595a4ddac8e2fee6752";
-      hash = "sha256-rO+s1NIVk+6duZNlbBbPJIR5fhypwEo4ZwXuH6CvG3o=";
+      rev = "a31404406a1e3b8f482d8278685719b3d8bcc421";
+      hash = "sha256-U2euehW1PXdq29exekki4a3ahWtI7XqD75NSwDHKo+g=";
     };
   };
   "tree-sitter-nesfab" = {
@@ -4820,12 +4820,12 @@
     };
   };
   "tree-sitter-swift" = {
-    version = "0.7.1";
+    version = "0.7.1-pypi-with-generated-files";
     src = fetchFromGitHub {
       owner = "alex-pinkus";
       repo = "tree-sitter-swift";
-      rev = "0.7.1";
-      hash = "sha256-ryDAR99swxlHbveA9DW+dSVb2T+962oMI/XAMkWjLJc=";
+      rev = "0.7.1-pypi-with-generated-files";
+      hash = "sha256-BVOCGYUSEXpu2Mu7VRVCZrBBqZpZdK3oLm3aYmOH+cs=";
     };
   };
   "tree-sitter-swifter" = {

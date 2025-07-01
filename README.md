@@ -195,7 +195,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-familymarkup | [1.14.0](https://github.com/redexp/tree-sitter-familymarkup/tree/v1.14.0) |
 | tree-sitter-fasm | [2024-11-21](https://github.com/wassup05/tree-sitter-fasm/tree/6b9e9de027273380d34ed705636c71481f0a2239) |
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
-| tree-sitter-faust | [2025-06-13](https://github.com/khiner/tree-sitter-faust/tree/aa033eb46c3b40e936db5847e0e91445ab606ee4) |
+| tree-sitter-faust | [2025-07-01](https://github.com/khiner/tree-sitter-faust/tree/122dd101919289ea809bad643712fcb483a1bed0) |
 | tree-sitter-fennel | [2025-04-17](https://github.com/alexmozaidze/tree-sitter-fennel/tree/de06b9ad366f0186080056109a8c3be980129538) |
 | tree-sitter-fga | [2024-12-19](https://github.com/matoous/tree-sitter-fga/tree/5005e8dd976e1f67beb3d23204580eb6f8b4c965) |
 | tree-sitter-fidl | [2024-02-27](https://github.com/google/tree-sitter-fidl/tree/0a8910f293268e27ff554357c229ba172b0eaed2) |
@@ -365,7 +365,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
 | tree-sitter-lx | [2024-12-19](https://github.com/curist/tree-sitter-lx/tree/31b9ef54ce48a10c070918c73ea8bbfc53648c68) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2025-06-16](https://github.com/krn-robin/tree-sitter-magik/tree/761da4194518c113ef1a0c2acc14a7fb7f12ec99) |
+| tree-sitter-magik | [2025-06-30](https://github.com/krn-robin/tree-sitter-magik/tree/cead595941ab17a893e2c8c06d5ac780d63efd49) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -403,8 +403,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-nasm | [2024-11-23](https://github.com/naclsn/tree-sitter-nasm/tree/d1b3638d017f2a8585e26dcfc66fe1df94185e30) |
 | tree-sitter-navi | [0.2.2](https://github.com/navi-language/tree-sitter-navi/tree/v0.2.2) |
 | tree-sitter-navi_stream | [0.0.4](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.0.4) |
-| tree-sitter-ned | [2025-06-10](https://github.com/omnetpp/tree-sitter-ned/tree/2f2db34e7e6b0d3f897ba50cdafd41142de9608b) |
-| tree-sitter-nelua | [2025-06-20](https://github.com/kmafeni04/tree-sitter-nelua/tree/0c2c67027abbc798a3865595a4ddac8e2fee6752) |
+| tree-sitter-ned | [0.0.3](https://github.com/omnetpp/tree-sitter-ned/tree/0.0.3) |
+| tree-sitter-nelua | [2025-06-30](https://github.com/kmafeni04/tree-sitter-nelua/tree/a31404406a1e3b8f482d8278685719b3d8bcc421) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
 | tree-sitter-netlinx | [1.0.4](https://github.com/Norgate-AV/tree-sitter-netlinx/tree/v1.0.4) |
 | tree-sitter-newick | [2024-02-12](https://github.com/delehef/tree-sitter-newick/tree/efb5d960e10582a598a09d8dd4bea2924a7c51b7) |
@@ -587,7 +587,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sus | [0.2.1](https://github.com/pc2/sus-compiler/tree/v0.2.1/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
-| tree-sitter-swift | [0.7.1](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.1) |
+| tree-sitter-swift | [0.7.1-pypi-with-generated-files](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.1-pypi-with-generated-files) |
 | tree-sitter-swifter | [0.9.22](https://codeberg.org/woolsweater/tree-sitter-swifter/src/v0.9.22) |
 | tree-sitter-sxhkdrc | [2022-08-31](https://github.com/RaafatTurki/tree-sitter-sxhkdrc/tree/440d5f913d9465c9c776a1bd92334d32febcf065) |
 | tree-sitter-syncat_stylesheet | [3.8.0](https://github.com/foxfriends/syncat/tree/3.8.0/tree-sitter-syncat-stylesheet) |
