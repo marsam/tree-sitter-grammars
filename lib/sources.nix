@@ -874,12 +874,12 @@
     };
   };
   "tree-sitter-chuck" = {
-    version = "unstable-2025-06-27";
+    version = "unstable-2025-07-05";
     src = fetchFromGitHub {
       owner = "tymbalodeon";
       repo = "tree-sitter-chuck";
-      rev = "3ef3d8e60646efebafa9776b2f708e3528b5a44f";
-      hash = "sha256-cFYiMQ3Elvq2M957DWP0rAtbp6Po3+L38s7vrA8Dr2c=";
+      rev = "a387a3c0490108d8af8f65ee258efe85a80d5f42";
+      hash = "sha256-HAzUCf9tZkzKKa7OjwBOu6cYxQZrfrt+M6q+ra3Tgfw=";
     };
   };
   "tree-sitter-circom" = {
@@ -2387,12 +2387,12 @@
     };
   };
   "tree-sitter-hygen_template" = {
-    version = "0.4.1";
+    version = "0.4.2";
     src = fetchFromGitHub {
       owner = "Hdoc1509";
       repo = "tree-sitter-hygen-template";
-      rev = "v0.4.1";
-      hash = "sha256-1YuOTUCiuGMrD7sPUZiSubpzma9h9Uim8SpfLlfH+Fg=";
+      rev = "v0.4.2";
+      hash = "sha256-ZsO9B848acgOseP8+ZiTPTzR+w1RWotQO5R21IcFOZM=";
     };
   };
   "tree-sitter-hylo" = {
@@ -2901,12 +2901,12 @@
     };
   };
   "tree-sitter-liquidsoap" = {
-    version = "1.1.3";
+    version = "1.1.5";
     src = fetchFromGitHub {
       owner = "savonet";
       repo = "tree-sitter-liquidsoap";
-      rev = "v1.1.3";
-      hash = "sha256-fcZYpNPKZeVu9+B357kyCjAt4RNBKHc7Ce03zG8eK9k=";
+      rev = "v1.1.5";
+      hash = "sha256-8aKDOe77/nLLkhubCoXr4MMvJr/uhR7T6dk7TpMxTOA=";
     };
   };
   "tree-sitter-lispbm" = {
@@ -3189,12 +3189,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-06-13";
+    version = "unstable-2025-07-04";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "eb78968fdb3728510f9260129a2dd57b7c04f761";
-      hash = "sha256-CC13vsuX41Ie/lqbT8gtMj7BcT9pkmD1j6fqtq2To1E=";
+      rev = "5ba41dd723c9d4385f771463117002d011f3a485";
+      hash = "sha256-3VTl5Dqv16TUctr361mOO8Pbx4bJBheJcu6mh8ltdko=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3486,12 +3486,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-07-03";
+    version = "unstable-2025-07-04";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "ef6943509fafd167b1e10bc12729b3c23b4f3df4";
-      hash = "sha256-Jf8+1eRGh0zQI7aaFnwnsQbwwqJ0L+jmsZu3NsQVywc=";
+      rev = "436b3f94578974d6e0c89c201d4b99329ad0e944";
+      hash = "sha256-9egrpf4qcUka1bKa2/+RuUUXmJm5D1qGz0fZCFq1Lno=";
     };
   };
   "tree-sitter-numbat" = {
