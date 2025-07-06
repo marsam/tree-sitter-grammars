@@ -2811,12 +2811,12 @@
     };
   };
   "tree-sitter-latex" = {
-    version = "unstable-2025-06-17";
+    version = "unstable-2025-07-05";
     src = fetchFromGitHub {
       owner = "latex-lsp";
       repo = "tree-sitter-latex";
-      rev = "73c9b8992f72203386092ffd2a05f2dcba02d2cb";
-      hash = "sha256-Z0zyXP86eRcKYjw4lVMPXXwQAusuEhFgMUFuE3GmIrM=";
+      rev = "9410012b3eba659da5de5a655b4041593b493cb7";
+      hash = "sha256-+69sosXV0vDr4efv4sKc825qFJQTTrG0DW0/CXHJjoE=";
     };
   };
   "tree-sitter-ld" = {
@@ -3189,12 +3189,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-07-04";
+    version = "unstable-2025-07-05";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "5ba41dd723c9d4385f771463117002d011f3a485";
-      hash = "sha256-3VTl5Dqv16TUctr361mOO8Pbx4bJBheJcu6mh8ltdko=";
+      rev = "78eb123cab8bb0dfaacb6b1ee617ef3fcc29d8b1";
+      hash = "sha256-H7tMlGt3xB14n2mDksU2K9uh65ioYM1/TU/ce3kNWv0=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3207,12 +3207,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2025-06-18";
+    version = "unstable-2025-07-05";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "191d7abf088b8cccd69187dc0aa42218a7eee90a";
-      hash = "sha256-A7ChyMjp13uO/VmqFXno5u+2HbqXW/3XmwXGVB3gwTs=";
+      rev = "4ac33b3c75c149f6282971868be85c25b7d23cfb";
+      hash = "sha256-HW7jRcRkNcXa4k+Giqc8vaT6TKV24GIxlsMOPK9qDUI=";
     };
   };
   "tree-sitter-mor" = {
@@ -5047,12 +5047,12 @@
     };
   };
   "tree-sitter-tl" = {
-    version = "unstable-2025-01-27";
+    version = "unstable-2025-07-05";
     src = fetchFromGitHub {
       owner = "PoopyPooOS";
       repo = "tree-sitter-tl";
-      rev = "d5bc1d6c3d85c5f4896fac8751ed857e2ae76897";
-      hash = "sha256-W6tyMlf/wF/BwfuWdrFojFaIrKg+tqQ1CcxdqUEXtKo=";
+      rev = "6256e31187f5185876c960f0998e31961f5561bd";
+      hash = "sha256-5EgblzOj9sdQbXETh0o7sFBaymxVF66dBdC/c+l7E04=";
     };
   };
   "tree-sitter-tlaplus" = {
