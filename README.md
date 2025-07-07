@@ -197,7 +197,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
 | tree-sitter-faust | [2025-07-01](https://github.com/khiner/tree-sitter-faust/tree/122dd101919289ea809bad643712fcb483a1bed0) |
 | tree-sitter-fennel | [2025-04-17](https://github.com/alexmozaidze/tree-sitter-fennel/tree/de06b9ad366f0186080056109a8c3be980129538) |
-| tree-sitter-fga | [2024-12-19](https://github.com/matoous/tree-sitter-fga/tree/5005e8dd976e1f67beb3d23204580eb6f8b4c965) |
+| tree-sitter-fga | [2025-07-06](https://github.com/matoous/tree-sitter-fga/tree/d1bb52b7bef5866c456991f29aefe24a98744214) |
 | tree-sitter-fidl | [2024-02-27](https://github.com/google/tree-sitter-fidl/tree/0a8910f293268e27ff554357c229ba172b0eaed2) |
 | tree-sitter-fin | [2024-07-04](https://github.com/fin-org/tree-sitter-fin/tree/33a570c1fd5118b0c00137b143d0e7e0e184bdef) |
 | tree-sitter-firrtl | [2024-04-20](https://github.com/tree-sitter-grammars/tree-sitter-firrtl/tree/8503d3a0fe0f9e427863cb0055699ff2d29ae5f5) |
@@ -509,7 +509,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-regent | [0.3.7](https://github.com/ellishg/tree-sitter-regent/tree/v0.3.7) |
 | tree-sitter-regex | [0.24.3](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.24.3) |
 | tree-sitter-rego | [2024-06-12](https://github.com/FallenAngel97/tree-sitter-rego/tree/20b5a5958c837bc9f74b231022a68a594a313f6d) |
-| tree-sitter-requirements | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.4.0) |
+| tree-sitter-requirements | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.5.0) |
 | tree-sitter-rescript | [2025-03-03](https://github.com/rescript-lang/tree-sitter-rescript/tree/d2df8a285fff95de56a91d2f8152aeceb66f40ef) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
 | tree-sitter-rifleconfig | [2024-10-25](https://github.com/purarue/tree-sitter-rifleconfig/tree/f236f9becb1b9d035eb510233c9ec75c3873c92b) |
@@ -564,7 +564,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-spade | [2025-04-20](https://gitlab.com/spade-lang/tree-sitter-spade//tree/39dba69d26782bf3439c62298cd1cf6b06901e31) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
-| tree-sitter-spicy | [2025-07-03](https://github.com/bbannier/tree-sitter-spicy/tree/c0d3026462d118b789fc016c5d6ae77cccf4ca03) |
+| tree-sitter-spicy | [2025-07-06](https://github.com/bbannier/tree-sitter-spicy/tree/0ce2657a50ddc3519dfbcb23840c2e90235e43c9) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sql | [0.3.8](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.8) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
@@ -697,7 +697,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2025-06-28](https://github.com/dastrukar/tree-sitter-zscript/tree/3332adb9c9dbcee8fed4e4de41abf1004f6e10ad) |
+| tree-sitter-zscript | [2025-07-06](https://github.com/dastrukar/tree-sitter-zscript/tree/0dffda057a969a69021ee689ce1d99d03abc13fd) |
 
 </details>
 <!-- end-gramars -->
