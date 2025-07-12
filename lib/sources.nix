@@ -1899,15 +1899,6 @@
       hash = "sha256-Sfuplw6iFq7satentgAMHcuFNYov1cKmtY+OhkMufPo=";
     };
   };
-  "tree-sitter-git_commit" = {
-    version = "unstable-2025-06-27";
-    src = fetchFromGitHub {
-      owner = "the-mikedavis";
-      repo = "tree-sitter-git-commit";
-      rev = "5a50da19b3841ac51e9d483cd9c856a85232233d";
-      hash = "sha256-9UXV3Q8y+5oMtDJWHYJsRLPRptyc26KYLcgHxm1IPN8=";
-    };
-  };
   "tree-sitter-git_config" = {
     version = "unstable-2025-05-11";
     src = fetchFromGitHub {
@@ -1945,12 +1936,12 @@
     };
   };
   "tree-sitter-gitcommit" = {
-    version = "0.3.3";
+    version = "unstable-2025-03-13";
     src = fetchFromGitHub {
       owner = "gbprod";
       repo = "tree-sitter-gitcommit";
-      rev = "v0.3.3";
-      hash = "sha256-L3v+dQZhwC+kBOHf3YVbZjuCU+idbUDByEdUBmeGAlo=";
+      rev = "a716678c0f00645fed1e6f1d0eb221481dbd6f6d";
+      hash = "sha256-KYfcs99p03b0RiPYnZeKJf677fmVf658FLZcFk2v2Ws=";
     };
   };
   "tree-sitter-gitignore" = {
@@ -3242,15 +3233,6 @@
       hash = "sha256-l0t8/W0J0ACOOyLBEYwpHV8aCgdS6w/inczFPp6qBmw=";
     };
   };
-  "tree-sitter-move" = {
-    version = "unstable-2025-06-17";
-    src = fetchFromGitHub {
-      owner = "tzakian";
-      repo = "tree-sitter-move";
-      rev = "640ee15e4a7b0d09a4bc95dcc71336c28d97999b";
-      hash = "sha256-rLIyJZEjMRo8am+ivKCwAESvv6jFtTPYJuuebN3T5Es=";
-    };
-  };
   "tree-sitter-move_on_aptos" = {
     version = "unstable-2025-03-21";
     src = fetchFromGitHub {
@@ -3611,15 +3593,6 @@
       hash = "sha256-kYbRxzoG/s2KChbwvYuJwpPpJ/Ckn7oTWlBxfYVm4/M=";
     };
   };
-  "tree-sitter-owl_ms" = {
-    version = "unstable-2025-06-18";
-    src = fetchFromGitHub {
-      owner = "janekx21";
-      repo = "tree-sitter-owl-ms";
-      rev = "46495487778e403423431bd4a3c45d6ed3d96795";
-      hash = "sha256-RZqfOH2B0xGUgYLDRkAdJZJHzympINqzaNNpRTy743s=";
-    };
-  };
   "tree-sitter-p4" = {
     version = "unstable-2025-04-23";
     src = fetchFromGitHub {
@@ -3912,7 +3885,7 @@
   "tree-sitter-protobuf" = {
     version = "unstable-2021-08-22";
     src = fetchFromGitHub {
-      owner = "yusdacra";
+      owner = "90-008";
       repo = "tree-sitter-protobuf";
       rev = "5aef38d655f76a6b0d172340eed3766c93b3124c";
       hash = "sha256-h86NQAIRU+mUroa0LqokMtEVd7U5BXo/DADc2UUZQzI=";

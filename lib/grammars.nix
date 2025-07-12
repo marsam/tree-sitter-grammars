@@ -237,6 +237,28 @@ let
         generate = true;
         location = "src/tree-sitter-dotvvm";
       };
+      tree-sitter-move =  {
+        version = "unstable-2025-07-11";
+        src = fetchFromGitHub {
+          owner = "MystenLabs";
+          repo = "sui";
+          rev = "74e40c8e811a380eaf8d18690d0ec73af135d256";
+          hash = "sha256-cH7CZAvNHV/Qz0Ut18zW/4Uahck86JQWfDMDtL/gV8Q=";
+          sparseCheckout = [ "external-crates/move/tooling/tree-sitter" ];
+        };
+        location = "external-crates/move/tooling/tree-sitter";
+      };
+      tree-sitter-owl_ms =  {
+        version = "unstable-2025-07-11";
+        src = fetchFromGitHub {
+          owner = "janekx21";
+          repo = "owl-ms-language-server";
+          rev = "b6275869b9abdc90d77eeccefdfdba085e622a6a";
+          hash = "sha256-5xzc4okN43PQXkGj2gk3gklVFoRNbl3obmBJMKmZ0iM=";
+          sparseCheckout = [ "crates/tree-sitter-owl-ms" ];
+        };
+        location = "crates/tree-sitter-owl-ms";
+      };
       # TODO: Use SourceHut API. Unfortunately, only allows authenticated requests.
       tree-sitter-gemini = {
         version = "unstable-2023-11-27";
