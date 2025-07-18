@@ -72,7 +72,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bqn | [0.3.2](https://github.com/shnarazk/tree-sitter-bqn/tree/v0.3.2) |
 | tree-sitter-branescript | [2024-11-02](https://github.com/DanielVoogsgerd/treesitter-branescript/tree/c293852df20288952d5b65197670dfb0fe2cabcc) |
 | tree-sitter-breaker | [2024-04-30](https://github.com/mielpeeters/tree-sitter-breaker/tree/8c61b9633dcc08d7841bc399a7280ba5f8506607) |
-| tree-sitter-brightscript | [2025-04-11](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/48ce1687125c6dfefcc7a1bef19fa0f0f00426cc) |
+| tree-sitter-brightscript | [2025-07-17](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/55168264ea174085d2e91377a33f216190df2f51) |
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
 | tree-sitter-bsl | [0.1.5](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.5) |
@@ -218,11 +218,11 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2025-07-16](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/4ac38f31b3c9db041355d41867a4ed95efdd84bf) |
+| tree-sitter-galvan | [2025-07-17](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/90a9bdc8ce24aee70a7aa5a2b9fe17821858e316) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
-| tree-sitter-gdscript | [5.0.1](https://github.com/PrestonKnopp/tree-sitter-gdscript/tree/v5.0.1) |
+| tree-sitter-gdscript | [6.0.0](https://github.com/PrestonKnopp/tree-sitter-gdscript/tree/v6.0.0) |
 | tree-sitter-gdshader | [2024-02-23](https://github.com/GodOfAvacyn/tree-sitter-gdshader/tree/ffd9f958df13cae04593781d7d2562295a872455) |
 | tree-sitter-gdsl | [2025-02-04](https://github.com/NSSAC/tree-sitter-gdsl/tree/e2037409d8d4c2631acc5a543ca2201f155b49f9) |
 | tree-sitter-gemini | [2023-11-27](https://git.sr.ht/~nbsp/tree-sitter-gemini/tree/b60a42df3f76bd4e8f988465309d705a007dc506) |
@@ -594,7 +594,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.1.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.1.1) |
-| tree-sitter-t32 | [5.5.4](https://codeberg.org/xasc/tree-sitter-t32/src/v5.5.4) |
+| tree-sitter-t32 | [5.5.5](https://codeberg.org/xasc/tree-sitter-t32/src/v5.5.5) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
