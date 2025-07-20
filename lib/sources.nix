@@ -541,12 +541,12 @@
     };
   };
   "tree-sitter-beancount" = {
-    version = "2.3.3";
+    version = "tree-sitter-beancount-2.4.0";
     src = fetchFromGitHub {
       owner = "polarmutex";
       repo = "tree-sitter-beancount";
-      rev = "v2.3.3";
-      hash = "sha256-T2f3Tp/yciZbQuR8J17zCgLb3OuELECvn7uoiVbLNNY=";
+      rev = "tree-sitter-beancount-2.4.0";
+      hash = "sha256-oE2OmesAZ6zJ5TJSgE5fDqDDMdbycXrOKgECgUnTYYA=";
     };
   };
   "tree-sitter-bend" = {
@@ -874,12 +874,12 @@
     };
   };
   "tree-sitter-chuck" = {
-    version = "unstable-2025-07-17";
+    version = "unstable-2025-07-19";
     src = fetchFromGitHub {
       owner = "tymbalodeon";
       repo = "tree-sitter-chuck";
-      rev = "4e11095e1e13826d860d43dca06464898114dbeb";
-      hash = "sha256-b/O7oi6OI7aOv8nB8q4x8coyxUd7WdmA10KQvWGhGAM=";
+      rev = "57b29e0e7f80e9f296111b4e3e60a8661abda577";
+      hash = "sha256-3uvDOfX25DzDXt/BxVVgdF6W/ztsTiA951nBV+9x/mo=";
     };
   };
   "tree-sitter-circom" = {
@@ -3081,12 +3081,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.0.7";
-      hash = "sha256-46dLZBYoCuEC+Ce1vh0Zb6wXkvBLaLLy97lloCx50L0=";
+      rev = "v1.0.8";
+      hash = "sha256-gKpfNxJXv7KKXbk++Vf9nETwOvmD9Vqd5YAPbh1Wuas=";
     };
   };
   "tree-sitter-mcfuncx" = {
@@ -3946,12 +3946,12 @@
     };
   };
   "tree-sitter-pymanifest" = {
-    version = "0.5.1";
+    version = "0.6.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-pymanifest";
-      rev = "v0.5.1";
-      hash = "sha256-Kud/E67Sh9F4nc8nzW5UXFHW5+kGftLyFzwLOKLcpL8=";
+      rev = "v0.6.0";
+      hash = "sha256-jaWi0F9ApUSwniN3O7x05VrCceL+0x2+98iJx9+PaZo=";
     };
   };
   "tree-sitter-pyrope" = {
