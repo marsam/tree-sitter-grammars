@@ -409,9 +409,10 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-jai": Grammar("https://github.com/constantitus/tree-sitter-jai"),  # Alternative: https://github.com/adragomir/tree-sitter-jai https://github.com/SogoCZE/tree-sitter-jai
     "tree-sitter-jakt": Grammar("https://github.com/SerenityOS/tree-sitter-jakt"),
     "tree-sitter-janet_simple": Grammar("https://github.com/sogaiu/tree-sitter-janet-simple"),
+    "tree-sitter-jasmin": Grammar("https://github.com/jasmin-lang/tree-sitter-jasmin", "HEAD"),
     "tree-sitter-javadoc": Grammar("https://github.com/rmuir/tree-sitter-javadoc"),
     "tree-sitter-jelly": Grammar("https://github.com/OpenJelly/tree-sitter-jelly"),
-    "tree-sitter-jinja": Grammar("https://github.com/cathaysia/tree-sitter-jinja", "HEAD"), # Alternative: https://github.com/dbt-labs/tree-sitter-jinja2
+    "tree-sitter-jinja": Grammar("https://github.com/cathaysia/tree-sitter-jinja"), # Alternative: https://github.com/dbt-labs/tree-sitter-jinja2
     "tree-sitter-jjdescription": Grammar("https://github.com/kareigu/tree-sitter-jjdescription"),
     "tree-sitter-jq": Grammar("https://github.com/nverno/tree-sitter-jq"),  # Alternative: https://github.com/flurie/tree-sitter-jq
     "tree-sitter-jslt": Grammar("https://github.com/Kuzat/tree-sitter-jslt"),
@@ -435,7 +436,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-kusto": Grammar("https://github.com/Willem-J-an/tree-sitter-kusto"),
     "tree-sitter-lalrpop": Grammar("https://github.com/traxys/tree-sitter-lalrpop"),
     "tree-sitter-lama": Grammar("https://codeberg.org/ProgramSnail/tree-sitter-lama"),
-    "tree-sitter-latex": Grammar("https://github.com/latex-lsp/tree-sitter-latex", "HEAD"),
+    "tree-sitter-latex": Grammar("https://github.com/latex-lsp/tree-sitter-latex"),
     "tree-sitter-ld": Grammar("https://github.com/mtoohey31/tree-sitter-ld"),
     "tree-sitter-ldif": Grammar("https://github.com/kkmp-dk/tree-sitter-ldif"),
     "tree-sitter-lean": Grammar("https://github.com/Julian/tree-sitter-lean"),
@@ -605,7 +606,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-rtf": Grammar("https://github.com/GoodNotes/tree-sitter-rtf"),
     "tree-sitter-runescript": Grammar("https://github.com/LostCityRS/tree-sitter-runescript"),
     "tree-sitter-rush": Grammar("https://github.com/rush-rs/tree-sitter-rush"),
-    "tree-sitter-rustfmt": Grammar("https://github.com/nik-rev/tree-sitter-rust-format-args"),
+    "tree-sitter-rust_format_args": Grammar("https://github.com/nik-rev/tree-sitter-rust-format-args"),
     "tree-sitter-rvparam": Grammar("https://github.com/simonvic/tree-sitter-rvparam"),
     "tree-sitter-sasm": Grammar("https://github.com/huntiep/tree-sitter-sasm"),
     "tree-sitter-satysfi": Grammar("https://github.com/monaqa/tree-sitter-satysfi"),
@@ -703,7 +704,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-umka": Grammar("https://github.com/thacuber2a03/tree-sitter-umka"),
     "tree-sitter-ungrammar": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ungrammar"),
     "tree-sitter-unifieddiff": Grammar("https://github.com/monaqa/tree-sitter-unifieddiff"),
-    "tree-sitter-unison": Grammar("https://github.com/kylegoetz/tree-sitter-unison", "HEAD"),
+    "tree-sitter-unison": Grammar("https://github.com/kylegoetz/tree-sitter-unison"),
     "tree-sitter-uri": Grammar("https://github.com/atusy/tree-sitter-uri"),
     "tree-sitter-ursa": Grammar("https://github.com/ursalang/tree-sitter-ursa"),
     "tree-sitter-usd": Grammar("https://github.com/ColinKennedy/tree-sitter-usd"),
@@ -731,7 +732,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-wgsl_bevy": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-wgsl-bevy"),
     "tree-sitter-while": Grammar("https://github.com/RubixDev/tree-sitter-while"),
     "tree-sitter-wing": Grammar("https://github.com/winglang/tree-sitter-wing"),
-    "tree-sitter-wit": Grammar("https://github.com/liamwh/tree-sitter-wit"),
+    "tree-sitter-wit": Grammar("https://github.com/bytecodealliance/tree-sitter-wit"),
     "tree-sitter-witcherscript": Grammar("https://github.com/SpontanCombust/tree-sitter-witcherscript"),
     "tree-sitter-woml": Grammar("https://github.com/0xwal/tree-sitter-woml"),
     "tree-sitter-x12": Grammar("https://github.com/hugginsio/tree-sitter-x12"),
