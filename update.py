@@ -154,7 +154,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-abl": Grammar("https://github.com/usagi-coffee/tree-sitter-abl"),
     "tree-sitter-abnf": Grammar("https://github.com/jmitchell/tree-sitter-abnf"),
     "tree-sitter-actionscript": Grammar("https://github.com/Rileran/tree-sitter-actionscript"),
-    "tree-sitter-ada": Grammar("https://github.com/briot/tree-sitter-ada"),
+    "tree-sitter-ada": Grammar("https://github.com/briot/tree-sitter-ada", "HEAD"),  # Tagged with invalid version
     "tree-sitter-adl": Grammar("https://github.com/adl-lang/tree-sitter-adl"),
     "tree-sitter-aiken": Grammar("https://github.com/aiken-lang/tree-sitter-aiken"),
     "tree-sitter-al": Grammar("https://github.com/SShadowS/tree-sitter-al"),
@@ -333,6 +333,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-gdshader": Grammar("https://github.com/GodOfAvacyn/tree-sitter-gdshader"),
     "tree-sitter-gdsl": Grammar("https://github.com/NSSAC/tree-sitter-gdsl"),
     "tree-sitter-gemtext": Grammar("https://github.com/pebbe/tree-sitter-gemtext"),
+    "tree-sitter-ghactions": Grammar("https://github.com/rmuir/tree-sitter-ghactions"),
     "tree-sitter-gherkin": Grammar("https://github.com/binhtran432k/tree-sitter-gherkin"),
     "tree-sitter-ghostty": Grammar("https://github.com/bezhermoso/tree-sitter-ghostty"),
     "tree-sitter-git_config": Grammar("https://github.com/the-mikedavis/tree-sitter-git-config"),
@@ -469,6 +470,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-martian": Grammar("https://github.com/LoganAMorrison/tree-sitter-martian"),
     "tree-sitter-matlab": Grammar("https://github.com/acristoffers/tree-sitter-matlab"),
     "tree-sitter-mcfuncx": Grammar("https://github.com/PFiS1737/tree-sitter-mcfuncx"),
+    "tree-sitter-mdx": Grammar("https://github.com/srazzak/tree-sitter-mdx"),
     "tree-sitter-mediawiki": Grammar("https://github.com/Ordoviz/tree-sitter-mediawiki"),
     "tree-sitter-melody": Grammar("https://github.com/abiriadev/tree-sitter-melody"),
     "tree-sitter-menhir": Grammar("https://github.com/Kerl13/tree-sitter-menhir"),
@@ -599,7 +601,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-robots": Grammar("https://github.com/opa-oz/tree-sitter-robots-txt"),
     "tree-sitter-roc": Grammar("https://github.com/faldor20/tree-sitter-roc", ("commit", "3292b071b2574e71a9fcf66b2cc6e3092daa39f4")), # The next commit includes build/, which somehow makes the fetcher fail
     "tree-sitter-ron": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ron"),
-    "tree-sitter-mdx": Grammar("https://github.com/srazzak/tree-sitter-mdx"),
     "tree-sitter-rpmspec": Grammar("https://gitlab.com/cryptomilk/tree-sitter-rpmspec"),
     "tree-sitter-rslox": Grammar("https://github.com/boycgit/tree-sitter-rslox"),
     "tree-sitter-rson": Grammar("https://github.com/TheNeikos/tree-sitter-rson"),
@@ -649,6 +650,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-starlark": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-starlark"),
     "tree-sitter-stilts": Grammar("https://github.com/Atrociously/stilts"),
     "tree-sitter-strace": Grammar("https://github.com/sigmaSd/tree-sitter-strace"),
+    "tree-sitter-strictdoc": Grammar("https://github.com/manueldiagostino/tree-sitter-strictdoc"),
     "tree-sitter-strings": Grammar("https://github.com/uber/tree-sitter-strings"),
     "tree-sitter-structurizr": Grammar("https://github.com/josteink/tree-sitter-structurizr"),
     "tree-sitter-styled": Grammar("https://github.com/mskelton/tree-sitter-styled"),
@@ -660,7 +662,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-svelte": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-svelte"),  # Alternative: https://github.com/Himujjal/tree-sitter-svelte
     "tree-sitter-sway": Grammar("https://github.com/FuelLabs/tree-sitter-sway"),
     "tree-sitter-swift": Grammar("https://github.com/alex-pinkus/tree-sitter-swift"),
-    "tree-sitter-strictdoc": Grammar("https://github.com/manueldiagostino/tree-sitter-strictdoc"),
     "tree-sitter-swifter": Grammar("https://codeberg.org/woolsweater/tree-sitter-swifter"),
     "tree-sitter-sxhkdrc": Grammar("https://github.com/RaafatTurki/tree-sitter-sxhkdrc"),
     "tree-sitter-syncat_stylesheet": Grammar("https://github.com/foxfriends/syncat"),
