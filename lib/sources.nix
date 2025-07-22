@@ -732,7 +732,7 @@
   "tree-sitter-ca65" = {
     version = "unstable-2024-07-28";
     src = fetchFromGitHub {
-      owner = "quienestatocando";
+      owner = "mulletprotocol";
       repo = "tree-sitter-ca65";
       rev = "fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270";
       hash = "sha256-4kbDSOQozxZ6U4o9HHt66ey0iJgmRl7AC0NIXmPqSiU=";
@@ -3701,6 +3701,15 @@
       hash = "sha256-+i1rau4Lg7h2u9dpZm5PT025bVKPF603TiAphlVgZn4=";
     };
   };
+  "tree-sitter-piglet" = {
+    version = "unstable-2025-07-26";
+    src = fetchFromGitHub {
+      owner = "piglet-lang";
+      repo = "tree-sitter-piglet";
+      rev = "a373f4f388bf4c1e36f0a5568ea36cda64eb22e5";
+      hash = "sha256-+uE4x+f5qyt6MBFNoBc8ly0YKWCfM3ev0h4bjcuMmYQ=";
+    };
+  };
   "tree-sitter-pioasm" = {
     version = "unstable-2024-10-12";
     src = fetchFromGitHub {
@@ -4270,6 +4279,15 @@
       hash = "sha256-Ay1G+iCenn5PIa7XZghkck5+FjRD6rHFD7ePFy3YRdE=";
     };
   };
+  "tree-sitter-mdx" = {
+    version = "unstable-2025-07-28";
+    src = fetchFromGitHub {
+      owner = "srazzak";
+      repo = "tree-sitter-mdx";
+      rev = "203972485af97d78e264cc14a1722481e1a20ab2";
+      hash = "sha256-OY+IBsBe/+erBP82/Wo7WjXlz3aTJaPWHKL2sPpggVg=";
+    };
+  };
   "tree-sitter-rpmspec" = {
     version = "unstable-2025-06-28";
     src = fetchFromGitLab {
@@ -4808,6 +4826,15 @@
       repo = "tree-sitter-swift";
       rev = "0.7.1-pypi-with-generated-files";
       hash = "sha256-BVOCGYUSEXpu2Mu7VRVCZrBBqZpZdK3oLm3aYmOH+cs=";
+    };
+  };
+  "tree-sitter-strictdoc" = {
+    version = "unstable-2025-07-27";
+    src = fetchFromGitHub {
+      owner = "manueldiagostino";
+      repo = "tree-sitter-strictdoc";
+      rev = "1fadb5ab41602e77c1da0cf78917c58bd9bdd26f";
+      hash = "sha256-AUQZGChYflBrI5S7tLCmyjqqFkn1viCsp7bCHHUd9ic=";
     };
   };
   "tree-sitter-swifter" = {
