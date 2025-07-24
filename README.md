@@ -33,7 +33,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.3.1](https://github.com/s-ol/tree-sitter-alv/tree/v0.3.1) |
 | tree-sitter-amber | [2025-06-14](https://github.com/amber-lang/tree-sitter-amber/tree/cafa15e6224fcb43cc88275e1afaf33179a4f393) |
-| tree-sitter-angular | [0.6.2](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.6.2) |
+| tree-sitter-angular | [0.6.4](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.6.4) |
 | tree-sitter-apachesynapse | [2024-01-02](https://github.com/DaAlbrecht/tree-sitter-apachesynapse/tree/e125e0f6d40bdacbe6bcca05aff4f4145fcacdc4) |
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
 | tree-sitter-apparmor | [2024-11-23](https://github.com/Su3h7aM/tree-sitter-apparmor/tree/1a600d3b93cde5c86af0940b376241cd770061cc) |
@@ -336,7 +336,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-koka | [2025-01-26](https://github.com/mtoohey31/tree-sitter-koka/tree/33c333f7ff4cac4138c0786198481b33d2880656) |
 | tree-sitter-kos | [2025-01-21](https://github.com/kos-lang/tree-sitter-kos/tree/eff4e8a6e3b5ac283b17fa8df5a67f6e024b4150) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
-| tree-sitter-koto | [2025-07-21](https://github.com/koto-lang/tree-sitter-koto/tree/2ffc77c14f0ac1674384ff629bfc207b9c57ed89) |
+| tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
 | tree-sitter-lalrpop | [2025-03-20](https://github.com/traxys/tree-sitter-lalrpop/tree/8d38e9755c05d37df8a24dadb0fc64f6588ac188) |
 | tree-sitter-lama | [2025-02-15](https://codeberg.org/ProgramSnail/tree-sitter-lama/src/747b20dfed4934868ba457fd811eb2fb9ffc0ff3) |
@@ -569,7 +569,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sql | [0.3.8](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.8) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2025.7.17](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.7.17) |
+| tree-sitter-ssh_client_config | [2025.7.24](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.7.24) |
 | tree-sitter-ssh_config | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.4.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.2.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.2.1) |
