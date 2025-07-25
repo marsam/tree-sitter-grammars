@@ -76,7 +76,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
 | tree-sitter-bsl | [0.1.5](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.5) |
-| tree-sitter-bsv | [2025-07-02](https://github.com/yuyuranium/tree-sitter-bsv/tree/999ed177e2d156bf03b675498b69a5ea15da8c93) |
+| tree-sitter-bsv | [2025-07-24](https://github.com/yuyuranium/tree-sitter-bsv/tree/79084ee2a2f3b26b40ee5a65b04fb7e90d41e9bb) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
 | tree-sitter-c3 | [0.8.1](https://github.com/c3lang/tree-sitter-c3/tree/v0.8.1) |
@@ -283,7 +283,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-htmldjango | [1.0.0](https://github.com/interdependence/tree-sitter-htmldjango/tree/v1.0.0) |
 | tree-sitter-htmljinja2 | [2025-03-23](https://codeberg.org/meow_king/tree-sitter-htmljinja2/src/c349ef96742ada7df27c83002e6c3d0f446773c8) |
 | tree-sitter-http | [3.0](https://github.com/rest-nvim/tree-sitter-http/tree/v3.0) |
-| tree-sitter-humphrey | [2025-07-16](https://github.com/SavourySnaX/tree-sitter-humphrey/tree/6423e326ddab4592eaf0a93e7d391609562b5947) |
+| tree-sitter-humphrey | [2025-07-24](https://github.com/SavourySnaX/tree-sitter-humphrey/tree/1eb388a10dd15264d232d84295422f8f6857c252) |
 | tree-sitter-hurl | [1.5.1](https://github.com/pfeiferj/tree-sitter-hurl/tree/v1.5.1) |
 | tree-sitter-hy | [2025-01-02](https://github.com/MinmusxMinmus/tree-sitter-hy/tree/384ac9ad1a795b835d98a99d40db04a5f99b95e7) |
 | tree-sitter-hygen_template | [0.5.0](https://github.com/Hdoc1509/tree-sitter-hygen-template/tree/v0.5.0) |
@@ -307,7 +307,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-jai | [2025-07-21](https://github.com/constantitus/tree-sitter-jai/tree/e15938a94c931662aa3e38cc07dfb98cf7436a90) |
 | tree-sitter-jakt | [2025-03-04](https://github.com/SerenityOS/tree-sitter-jakt/tree/e67a5de093cab9eb79be721bf39bc9115193534a) |
 | tree-sitter-janet_simple | [0.0.7](https://github.com/sogaiu/tree-sitter-janet-simple/tree/v0.0.7) |
-| tree-sitter-jasmin | [2025-07-18](https://github.com/jasmin-lang/tree-sitter-jasmin/tree/8733fd2ebe61da909f26f0263312aaf2ac1498c2) |
+| tree-sitter-jasmin | [2025-07-24](https://github.com/jasmin-lang/tree-sitter-jasmin/tree/baf441e4b10959c74d2fc0d94f45077abe6cf723) |
 | tree-sitter-java | [0.23.5](https://github.com/tree-sitter/tree-sitter-java/tree/v0.23.5) |
 | tree-sitter-javadoc | [0.2.2](https://github.com/rmuir/tree-sitter-javadoc/tree/v0.2.2) |
 | tree-sitter-javascript | [0.23.1](https://github.com/tree-sitter/tree-sitter-javascript/tree/v0.23.1) |
