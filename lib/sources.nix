@@ -2567,21 +2567,21 @@
     };
   };
   "tree-sitter-jasmin" = {
-    version = "unstable-2025-07-24";
+    version = "unstable-2025-07-25";
     src = fetchFromGitHub {
       owner = "jasmin-lang";
       repo = "tree-sitter-jasmin";
-      rev = "baf441e4b10959c74d2fc0d94f45077abe6cf723";
-      hash = "sha256-fgLvRFLVzD19b9ahZQ0mHN4K8cR46IMUimtkKB8vxMI=";
+      rev = "751678dd4f799f388dabc57c8fd77e52f0bcc7a7";
+      hash = "sha256-EDLrxa7ZgGeGcIwmbshbPRsf02uqkqaw10S81FC/aH8=";
     };
   };
   "tree-sitter-javadoc" = {
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchFromGitHub {
       owner = "rmuir";
       repo = "tree-sitter-javadoc";
-      rev = "v0.2.2";
-      hash = "sha256-9zQXpagOFayWmbCKThdyWUbCAd9Hgovc9ph1asJyx7s=";
+      rev = "v0.2.3";
+      hash = "sha256-PWPtsuttgNNzaMKqklsNUnaIzAw13akM7wzk5+evpXE=";
     };
   };
   "tree-sitter-jelly" = {
