@@ -304,7 +304,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
 | tree-sitter-ispc | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-ispc/tree/v0.1.1) |
 | tree-sitter-jack | [2024-10-04](https://github.com/nverno/tree-sitter-jack/tree/1a617413ea92c237bff4cbe7fa67eb3bf4425596) |
-| tree-sitter-jai | [2025-07-21](https://github.com/constantitus/tree-sitter-jai/tree/e15938a94c931662aa3e38cc07dfb98cf7436a90) |
+| tree-sitter-jai | [2025-07-26](https://github.com/constantitus/tree-sitter-jai/tree/9d6fa4a91fbb2a7d7ff69e688c4d2ff5bed45695) |
 | tree-sitter-jakt | [2025-03-04](https://github.com/SerenityOS/tree-sitter-jakt/tree/e67a5de093cab9eb79be721bf39bc9115193534a) |
 | tree-sitter-janet_simple | [0.0.7](https://github.com/sogaiu/tree-sitter-janet-simple/tree/v0.0.7) |
 | tree-sitter-jasmin | [2025-07-25](https://github.com/jasmin-lang/tree-sitter-jasmin/tree/751678dd4f799f388dabc57c8fd77e52f0bcc7a7) |
@@ -333,7 +333,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-kconfig | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-kconfig/tree/v1.3.0) |
 | tree-sitter-kdl | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-kdl/tree/v1.1.0) |
 | tree-sitter-kittyconf | [2023-03-24](https://github.com/clo4/tree-sitter-kitty-conf/tree/9cdf551522d509c0432f136eb373bdf2e6032493) |
-| tree-sitter-koka | [2025-01-26](https://github.com/mtoohey31/tree-sitter-koka/tree/33c333f7ff4cac4138c0786198481b33d2880656) |
+| tree-sitter-koka | [2025-07-26](https://github.com/mtoohey31/tree-sitter-koka/tree/6dce132911ac375ac1a3591c868c47a2a84b30aa) |
 | tree-sitter-kos | [2025-01-21](https://github.com/kos-lang/tree-sitter-kos/tree/eff4e8a6e3b5ac283b17fa8df5a67f6e024b4150) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
 | tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
@@ -556,7 +556,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-snakemake | [1.1.1](https://github.com/osthomas/tree-sitter-snakemake/tree/v1.1.1) |
 | tree-sitter-snippet | [2024-12-06](https://github.com/ribru17/tree-sitter-snippet/tree/a5a22c265f4d07b7145d5e4f73f471c6d171a93b) |
 | tree-sitter-snl | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/snl) |
-| tree-sitter-solidity | [1.2.11](https://github.com/JoranHonig/tree-sitter-solidity/tree/v1.2.11) |
+| tree-sitter-solidity | [1.2.12](https://github.com/JoranHonig/tree-sitter-solidity/tree/v1.2.12) |
 | tree-sitter-soql | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/soql) |
 | tree-sitter-sosl | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/sosl) |
 | tree-sitter-souffle | [0.4.0](https://github.com/langston-barrett/tree-sitter-souffle/tree/v0.4.0) |
