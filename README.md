@@ -373,7 +373,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.0/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.0.8](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.8) |
+| tree-sitter-matlab | [1.0.9](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.9) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
 | tree-sitter-melody | [2024-03-21](https://github.com/abiriadev/tree-sitter-melody/tree/ade2f6aa32bd8e87eba3f7c736ff97c6047b69d1) |
@@ -604,7 +604,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-tcl | [2025-05-14](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/8f11ac7206a54ed11210491cee1e0657e2962c47) |
 | tree-sitter-teal | [0.1.0](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.1.0) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
-| tree-sitter-templ | [2025-06-15](https://github.com/vrischmann/tree-sitter-templ/tree/a35a02cb608291ac8c12082dcbd2b5f34a7ad45f) |
+| tree-sitter-templ | [1.0.0](https://github.com/vrischmann/tree-sitter-templ/tree/v1.0.0) |
 | tree-sitter-tera | [2025-07-22](https://github.com/uncenter/tree-sitter-tera/tree/692937d52c8dfd91ce0dde722b9b4febbc9bc712) |
 | tree-sitter-terraform | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/v1.2.0/dialects/terraform) |
 | tree-sitter-test | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-test/tree/v0.1.0) |
