@@ -820,12 +820,12 @@
     };
   };
   "tree-sitter-catala_en" = {
-    version = "unstable-2025-07-18";
+    version = "unstable-2025-07-29";
     src = fetchFromGitHub {
       owner = "CatalaLang";
       repo = "tree-sitter-catala";
-      rev = "50d09dc135edce5fc0c408b3f41189fddb0be20d";
-      hash = "sha256-ZFOJ9ID7EHIpQZfmEVebWDIsWkwr7eeeStsVrnDYje4=";
+      rev = "b2f503606157249922c8066de5a0f8cd78dee0fa";
+      hash = "sha256-0cEM2qmAiFtnSH7zIlmK/a1ceNvPatKHsMAEjrugd6g=";
     };
   };
   "tree-sitter-cds" = {
@@ -3675,12 +3675,12 @@
     };
   };
   "tree-sitter-pgn" = {
-    version = "1.1.4";
+    version = "1.2.12";
     src = fetchFromGitHub {
       owner = "rolandwalker";
       repo = "tree-sitter-pgn";
-      rev = "v1.1.4";
-      hash = "sha256-J7Sp6iRFGQsxWlAgam0i/cNEP3tE5Qd0nV3WQKI6954=";
+      rev = "v1.2.12";
+      hash = "sha256-VxRXEidQG0Q/BR4ob3Xr/UCuu7NgmaOGAqJdgHzyX1U=";
     };
   };
   "tree-sitter-phpdoc" = {
@@ -4487,12 +4487,12 @@
     };
   };
   "tree-sitter-slang" = {
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-slang";
-      rev = "v0.3.0";
-      hash = "sha256-Oj3Z1Zw1geM2jid7xg0041cYtStV+CRl7anXbIIGE5c=";
+      rev = "v0.3.1";
+      hash = "sha256-0Q5hoDFHhT5HVIBlrrIaajIj7ou58uEqOYzL00uk12w=";
     };
   };
   "tree-sitter-slim" = {

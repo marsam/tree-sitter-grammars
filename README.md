@@ -91,9 +91,9 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
 | tree-sitter-capnp | [1.5.0](https://github.com/tree-sitter-grammars/tree-sitter-capnp/tree/v1.5.0) |
 | tree-sitter-capy | [2024-06-15](https://github.com/capy-language/tree-sitter-capy/tree/ffc44dd8dd431f60e6c860571fe5fe421f4ecdb2) |
-| tree-sitter-catala_en | [2025-07-18](https://github.com/CatalaLang/tree-sitter-catala/tree/50d09dc135edce5fc0c408b3f41189fddb0be20d/en) |
-| tree-sitter-catala_fr | [2025-07-18](https://github.com/CatalaLang/tree-sitter-catala/tree/50d09dc135edce5fc0c408b3f41189fddb0be20d/fr) |
-| tree-sitter-catala_pl | [2025-07-18](https://github.com/CatalaLang/tree-sitter-catala/tree/50d09dc135edce5fc0c408b3f41189fddb0be20d/pl) |
+| tree-sitter-catala_en | [2025-07-29](https://github.com/CatalaLang/tree-sitter-catala/tree/b2f503606157249922c8066de5a0f8cd78dee0fa/en) |
+| tree-sitter-catala_fr | [2025-07-29](https://github.com/CatalaLang/tree-sitter-catala/tree/b2f503606157249922c8066de5a0f8cd78dee0fa/fr) |
+| tree-sitter-catala_pl | [2025-07-29](https://github.com/CatalaLang/tree-sitter-catala/tree/b2f503606157249922c8066de5a0f8cd78dee0fa/pl) |
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2024-02-13](https://github.com/bufbuild/tree-sitter-cel/tree/df0585025e6f50cdb07347f5009ae3f47c652890) |
@@ -446,7 +446,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-perl | [2025-05-18](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/a2d8e5a32a63019d25bb7452455f4d646d11cce5) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.0.2](https://github.com/pest-parser/tree-sitter-pest/tree/v0.0.2) |
-| tree-sitter-pgn | [1.1.4](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.1.4) |
+| tree-sitter-pgn | [1.2.12](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.2.12) |
 | tree-sitter-php | [0.23.12](https://github.com/tree-sitter/tree-sitter-php/tree/v0.23.12/php) |
 | tree-sitter-php_only | [0.23.12](https://github.com/tree-sitter/tree-sitter-php/tree/v0.23.12/php_only) |
 | tree-sitter-phpdoc | [0.1.6](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.6) |
@@ -548,7 +548,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-semver | [0.0.1](https://github.com/uselessscat/tree-sitter-semver/tree/0.0.1) |
 | tree-sitter-shosts | [2025-01-15](https://github.com/Smart-Hosts/tree-sitter-shosts/tree/0b62b6e0fddb6ee7ac6940bbc967fa1956233c60) |
 | tree-sitter-skbdrc | [2025-02-25](https://github.com/starkwm/tree-sitter-skbdrc/tree/0436b5573bd1e4ee49bef4e08966486d72d4a221) |
-| tree-sitter-slang | [0.3.0](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.0) |
+| tree-sitter-slang | [0.3.1](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.1) |
 | tree-sitter-slim | [2025-06-14](https://github.com/theoo/tree-sitter-slim/tree/a06113f5175b805a37d20df0a6f9d722e0ab6cfe) |
 | tree-sitter-slint | [2025-07-13](https://github.com/slint-ui/tree-sitter-slint/tree/96bc969d20ff347030519184ea2467f4046a524d) |
 | tree-sitter-smali | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-smali/tree/v1.0.0) |
