@@ -463,7 +463,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pony | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-pony/tree/v1.0.0) |
 | tree-sitter-ponylang | [0.0.2](https://github.com/mfelsche/tree-sitter-ponylang/tree/v0.0.2) |
 | tree-sitter-possum | [2024-11-16](https://github.com/mulias/tree-sitter-possum/tree/670eaef36883cd5f772160b9918c6b0003d22320) |
-| tree-sitter-postscript | [1.1.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.1.0) |
+| tree-sitter-postscript | [1.2.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.2.0) |
 | tree-sitter-poweron | [1.0.12](https://github.com/phileagleson/tree-sitter-poweron/tree/v1.0.12) |
 | tree-sitter-powershell | [0.25.8](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.25.8) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |

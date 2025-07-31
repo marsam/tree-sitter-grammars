@@ -3810,12 +3810,12 @@
     };
   };
   "tree-sitter-postscript" = {
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchFromGitHub {
       owner = "smoeding";
       repo = "tree-sitter-postscript";
-      rev = "v1.1.0";
-      hash = "sha256-Gk+5Lk5j1viQRTunNG67La84iKhJ99PBCMeclRuCNwM=";
+      rev = "v1.2.0";
+      hash = "sha256-gCeNgKe1BFKeIQTLKVb7l4tKcecHfKFcN6ykKeSGOuk=";
     };
   };
   "tree-sitter-poweron" = {
