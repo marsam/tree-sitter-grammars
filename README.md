@@ -85,7 +85,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [2025-01-26](https://github.com/opa-oz/tree-sitter-caddy/tree/2686186edb61be47960431c93a204fb249681360) |
-| tree-sitter-caddyfile | [2025-07-20](https://github.com/caddyserver/tree-sitter-caddyfile/tree/7c4094368e965a90cabff190b18a76ba7b2e9d49) |
+| tree-sitter-caddyfile | [2025-08-01](https://github.com/caddyserver/tree-sitter-caddyfile/tree/00ac39d18f48db757ade148f217358827a2ed241) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -235,7 +235,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gitattributes | [0.1.6](https://github.com/tree-sitter-grammars/tree-sitter-gitattributes/tree/v0.1.6) |
 | tree-sitter-gitcommit | [2025-03-13](https://github.com/gbprod/tree-sitter-gitcommit/tree/a716678c0f00645fed1e6f1d0eb221481dbd6f6d) |
 | tree-sitter-gitignore | [2022-05-04](https://github.com/shunsambongi/tree-sitter-gitignore/tree/f4685bf11ac466dd278449bcfe5fd014e94aa504) |
-| tree-sitter-gleam | [1.0.0](https://github.com/gleam-lang/tree-sitter-gleam/tree/v1.0.0) |
+| tree-sitter-gleam | [1.1.0](https://github.com/gleam-lang/tree-sitter-gleam/tree/v1.1.0) |
 | tree-sitter-glimmer | [1.4.0-tree-sitter-glimmer](https://github.com/ember-tooling/tree-sitter-glimmer/tree/v1.4.0-tree-sitter-glimmer) |
 | tree-sitter-glimmer_javascript | [0.2.0-tree-sitter-glimmer-javascript](https://github.com/ember-tooling/tree-sitter-glimmer-javascript/tree/v0.2.0-tree-sitter-glimmer-javascript) |
 | tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
@@ -450,7 +450,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-php | [0.23.12](https://github.com/tree-sitter/tree-sitter-php/tree/v0.23.12/php) |
 | tree-sitter-php_only | [0.23.12](https://github.com/tree-sitter/tree-sitter-php/tree/v0.23.12/php_only) |
 | tree-sitter-phpdoc | [0.1.6](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.6) |
-| tree-sitter-pic | [2025-07-13](https://github.com/smoeding/tree-sitter-pic/tree/b768756d1e3361a4d5b9ecf506ce0421cd9e53d8) |
+| tree-sitter-pic | [2025-08-01](https://github.com/smoeding/tree-sitter-pic/tree/8d85eecb3c202279673f77e0cf26e03eb074c0ed) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
 | tree-sitter-pioasm | [2024-10-12](https://github.com/leo60228/tree-sitter-pioasm/tree/afece58efdb30440bddd151ef1347fa8d6f744a9) |
 | tree-sitter-pkl | [0.18.1](https://github.com/apple/tree-sitter-pkl/tree/v0.18.1) |
@@ -463,7 +463,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pony | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-pony/tree/v1.0.0) |
 | tree-sitter-ponylang | [0.0.2](https://github.com/mfelsche/tree-sitter-ponylang/tree/v0.0.2) |
 | tree-sitter-possum | [2024-11-16](https://github.com/mulias/tree-sitter-possum/tree/670eaef36883cd5f772160b9918c6b0003d22320) |
-| tree-sitter-postscript | [1.2.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.2.0) |
+| tree-sitter-postscript | [1.3.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.3.0) |
 | tree-sitter-poweron | [1.0.12](https://github.com/phileagleson/tree-sitter-poweron/tree/v1.0.12) |
 | tree-sitter-powershell | [0.25.8](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.25.8) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |
@@ -615,7 +615,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-tfvars | [2024-06-25](https://github.com/opa-oz/tree-sitter-tfvars/tree/dbe19193dd51ccbcc4bfd5294804aa45960b4369) |
 | tree-sitter-thrift | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-thrift/tree/v0.5.0) |
 | tree-sitter-tiger | [0.3.0](https://github.com/ambroisie/tree-sitter-tiger/tree/v0.3.0) |
-| tree-sitter-times | [2025-07-01](https://github.com/michaeladler/tree-sitter-times/tree/181eda45db2d823a68539cff79d50cbaf35954d7) |
+| tree-sitter-times | [2025-08-01](https://github.com/michaeladler/tree-sitter-times/tree/f68e03c0f4ef906303fa26542d1f6eb08b8525f4) |
 | tree-sitter-tl | [2025-07-12](https://github.com/PoopyPooOS/tree-sitter-tl/tree/746a10a3bd2b9016e885a72bf7853ffd311ecb1b) |
 | tree-sitter-tlaplus | [1.5.0](https://github.com/tlaplus-community/tree-sitter-tlaplus/tree/1.5.0) |
 | tree-sitter-tlb | [2025-01-26](https://github.com/nickshatilo/tree-sitter-tlb/tree/2c297bc02ae93b55f0216e94e34c76ea21c3ebe4) |
