@@ -1855,12 +1855,12 @@
     };
   };
   "tree-sitter-gdshader" = {
-    version = "unstable-2024-02-23";
+    version = "unstable-2025-08-02";
     src = fetchFromGitHub {
       owner = "GodOfAvacyn";
       repo = "tree-sitter-gdshader";
-      rev = "ffd9f958df13cae04593781d7d2562295a872455";
-      hash = "sha256-JWlDs0w10TqsPYgZvvaJwAueOciCYaws1Nr8rb0UKy4=";
+      rev = "14e834063e136fa69b6d91f711f4f1981acf424b";
+      hash = "sha256-Zs3egdOi4/1TF86cjlR5UZVEaUpXsUh4xL0tR39RSpE=";
     };
   };
   "tree-sitter-gdsl" = {

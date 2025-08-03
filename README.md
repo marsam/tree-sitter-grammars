@@ -16,7 +16,7 @@ nix build .#tree-sitter-javascript
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (681)</strong></summary>
+  <summary><strong>Available grammars (682)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -24,7 +24,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-abl | [0.0.33](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.33) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
-| tree-sitter-ada | [2024-05-23](https://github.com/briot/tree-sitter-ada/tree/e8e2515465cc2d7c444498e68bdb9f1d86767f95) |
+| tree-sitter-ada | [2025-08-02](https://github.com/briot/tree-sitter-ada/tree/0a4c27dc1308a9d2742de22e5fcfc0c137b3d3f3) |
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
@@ -223,10 +223,11 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
 | tree-sitter-gdscript | [6.0.0](https://github.com/PrestonKnopp/tree-sitter-gdscript/tree/v6.0.0) |
-| tree-sitter-gdshader | [2024-02-23](https://github.com/GodOfAvacyn/tree-sitter-gdshader/tree/ffd9f958df13cae04593781d7d2562295a872455) |
+| tree-sitter-gdshader | [2025-08-02](https://github.com/GodOfAvacyn/tree-sitter-gdshader/tree/14e834063e136fa69b6d91f711f4f1981acf424b) |
 | tree-sitter-gdsl | [2025-02-04](https://github.com/NSSAC/tree-sitter-gdsl/tree/e2037409d8d4c2631acc5a543ca2201f155b49f9) |
 | tree-sitter-gemini | [2023-11-27](https://git.sr.ht/~nbsp/tree-sitter-gemini/tree/b60a42df3f76bd4e8f988465309d705a007dc506) |
 | tree-sitter-gemtext | [2024-12-14](https://github.com/pebbe/tree-sitter-gemtext/tree/5b5a96a17889bd8aab5c413bda9e7d29391a5a1c) |
+| tree-sitter-ghactions | [0.2.1](https://github.com/rmuir/tree-sitter-ghactions/tree/v0.2.1) |
 | tree-sitter-gherkin | [2025-02-27](https://github.com/binhtran432k/tree-sitter-gherkin/tree/1a709aebeecbe81bd70dfd6ea784894844be1511) |
 | tree-sitter-ghostty | [1.1](https://github.com/bezhermoso/tree-sitter-ghostty/tree/1.1) |
 | tree-sitter-git_config | [2025-05-11](https://github.com/the-mikedavis/tree-sitter-git-config/tree/0fbc9f99d5a28865f9de8427fb0672d66f9d83a5) |
@@ -375,7 +376,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
 | tree-sitter-matlab | [1.0.9](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.9) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
-| tree-sitter-mdx | [2025-07-28](https://github.com/srazzak/tree-sitter-mdx/tree/203972485af97d78e264cc14a1722481e1a20ab2) |
+| tree-sitter-mdx | [2025-08-02](https://github.com/srazzak/tree-sitter-mdx/tree/329dc1d65a73ba8b5369e45955614a48d05bd505) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
 | tree-sitter-melody | [2024-03-21](https://github.com/abiriadev/tree-sitter-melody/tree/ade2f6aa32bd8e87eba3f7c736ff97c6047b69d1) |
 | tree-sitter-menhir | [0.4.0](https://github.com/Kerl13/tree-sitter-menhir/tree/v0.4.0) |
