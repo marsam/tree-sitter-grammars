@@ -379,12 +379,12 @@
     };
   };
   "tree-sitter-applesoft" = {
-    version = "4.0.0";
+    version = "5.0.0";
     src = fetchFromGitHub {
       owner = "dfgordon";
       repo = "tree-sitter-applesoft";
-      rev = "v4.0.0";
-      hash = "sha256-BTxxhs6QmKoEzzAnKhUtb58NGDfRskKiayfjl2aZkoU=";
+      rev = "v5.0.0";
+      hash = "sha256-4Qc2+afcGWo8HOv+2qEXL/LXsWeE9QhOtCy5q9Mo8HQ=";
     };
   };
   "tree-sitter-arcana" = {
@@ -874,12 +874,12 @@
     };
   };
   "tree-sitter-chuck" = {
-    version = "unstable-2025-07-20";
+    version = "unstable-2025-08-04";
     src = fetchFromGitHub {
       owner = "tymbalodeon";
       repo = "tree-sitter-chuck";
-      rev = "a0b33f5df0ae31ce416481a5505f40075ac7ec9e";
-      hash = "sha256-GebP335kcGqmWX1TO9gs7V6zXEW3rIwzxySFKowChHQ=";
+      rev = "16f0f8ab425dfe3366ca62833ad81831e6ee9761";
+      hash = "sha256-DyF4lfbl/c8POm4FvWVwa642E7rZuQEsfout660ZoeU=";
     };
   };
   "tree-sitter-circom" = {
@@ -2504,12 +2504,12 @@
     };
   };
   "tree-sitter-integerbasic" = {
-    version = "2.0.0";
+    version = "3.0.0";
     src = fetchFromGitHub {
       owner = "dfgordon";
       repo = "tree-sitter-integerbasic";
-      rev = "v2.0.0";
-      hash = "sha256-vPlAaFklLF4Z8fzMaSaoFrK+zVDFHvbBuxo5Lbndcn8=";
+      rev = "v3.0.0";
+      hash = "sha256-6oO0JLHe+jKUfdMRJMfn06GnlbZsPAt76ZVzbhtLScg=";
     };
   };
   "tree-sitter-ion" = {
@@ -3117,11 +3117,11 @@
     };
   };
   "tree-sitter-mdx" = {
-    version = "unstable-2025-08-02";
+    version = "unstable-2025-08-04";
     src = fetchFromGitHub {
       owner = "srazzak";
       repo = "tree-sitter-mdx";
-      rev = "329dc1d65a73ba8b5369e45955614a48d05bd505";
+      rev = "757563ca1d1c5afd87992e77f7b865e27d61943d";
       hash = "sha256-aYKZUHNMQXRwyaMNiIi+6VulLkioizRIcaDl7AGfIQU=";
     };
   };
@@ -3153,12 +3153,12 @@
     };
   };
   "tree-sitter-merlin6502" = {
-    version = "3.0.1";
+    version = "4.0.0";
     src = fetchFromGitHub {
       owner = "dfgordon";
       repo = "tree-sitter-merlin6502";
-      rev = "v3.0.1";
-      hash = "sha256-8gCaNqOTeT0+0saVlJiP/HYv4q/zDkSJgdWHW/EbBCA=";
+      rev = "v4.0.0";
+      hash = "sha256-V6I4kiAHkMpDviwMx4+yT5Q3a/uBi9MfFwEVJttXU78=";
     };
   };
   "tree-sitter-mermaid" = {
