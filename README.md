@@ -205,7 +205,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-flamingo | [0.1.3](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.3) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2025-07-22](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/c1b5ce0bb8f3d523cc6ffad4a779b2b9bb6a6ffe) |
+| tree-sitter-fodot | [2025-08-04](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/d551244d6d2dce82f4bbf19e273da5e5f14be582) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -397,7 +397,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-move_on_aptos | [2025-03-21](https://github.com/aptos-labs/tree-sitter-move-on-aptos/tree/c820eb4716e16393fa10f6a800ec00d506e22c34) |
 | tree-sitter-mozcpp | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-mozcpp) |
 | tree-sitter-mozjs | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-mozjs) |
-| tree-sitter-msg | [2025-07-14](https://github.com/omnetpp/tree-sitter-msg/tree/c512b890eaac1086c00d44f4f28615cd50fafe5d) |
+| tree-sitter-msg | [2025-08-04](https://github.com/omnetpp/tree-sitter-msg/tree/49f037483a07b72edea169c7d9a0961225a633f2) |
 | tree-sitter-mustache | [2024-11-10](https://github.com/TheLeoP/tree-sitter-mustache/tree/c59d74305c870acc8817c3b23258fad96647c914) |
 | tree-sitter-muttrc | [0.0.6](https://github.com/neomutt/tree-sitter-muttrc/tree/0.0.6) |
 | tree-sitter-myst | [0.0.1](https://github.com/elxy/tree-sitter-myst/tree/0.0.1) |
@@ -559,7 +559,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-snakemake | [1.1.1](https://github.com/osthomas/tree-sitter-snakemake/tree/v1.1.1) |
 | tree-sitter-snippet | [2024-12-06](https://github.com/ribru17/tree-sitter-snippet/tree/a5a22c265f4d07b7145d5e4f73f471c6d171a93b) |
 | tree-sitter-snl | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/snl) |
-| tree-sitter-solidity | [1.2.12](https://github.com/JoranHonig/tree-sitter-solidity/tree/v1.2.12) |
+| tree-sitter-solidity | [1.2.13](https://github.com/JoranHonig/tree-sitter-solidity/tree/v1.2.13) |
 | tree-sitter-soql | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/soql) |
 | tree-sitter-sosl | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/sosl) |
 | tree-sitter-souffle | [0.4.0](https://github.com/langston-barrett/tree-sitter-souffle/tree/v0.4.0) |
