@@ -936,15 +936,6 @@
       hash = "sha256-OxViW7H5fNc5BP072ob7GGgx1EYc6TiQEut0wHGrE1c=";
     };
   };
-  "tree-sitter-coalton" = {
-    version = "unstable-2024-06-07";
-    src = fetchFromGitHub {
-      owner = "coalton-lang";
-      repo = "tree-sitter-coalton";
-      rev = "7a44c8e6606b95e00b84f6a729f8a9db9e9d73fe";
-      hash = "sha256-yvSVRF9W3jq/gsIvjw94NDi25pHpMa81uaq4UBSMENc=";
-    };
-  };
   "tree-sitter-cobol" = {
     version = "0.1.1";
     src = fetchFromGitHub {
@@ -2089,12 +2080,12 @@
     };
   };
   "tree-sitter-gowork" = {
-    version = "unstable-2024-07-23";
+    version = "unstable-2024-09-11";
     src = fetchFromGitHub {
-      owner = "d1y";
+      owner = "zed-industries";
       repo = "tree-sitter-go-work";
-      rev = "dcbabff454703c3a4bc98a23cf8778d4be46fd22";
-      hash = "sha256-803ujH5qwejQ2vQDDpma4JDC9a+vFX8ZQmr+77VyL2M=";
+      rev = "acb0617bf7f4fda02c6217676cc64acb89536dc7";
+      hash = "sha256-WRMgGjOlJ+bT/YnSBeSLRTLlltA5WwTvV0Ow/949+BE=";
     };
   };
   "tree-sitter-gpg" = {
@@ -3614,7 +3605,7 @@
   "tree-sitter-ott" = {
     version = "unstable-2024-08-10";
     src = fetchFromGitHub {
-      owner = "armonjam";
+      owner = "arawho";
       repo = "tree-sitter-ott";
       rev = "67df80de360e04efde264508ec496916e3ddbd4c";
       hash = "sha256-kYbRxzoG/s2KChbwvYuJwpPpJ/Ckn7oTWlBxfYVm4/M=";

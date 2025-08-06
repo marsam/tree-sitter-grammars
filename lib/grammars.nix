@@ -128,6 +128,7 @@ let
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
     // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
     // { tree-sitter-cfscript = grammars'.tree-sitter-cfml // { location = "cfscript"; }; }
+    // { tree-sitter-coalton = grammars'.tree-sitter-coalton // { location = "tree-sitter-coalton"; }; }
     // { tree-sitter-lilypond = grammars'.tree-sitter-lilypond // { location = "lilypond"; }; }
     // { tree-sitter-lilypond_scheme = grammars'.tree-sitter-lilypond // { location = "lilypond-scheme"; }; }
     // { tree-sitter-lura = grammars'.tree-sitter-lura // { location = "tree-sitter-lura"; }; }
@@ -189,6 +190,17 @@ let
           sparseCheckout = [ "ql/buramu/tree-sitter-blame" ];
         };
         location = "ql/buramu/tree-sitter-blame";
+      };
+      tree-sitter-coalton = {
+        version = "unstable-2025-08-06";
+        src = fetchFromGitHub {
+          owner = "coalton-lang";
+          repo = "coalton-labs";
+          rev = "27df099f45cb40968662b5ea97dda0eb394c568f";
+          hash = "sha256-HU4UlGmunTq9KQ+N+t2ds6P6c0USV/11KScUGuGEynE=";
+          sparseCheckout = [ "tree-sitter-coalton" ];
+        };
+        location = "tree-sitter-coalton";
       };
       tree-sitter-darklang = {
         # Tags aren't stable, they often get deleted/regenerated
