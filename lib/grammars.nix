@@ -103,27 +103,27 @@ let
     // { tree-sitter-csv = grammars'.tree-sitter-csv // { location = "csv"; }; }
     // { tree-sitter-psv = grammars'.tree-sitter-csv // { location = "psv"; }; }
     // { tree-sitter-tsv = grammars'.tree-sitter-csv // { location = "tsv"; }; }
-    // { tree-sitter-xml = grammars'.tree-sitter-xml // { location = "xml"; }; }
-    // { tree-sitter-dtd = grammars'.tree-sitter-xml // { location = "dtd"; }; }
+    // { tree-sitter-xml = grammars'.tree-sitter-xml // rec { location = "xml"; postPatch = "cp -av queries/xml ${location}/queries"; }; }
+    // { tree-sitter-dtd = grammars'.tree-sitter-xml // rec { location = "dtd"; postPatch = "cp -av queries/dtd ${location}/queries"; }; }
     // { tree-sitter-helm = grammars'.tree-sitter-gotmpl // { location = "dialects/helm"; }; }
-    // { tree-sitter-ocaml = grammars'.tree-sitter-ocaml // { location = "grammars/ocaml"; }; }
+    // { tree-sitter-ocaml = grammars'.tree-sitter-ocaml // rec { location = "grammars/ocaml"; postPatch = "cp -av queries ${location}/queries";}; }
     // { tree-sitter-ocaml_interface = grammars'.tree-sitter-ocaml // { location = "grammars/interface"; }; }
     // { tree-sitter-ocaml_type = grammars'.tree-sitter-ocaml // { location = "grammars/type"; }; }
     // { tree-sitter-terraform = grammars'.tree-sitter-hcl // { location = "dialects/terraform"; }; }
-    // { tree-sitter-tsx = grammars'.tree-sitter-typescript // { location = "tsx"; }; }
-    // { tree-sitter-typescript = grammars'.tree-sitter-typescript // { location = "typescript"; }; }
+    // { tree-sitter-tsx = grammars'.tree-sitter-typescript // rec { location = "tsx"; postPatch = "cp -av queries ${location}/queries"; }; }
+    // { tree-sitter-typescript = grammars'.tree-sitter-typescript // rec { location = "typescript"; postPatch = "cp -av queries ${location}/queries"; }; }
     // { tree-sitter-markdown = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown"; }; }
     // { tree-sitter-markdown_inline = grammars'.tree-sitter-markdown // { location = "tree-sitter-markdown-inline"; }; }
     // { tree-sitter-jinja = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja"; }; }
     // { tree-sitter-jinja_inline = grammars'.tree-sitter-jinja // { location = "tree-sitter-jinja_inline"; }; }
     // { tree-sitter-wast = grammars'.tree-sitter-wast // { location = "wast"; }; }
     // { tree-sitter-wat = grammars'.tree-sitter-wast // { location = "wat"; }; }
-    // { tree-sitter-php = grammars'.tree-sitter-php // { location = "php"; postPatch = "cp -av queries php/queries"; }; }
-    // { tree-sitter-php_only = grammars'.tree-sitter-php // { location = "php_only"; }; }
+    // { tree-sitter-php = grammars'.tree-sitter-php // rec { location = "php"; postPatch = "cp -av queries ${location}/queries"; }; }
+    // { tree-sitter-php_only = grammars'.tree-sitter-php // rec { location = "php_only"; postPatch = "cp -av queries ${location}/queries";}; }
     // { tree-sitter-magik = grammars'.tree-sitter-magik // { fromGrammarJson = true; }; }
     // { tree-sitter-rstml = grammars'.tree-sitter-rstml // { location = "rstml"; }; }
     // { tree-sitter-rust_with_rstml = grammars'.tree-sitter-rstml // { location = "rust_with_rstml"; }; }
-    // { tree-sitter-fsharp = grammars'.tree-sitter-fsharp // { location = "fsharp"; }; }
+    // { tree-sitter-fsharp = grammars'.tree-sitter-fsharp // rec { location = "fsharp"; postPatch = "cp -av queries ${location}/queries"; }; }
     // { tree-sitter-fsharp_signature = grammars'.tree-sitter-fsharp // { location = "fsharp_signature"; }; }
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
     // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
@@ -152,9 +152,9 @@ let
     // { tree-sitter-ccomment = grammars'.tree-sitter-mozjs // { location = "tree-sitter-ccomment"; }; }
     // { tree-sitter-mozcpp = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozcpp"; }; }
     // { tree-sitter-preproc = grammars'.tree-sitter-mozjs // { location = "tree-sitter-preproc"; }; }
-    // { tree-sitter-catala_en = grammars'.tree-sitter-catala_en // { location = "en"; }; }
-    // { tree-sitter-catala_fr = grammars'.tree-sitter-catala_en // { location = "fr"; }; }
-    // { tree-sitter-catala_pl = grammars'.tree-sitter-catala_en // { location = "pl"; }; }
+    // { tree-sitter-catala_en = grammars'.tree-sitter-catala_en // rec { location = "en"; postPatch = "cp -av queries ${location}/queries"; }; }
+    // { tree-sitter-catala_fr = grammars'.tree-sitter-catala_en // rec { location = "fr"; postPatch = "cp -av queries ${location}/queries"; }; }
+    // { tree-sitter-catala_pl = grammars'.tree-sitter-catala_en // rec { location = "pl"; postPatch = "cp -av queries ${location}/queries"; }; }
     // { tree-sitter-epics_cmd = grammars'.tree-sitter-epics_cmd // { location = "epics-cmd"; }; }
     // { tree-sitter-epics_db = grammars'.tree-sitter-epics_cmd // { location = "epics-db"; }; }
     // { tree-sitter-epics_msi_substitution = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-substitution"; }; }

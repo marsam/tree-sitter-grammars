@@ -478,7 +478,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-mers": Grammar("https://github.com/Dummi26/mers"),
     "tree-sitter-meson": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-meson"),
     "tree-sitter-metal": Grammar("https://github.com/save-buffer/tree-sitter-metal"),
-    "tree-sitter-mips": Grammar("https://github.com/cknacayama/tree-sitter-mips"),
+    "tree-sitter-mips": Grammar("https://github.com/omeyenburg/tree-sitter-mips"), # Alternative: https://github.com/cknacayama/tree-sitter-mips
     "tree-sitter-mlir": Grammar("https://github.com/artagnon/tree-sitter-mlir"),
     "tree-sitter-mojo": Grammar("https://github.com/lsh/tree-sitter-mojo"),
     "tree-sitter-moonbit": Grammar("https://github.com/moonbitlang/tree-sitter-moonbit"),
@@ -600,6 +600,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-robot": Grammar("https://github.com/Hubro/tree-sitter-robot"),
     "tree-sitter-robots": Grammar("https://github.com/opa-oz/tree-sitter-robots-txt"),
     "tree-sitter-roc": Grammar("https://github.com/faldor20/tree-sitter-roc", ("commit", "3292b071b2574e71a9fcf66b2cc6e3092daa39f4")), # The next commit includes build/, which somehow makes the fetcher fail
+    "tree-sitter-rocq": Grammar("https://github.com/lamg/tree-sitter-rocq"),
     "tree-sitter-ron": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ron"),
     "tree-sitter-rpmspec": Grammar("https://gitlab.com/cryptomilk/tree-sitter-rpmspec"),
     "tree-sitter-rslox": Grammar("https://github.com/boycgit/tree-sitter-rslox"),
@@ -640,6 +641,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-spicedb": Grammar("https://github.com/authzed/tree-sitter-spicedb"),
     "tree-sitter-spicy": Grammar("https://github.com/bbannier/tree-sitter-spicy"),
     "tree-sitter-spml": Grammar("https://github.com/DrWursterich/tree-sitter-spml"),
+    "tree-sitter-sproto": Grammar("https://github.com/hanxi/tree-sitter-sproto"),
     "tree-sitter-sql": Grammar("https://github.com/DerekStride/tree-sitter-sql"),
     "tree-sitter-sql_bigquery": Grammar("https://github.com/takegue/tree-sitter-sql-bigquery"),
     "tree-sitter-squirrel": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-squirrel"),
@@ -716,6 +718,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-vala": Grammar("https://github.com/vala-lang/tree-sitter-vala"),
     "tree-sitter-vcard": Grammar("https://github.com/TitouanReal/tree-sitter-vcard"),
     "tree-sitter-vento": Grammar("https://github.com/ventojs/tree-sitter-vento"),
+    "tree-sitter-verus": Grammar("https://github.com/secure-foundations/tree-sitter-verus"),
     "tree-sitter-vhdl": Grammar("https://github.com/jpt13653903/tree-sitter-vhdl"),
     "tree-sitter-vhs": Grammar("https://github.com/charmbracelet/tree-sitter-vhs"),
     "tree-sitter-vim": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-vim"),
