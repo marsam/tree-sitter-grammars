@@ -3233,6 +3233,15 @@
       hash = "sha256-C+XslfLbCClEi9A4HIfi66uTfxrG/qbBak4mLe82Afw=";
     };
   };
+  "tree-sitter-morloc" = {
+    version = "unstable-2025-08-05";
+    src = fetchFromGitHub {
+      owner = "morloc-project";
+      repo = "tree-sitter-morloc";
+      rev = "956d0a9ffeb380a3356c22cf4de727be178b8be5";
+      hash = "sha256-FivdCUSp/85tnQX8JitszM+IZrryxG0+r5AXfiXUFkM=";
+    };
+  };
   "tree-sitter-moshell" = {
     version = "unstable-2023-10-11";
     src = fetchFromGitHub {
@@ -5002,12 +5011,12 @@
     };
   };
   "tree-sitter-test" = {
-    version = "0.1.0";
+    version = "0.2.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-test";
-      rev = "v0.1.0";
-      hash = "sha256-U5eQrwq8ewpctW5DRZRVahe21Wt4kG7GlEMcq+92J+E=";
+      rev = "v0.2.1";
+      hash = "sha256-hphJktFC3RcVqrkyiGfhZ9ZiuKGUJfcf7nmDcPw5/EI=";
     };
   };
   "tree-sitter-textproto" = {
