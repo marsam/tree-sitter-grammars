@@ -196,7 +196,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-fasm | [2024-11-21](https://github.com/wassup05/tree-sitter-fasm/tree/6b9e9de027273380d34ed705636c71481f0a2239) |
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
 | tree-sitter-faust | [2025-07-01](https://github.com/khiner/tree-sitter-faust/tree/122dd101919289ea809bad643712fcb483a1bed0) |
-| tree-sitter-fennel | [2025-07-18](https://github.com/alexmozaidze/tree-sitter-fennel/tree/cf7c000d934f2ff0a282a2c276b1f72e7fb2a099) |
+| tree-sitter-fennel | [2025-08-07](https://github.com/alexmozaidze/tree-sitter-fennel/tree/653c8abc72d1415cb85e032108d39022feb460be) |
 | tree-sitter-fga | [2025-07-07](https://github.com/matoous/tree-sitter-fga/tree/44bfe4e15dc11969f1a23e5f0fa9d8e961268721) |
 | tree-sitter-fidl | [2024-02-27](https://github.com/google/tree-sitter-fidl/tree/0a8910f293268e27ff554357c229ba172b0eaed2) |
 | tree-sitter-fin | [2024-07-04](https://github.com/fin-org/tree-sitter-fin/tree/33a570c1fd5118b0c00137b143d0e7e0e184bdef) |
@@ -218,7 +218,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2025-07-20](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/211a19a5efa75d4951eb59aa55aa46d35654b54f) |
+| tree-sitter-galvan | [2025-08-07](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/710b445eaf8a61996288625d6a70ca90a22d3f50) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |

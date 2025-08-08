@@ -1612,12 +1612,12 @@
     };
   };
   "tree-sitter-fennel" = {
-    version = "unstable-2025-07-18";
+    version = "unstable-2025-08-07";
     src = fetchFromGitHub {
       owner = "alexmozaidze";
       repo = "tree-sitter-fennel";
-      rev = "cf7c000d934f2ff0a282a2c276b1f72e7fb2a099";
-      hash = "sha256-HlkgDX+MLlQq7TWRSFHxYR7LuaUtIjWqi25k+0J7XYQ=";
+      rev = "653c8abc72d1415cb85e032108d39022feb460be";
+      hash = "sha256-0FdAiuemiWcpud8/g4ajL685jq0uvtf3W/hGbNPrqOE=";
     };
   };
   "tree-sitter-fga" = {
@@ -1801,12 +1801,12 @@
     };
   };
   "tree-sitter-galvan" = {
-    version = "unstable-2025-07-20";
+    version = "unstable-2025-08-07";
     src = fetchFromGitHub {
       owner = "antoniusnaumann";
       repo = "tree-sitter-galvan";
-      rev = "211a19a5efa75d4951eb59aa55aa46d35654b54f";
-      hash = "sha256-OTbuzIihfREy0nzmlT805u7qyGNemuvD8jH1SwSRon0=";
+      rev = "710b445eaf8a61996288625d6a70ca90a22d3f50";
+      hash = "sha256-Ah6NCVf9wXNqZHH8/NLAmDIicyXqWb/xREcVoUEzK9s=";
     };
   };
   "tree-sitter-gap" = {
