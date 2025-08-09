@@ -1693,12 +1693,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2025-08-06";
+    version = "unstable-2025-08-08";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "04a3b1d56ad8dac3b112aeedb40a8ee6928fb823";
-      hash = "sha256-WOBMwfTU0bW+eME7imktA557CNmrXF0u7nCz1xKAdOs=";
+      rev = "11d320a0395a5b6080b7e93f89c9af0b65cbf344";
+      hash = "sha256-c97oPQgJtsnMduAlM7AeASZOvq1UFYUIB5cOGtRxquI=";
     };
   };
   "tree-sitter-forester" = {
@@ -2919,12 +2919,12 @@
     };
   };
   "tree-sitter-llvm" = {
-    version = "unstable-2025-07-21";
+    version = "1.1.0";
     src = fetchFromGitHub {
       owner = "benwilliamgraham";
       repo = "tree-sitter-llvm";
-      rev = "00c5389a4598e1dce66fbc3b3d34733d308f2751";
-      hash = "sha256-nRV1DM/UHlVg5bsTeAhwUPX+2DV1sQiusEkC3ncV1xk=";
+      rev = "v1.1.0";
+      hash = "sha256-1xIUMZDwTXnSFF2h7N4HbUI4SK36kaNJOBBfXOMXg9I=";
     };
   };
   "tree-sitter-llvm_mir" = {
@@ -3198,12 +3198,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-07-18";
+    version = "unstable-2025-08-08";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "e2818d616fc43cbbba316723cbd68a53c66a2704";
-      hash = "sha256-59h3UAk3uWuiMptT+aU8vABn9iVz6ZNscMfy/pwjZ78=";
+      rev = "0928360756774e59123eb1cf8fb55fcf60fcdb6b";
+      hash = "sha256-P1pBAReze8EODNbSq5Jf+1ymw8t4QtSfOdxDYr2SzJY=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3666,12 +3666,12 @@
     };
   };
   "tree-sitter-perl" = {
-    version = "unstable-2025-05-18";
+    version = "unstable-2025-08-08";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-perl";
-      rev = "a2d8e5a32a63019d25bb7452455f4d646d11cce5";
-      hash = "sha256-4it9/LCX36i0XYikYrL8OTwUlfUiJMTV58sYyJ78HQg=";
+      rev = "e95676fa54559c71f15ad73e871c1e44db8a9b05";
+      hash = "sha256-VABlYn+OwgR+aD6dFI1bxa/JhwHV0KigsAcug3gze1c=";
     };
   };
   "tree-sitter-perm" = {
@@ -4298,12 +4298,12 @@
     };
   };
   "tree-sitter-rpmspec" = {
-    version = "unstable-2025-06-28";
+    version = "unstable-2025-08-08";
     src = fetchFromGitLab {
       owner = "cryptomilk";
       repo = "tree-sitter-rpmspec";
-      rev = "0342cb3cfe8ba39b6f778463fa826f356e555ca6";
-      hash = "sha256-fg/ILtOKA8rx1VL0e107JuzdM8ZpxGGQ/WpqSYIp01o=";
+      rev = "e070d7917489ae8e94b1362f5867b2cb8713c092";
+      hash = "sha256-aEEo7gqefZagG4P74AZsmIkYcYUsebF7JRf2LbCgzEU=";
     };
   };
   "tree-sitter-rslox" = {
