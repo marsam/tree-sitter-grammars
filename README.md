@@ -218,7 +218,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2025-08-07](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/710b445eaf8a61996288625d6a70ca90a22d3f50) |
+| tree-sitter-galvan | [2025-08-10](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/374e708dc9d2fec48839d71972d5332c162ab31b) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
@@ -374,7 +374,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.0/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.0.9](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.9) |
+| tree-sitter-matlab | [1.0.10](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.0.10) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdx | [2025-08-04](https://github.com/srazzak/tree-sitter-mdx/tree/757563ca1d1c5afd87992e77f7b865e27d61943d) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
@@ -524,7 +524,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-robots | [2024-06-29](https://github.com/opa-oz/tree-sitter-robots-txt/tree/8e3a4205b76236bb6dbebdbee5afc262ce38bb62) |
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
-| tree-sitter-rpmspec | [2025-08-08](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/e070d7917489ae8e94b1362f5867b2cb8713c092) |
+| tree-sitter-rpmspec | [2025-08-09](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/8a0317b0d837eb18733b59cbb70dd11dfacc8dfe) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
 | tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.2.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.2.0) |
