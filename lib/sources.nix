@@ -2161,12 +2161,12 @@
     };
   };
   "tree-sitter-gularen" = {
-    version = "unstable-2025-01-17";
+    version = "unstable-2025-08-11";
     src = fetchFromGitHub {
       owner = "noorwachid";
       repo = "tree-sitter-gularen";
-      rev = "f48f0ba8e069e918ac08a2d0a6c1a8d67b0c5781";
-      hash = "sha256-YzR5yAjXbbWwrdiadgBN3c94P5P763xaunF2VAeiuKE=";
+      rev = "452e26fed0856f22ef83e982d32829a69c436ea8";
+      hash = "sha256-0p+7zRoSoPNTCOTUWHwPXNPBjHutE7L6loL43p935nY=";
     };
   };
   "tree-sitter-hack" = {

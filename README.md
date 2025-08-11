@@ -260,7 +260,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gritql | [2025-01-07](https://github.com/honeycombio/tree-sitter-gritql/tree/f9d98660bd7ae78c9211cb52e295bcd6531a8121) |
 | tree-sitter-groovy | [2025-01-22](https://github.com/murtaza64/tree-sitter-groovy/tree/86911590a8e46d71301c66468e5620d9faa5b6af) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
-| tree-sitter-gularen | [2025-01-17](https://github.com/noorwachid/tree-sitter-gularen/tree/f48f0ba8e069e918ac08a2d0a6c1a8d67b0c5781) |
+| tree-sitter-gularen | [2025-08-11](https://github.com/noorwachid/tree-sitter-gularen/tree/452e26fed0856f22ef83e982d32829a69c436ea8) |
 | tree-sitter-hack | [2025-01-22](https://github.com/slackhq/tree-sitter-hack/tree/bc5b3a10d6d27e8220a113a9a7fe9bec0a1574b0) |
 | tree-sitter-haml | [0.0.6](https://github.com/vitallium/tree-sitter-haml/tree/v0.0.6) |
 | tree-sitter-haproxy | [2025-02-06](https://github.com/jtsunne/tree-sitter-haproxy/tree/562dcab527d9f51800edfc08d6b9d3bbb9ae8b32) |
