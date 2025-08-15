@@ -218,7 +218,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2025-08-10](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/374e708dc9d2fec48839d71972d5332c162ab31b) |
+| tree-sitter-galvan | [2025-08-15](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/b96e574bd2e2b3d1b0cd21a0bc2a6007982dd897) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
@@ -260,7 +260,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gritql | [2025-01-07](https://github.com/honeycombio/tree-sitter-gritql/tree/f9d98660bd7ae78c9211cb52e295bcd6531a8121) |
 | tree-sitter-groovy | [2025-01-22](https://github.com/murtaza64/tree-sitter-groovy/tree/86911590a8e46d71301c66468e5620d9faa5b6af) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
-| tree-sitter-gularen | [2025-08-13](https://github.com/noorwachid/tree-sitter-gularen/tree/b6ee247b092308ce87e923d046d42c36d00e34b2) |
+| tree-sitter-gularen | [2025-08-14](https://github.com/noorwachid/tree-sitter-gularen/tree/ebbef4eb6b0fb1fd4d416146e8c2adcfd2eb7faa) |
 | tree-sitter-hack | [2025-01-22](https://github.com/slackhq/tree-sitter-hack/tree/bc5b3a10d6d27e8220a113a9a7fe9bec0a1574b0) |
 | tree-sitter-haml | [0.0.6](https://github.com/vitallium/tree-sitter-haml/tree/v0.0.6) |
 | tree-sitter-haproxy | [2025-02-06](https://github.com/jtsunne/tree-sitter-haproxy/tree/562dcab527d9f51800edfc08d6b9d3bbb9ae8b32) |
