@@ -387,7 +387,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-08-13](https://github.com/shackle-rs/shackle/tree/68456ca62e0fc57c25fa2a412a933674679233fd/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [2024-04-30](https://github.com/cknacayama/tree-sitter-mips/tree/88705785b0c60d3e8b0a460c7db46dabb4d1f552) |
-| tree-sitter-mlir | [2025-08-11](https://github.com/artagnon/tree-sitter-mlir/tree/04630ec19f198c3ac2a0b98a004eeae083990c96) |
+| tree-sitter-mlir | [2025-08-16](https://github.com/artagnon/tree-sitter-mlir/tree/b209a18d1a0f440acd3a85b6d633dac2660114e1) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-08-13](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a121d411f1b72c38aa28da5ed5f3800f20bd58a1) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -449,8 +449,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.0.2](https://github.com/pest-parser/tree-sitter-pest/tree/v0.0.2) |
 | tree-sitter-pgn | [1.2.12](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.2.12) |
-| tree-sitter-php | [0.24.0](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.0/php) |
-| tree-sitter-php_only | [0.24.0](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.0/php_only) |
+| tree-sitter-php | [0.24.1](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.1/php) |
+| tree-sitter-php_only | [0.24.1](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.1/php_only) |
 | tree-sitter-phpdoc | [0.1.6](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.6) |
 | tree-sitter-pic | [2025-08-01](https://github.com/smoeding/tree-sitter-pic/tree/8d85eecb3c202279673f77e0cf26e03eb074c0ed) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
