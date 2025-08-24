@@ -397,12 +397,12 @@
     };
   };
   "tree-sitter-arduino" = {
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-arduino";
-      rev = "v0.23.0";
-      hash = "sha256-16HGIOG0qPdxA4yNwwrMUQ59mzj3bH/PNu0dqjb5u2Q=";
+      rev = "v0.24.0";
+      hash = "sha256-t0EtibjsMJpiTbwhkgZGv9lUdpI6gg2VoSEUDXswEMA=";
     };
   };
   "tree-sitter-asa" = {
@@ -2071,12 +2071,12 @@
     };
   };
   "tree-sitter-gotmpl" = {
-    version = "unstable-2025-01-29";
+    version = "unstable-2025-08-23";
     src = fetchFromGitHub {
       owner = "ngalaiko";
       repo = "tree-sitter-go-template";
-      rev = "5f19a36bb1eebb30454e277b222b278ceafed0dd";
-      hash = "sha256-apZ5yhWzLxaJFxMcuugNTuCxdDUxhKTZecZFsvjyqdo=";
+      rev = "65f4f86c3aaa9dabab36e3482584e8a111cf7db1";
+      hash = "sha256-rSZOOtaBNCXNT0ztkeD4vumTN8bid9OBE82FNrl2wPE=";
     };
   };
   "tree-sitter-gowork" = {
@@ -2540,12 +2540,12 @@
     };
   };
   "tree-sitter-jai" = {
-    version = "unstable-2025-07-26";
+    version = "unstable-2025-08-24";
     src = fetchFromGitHub {
       owner = "constantitus";
       repo = "tree-sitter-jai";
-      rev = "9d6fa4a91fbb2a7d7ff69e688c4d2ff5bed45695";
-      hash = "sha256-SUjZSZFZNDleSxB98dlre+ECgBp6oIKnpOwqG23ScK8=";
+      rev = "92b2b04506575174c90526215cddb1171cfd50b0";
+      hash = "sha256-+9Vky58MfbkOpzjX50aG7Jjvw6ljxnFQJIaI1xQoY7g=";
     };
   };
   "tree-sitter-jakt" = {
@@ -3495,12 +3495,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-08-22";
+    version = "unstable-2025-08-23";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "7e7de17fd077a9bf490400a19110279168d5a33a";
-      hash = "sha256-Nboa+ik3pPYvB5hmsRknt9c1k/oXIjVKaFj0L3qVTG0=";
+      rev = "cc4624fbc6ec3563d98fbe8f215a8b8e10b16f32";
+      hash = "sha256-cQiUrsSIs7AgDifOChKScZj+/25qUxEVMg3TcsGkQUY=";
     };
   };
   "tree-sitter-numbat" = {
