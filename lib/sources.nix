@@ -604,12 +604,12 @@
     };
   };
   "tree-sitter-blade" = {
-    version = "0.12.1";
+    version = "0.12.2";
     src = fetchFromGitHub {
       owner = "EmranMR";
       repo = "tree-sitter-blade";
-      rev = "v0.12.1";
-      hash = "sha256-gRZuG4h5mBUJ654j/jlPM1/D9Ucd5gWWYU9JHAvymKs=";
+      rev = "v0.12.2";
+      hash = "sha256-8MbAJCnF5o1fwyXngflh8tVkuHUwVVx0iFRuRHxulF0=";
     };
   };
   "tree-sitter-blom" = {

@@ -64,7 +64,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bio | [2024-09-18](https://github.com/cryptocode/tree-sitter-bio/tree/f056eb58b25ae484ba1be7c41d3e257721d2dd63) |
 | tree-sitter-bison | [1.0.0](https://gitlab.com/btuin2/tree-sitter-bison//tree/1.0.0) |
 | tree-sitter-bitbake | [2024-04-27](https://github.com/tree-sitter-grammars/tree-sitter-bitbake/tree/a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b) |
-| tree-sitter-blade | [0.12.1](https://github.com/EmranMR/tree-sitter-blade/tree/v0.12.1) |
+| tree-sitter-blade | [0.12.2](https://github.com/EmranMR/tree-sitter-blade/tree/v0.12.2) |
 | tree-sitter-blame | [0.0.1](https://github.com/github/codeql/tree/codeql-cli/v2.20.4/ql/buramu/tree-sitter-blame) |
 | tree-sitter-blom | [2025-04-22](https://github.com/xhyrom-utils/tree-sitter-blom/tree/bf6d000a34679a258beab24b464a6136cccf25c6) |
 | tree-sitter-blueprint | [2025-07-08](https://gitlab.com/gabmus/tree-sitter-blueprint//tree/355ef84ef8a958ac822117b652cf4d49bac16c79) |
