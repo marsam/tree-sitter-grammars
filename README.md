@@ -64,7 +64,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bio | [2024-09-18](https://github.com/cryptocode/tree-sitter-bio/tree/f056eb58b25ae484ba1be7c41d3e257721d2dd63) |
 | tree-sitter-bison | [1.0.0](https://gitlab.com/btuin2/tree-sitter-bison//tree/1.0.0) |
 | tree-sitter-bitbake | [2024-04-27](https://github.com/tree-sitter-grammars/tree-sitter-bitbake/tree/a5d04fdb5a69a02b8fa8eb5525a60dfb5309b73b) |
-| tree-sitter-blade | [0.12.2](https://github.com/EmranMR/tree-sitter-blade/tree/v0.12.2) |
+| tree-sitter-blade | [0.12.3](https://github.com/EmranMR/tree-sitter-blade/tree/v0.12.3) |
 | tree-sitter-blame | [0.0.1](https://github.com/github/codeql/tree/codeql-cli/v2.20.4/ql/buramu/tree-sitter-blame) |
 | tree-sitter-blom | [2025-04-22](https://github.com/xhyrom-utils/tree-sitter-blom/tree/bf6d000a34679a258beab24b464a6136cccf25c6) |
 | tree-sitter-blueprint | [2025-07-08](https://gitlab.com/gabmus/tree-sitter-blueprint//tree/355ef84ef8a958ac822117b652cf4d49bac16c79) |
@@ -366,7 +366,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
 | tree-sitter-lx | [2024-12-19](https://github.com/curist/tree-sitter-lx/tree/31b9ef54ce48a10c070918c73ea8bbfc53648c68) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2025-08-18](https://github.com/krn-robin/tree-sitter-magik/tree/d663b03fe5b6ab952ffff6d04eb96eea260fbcbf) |
+| tree-sitter-magik | [2025-08-25](https://github.com/krn-robin/tree-sitter-magik/tree/32b4121145ad745741847900e50f911de5bb7fd9) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
