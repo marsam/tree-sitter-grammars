@@ -2630,12 +2630,12 @@
     };
   };
   "tree-sitter-json5" = {
-    version = "unstable-2024-04-30";
+    version = "unstable-2025-08-27";
     src = fetchFromGitHub {
       owner = "Joakker";
       repo = "tree-sitter-json5";
-      rev = "ab0ba8229d639ec4f3fa5f674c9133477f4b77bd";
-      hash = "sha256-LaCCjvYnmofOVQ2Nqlzfh3KP3fNG0HBxkOng0gjYY1g=";
+      rev = "5ebe24e210f0fbcd6180fd673ed184ed81f3bcc6";
+      hash = "sha256-5JAXtDYazHbHnw/cAHLhVxkBZYrLongxYSgZf/dPGnM=";
     };
   };
   "tree-sitter-jsonc" = {
@@ -3090,12 +3090,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.1.1";
+    version = "1.2.0";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.1.1";
-      hash = "sha256-RoNncJVefBvu/CWMHMux2vOhZBYFQ7jQ3rvFrGbl1QQ=";
+      rev = "v1.2.0";
+      hash = "sha256-5Z4gLPZMx8uHFUGEgemjZNSoPxfv1Qum/OSBzM6fs7w=";
     };
   };
   "tree-sitter-mcfuncx" = {
