@@ -175,7 +175,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-elm | [5.8.0](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.8.0) |
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
-| tree-sitter-embedded_template | [0.23.2](https://github.com/tree-sitter/tree-sitter-embedded-template/tree/v0.23.2) |
+| tree-sitter-embedded_template | [0.25.0](https://github.com/tree-sitter/tree-sitter-embedded-template/tree/v0.25.0) |
 | tree-sitter-enforce | [0.2.0](https://github.com/simonvic/tree-sitter-enforce/tree/v0.2.0) |
 | tree-sitter-envy | [2024-08-19](https://github.com/envyhq/envy/tree/82386ecea370fd45680b2d04f2823f762aad5693/extensions/tree-sitter) |
 | tree-sitter-epics_cmd | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-cmd) |

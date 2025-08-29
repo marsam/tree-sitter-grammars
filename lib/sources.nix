@@ -55,12 +55,12 @@
     };
   };
   "tree-sitter-embedded_template" = {
-    version = "0.23.2";
+    version = "0.25.0";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-embedded-template";
-      rev = "v0.23.2";
-      hash = "sha256-C2Lo3tT2363O++ycXiR6x0y+jy2zlmhcKp7t1LhvCe8=";
+      rev = "v0.25.0";
+      hash = "sha256-nBQain0Lc21jOgQFfvkyq615ZmT8qdMxtqIoUcOcO3A=";
     };
   };
   "tree-sitter-go" = {
