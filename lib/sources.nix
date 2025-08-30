@@ -64,12 +64,12 @@
     };
   };
   "tree-sitter-go" = {
-    version = "0.23.4";
+    version = "0.25.0";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-go";
-      rev = "v0.23.4";
-      hash = "sha256-LxhFxOzYfRwj0ENFTgqmf3YFIUifOuow0ex/XJOLKHo=";
+      rev = "v0.25.0";
+      hash = "sha256-y7bTET8ypPczPnMVlCaiZuswcA7vFrDOc2jlbfVk5Sk=";
     };
   };
   "tree-sitter-haskell" = {
