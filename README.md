@@ -504,7 +504,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-rasi | [0.1.0](https://github.com/Fymyte/tree-sitter-rasi/tree/v0.1.0) |
 | tree-sitter-razor | [2025-02-17](https://github.com/tris203/tree-sitter-razor/tree/fe46ce5ea7d844e53d59bc96f2175d33691c61c5) |
 | tree-sitter-rbs | [0.1.1](https://github.com/joker1007/tree-sitter-rbs/tree/v0.1.1) |
-| tree-sitter-rcl | [2025-03-02](https://codeberg.org/ruuda/tree-sitter-rcl/src/e371920de7d1921a4ac9c6d78bd74ea3e94dfade) |
+| tree-sitter-rcl | [2025-08-30](https://codeberg.org/ruuda/tree-sitter-rcl/src/8e12740263615de4e5697b5ae4701dd1092a3e6d) |
 | tree-sitter-rdoc | [2025-01-13](https://github.com/gemmaro/tree-sitter-rdoc/tree/0fc9ddd8bbfee45bc70d662bc9c144a83fbb3879) |
 | tree-sitter-re2c | [2024-09-25](https://github.com/tree-sitter-grammars/tree-sitter-re2c/tree/c18a3c2f4b6665e35b7e50d6048ea3cff770c572) |
 | tree-sitter-readline | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-readline/tree/v1.1.1) |

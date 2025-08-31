@@ -4126,13 +4126,13 @@
     };
   };
   "tree-sitter-rcl" = {
-    version = "unstable-2025-03-02";
+    version = "unstable-2025-08-30";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "ruuda";
       repo = "tree-sitter-rcl";
-      rev = "e371920de7d1921a4ac9c6d78bd74ea3e94dfade";
-      hash = "sha256-j4GS7/CxinGB/lJzIip5d6fvGzBDtoO/zvxEQMBnWqw=";
+      rev = "8e12740263615de4e5697b5ae4701dd1092a3e6d";
+      hash = "sha256-W2Z7OdLcN8LVJZnCaCTXnbAdituFXP05iZ0faE7wUto=";
     };
   };
   "tree-sitter-rdoc" = {
