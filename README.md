@@ -313,8 +313,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-javadoc | [0.2.3](https://github.com/rmuir/tree-sitter-javadoc/tree/v0.2.3) |
 | tree-sitter-javascript | [0.23.1](https://github.com/tree-sitter/tree-sitter-javascript/tree/v0.23.1) |
 | tree-sitter-jelly | [0.1](https://github.com/OpenJelly/tree-sitter-jelly/tree/0.1) |
-| tree-sitter-jinja | [0.10.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.10.0/tree-sitter-jinja) |
-| tree-sitter-jinja_inline | [0.10.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.10.0/tree-sitter-jinja_inline) |
+| tree-sitter-jinja | [0.11.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.11.0/tree-sitter-jinja) |
+| tree-sitter-jinja_inline | [0.11.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.11.0/tree-sitter-jinja_inline) |
 | tree-sitter-jjdescription | [2025-02-20](https://github.com/kareigu/tree-sitter-jjdescription/tree/1613b8c85b6ead48464d73668f39910dcbb41911) |
 | tree-sitter-jq | [1.0.0](https://github.com/nverno/tree-sitter-jq/tree/v1.0.0) |
 | tree-sitter-jsdoc | [0.23.2](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.23.2) |
@@ -389,7 +389,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-mips | [0.1.4](https://github.com/omeyenburg/tree-sitter-mips/tree/0.1.4) |
 | tree-sitter-mlir | [2025-08-22](https://github.com/artagnon/tree-sitter-mlir/tree/09666cead2c001cbbfc82b395007f6d8158113a5) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
-| tree-sitter-moonbit | [2025-08-13](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a121d411f1b72c38aa28da5ed5f3800f20bd58a1) |
+| tree-sitter-moonbit | [2025-08-31](https://github.com/moonbitlang/tree-sitter-moonbit/tree/0a9622038b00e2122a0e5414f4fd927dd7b3bd5f) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-morloc | [2025-08-05](https://github.com/morloc-project/tree-sitter-morloc/tree/956d0a9ffeb380a3356c22cf4de727be178b8be5) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
