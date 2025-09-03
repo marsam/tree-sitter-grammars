@@ -85,7 +85,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [2025-01-26](https://github.com/opa-oz/tree-sitter-caddy/tree/2686186edb61be47960431c93a204fb249681360) |
-| tree-sitter-caddyfile | [2025-08-01](https://github.com/caddyserver/tree-sitter-caddyfile/tree/00ac39d18f48db757ade148f217358827a2ed241) |
+| tree-sitter-caddyfile | [2025-09-02](https://github.com/caddyserver/tree-sitter-caddyfile/tree/9291c0e70f3d6e74a80305f79198fbdf3030d468) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -583,7 +583,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-stilts | [2025-01-19](https://github.com/Atrociously/stilts/tree/10866622be11a0fec0cbfe4a3ce80f5eeb59de19/tooling/tree-sitter-stilts) |
 | tree-sitter-strace | [2023-10-29](https://github.com/sigmaSd/tree-sitter-strace/tree/d819cdd5dbe455bd3c859193633c8d91c0df7c36) |
 | tree-sitter-streamdevice_proto | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/streamdevice-proto) |
-| tree-sitter-strictdoc | [2025-07-27](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/1fadb5ab41602e77c1da0cf78917c58bd9bdd26f) |
+| tree-sitter-strictdoc | [2025-09-02](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/070edcf23f7c85af355437706048f73833e0ea10) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
 | tree-sitter-structurizr | [2025-01-17](https://github.com/josteink/tree-sitter-structurizr/tree/f4e73672df094d424b5f9353931258238bc54a9e) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
