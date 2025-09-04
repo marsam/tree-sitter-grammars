@@ -575,7 +575,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sql | [0.3.8](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.8) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2025.8.28](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.8.28) |
+| tree-sitter-ssh_client_config | [2025.9.4](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.9.4) |
 | tree-sitter-ssh_config | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.4.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.2.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.2.1) |
@@ -583,11 +583,11 @@ nix build .#tree-sitter-javascript
 | tree-sitter-stilts | [2025-01-19](https://github.com/Atrociously/stilts/tree/10866622be11a0fec0cbfe4a3ce80f5eeb59de19/tooling/tree-sitter-stilts) |
 | tree-sitter-strace | [2023-10-29](https://github.com/sigmaSd/tree-sitter-strace/tree/d819cdd5dbe455bd3c859193633c8d91c0df7c36) |
 | tree-sitter-streamdevice_proto | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/streamdevice-proto) |
-| tree-sitter-strictdoc | [2025-09-02](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/070edcf23f7c85af355437706048f73833e0ea10) |
+| tree-sitter-strictdoc | [2025-09-03](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/af7e9994ed529b08050efd032b66f382f17cdef1) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
 | tree-sitter-structurizr | [2025-01-17](https://github.com/josteink/tree-sitter-structurizr/tree/f4e73672df094d424b5f9353931258238bc54a9e) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
-| tree-sitter-supercollider | [0.3.0](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.0) |
+| tree-sitter-supercollider | [0.3.1](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.1) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealdb | [2024-02-20](https://github.com/DariusCorvus/tree-sitter-surrealdb/tree/17a7ed4481bdaaa35a1372f3a94bc851d634a19e) |
 | tree-sitter-surrealql | [0.2.0](https://github.com/Ce11an/tree-sitter-surrealql/tree/0.2.0) |
