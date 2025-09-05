@@ -583,7 +583,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-stilts | [2025-01-19](https://github.com/Atrociously/stilts/tree/10866622be11a0fec0cbfe4a3ce80f5eeb59de19/tooling/tree-sitter-stilts) |
 | tree-sitter-strace | [2023-10-29](https://github.com/sigmaSd/tree-sitter-strace/tree/d819cdd5dbe455bd3c859193633c8d91c0df7c36) |
 | tree-sitter-streamdevice_proto | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/streamdevice-proto) |
-| tree-sitter-strictdoc | [2025-09-03](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/af7e9994ed529b08050efd032b66f382f17cdef1) |
+| tree-sitter-strictdoc | [0.1.0](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/v0.1.0) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
 | tree-sitter-structurizr | [2025-01-17](https://github.com/josteink/tree-sitter-structurizr/tree/f4e73672df094d424b5f9353931258238bc54a9e) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |

@@ -4757,11 +4757,11 @@
     };
   };
   "tree-sitter-strictdoc" = {
-    version = "unstable-2025-09-03";
+    version = "0.1.0";
     src = fetchFromGitHub {
       owner = "manueldiagostino";
       repo = "tree-sitter-strictdoc";
-      rev = "af7e9994ed529b08050efd032b66f382f17cdef1";
+      rev = "v0.1.0";
       hash = "sha256-Kbu8KfUSE5LFo4v5e7gV6ZdeT6SkXq9d4yfjPz6wWww=";
     };
   };
