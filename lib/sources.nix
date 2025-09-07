@@ -3198,12 +3198,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-08-22";
+    version = "unstable-2025-09-07";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "09666cead2c001cbbfc82b395007f6d8158113a5";
-      hash = "sha256-toH/pG8CKI4UFdBQqkgIer5tfpIWkWoCP+fU0OByxQg=";
+      rev = "af5c2a46a8319dfd82688dcd1e1c572dbf842fb7";
+      hash = "sha256-ne1OShQf9KKvQqQ4MDxN0S8KBb5XxvJFhcaz9kQtd9k=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4523,12 +4523,12 @@
     };
   };
   "tree-sitter-slint" = {
-    version = "unstable-2025-07-13";
+    version = "unstable-2025-09-06";
     src = fetchFromGitHub {
       owner = "slint-ui";
       repo = "tree-sitter-slint";
-      rev = "96bc969d20ff347030519184ea2467f4046a524d";
-      hash = "sha256-yTZxuA3Bco0Cv+kZ1VbfQZbIu12Y5N4b3HIUJ/PBpWA=";
+      rev = "ecd60078bbd546eeb4c7fbbe02226752517b847f";
+      hash = "sha256-MA/7gqrdhYridk7P+yFVeiWh0AiZf75/f3LSjZd9Clc=";
     };
   };
   "tree-sitter-smali" = {
@@ -4568,12 +4568,12 @@
     };
   };
   "tree-sitter-snakemake" = {
-    version = "1.1.1";
+    version = "2.0.0";
     src = fetchFromGitHub {
       owner = "osthomas";
       repo = "tree-sitter-snakemake";
-      rev = "v1.1.1";
-      hash = "sha256-yiEfMB67bIaIj+iXQ/ShvVQES6HCWnKI6DzWxsrIrRk=";
+      rev = "v2.0.0";
+      hash = "sha256-/XeO9/4rTLLicDRWWlUoAhCr+2AyjlQLszBmeQ/8wZY=";
     };
   };
   "tree-sitter-snippet" = {
