@@ -4694,12 +4694,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.9.4";
+    version = "2025.9.11";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.9.4";
-      hash = "sha256-oqE2gmTtRB5JQWfgQPZg1SFFpJwn7q8NjxT1Kb1bN/w=";
+      rev = "2025.9.11";
+      hash = "sha256-mZGfRqB8NdY+G7OaEaApr21jj24xrjF5s8XT+u6BW84=";
     };
   };
   "tree-sitter-ssh_config" = {
