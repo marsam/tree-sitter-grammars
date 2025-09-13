@@ -285,7 +285,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-htmljinja2 | [2025-03-23](https://codeberg.org/meow_king/tree-sitter-htmljinja2/src/c349ef96742ada7df27c83002e6c3d0f446773c8) |
 | tree-sitter-http | [3.0](https://github.com/rest-nvim/tree-sitter-http/tree/v3.0) |
 | tree-sitter-humphrey | [2025-08-21](https://github.com/SavourySnaX/tree-sitter-humphrey/tree/fc2a6eeb99127ad0156c19627af18a1efbfe3232) |
-| tree-sitter-hurl | [1.6.2](https://github.com/pfeiferj/tree-sitter-hurl/tree/v1.6.2) |
+| tree-sitter-hurl | [1.7.0](https://github.com/pfeiferj/tree-sitter-hurl/tree/v1.7.0) |
 | tree-sitter-hy | [2025-01-02](https://github.com/MinmusxMinmus/tree-sitter-hy/tree/384ac9ad1a795b835d98a99d40db04a5f99b95e7) |
 | tree-sitter-hygen_template | [0.5.0](https://github.com/Hdoc1509/tree-sitter-hygen-template/tree/v0.5.0) |
 | tree-sitter-hylo | [2024-07-21](https://github.com/natsukagami/tree-sitter-hylo/tree/494cbdff0d13cbc67348316af2efa0286dbddf6f) |
@@ -317,7 +317,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-jinja_inline | [0.11.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.11.0/tree-sitter-jinja_inline) |
 | tree-sitter-jjdescription | [2025-02-20](https://github.com/kareigu/tree-sitter-jjdescription/tree/1613b8c85b6ead48464d73668f39910dcbb41911) |
 | tree-sitter-jq | [1.0.0](https://github.com/nverno/tree-sitter-jq/tree/v1.0.0) |
-| tree-sitter-jsdoc | [0.23.2](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.23.2) |
+| tree-sitter-jsdoc | [0.25.0](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.25.0) |
 | tree-sitter-jslt | [2023-08-31](https://github.com/Kuzat/tree-sitter-jslt/tree/3d0c51a48f371471fe87cc0c8ceb0741029ed77c) |
 | tree-sitter-json | [0.24.8](https://github.com/tree-sitter/tree-sitter-json/tree/v0.24.8) |
 | tree-sitter-json5 | [2025-08-27](https://github.com/Joakker/tree-sitter-json5/tree/5ebe24e210f0fbcd6180fd673ed184ed81f3bcc6) |
