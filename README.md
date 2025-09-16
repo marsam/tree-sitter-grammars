@@ -656,7 +656,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-vcard | [0.1.0](https://github.com/TitouanReal/tree-sitter-vcard/tree/0.1.0) |
 | tree-sitter-vento | [2024-12-30](https://github.com/ventojs/tree-sitter-vento/tree/3b32474bc29584ea214e4e84b47102408263fe0e) |
 | tree-sitter-verilog | [1.0.3](https://github.com/tree-sitter/tree-sitter-verilog/tree/v1.0.3) |
-| tree-sitter-verus | [2025-08-12](https://github.com/secure-foundations/tree-sitter-verus/tree/795e107051b81d85733d68510ed80ef01a1725c9) |
+| tree-sitter-verus | [2025-09-15](https://github.com/secure-foundations/tree-sitter-verus/tree/c633a47cd61bb0c14bcb843abf5c6dbd21cc7dbb) |
 | tree-sitter-vhdl | [1.3.1](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v1.3.1) |
 | tree-sitter-vhs | [2025-03-26](https://github.com/charmbracelet/tree-sitter-vhs/tree/0c6fae9d2cfc5b217bfd1fe84a7678f5917116db) |
 | tree-sitter-vim | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-vim/tree/v0.7.0) |

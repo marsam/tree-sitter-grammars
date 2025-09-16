@@ -5362,12 +5362,12 @@
     };
   };
   "tree-sitter-verus" = {
-    version = "unstable-2025-08-12";
+    version = "unstable-2025-09-15";
     src = fetchFromGitHub {
       owner = "secure-foundations";
       repo = "tree-sitter-verus";
-      rev = "795e107051b81d85733d68510ed80ef01a1725c9";
-      hash = "sha256-x/85eORBwm+3Iuvo7bR6Qz9dUb/xEh1wBzwRfdaeh3w=";
+      rev = "c633a47cd61bb0c14bcb843abf5c6dbd21cc7dbb";
+      hash = "sha256-rAscEri1VdJi374xhYlaPdj15yHpoOtriIAXH/qTUxI=";
     };
   };
   "tree-sitter-vhdl" = {
