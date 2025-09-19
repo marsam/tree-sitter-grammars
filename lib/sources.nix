@@ -1090,12 +1090,12 @@
     };
   };
   "tree-sitter-cuda" = {
-    version = "0.21.0";
+    version = "0.21.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-cuda";
-      rev = "v0.21.0";
-      hash = "sha256-zlG7/ERVZFLRBqu7q/wjcYG+iBlDY7s/SwKyqzIA0OM=";
+      rev = "v0.21.1";
+      hash = "sha256-sX9AOe8dJJsRbzGq20qakWBnLiwYQ90mQspAuYxQzoQ=";
     };
   };
   "tree-sitter-cue" = {
@@ -4802,12 +4802,12 @@
     };
   };
   "tree-sitter-supercollider" = {
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchFromGitHub {
       owner = "madskjeldgaard";
       repo = "tree-sitter-supercollider";
-      rev = "v0.3.1";
-      hash = "sha256-9t7yWtzuzY19M22q5Aiu+hVX2bkBTm3AmUi6ZSc4psQ=";
+      rev = "v0.3.2";
+      hash = "sha256-drn1S4gNm6fOSUTCa/CrAqCWoUn16y1hpaZBCPpyaNE=";
     };
   };
   "tree-sitter-surface" = {
@@ -5524,12 +5524,12 @@
     };
   };
   "tree-sitter-wgsl_bevy" = {
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-wgsl-bevy";
-      rev = "v0.1.3";
-      hash = "sha256-45K4GGywfvt+p1SnCZCdvRkdxtCIeqlQSk+XKy8nNBk=";
+      rev = "v0.1.4";
+      hash = "sha256-G92wC2BJXGl+eogbuiaSOLKss+5QTm9RFFRSc2Rgqzw=";
     };
   };
   "tree-sitter-while" = {

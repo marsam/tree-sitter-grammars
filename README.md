@@ -129,7 +129,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-css | [0.23.2](https://github.com/tree-sitter/tree-sitter-css/tree/v0.23.2) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
-| tree-sitter-cuda | [0.21.0](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.0) |
+| tree-sitter-cuda | [0.21.1](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.1) |
 | tree-sitter-cue | [0.1.0](https://github.com/eonpatapon/tree-sitter-cue/tree/v0.1.0) |
 | tree-sitter-curry | [0.0.3](https://github.com/matthesjh/tree-sitter-curry/tree/v0.0.3) |
 | tree-sitter-cylc | [0.2.0](https://github.com/elliotfontaine/tree-sitter-cylc/tree/v0.2.0) |
@@ -588,7 +588,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
 | tree-sitter-structurizr | [2025-01-17](https://github.com/josteink/tree-sitter-structurizr/tree/f4e73672df094d424b5f9353931258238bc54a9e) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
-| tree-sitter-supercollider | [0.3.1](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.1) |
+| tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealdb | [2024-02-20](https://github.com/DariusCorvus/tree-sitter-surrealdb/tree/17a7ed4481bdaaa35a1372f3a94bc851d634a19e) |
 | tree-sitter-surrealql | [0.2.0](https://github.com/Ce11an/tree-sitter-surrealql/tree/0.2.0) |
@@ -675,7 +675,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-wenyan | [2022-09-03](https://github.com/duskmoon314/tree-sitter-wenyan/tree/ea93d8bb9c605bebf832bb175254c0310dd526e9) |
 | tree-sitter-werk | [2025-02-18](https://github.com/jakobhellermann/tree-sitter-werk/tree/8d278338d8161b70dccb228f654ac6544c7737ed) |
 | tree-sitter-wgsl | [2023-01-09](https://github.com/szebniok/tree-sitter-wgsl/tree/40259f3c77ea856841a4e0c4c807705f3e4a2b65) |
-| tree-sitter-wgsl_bevy | [0.1.3](https://github.com/tree-sitter-grammars/tree-sitter-wgsl-bevy/tree/v0.1.3) |
+| tree-sitter-wgsl_bevy | [0.1.4](https://github.com/tree-sitter-grammars/tree-sitter-wgsl-bevy/tree/v0.1.4) |
 | tree-sitter-while | [2024-10-15](https://github.com/RubixDev/tree-sitter-while/tree/7ee686ad2094079752cc83de5e8376bd140c6db6) |
 | tree-sitter-wing | [0.83.11](https://github.com/winglang/tree-sitter-wing/tree/v0.83.11) |
 | tree-sitter-wit | [1.1.0](https://github.com/bytecodealliance/tree-sitter-wit/tree/v1.1.0) |
