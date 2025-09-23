@@ -388,12 +388,12 @@
     };
   };
   "tree-sitter-arcana" = {
-    version = "unstable-2025-09-20";
+    version = "unstable-2025-09-22";
     src = fetchFromGitHub {
       owner = "Skyppex";
       repo = "tree-sitter-arcana";
-      rev = "76f137825e6f1ca08d0567de62b806b3a2648848";
-      hash = "sha256-HWEWSXtiUmRo9yzIbno7hqocW7UTCDbt4HzYGQ8s69o=";
+      rev = "0259b87372b3c4c3459e190649b448707cd05b82";
+      hash = "sha256-p8mAjz1RqC43Eo6vH6tR32kgleeaMP8PwyVbcdRv0iY=";
     };
   };
   "tree-sitter-arduino" = {
@@ -1873,12 +1873,12 @@
     };
   };
   "tree-sitter-ghactions" = {
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchFromGitHub {
       owner = "rmuir";
       repo = "tree-sitter-ghactions";
-      rev = "v0.2.1";
-      hash = "sha256-PW+HnJgA113ubEbAAJrCgVXbpb9TIBhL+nDHnwIHWfA=";
+      rev = "v0.2.2";
+      hash = "sha256-LnV5byX18+lEzHXuRtY3t2fgtSDzY4Jv86hBvoFfnfw=";
     };
   };
   "tree-sitter-gherkin" = {
@@ -2576,12 +2576,12 @@
     };
   };
   "tree-sitter-javadoc" = {
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchFromGitHub {
       owner = "rmuir";
       repo = "tree-sitter-javadoc";
-      rev = "v0.2.3";
-      hash = "sha256-PWPtsuttgNNzaMKqklsNUnaIzAw13akM7wzk5+evpXE=";
+      rev = "v0.2.4";
+      hash = "sha256-S7VOxQp6m16YBjREiQQfII6c5DTb2hItYZvWMmMbUs0=";
     };
   };
   "tree-sitter-jelly" = {
@@ -4532,12 +4532,12 @@
     };
   };
   "tree-sitter-slint" = {
-    version = "unstable-2025-09-19";
+    version = "unstable-2025-09-22";
     src = fetchFromGitHub {
       owner = "slint-ui";
       repo = "tree-sitter-slint";
-      rev = "152ec7f6a2aa29fe222f741d91bec70153c487da";
-      hash = "sha256-MA/7gqrdhYridk7P+yFVeiWh0AiZf75/f3LSjZd9Clc=";
+      rev = "927f3e2f0213d0eea7f12c978c81067c3dc4289d";
+      hash = "sha256-1jC4ZqkVbKgq35LUo4Gbj6Hw3Yg1zsDWFhPBMuLewxI=";
     };
   };
   "tree-sitter-smali" = {
@@ -4766,12 +4766,12 @@
     };
   };
   "tree-sitter-strictdoc" = {
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "manueldiagostino";
       repo = "tree-sitter-strictdoc";
-      rev = "v0.1.0";
-      hash = "sha256-Kbu8KfUSE5LFo4v5e7gV6ZdeT6SkXq9d4yfjPz6wWww=";
+      rev = "v0.2.0";
+      hash = "sha256-sIbh8mYWrGhaXtRxe/FYIT1aD8WAKfQYJJbhWhz9jEs=";
     };
   };
   "tree-sitter-strings" = {
