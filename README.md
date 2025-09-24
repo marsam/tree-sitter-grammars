@@ -387,7 +387,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-08-13](https://github.com/shackle-rs/shackle/tree/68456ca62e0fc57c25fa2a412a933674679233fd/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.1.4](https://github.com/omeyenburg/tree-sitter-mips/tree/0.1.4) |
-| tree-sitter-mlir | [2025-09-19](https://github.com/artagnon/tree-sitter-mlir/tree/8f86b34b5e3dfe561e1e913df4a3d719ea1dcc5c) |
+| tree-sitter-mlir | [2025-09-23](https://github.com/artagnon/tree-sitter-mlir/tree/14152c1e580043865131bca80bcd8e8cb9132df7) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-08-31](https://github.com/moonbitlang/tree-sitter-moonbit/tree/0a9622038b00e2122a0e5414f4fd927dd7b3bd5f) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -573,7 +573,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-spicy | [2025-09-08](https://github.com/bbannier/tree-sitter-spicy/tree/600e64b8dea0772bae35283b4ee6a33b633f5af4) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
-| tree-sitter-sql | [0.3.8](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.8) |
+| tree-sitter-sql | [0.3.9](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.9) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
 | tree-sitter-ssh_client_config | [2025.9.18](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.9.18) |
