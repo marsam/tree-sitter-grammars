@@ -892,12 +892,12 @@
     };
   };
   "tree-sitter-clingo" = {
-    version = "unstable-2024-06-28";
+    version = "unstable-2025-09-25";
     src = fetchFromGitHub {
       owner = "potassco";
       repo = "tree-sitter-clingo";
-      rev = "cb06e649c2994de6dc6b4bafb3dd864e2ed33675";
-      hash = "sha256-dmGYPXF/z0K/FX4pJMlvzuTLfHFqNeJuNC20SKcgN2w=";
+      rev = "1897e5506ef8e98ec5ed21f06ed2d4f809a83067";
+      hash = "sha256-Wsqo2DOyKEw/kNPfBgXScVMlMitsQogdDZ951VSTamg=";
     };
   };
   "tree-sitter-clojure" = {
@@ -1171,12 +1171,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2025-09-24";
+    version = "unstable-2025-09-25";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "045a0aee80bcae85fa330f4c4ccf0196c091c8e6";
-      hash = "sha256-vFhgFcjKQLFt37K+ZcGtpReVzoIyNbopu0jW1V3es4I=";
+      rev = "13593f63cc2297a4973b5061119ee0be0ca457a1";
+      hash = "sha256-g1aM5COmblTG4ux+NNuY4UlUKu7I+eak718KP5LTkFE=";
     };
   };
   "tree-sitter-dbml" = {
@@ -1504,12 +1504,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "unstable-2025-06-13";
+    version = "unstable-2025-09-25";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "07dad1469ecb7df80f2b6d5178f79564d19d67e0";
-      hash = "sha256-wo6EX5X0Cuby9CEwfTTZjZ/RHq3/U910wuowFoNkQf8=";
+      rev = "df268da05d8ed4837dd2a8e2af1906619c2f0aa0";
+      hash = "sha256-fkYhGw0IYa7UMfiCflK0cbUsBcDAGqtHUzANJtEK/TM=";
     };
   };
   "tree-sitter-esdl" = {
@@ -2486,12 +2486,12 @@
     };
   };
   "tree-sitter-inko" = {
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "inko-lang";
       repo = "tree-sitter-inko";
-      rev = "v0.1.0";
-      hash = "sha256-7BADt6NjH9chOzCDtJSLjBZaRqeLvOH006q0hI4pZaI=";
+      rev = "v0.2.0";
+      hash = "sha256-xbQZoamGDhXly/TmZuVEhS5aaOBPIQb6fzDUETY3ygY=";
     };
   };
   "tree-sitter-integerbasic" = {
@@ -4235,12 +4235,12 @@
     };
   };
   "tree-sitter-rifleconf" = {
-    version = "unstable-2025-09-13";
+    version = "unstable-2025-09-25";
     src = fetchFromGitHub {
       owner = "purarue";
       repo = "tree-sitter-rifleconf";
-      rev = "b215640ba72a9a8cac6f5d95dbc3d320cb546e13";
-      hash = "sha256-Bc/u9Zvkz2+hV6tEedjMH9Iw2hBGM3GGMd42700nudE=";
+      rev = "fe10eab6cacff239ec61f4456e793bed15703aaf";
+      hash = "sha256-FeKu9HfGeAaQ+wfMPfic9qA870M+Cg592RY4G5HP//M=";
     };
   };
   "tree-sitter-risor" = {
