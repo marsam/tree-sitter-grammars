@@ -24,7 +24,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-abl | [0.0.33](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.33) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
-| tree-sitter-ada | [2025-09-20](https://github.com/briot/tree-sitter-ada/tree/364d3f4aa8b382113bdd5d3ca6d82dc9c74ac738) |
+| tree-sitter-ada | [2025-09-28](https://github.com/briot/tree-sitter-ada/tree/b23672d313b4c994ab96fd54f1b7ff15eac68a55) |
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
@@ -126,7 +126,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
 | tree-sitter-crystal | [2025-09-09](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/f0ada43161f77d5bad18c4ce0b21d1dc9310e408) |
-| tree-sitter-css | [0.23.2](https://github.com/tree-sitter/tree-sitter-css/tree/v0.23.2) |
+| tree-sitter-css | [0.25.0](https://github.com/tree-sitter/tree-sitter-css/tree/v0.25.0) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
 | tree-sitter-cuda | [0.21.1](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.1) |
@@ -603,7 +603,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.2.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.2.1) |
-| tree-sitter-t32 | [6.0.3](https://codeberg.org/xasc/tree-sitter-t32/src/v6.0.3) |
+| tree-sitter-t32 | [6.0.8](https://codeberg.org/xasc/tree-sitter-t32/src/v6.0.8) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
