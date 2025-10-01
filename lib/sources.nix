@@ -892,12 +892,12 @@
     };
   };
   "tree-sitter-clingo" = {
-    version = "unstable-2025-09-28";
+    version = "1.0.0";
     src = fetchFromGitHub {
       owner = "potassco";
       repo = "tree-sitter-clingo";
-      rev = "19b83afb5a6c0d0e79d4ebbe8738e63dc17d1944";
-      hash = "sha256-RZtjC76ESSs7EOZEjo1KDssVpNRaArkW0R3xn5pKPp0=";
+      rev = "v1.0.0";
+      hash = "sha256-ZRDxZzE7oUDWi3las/3w7YyiOw0s4pTqosZKA9j9xrE=";
     };
   };
   "tree-sitter-clojure" = {
@@ -1468,12 +1468,12 @@
     };
   };
   "tree-sitter-enforce" = {
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "simonvic";
       repo = "tree-sitter-enforce";
-      rev = "v0.2.0";
-      hash = "sha256-5G60pe/nf+7LZeiyyqc+LA955l7sW/Du/piwABxzSFk=";
+      rev = "v0.3.0";
+      hash = "sha256-hJI3mDWH/Kb6R4iJM6XG1n13Q8m84MWcNPox9qaceTg=";
     };
   };
   "tree-sitter-envy" = {
