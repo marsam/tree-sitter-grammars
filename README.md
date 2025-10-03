@@ -176,7 +176,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
 | tree-sitter-embedded_template | [0.25.0](https://github.com/tree-sitter/tree-sitter-embedded-template/tree/v0.25.0) |
-| tree-sitter-enforce | [0.3.0](https://github.com/simonvic/tree-sitter-enforce/tree/v0.3.0) |
+| tree-sitter-enforce | [0.3.1](https://github.com/simonvic/tree-sitter-enforce/tree/v0.3.1) |
 | tree-sitter-envy | [2024-08-19](https://github.com/envyhq/envy/tree/82386ecea370fd45680b2d04f2823f762aad5693/extensions/tree-sitter) |
 | tree-sitter-epics_cmd | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-cmd) |
 | tree-sitter-epics_db | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-db) |
@@ -205,7 +205,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-flamingo | [0.1.3](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.3) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2025-10-01](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/5661bb3614e231ca143753ac7fcc2d7f68314d56) |
+| tree-sitter-fodot | [2025-10-02](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/8671c0c412ee2a1630def6101c92fa28c7d21590) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -546,7 +546,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-scheme | [0.24.7](https://github.com/6cdh/tree-sitter-scheme/tree/v0.24.7) |
 | tree-sitter-scilab | [2025-01-10](https://github.com/nicolas-graves/tree-sitter-scilab/tree/8a109b8f00bfb0fccaae83dc9a5a0abd0c444358) |
 | tree-sitter-scss | [1.0.0](https://github.com/serenadeai/tree-sitter-scss/tree/v1.0.0) |
-| tree-sitter-sdml | [0.4.5](https://github.com/sdm-lang/tree-sitter-sdml/tree/v0.4.5) |
+| tree-sitter-sdml | [0.4.13](https://github.com/sdm-lang/tree-sitter-sdml/tree/v0.4.13) |
 | tree-sitter-sed | [2024-11-10](https://github.com/mskelton/tree-sitter-sed/tree/e13f8bccd4e6bc190fa34f3df8b2d576a41ff04d) |
 | tree-sitter-selinux | [2024-04-26](https://github.com/mdmfernandes/tree-sitter-selinux/tree/e13c6cdbe05845c0e9379c6937b59d7424e9ece3) |
 | tree-sitter-semver | [0.0.1](https://github.com/uselessscat/tree-sitter-semver/tree/0.0.1) |
