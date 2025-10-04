@@ -138,7 +138,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
 | tree-sitter-d2 | [0.7.1](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.1) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
-| tree-sitter-dart | [2025-02-28](https://github.com/UserNobody14/tree-sitter-dart/tree/80e23c07b64494f7e21090bb3450223ef0b192f4) |
+| tree-sitter-dart | [2025-10-04](https://github.com/UserNobody14/tree-sitter-dart/tree/c1222f5a65aba7e0175cc0cc6f88d198d9fe2b02) |
 | tree-sitter-datazinc | [2025-09-25](https://github.com/shackle-rs/shackle/tree/13593f63cc2297a4973b5061119ee0be0ca457a1/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
@@ -471,7 +471,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-powershell | [0.25.8](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.25.8) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |
 | tree-sitter-printf | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-printf/tree/v0.5.1) |
-| tree-sitter-prisma | [1.5.1](https://github.com/victorhqc/tree-sitter-prisma/tree/v1.5.1) |
+| tree-sitter-prisma | [1.6.0](https://github.com/victorhqc/tree-sitter-prisma/tree/v1.6.0) |
 | tree-sitter-problog | [3.0.2](https://codeberg.org/foxy/tree-sitter-prolog/src/3.0.2/grammars/problog) |
 | tree-sitter-prolog | [3.0.2](https://codeberg.org/foxy/tree-sitter-prolog/src/3.0.2/grammars/prolog) |
 | tree-sitter-promela | [2022-02-11](https://github.com/siraben/tree-sitter-promela/tree/91da8f141c3c4c695eb71018c8a7b2e7ea39c167) |
@@ -699,7 +699,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-yasnippet | [2024-05-30](https://github.com/nverno/tree-sitter-yasnippet/tree/d444ecb29c827548c8ae74bab9b65fd57fe386f5) |
 | tree-sitter-yuck | [0.0.2](https://github.com/tree-sitter-grammars/tree-sitter-yuck/tree/v0.0.2) |
 | tree-sitter-zathurarc | [0.0.9](https://github.com/Freed-Wu/tree-sitter-zathurarc/tree/0.0.9) |
-| tree-sitter-zeek | [0.2.9](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.9) |
+| tree-sitter-zeek | [0.2.10](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.10) |
 | tree-sitter-zeque | [2024-11-24](https://github.com/QnnOkabayashi/tree-sitter-zeque/tree/69d107306b60a91b8958d7a00bc3ea24cb69b9e0) |
 | tree-sitter-zig | [1.1.2](https://github.com/tree-sitter-grammars/tree-sitter-zig/tree/v1.1.2) |
 | tree-sitter-ziggy | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy) |
