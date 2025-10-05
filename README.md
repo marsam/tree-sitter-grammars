@@ -138,7 +138,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
 | tree-sitter-d2 | [0.7.1](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.1) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
-| tree-sitter-dart | [2025-10-04](https://github.com/UserNobody14/tree-sitter-dart/tree/c1222f5a65aba7e0175cc0cc6f88d198d9fe2b02) |
+| tree-sitter-dart | [2025-10-04](https://github.com/UserNobody14/tree-sitter-dart/tree/d4d8f3e337d8be23be27ffc35a0aef972343cd54) |
 | tree-sitter-datazinc | [2025-09-25](https://github.com/shackle-rs/shackle/tree/13593f63cc2297a4973b5061119ee0be0ca457a1/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
@@ -250,7 +250,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gomod | [1.1.0](https://github.com/camdencheek/tree-sitter-go-mod/tree/v1.1.0) |
 | tree-sitter-gooscript | [2024-12-11](https://github.com/bishan-batel/tree-sitter-gooscript/tree/56edb211944f955bf7325384f036feb5a688614c) |
 | tree-sitter-gosum | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-go-sum/tree/v1.0.0) |
-| tree-sitter-gotmpl | [2025-08-23](https://github.com/ngalaiko/tree-sitter-go-template/tree/65f4f86c3aaa9dabab36e3482584e8a111cf7db1) |
+| tree-sitter-gotmpl | [2025-10-04](https://github.com/ngalaiko/tree-sitter-go-template/tree/ca26229bafcd3f37698a2496c2a5efa2f07e86bc) |
 | tree-sitter-gowork | [2024-09-11](https://github.com/zed-industries/tree-sitter-go-work/tree/acb0617bf7f4fda02c6217676cc64acb89536dc7) |
 | tree-sitter-gpg | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-gpg-config/tree/v0.2.1) |
 | tree-sitter-gpr | [2024-08-13](https://github.com/brownts/tree-sitter-gpr/tree/cea857d3c18d1385d1f5b66cd09ea1e44173945c) |
@@ -270,7 +270,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-haxe | [0.13.0](https://github.com/vantreeseba/tree-sitter-haxe/tree/v0.13.0) |
 | tree-sitter-hcl | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/v1.2.0) |
 | tree-sitter-heex | [0.8.0](https://github.com/phoenixframework/tree-sitter-heex/tree/v0.8.0) |
-| tree-sitter-helm | [2025-08-23](https://github.com/ngalaiko/tree-sitter-go-template/tree/65f4f86c3aaa9dabab36e3482584e8a111cf7db1/dialects/helm) |
+| tree-sitter-helm | [2025-10-04](https://github.com/ngalaiko/tree-sitter-go-template/tree/ca26229bafcd3f37698a2496c2a5efa2f07e86bc/dialects/helm) |
 | tree-sitter-hicad | [0.0.1](https://github.com/petrisch/tree-sitter-hicad/tree/0.0.1) |
 | tree-sitter-hjson | [2021-08-02](https://github.com/winston0410/tree-sitter-hjson/tree/02fa3b79b3ff9a296066da6277adfc3f26cbc9e0) |
 | tree-sitter-hl7 | [2024-10-28](https://github.com/hamaluik/tree-sitter-hl7/tree/420753abfe3873ec9e31b0c9640741756671292c) |
