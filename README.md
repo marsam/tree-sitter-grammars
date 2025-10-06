@@ -211,7 +211,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
 | tree-sitter-forth | [2023-11-03](https://github.com/AlexanderBrevig/tree-sitter-forth/tree/90189238385cf636b9ee99ce548b9e5b5e569d48) |
 | tree-sitter-fortran | [0.5.1](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.5.1) |
-| tree-sitter-fram | [2025-04-06](https://github.com/Brychlikov/tree-sitter-fram/tree/e8d8dcc70a276df49447e5b4384a4f61444afe9a) |
+| tree-sitter-fram | [2025-10-05](https://github.com/Brychlikov/tree-sitter-fram/tree/09778b3022183a4ff83031830feda26311f0c9ec) |
 | tree-sitter-fsh | [2024-04-27](https://github.com/mgramigna/tree-sitter-fsh/tree/fad2e175099a45efbc98f000cc196d3674cc45e0) |
 | tree-sitter-fsharp | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp) |
 | tree-sitter-fsharp_signature | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp_signature) |
@@ -592,7 +592,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealdb | [2024-02-20](https://github.com/DariusCorvus/tree-sitter-surrealdb/tree/17a7ed4481bdaaa35a1372f3a94bc851d634a19e) |
 | tree-sitter-surrealql | [0.2.0](https://github.com/Ce11an/tree-sitter-surrealql/tree/0.2.0) |
-| tree-sitter-sus | [0.3.1](https://github.com/pc2/sus-compiler/tree/v0.3.1/tree-sitter-sus) |
+| tree-sitter-sus | [0.3.2](https://github.com/pc2/sus-compiler/tree/v0.3.2/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
 | tree-sitter-swift | [0.7.1-pypi-with-generated-files](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.1-pypi-with-generated-files) |
