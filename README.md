@@ -14,6 +14,56 @@ To build a single tree-sitter grammar:
 nix build .#tree-sitter-javascript
 ```
 
+### Neovim
+
+To build a `vimPlugin` package containing grammars only, without queries (e.g. if you only care about queries from nvim-treesitter):
+
+1. Add an overlay to your flake:
+```nix
+# an example
+overlays = [
+    inputs.tree-sitter-grammars.overlays.default
+];
+```
+
+2. Use the exposed `withGrammarsNvim` function to include any grammars you like:
+```nix
+# all exposed grammars from the overlay (may need to build all grammars)
+grammars = pkgs.ts-grammars.withGrammarsNvim (gs: builtins.attrValues gs);
+# all exposed grammars using cachix without rebuilds
+grammars = pkgs.ts-grammars.withGrammarsNvim (_: builtins.attrValues inputs.tree-sitter-grammars.packages.${pkgs.system});
+# grammars filtered to your liking
+grammars = pkgs.ts-grammars.withGrammarsNvim (gs: builtins.attrValues (lib.filterAttrs (name: package: lib.hasSuffix "javascript") gs));
+```
+
+3. Use `linkFarm` to put all grammars under `parser` folder. This is what Neovim expects:
+
+```nix
+let
+    grammars = pkgs.ts-grammars.withGrammarsNvim (gs: builtins.attrValues gs);
+    grammarsPlugin = (pkgs.linkFarm "tree-sitter-grammars" [
+        {
+          name = "parser";
+          path = grammars;
+        }
+        # optionally, add queries from nvim-treesitter
+        {
+          name = "queries";
+          path = "${pkgs.vimPlugins.nvim-treesitter}/queries";
+        }
+      ]);
+in { 
+    # very basic example, adjust to the way you configure neovim
+    pkgs.neovim.override {
+      configure = {
+        packages.myPlugins = {
+          start = [ grammarsPlugin ];
+        };
+      };
+    }
+}
+```
+
 <!-- start-gramars -->
 <details>
   <summary><strong>Available grammars (687)</strong></summary>
