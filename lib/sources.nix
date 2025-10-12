@@ -1063,12 +1063,12 @@
     };
   };
   "tree-sitter-crystal" = {
-    version = "unstable-2025-10-06";
+    version = "unstable-2025-10-12";
     src = fetchFromGitHub {
       owner = "crystal-lang-tools";
       repo = "tree-sitter-crystal";
-      rev = "0c8eddccb2260bb8f7d4813d40f4a4d5ebc5b2fc";
-      hash = "sha256-HSYKGaUcWM4C1f/3KaiOebS5MU8EL7a7EwVtBTa2GHk=";
+      rev = "50ca9e6fcfb16a2cbcad59203cfd8ad650e25c49";
+      hash = "sha256-xmQrplDxoJ8GhcTyCOuEGn4wwMM3/9M6tyM1dgRGARU=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -2053,12 +2053,12 @@
     };
   };
   "tree-sitter-gooscript" = {
-    version = "unstable-2024-12-11";
+    version = "unstable-2025-10-11";
     src = fetchFromGitHub {
       owner = "bishan-batel";
       repo = "tree-sitter-gooscript";
-      rev = "56edb211944f955bf7325384f036feb5a688614c";
-      hash = "sha256-BLD/20qgoWWJnHWNrjv1fvydB6zOiGuL/L8JOMR4ptA=";
+      rev = "093c7c4aa9080b0b902c44b19618b8bd610eaeb3";
+      hash = "sha256-GtL4ufSAWOmVdDNgjHctjWVQ676jtO6vfTEzLoNWMvY=";
     };
   };
   "tree-sitter-gosum" = {
@@ -2107,12 +2107,12 @@
     };
   };
   "tree-sitter-gram" = {
-    version = "0.1.9";
+    version = "0.1.10";
     src = fetchFromGitHub {
       owner = "gram-data";
       repo = "tree-sitter-gram";
-      rev = "v0.1.9";
-      hash = "sha256-pj3SK8SJb/gEgwfccKO3wegD6JYyp9TmKE4pAL0OjO8=";
+      rev = "0.1.10";
+      hash = "sha256-ktHafH5JBnoJb59LQYIgomWZzGFXkjjW9etGpdkOtks=";
     };
   };
   "tree-sitter-graphql" = {
@@ -2540,12 +2540,12 @@
     };
   };
   "tree-sitter-jai" = {
-    version = "unstable-2025-08-24";
+    version = "unstable-2025-10-12";
     src = fetchFromGitHub {
       owner = "constantitus";
       repo = "tree-sitter-jai";
-      rev = "92b2b04506575174c90526215cddb1171cfd50b0";
-      hash = "sha256-+9Vky58MfbkOpzjX50aG7Jjvw6ljxnFQJIaI1xQoY7g=";
+      rev = "218913a6d5dbe5b076c09c76473326e2a6b2fb92";
+      hash = "sha256-DMR82i9oxR8VROfpYJKrJ5fzWWpjnCaasqhvpN8rWD8=";
     };
   };
   "tree-sitter-jakt" = {
@@ -5425,12 +5425,12 @@
     };
   };
   "tree-sitter-vola" = {
-    version = "unstable-2025-10-07";
+    version = "unstable-2025-10-11";
     src = fetchFromGitLab {
       owner = "tendsinmende";
       repo = "tree-sitter-vola";
-      rev = "297c629d2eacc8877380116c937d900d6990deb3";
-      hash = "sha256-J4NMxhaGqE2z+SkfzsNR4bKxgbou8o9y5XIa25z1N9Y=";
+      rev = "6a7c2f426418445ccc60c02dcebb43dc7f0be037";
+      hash = "sha256-vajcLG+61eHOkyYkEomUy9bPoHSaJ08caMNp9fZX788=";
     };
   };
   "tree-sitter-vrl" = {
