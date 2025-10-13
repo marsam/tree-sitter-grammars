@@ -24,7 +24,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-abl | [0.0.33](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.33) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
-| tree-sitter-ada | [2025-09-28](https://github.com/briot/tree-sitter-ada/tree/b23672d313b4c994ab96fd54f1b7ff15eac68a55) |
+| tree-sitter-ada | [2025-10-12](https://github.com/briot/tree-sitter-ada/tree/6c26c4413965dc7bacbccfa66503bf6b8228e254) |
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
@@ -32,7 +32,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.3.1](https://github.com/s-ol/tree-sitter-alv/tree/v0.3.1) |
-| tree-sitter-amber | [2025-06-14](https://github.com/amber-lang/tree-sitter-amber/tree/cafa15e6224fcb43cc88275e1afaf33179a4f393) |
+| tree-sitter-amber | [2025-10-12](https://github.com/amber-lang/tree-sitter-amber/tree/a2e28f49e2d60b4d80a6b9c025ad2072348a0a72) |
 | tree-sitter-angular | [0.7.0](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.7.0) |
 | tree-sitter-apachesynapse | [2024-01-02](https://github.com/DaAlbrecht/tree-sitter-apachesynapse/tree/e125e0f6d40bdacbe6bcca05aff4f4145fcacdc4) |
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
