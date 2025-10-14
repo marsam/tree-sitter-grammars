@@ -63,9 +63,17 @@ install: all
 	ln -sf lib$(LANGUAGE_NAME).$(SOEXTVER) '$(DESTDIR)$(LIBDIR)'/lib$(LANGUAGE_NAME).$(SOEXTVER_MAJOR)
 	ln -sf lib$(LANGUAGE_NAME).$(SOEXTVER_MAJOR) '$(DESTDIR)$(LIBDIR)'/lib$(LANGUAGE_NAME).$(SOEXT)
 ifneq ("$(wildcard queries)", "")
-	install -d '$(DESTDIR)$(DATADIR)'/tree-sitter/queries/
-	cp -av queries '$(DESTDIR)$(DATADIR)'/tree-sitter/queries/$(LANGUAGE_NAME:tree-sitter-%=%)
+	install -d '$(DESTDIR)$(DATADIR)/tree-sitter/queries'
+	# Detect if 'queries' already has a single subdirectory matching $(LANGUAGE_NAME)
+	if [ -d "queries/$(LANGUAGE_NAME:tree-sitter-%=%)" ]; then \
+		cp -av queries/$(LANGUAGE_NAME:tree-sitter-%=%) \
+			'$(DESTDIR)$(DATADIR)/tree-sitter/queries/'; \
+	else \
+		cp -av queries \
+			'$(DESTDIR)$(DATADIR)/tree-sitter/queries/$(LANGUAGE_NAME:tree-sitter-%=%)'; \
+	fi
 endif
+
 
 test:
 	$(TS) test
