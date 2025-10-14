@@ -67,7 +67,7 @@ let
       ] ++ lib.optionals (finalAttrs.location != null) [ "-C ${finalAttrs.location}" ];
 
       preBuild =
-        if finalAttrs.guessVersion then ''
+        (if finalAttrs.guessVersion then ''
           packageJson="''${location:+$location/}package.json"
           if [ ! -f $packageJson ] && [ -n $location ]; then
             if [ -f "package.json" ]; then
@@ -81,6 +81,10 @@ let
           makeFlagsArray+=(VERSION="$(${lib.getExe jq} -r .version $packageJson)")
         '' else ''
           makeFlagsArray+=(VERSION="${finalAttrs.version}")
+        '')
+        + ''
+          echo "Cleaning stale object files..."
+          make clean --makefile=$makefile
         '';
 
       meta = {
