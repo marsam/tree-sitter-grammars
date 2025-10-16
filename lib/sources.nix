@@ -3495,12 +3495,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-10-13";
+    version = "unstable-2025-10-15";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "d9d6ad2c836bc3bd5010ab7850bc6da9498ca576";
-      hash = "sha256-tWQbdkgSSm4TDAhX/uXpAjNViJkbpFrTq4IuAbbVy4M=";
+      rev = "74ff80b2cff6d68286747a3de45531965ad2cf38";
+      hash = "sha256-de5r6BAtb/q4EiAwsBqvqt1uIIAp8R53s4871pHtwvY=";
     };
   };
   "tree-sitter-numbat" = {
@@ -3594,12 +3594,12 @@
     };
   };
   "tree-sitter-openscad" = {
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchFromGitHub {
       owner = "openscad";
       repo = "tree-sitter-openscad";
-      rev = "v0.6.1";
-      hash = "sha256-R340VUUQioYJUEyCAeLNlNVkPX/4J7ylTOoJeRBLZZA=";
+      rev = "v0.6.2";
+      hash = "sha256-5dy4tJualUi1pTOAtZ65DdlHOXnqShIWkjARQSKa42U=";
     };
   };
   "tree-sitter-orca" = {
@@ -4703,12 +4703,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.10.9";
+    version = "2025.10.16";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.10.9";
-      hash = "sha256-YyfocFNF12VB4i7QC4qEJARyQ01gVM4XV4elkvKeN14=";
+      rev = "2025.10.16";
+      hash = "sha256-S/3L+v8IerogoplfZUYaP5PjktCNpnFGuYzI4nVabsI=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -4938,13 +4938,13 @@
     };
   };
   "tree-sitter-t32" = {
-    version = "6.0.8";
+    version = "6.0.10";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "xasc";
       repo = "tree-sitter-t32";
-      rev = "v6.0.8";
-      hash = "sha256-awbgOZaIqpdjsskSr6by2AyojVRU+gkLgS70abhPryE=";
+      rev = "v6.0.10";
+      hash = "sha256-9J8wy/7qW4vWsIzpDI+lVWr/6158jrod0nSk3ihXUPI=";
     };
   };
   "tree-sitter-tablegen" = {
@@ -5551,12 +5551,12 @@
     };
   };
   "tree-sitter-wit" = {
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchFromGitHub {
       owner = "bytecodealliance";
       repo = "tree-sitter-wit";
-      rev = "v1.1.0";
-      hash = "sha256-8RRffYuw1wmtRgGGMIfzKnZPM4dKGd0h7A5oOVfEk1Y=";
+      rev = "v1.2.0";
+      hash = "sha256-scye60ETUak1mXJXC+UY5sqbuqAcjxCsm4+AVJHhGws=";
     };
   };
   "tree-sitter-witcherscript" = {
