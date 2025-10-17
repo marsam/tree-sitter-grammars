@@ -218,7 +218,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2025-09-13](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/ec3443bc98210013e1df29b5eda93f667f5164db) |
+| tree-sitter-galvan | [2025-10-16](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/f8b6609a76baaabed02f6036ed5893b1c9cc2f47) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
@@ -382,7 +382,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-menhir | [0.4.0](https://github.com/Kerl13/tree-sitter-menhir/tree/v0.4.0) |
 | tree-sitter-merlin6502 | [4.0.0](https://github.com/dfgordon/tree-sitter-merlin6502/tree/v4.0.0) |
 | tree-sitter-mermaid | [2024-04-22](https://github.com/monaqa/tree-sitter-mermaid/tree/90ae195b31933ceb9d079abfa8a3ad0a36fee4cc) |
-| tree-sitter-mers | [2025-07-15](https://github.com/Dummi26/mers/tree/35efae75acc02231d49e07083ef1270a92409269/tree-sitter-mers) |
+| tree-sitter-mers | [2025-10-16](https://github.com/Dummi26/mers/tree/cd2db1ab272f2588435c094a3de0861f465d56c1/tree-sitter-mers) |
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-09-25](https://github.com/shackle-rs/shackle/tree/13593f63cc2297a4973b5061119ee0be0ca457a1/parsers/tree-sitter-minizinc) |

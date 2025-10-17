@@ -1801,12 +1801,12 @@
     };
   };
   "tree-sitter-galvan" = {
-    version = "unstable-2025-09-13";
+    version = "unstable-2025-10-16";
     src = fetchFromGitHub {
       owner = "antoniusnaumann";
       repo = "tree-sitter-galvan";
-      rev = "ec3443bc98210013e1df29b5eda93f667f5164db";
-      hash = "sha256-a1IccAhP25C3Pov8c2jivxVfb4RqqaGrxqW15dsgTbw=";
+      rev = "f8b6609a76baaabed02f6036ed5893b1c9cc2f47";
+      hash = "sha256-3QChHOWtcIlK/r4mv8pQkCsZ4iHJgBDj3AT1IS9dyfA=";
     };
   };
   "tree-sitter-gap" = {
@@ -3162,12 +3162,12 @@
     };
   };
   "tree-sitter-mers" = {
-    version = "unstable-2025-07-15";
+    version = "unstable-2025-10-16";
     src = fetchFromGitHub {
       owner = "Dummi26";
       repo = "mers";
-      rev = "35efae75acc02231d49e07083ef1270a92409269";
-      hash = "sha256-z11MNtSqYDfwX4oSeI41p6UAbKdrmVx925qkmDC0ckU=";
+      rev = "cd2db1ab272f2588435c094a3de0861f465d56c1";
+      hash = "sha256-i/wSJ0JtJfL7lVqt4a5qT1r2Bg0bWnBU1svvyGFSn3g=";
     };
   };
   "tree-sitter-meson" = {
