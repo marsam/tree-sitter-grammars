@@ -928,12 +928,12 @@
     };
   };
   "tree-sitter-cmake" = {
-    version = "0.7.1";
+    version = "0.7.2";
     src = fetchFromGitHub {
       owner = "uyha";
       repo = "tree-sitter-cmake";
-      rev = "v0.7.1";
-      hash = "sha256-OxViW7H5fNc5BP072ob7GGgx1EYc6TiQEut0wHGrE1c=";
+      rev = "v0.7.2";
+      hash = "sha256-mR+gA7eWigC2zO1gMHzOgRagsfK1y/NBsn3mAOqR35A=";
     };
   };
   "tree-sitter-cobol" = {
@@ -1288,12 +1288,12 @@
     };
   };
   "tree-sitter-dot" = {
-    version = "unstable-2025-10-13";
+    version = "unstable-2025-10-17";
     src = fetchFromGitHub {
       owner = "rydesun";
       repo = "tree-sitter-dot";
-      rev = "1249de6334db93b6d5e5600cd12fe70f58a27e0e";
-      hash = "sha256-x4nffRDtNJSoovoe96IM9Y1micbTzaGK0J1x1QUVjb8=";
+      rev = "71e2c5241eef9de920a4efedfefd1d527dd9a118";
+      hash = "sha256-Z1XtNX1zV8xGlsaFbqh2VXPAx0fs4D7JxwqaEWSWcB0=";
     };
   };
   "tree-sitter-dotbox" = {
@@ -2107,12 +2107,12 @@
     };
   };
   "tree-sitter-gram" = {
-    version = "0.1.10";
+    version = "0.1.11";
     src = fetchFromGitHub {
       owner = "gram-data";
       repo = "tree-sitter-gram";
-      rev = "0.1.10";
-      hash = "sha256-ktHafH5JBnoJb59LQYIgomWZzGFXkjjW9etGpdkOtks=";
+      rev = "0.1.11";
+      hash = "sha256-ISlzir7sgVyoOV7Iy+j8ryHez0bqRoLO4pk0FlDxtEA=";
     };
   };
   "tree-sitter-graphql" = {
@@ -3504,12 +3504,12 @@
     };
   };
   "tree-sitter-numbat" = {
-    version = "unstable-2025-10-10";
+    version = "unstable-2025-10-17";
     src = fetchFromGitHub {
       owner = "irevoire";
       repo = "tree-sitter-numbat";
-      rev = "c1269a10b3abfa616d4eb2f24f37de481cfa6ef4";
-      hash = "sha256-IAqTQ8dRGnFipg1IYQ5Dpnt3UlItmb4ogpmxq/fjygE=";
+      rev = "4d9ce55767f7cc2a0ef97dd070de7e4519920607";
+      hash = "sha256-eNr46I8YexE5rFIDoqmlivec9H6RB3tt5/8R6age5i4=";
     };
   };
   "tree-sitter-objc" = {
@@ -4036,12 +4036,12 @@
     };
   };
   "tree-sitter-qmljs" = {
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "yuja";
       repo = "tree-sitter-qmljs";
-      rev = "0.2.0";
-      hash = "sha256-4OIXOePSu1Pc2BJuXoNNVZnKvjTjOQ6ixqE8NU7tLqg=";
+      rev = "0.3.0";
+      hash = "sha256-tV4lipey+OAQwygRFp9lQAzgCNiZzSu7p3Mr6CCBH1g=";
     };
   };
   "tree-sitter-quakec" = {
