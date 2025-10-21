@@ -570,7 +570,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-spade | [2025-04-20](https://gitlab.com/spade-lang/tree-sitter-spade//tree/39dba69d26782bf3439c62298cd1cf6b06901e31) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
-| tree-sitter-spicy | [2025-10-09](https://github.com/bbannier/tree-sitter-spicy/tree/7d57bf31a832fa4fe676332513ff1544583257d1) |
+| tree-sitter-spicy | [2025-10-20](https://github.com/bbannier/tree-sitter-spicy/tree/3eaa817df1aed05354fbd36ef097047a30d4dddf) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
@@ -706,7 +706,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2025-10-11](https://github.com/dastrukar/tree-sitter-zscript/tree/e8004dde7d01269be48c9226b028b9991c2daa05) |
+| tree-sitter-zscript | [2025-10-20](https://github.com/dastrukar/tree-sitter-zscript/tree/b16bdbd7236b27e1dcc00edaef68e2fc6964b660) |
 
 </details>
 <!-- end-gramars -->
