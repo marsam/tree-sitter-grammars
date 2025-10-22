@@ -153,7 +153,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-djot | [2025-01-23](https://github.com/treeman/tree-sitter-djot/tree/5e654beb9437e832490d07b4c4128c887a10269d/tree-sitter-djot) |
 | tree-sitter-djot_inline | [2025-01-23](https://github.com/treeman/tree-sitter-djot/tree/5e654beb9437e832490d07b4c4128c887a10269d/tree-sitter-djot-inline) |
 | tree-sitter-dockerfile | [0.2.0](https://github.com/camdencheek/tree-sitter-dockerfile/tree/v0.2.0) |
-| tree-sitter-dot | [2025-10-17](https://github.com/rydesun/tree-sitter-dot/tree/71e2c5241eef9de920a4efedfefd1d527dd9a118) |
+| tree-sitter-dot | [2025-10-21](https://github.com/rydesun/tree-sitter-dot/tree/80327abbba6f47530edeb0df9f11bd5d5c93c14d) |
 | tree-sitter-dotbox | [2022-11-27](https://github.com/jakehamilton/tree-sitter-dotbox/tree/234f92d21f2a7b987477a763e117c58af47e429f) |
 | tree-sitter-dotenv | [2024-07-12](https://github.com/zarifpour/tree-sitter-dotenv/tree/a854096808a5c1da0de998b31e5887995a98a89f) |
 | tree-sitter-dotvvm | [2023-06-01](https://github.com/riganti/dotvvm-extension-vscode/tree/deb85fc48ab9bb16cb8cd80091344c0116030b1b/src/tree-sitter-dotvvm) |

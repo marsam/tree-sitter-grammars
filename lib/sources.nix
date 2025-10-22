@@ -1288,12 +1288,12 @@
     };
   };
   "tree-sitter-dot" = {
-    version = "unstable-2025-10-17";
+    version = "unstable-2025-10-21";
     src = fetchFromGitHub {
       owner = "rydesun";
       repo = "tree-sitter-dot";
-      rev = "71e2c5241eef9de920a4efedfefd1d527dd9a118";
-      hash = "sha256-Z1XtNX1zV8xGlsaFbqh2VXPAx0fs4D7JxwqaEWSWcB0=";
+      rev = "80327abbba6f47530edeb0df9f11bd5d5c93c14d";
+      hash = "sha256-sepmaKnpbj/bgMBa06ksQFOMPtcCqGaINiJqFBJN/0Y=";
     };
   };
   "tree-sitter-dotbox" = {
