@@ -76,7 +76,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
 | tree-sitter-bsl | [0.1.5](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.5) |
-| tree-sitter-bsv | [2025-07-24](https://github.com/yuyuranium/tree-sitter-bsv/tree/79084ee2a2f3b26b40ee5a65b04fb7e90d41e9bb) |
+| tree-sitter-bsv | [2025-10-28](https://github.com/yuyuranium/tree-sitter-bsv/tree/37af8047851c757f28103f50fbc872e47496a747) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
 | tree-sitter-c3 | [0.8.1](https://github.com/c3lang/tree-sitter-c3/tree/v0.8.1) |
@@ -374,7 +374,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.1/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.2.1](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.1) |
+| tree-sitter-matlab | [1.2.2](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.2) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdx | [2025-09-07](https://github.com/srazzak/tree-sitter-mdx/tree/0f2d4b204b231e5ebb7b94ff0259bee6c83ebc58) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
