@@ -1257,7 +1257,7 @@
       owner = "the-mikedavis";
       repo = "tree-sitter-diff";
       rev = "v0.1.0";
-      hash = "sha256-Ynhroioejz9PRjQ8sm2akBruNR8CWGDrG4bFReltIWo=";
+      hash = "sha256-8rYLNGgoZSvvfqO2++nAgFKmvbkKJ3m+9B8bTXp6Us4=";
     };
   };
   "tree-sitter-disassembly" = {
@@ -3090,12 +3090,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.2.2";
-      hash = "sha256-jNtu5hhUCUZ+swRjsBQOm9bDCSegkGRrGmG/Nj5ivPM=";
+      rev = "v1.2.3";
+      hash = "sha256-rMpB5Utf3MGFOkR0LrHT7cwKYap9ffP4Z6Ydbow5Tds=";
     };
   };
   "tree-sitter-mcfuncx" = {
@@ -3162,12 +3162,12 @@
     };
   };
   "tree-sitter-mers" = {
-    version = "unstable-2025-10-25";
+    version = "unstable-2025-10-29";
     src = fetchFromGitHub {
       owner = "Dummi26";
       repo = "mers";
-      rev = "688281961d270978eb8e1aca07087cd410a2acac";
-      hash = "sha256-o+S6yAUEhBtmI9tSEPGIGfaFHG3Q0P4nkYb0W1vfhew=";
+      rev = "9e4eece87c3ebd5a8c75eab341a49f2744b1ff48";
+      hash = "sha256-drwCXrYF9bgfu8ttpuX6KfUx0qoHaWZvz5vOcsLVQ08=";
     };
   };
   "tree-sitter-meson" = {
@@ -4424,12 +4424,12 @@
     };
   };
   "tree-sitter-scfg" = {
-    version = "unstable-2025-01-24";
+    version = "unstable-2025-10-29";
     src = fetchFromGitHub {
       owner = "rockorager";
       repo = "tree-sitter-scfg";
-      rev = "2f3709e7656fa2c443f92041c91a9f843f8cd625";
-      hash = "sha256-2/n+pSR6Ojahm8iBnpNsQscrXQqzZflKBA42gX29u50=";
+      rev = "d850fd470445d73de318a21d734d1e09e29b773c";
+      hash = "sha256-AnyOcQFA3N6AFZiG7eLS1xCm1qX6hko9lFV4oV9p/E8=";
     };
   };
   "tree-sitter-scheme" = {
@@ -4703,12 +4703,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.10.16";
+    version = "2025.10.30";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.10.16";
-      hash = "sha256-S/3L+v8IerogoplfZUYaP5PjktCNpnFGuYzI4nVabsI=";
+      rev = "2025.10.30";
+      hash = "sha256-rpLPfwbbCLHH9qUnpN0xxca29cyn8FrsPR0z4ZAhCfo=";
     };
   };
   "tree-sitter-ssh_config" = {
