@@ -3747,12 +3747,12 @@
     };
   };
   "tree-sitter-pkl" = {
-    version = "0.18.1";
+    version = "0.19.0";
     src = fetchFromGitHub {
       owner = "apple";
       repo = "tree-sitter-pkl";
-      rev = "v0.18.1";
-      hash = "sha256-u28rWc2lVwLrdTlo3UMTUEPcNJfIuBc/W8ZMNlYsruI=";
+      rev = "v0.19.0";
+      hash = "sha256-BLm8KvzBZt6+ZvZ6umrdgs5E8D3rPTZNCx611s6h+kA=";
     };
   };
   "tree-sitter-plume" = {

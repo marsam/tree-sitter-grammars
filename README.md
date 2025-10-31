@@ -456,7 +456,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-pic | [2025-08-01](https://github.com/smoeding/tree-sitter-pic/tree/8d85eecb3c202279673f77e0cf26e03eb074c0ed) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
 | tree-sitter-pioasm | [2024-10-12](https://github.com/leo60228/tree-sitter-pioasm/tree/afece58efdb30440bddd151ef1347fa8d6f744a9) |
-| tree-sitter-pkl | [0.18.1](https://github.com/apple/tree-sitter-pkl/tree/v0.18.1) |
+| tree-sitter-pkl | [0.19.0](https://github.com/apple/tree-sitter-pkl/tree/v0.19.0) |
 | tree-sitter-plume | [2024-05-26](https://github.com/plume-lang/tree-sitter-plume/tree/8ea11031c48ed4379b0d85e652f93d74d1838560) |
 | tree-sitter-pluto | [2024-11-23](https://github.com/0komo/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
 | tree-sitter-plymouth_script | [2024-06-18](https://github.com/liushuyu/tree-sitter-plymouth-script/tree/843f5bea453e60d1e169cbbfc81fbf41c2ead64a) |
