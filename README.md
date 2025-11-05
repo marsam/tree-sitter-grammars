@@ -374,7 +374,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.1/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.2.5](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.5) |
+| tree-sitter-matlab | [1.2.6](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.6) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdx | [2025-09-07](https://github.com/srazzak/tree-sitter-mdx/tree/0f2d4b204b231e5ebb7b94ff0259bee6c83ebc58) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
@@ -386,7 +386,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-10-27](https://github.com/shackle-rs/shackle/tree/1bfb28e3696818b5382cd4735aaf166e2237d73c/parsers/tree-sitter-minizinc) |
-| tree-sitter-mips | [0.1.4](https://github.com/omeyenburg/tree-sitter-mips/tree/0.1.4) |
+| tree-sitter-mips | [0.2.0](https://github.com/omeyenburg/tree-sitter-mips/tree/0.2.0) |
 | tree-sitter-mlir | [2025-10-31](https://github.com/artagnon/tree-sitter-mlir/tree/f1c4a9445c65fb4668a87bfb344d762d0356781d) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-09-27](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82) |
@@ -487,7 +487,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2025-04-15](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/75ac0fb6577a5e0698722d9b1510c78741d389e3) |
+| tree-sitter-pyrope | [2025-11-04](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/70506342983840099df3d76ab9e20af713e6d1b1) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.11](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.11) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
@@ -586,7 +586,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-streamdevice_proto | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/streamdevice-proto) |
 | tree-sitter-strictdoc | [0.2.0](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/v0.2.0) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
-| tree-sitter-structurizr | [2025-11-03](https://github.com/josteink/tree-sitter-structurizr/tree/f4659dc209b51978fe4d670c19447628bdf87677) |
+| tree-sitter-structurizr | [2025-11-04](https://github.com/josteink/tree-sitter-structurizr/tree/7a29c74bd18b763d86c919d74a2f730e3c341666) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
