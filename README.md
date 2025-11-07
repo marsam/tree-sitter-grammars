@@ -211,7 +211,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
 | tree-sitter-forth | [2023-11-03](https://github.com/AlexanderBrevig/tree-sitter-forth/tree/90189238385cf636b9ee99ce548b9e5b5e569d48) |
 | tree-sitter-fortran | [0.5.1](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.5.1) |
-| tree-sitter-fram | [2025-10-05](https://github.com/Brychlikov/tree-sitter-fram/tree/09778b3022183a4ff83031830feda26311f0c9ec) |
+| tree-sitter-fram | [2025-11-06](https://github.com/Brychlikov/tree-sitter-fram/tree/37e1b680c04f37c653564612118876aada11da27) |
 | tree-sitter-fsh | [2024-04-27](https://github.com/mgramigna/tree-sitter-fsh/tree/fad2e175099a45efbc98f000cc196d3674cc45e0) |
 | tree-sitter-fsharp | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp) |
 | tree-sitter-fsharp_signature | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp_signature) |
@@ -406,7 +406,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-nasm | [2024-11-23](https://github.com/naclsn/tree-sitter-nasm/tree/d1b3638d017f2a8585e26dcfc66fe1df94185e30) |
 | tree-sitter-navi | [0.2.2](https://github.com/navi-language/tree-sitter-navi/tree/v0.2.2) |
 | tree-sitter-navi_stream | [0.1.1](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.1.1) |
-| tree-sitter-ned | [0.0.5](https://github.com/omnetpp/tree-sitter-ned/tree/0.0.5) |
+| tree-sitter-ned | [0.0.6](https://github.com/omnetpp/tree-sitter-ned/tree/0.0.6) |
 | tree-sitter-nelua | [2025-08-11](https://github.com/kmafeni04/tree-sitter-nelua/tree/970cac35696b8e45bac9c78870d02e91bd953b10) |
 | tree-sitter-nesfab | [2024-08-04](https://github.com/hnd2/tree-sitter-nesfab/tree/07fc0f4204510b3522654f3f5fdf62f250c7094d) |
 | tree-sitter-netlinx | [1.0.4](https://github.com/Norgate-AV/tree-sitter-netlinx/tree/v1.0.4) |
@@ -699,7 +699,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-yasnippet | [2024-05-30](https://github.com/nverno/tree-sitter-yasnippet/tree/d444ecb29c827548c8ae74bab9b65fd57fe386f5) |
 | tree-sitter-yuck | [0.0.2](https://github.com/tree-sitter-grammars/tree-sitter-yuck/tree/v0.0.2) |
 | tree-sitter-zathurarc | [0.0.9](https://github.com/Freed-Wu/tree-sitter-zathurarc/tree/0.0.9) |
-| tree-sitter-zeek | [0.2.10](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.10) |
+| tree-sitter-zeek | [0.2.11](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.11) |
 | tree-sitter-zeque | [2024-11-24](https://github.com/QnnOkabayashi/tree-sitter-zeque/tree/69d107306b60a91b8958d7a00bc3ea24cb69b9e0) |
 | tree-sitter-zig | [1.1.2](https://github.com/tree-sitter-grammars/tree-sitter-zig/tree/v1.1.2) |
 | tree-sitter-ziggy | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy) |
