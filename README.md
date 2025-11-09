@@ -53,7 +53,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-authzed | [2025-09-11](https://github.com/mleonidas/tree-sitter-authzed/tree/83e5c26a8687eb4688fe91d690c735cc3d21ad81) |
 | tree-sitter-automad | [2025-08-21](https://github.com/automadcms/tree-sitter-automad/tree/06cd680f9e16bb1bb419def722f3edf3da2c8f86) |
 | tree-sitter-awk | [0.7.2](https://github.com/Beaglefoot/tree-sitter-awk/tree/v0.7.2) |
-| tree-sitter-bara | [2024-12-21](https://github.com/Seungwuk98/tree-sitter-bara/tree/8f2db096ef11309a9c9a36309398ce6fc92131dd) |
+| tree-sitter-bara | [2025-11-08](https://github.com/Seungwuk98/tree-sitter-bara/tree/d64e66d07dba975baac50738c75c544620a8333c) |
 | tree-sitter-barq | [2025-03-19](https://github.com/alkhizanah/tree-sitter-barq/tree/f065394ed8fb493a6993190d9be1bc3f93c0fc7c) |
 | tree-sitter-bash | [0.25.0](https://github.com/tree-sitter/tree-sitter-bash/tree/v0.25.0) |
 | tree-sitter-bass | [2024-05-03](https://github.com/vito/tree-sitter-bass/tree/28dc7059722be090d04cd751aed915b2fee2f89a) |
@@ -324,7 +324,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-jsonc | [0.3.0](https://gitlab.com/WhyNotHugo/tree-sitter-jsonc//tree/v0.3.0) |
 | tree-sitter-jsonnet | [2024-08-15](https://github.com/sourcegraph/tree-sitter-jsonnet/tree/ddd075f1939aed8147b7aa67f042eda3fce22790) |
 | tree-sitter-juice | [2024-10-15](https://github.com/juicelang/tree-sitter-juice/tree/ae1a5b8b5c3c4875d1c11107ef96dc7e0c20c4b6) |
-| tree-sitter-julia | [0.23.1](https://github.com/tree-sitter/tree-sitter-julia/tree/v0.23.1) |
+| tree-sitter-julia | [0.25.0](https://github.com/tree-sitter/tree-sitter-julia/tree/v0.25.0) |
 | tree-sitter-just | [2025-01-05](https://github.com/IndianBoy42/tree-sitter-just/tree/bb0c898a80644de438e6efe5d88d30bf092935cd) |
 | tree-sitter-kamailio_cfg | [0.1.3](https://github.com/IbrahimShahzad/tree-sitter-kamailio-cfg/tree/v0.1.3) |
 | tree-sitter-kanata | [0.1.1](https://github.com/postsolar/tree-sitter-kanata/tree/v0.1.1) |
