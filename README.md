@@ -76,7 +76,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
 | tree-sitter-bsl | [0.1.5](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.5) |
-| tree-sitter-bsv | [2025-11-01](https://github.com/yuyuranium/tree-sitter-bsv/tree/16122dea899a0d20c2e7324548f5d1abfe8c8243) |
+| tree-sitter-bsv | [2025-11-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/f789c3445e0e923cbb7676af81e197a8afad84d8) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
 | tree-sitter-c3 | [0.8.1](https://github.com/c3lang/tree-sitter-c3/tree/v0.8.1) |
@@ -504,7 +504,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ralph | [2024-06-24](https://github.com/alephium/tree-sitter-ralph/tree/f6d81bf7a4599c77388035439cf5801cd461ff77) |
 | tree-sitter-rasi | [0.1.0](https://github.com/Fymyte/tree-sitter-rasi/tree/v0.1.0) |
 | tree-sitter-razor | [2025-02-17](https://github.com/tris203/tree-sitter-razor/tree/fe46ce5ea7d844e53d59bc96f2175d33691c61c5) |
-| tree-sitter-rbs | [0.1.1](https://github.com/joker1007/tree-sitter-rbs/tree/v0.1.1) |
+| tree-sitter-rbs | [0.2.0](https://github.com/joker1007/tree-sitter-rbs/tree/v0.2.0) |
 | tree-sitter-rcl | [2025-08-30](https://codeberg.org/ruuda/tree-sitter-rcl/src/8e12740263615de4e5697b5ae4701dd1092a3e6d) |
 | tree-sitter-rdoc | [2025-01-13](https://github.com/gemmaro/tree-sitter-rdoc/tree/0fc9ddd8bbfee45bc70d662bc9c144a83fbb3879) |
 | tree-sitter-re2c | [2024-09-25](https://github.com/tree-sitter-grammars/tree-sitter-re2c/tree/c18a3c2f4b6665e35b7e50d6048ea3cff770c572) |
