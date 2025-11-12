@@ -3090,12 +3090,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.2.7";
+    version = "1.2.8";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.2.7";
-      hash = "sha256-cip8ZmOr3TOSq2Bpk4IFhdXPAvW+HevE/pyCfsoaq2A=";
+      rev = "v1.2.8";
+      hash = "sha256-BNeICrzFhtZHPnePaJbXHMKZBkAIVpVTArg0/NcLipg=";
     };
   };
   "tree-sitter-mcfuncx" = {
@@ -4938,13 +4938,13 @@
     };
   };
   "tree-sitter-t32" = {
-    version = "6.0.10";
+    version = "7.0.0";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "xasc";
       repo = "tree-sitter-t32";
-      rev = "v6.0.10";
-      hash = "sha256-9J8wy/7qW4vWsIzpDI+lVWr/6158jrod0nSk3ihXUPI=";
+      rev = "v7.0.0";
+      hash = "sha256-xkYFtVEEV/5y+5ghp+bxHsddjSeqZLhZhdGAhv2SnAU=";
     };
   };
   "tree-sitter-tablegen" = {
