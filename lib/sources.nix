@@ -4703,12 +4703,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.11.6";
+    version = "2025.11.13";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.11.6";
-      hash = "sha256-JWZVOxqxweudoPehff8Xt7XORjBVXlmEpxw9gWSfAvc=";
+      rev = "2025.11.13";
+      hash = "sha256-vsBP44t02riD+zTMhIZReEptRXadf4Sc2etdYdYs3TY=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -4938,13 +4938,13 @@
     };
   };
   "tree-sitter-t32" = {
-    version = "7.0.0";
+    version = "7.0.2";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "xasc";
       repo = "tree-sitter-t32";
-      rev = "v7.0.0";
-      hash = "sha256-xkYFtVEEV/5y+5ghp+bxHsddjSeqZLhZhdGAhv2SnAU=";
+      rev = "v7.0.2";
+      hash = "sha256-4NIj8xLw0BZfa83q4W0B3pcSAQFCfjEo/5sZQBn0aFc=";
     };
   };
   "tree-sitter-tablegen" = {
