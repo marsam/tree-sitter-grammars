@@ -382,12 +382,12 @@ nix build .#tree-sitter-javascript
 | tree-sitter-menhir | [0.4.0](https://github.com/Kerl13/tree-sitter-menhir/tree/v0.4.0) |
 | tree-sitter-merlin6502 | [4.0.0](https://github.com/dfgordon/tree-sitter-merlin6502/tree/v4.0.0) |
 | tree-sitter-mermaid | [2024-04-22](https://github.com/monaqa/tree-sitter-mermaid/tree/90ae195b31933ceb9d079abfa8a3ad0a36fee4cc) |
-| tree-sitter-mers | [2025-10-29](https://github.com/Dummi26/mers/tree/9e4eece87c3ebd5a8c75eab341a49f2744b1ff48/tree-sitter-mers) |
+| tree-sitter-mers | [2025-11-14](https://github.com/Dummi26/mers/tree/6914b1dba27d193e25ea6039caccd0bf997b628a/tree-sitter-mers) |
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-11-05](https://github.com/shackle-rs/shackle/tree/a1090067ad19e24fabc0afb751a057a1926a4b85/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.2.0](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.2.0) |
-| tree-sitter-mlir | [2025-11-07](https://github.com/artagnon/tree-sitter-mlir/tree/bef500a5bab405def20bc58fcfee1c9c527e3d89) |
+| tree-sitter-mlir | [2025-11-14](https://github.com/artagnon/tree-sitter-mlir/tree/f13087c89de99738217a84727dbf95339a67591f) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-09-27](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -586,7 +586,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-streamdevice_proto | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/streamdevice-proto) |
 | tree-sitter-strictdoc | [0.2.0](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/v0.2.0) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
-| tree-sitter-structurizr | [2025-11-04](https://github.com/josteink/tree-sitter-structurizr/tree/7a29c74bd18b763d86c919d74a2f730e3c341666) |
+| tree-sitter-structurizr | [2025-11-14](https://github.com/josteink/tree-sitter-structurizr/tree/d2ab29879fc91c01f3824888c3baa4461a8a2db7) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
@@ -603,7 +603,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.3.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.3.1) |
-| tree-sitter-t32 | [7.1.0](https://codeberg.org/xasc/tree-sitter-t32/src/v7.1.0) |
+| tree-sitter-t32 | [7.1.1](https://codeberg.org/xasc/tree-sitter-t32/src/v7.1.1) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
