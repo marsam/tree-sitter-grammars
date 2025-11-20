@@ -2874,12 +2874,12 @@
     };
   };
   "tree-sitter-lilypond" = {
-    version = "0.0.2";
+    version = "0.0.1";
     src = fetchFromGitHub {
       owner = "nwhetsell";
       repo = "tree-sitter-lilypond";
-      rev = "v0.0.2";
-      hash = "sha256-acPb8fppBznvy/g4KPDPC0HYqfgT7TwIdk/9dsio2eg=";
+      rev = "v0.0.1";
+      hash = "sha256-0wmfC0gesa3XEiqXgk82iscibKgfRiVLGLvH8S5EW6I=";
     };
   };
   "tree-sitter-linkerscript" = {
@@ -3198,12 +3198,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2025-11-18";
+    version = "unstable-2025-11-19";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "8fdccbd26bcf411a8971884171ad31ebad4d5600";
-      hash = "sha256-4p2w7VEQWoilIlvbvX8lqPMSWb/QIy3xN+k+hPYHXVM=";
+      rev = "14387ccf2a919c782c855b124e8e5214d44c8673";
+      hash = "sha256-0jzSMH3JRci2DEaZmahOTmBw/W1+XGUZmqbIlajL/qU=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4703,12 +4703,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.11.13";
+    version = "2025.11.20";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.11.13";
-      hash = "sha256-vsBP44t02riD+zTMhIZReEptRXadf4Sc2etdYdYs3TY=";
+      rev = "2025.11.20";
+      hash = "sha256-bOeP2q7bYXf63lJIzobCriOrBbcOIgQt2eduJHVWiOg=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -4938,13 +4938,13 @@
     };
   };
   "tree-sitter-t32" = {
-    version = "7.1.1";
+    version = "7.1.2";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "xasc";
       repo = "tree-sitter-t32";
-      rev = "v7.1.1";
-      hash = "sha256-jtXvua9Ljt6JP3XbmtyeLJ6UsfQsf1IEtgA350KgPHQ=";
+      rev = "v7.1.2";
+      hash = "sha256-8J4tKgJZe3aRYuqWDZlAPpVOa6uZvIJAWmT9ALua70I=";
     };
   };
   "tree-sitter-tablegen" = {
@@ -5092,12 +5092,12 @@
     };
   };
   "tree-sitter-tl" = {
-    version = "unstable-2025-11-18";
+    version = "unstable-2025-11-19";
     src = fetchFromGitHub {
       owner = "PoopyPooOS";
       repo = "tree-sitter-tl";
-      rev = "63120f7df5fc23ead7e36f08d9319767138e18d9";
-      hash = "sha256-9IcXvIIUjhPHdY2gJTLJZ4IND1qX7EfWDZZlcl+P7qo=";
+      rev = "6eee8727e1a8c8ed1437e5b006556bb6dff04c16";
+      hash = "sha256-jF8IsnmLYKEp6YlLTOt/H46kdIh51qJCXaUw/q6pShY=";
     };
   };
   "tree-sitter-tlaplus" = {
