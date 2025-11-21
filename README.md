@@ -257,7 +257,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gram | [0.2.1](https://github.com/gram-data/tree-sitter-gram/tree/0.2.1) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/MaeBrooks/tree-sitter-gren/tree/v2.0.0) |
-| tree-sitter-gritql | [2025-10-08](https://github.com/honeycombio/tree-sitter-gritql/tree/b5518f6da9b2c41f5f448635affd5a19f58a2b2e) |
+| tree-sitter-gritql | [2025-11-20](https://github.com/honeycombio/tree-sitter-gritql/tree/fd8c5f155b0cb365e21f37caa43d5f8a5714350a) |
 | tree-sitter-groovy | [2025-01-22](https://github.com/murtaza64/tree-sitter-groovy/tree/86911590a8e46d71301c66468e5620d9faa5b6af) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
 | tree-sitter-gularen | [2025-11-07](https://github.com/noorwachid/tree-sitter-gularen/tree/9b089d770db747cf9239b237e1fc356a06591139) |
@@ -374,7 +374,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.1/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.2.8](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.8) |
+| tree-sitter-matlab | [1.2.9](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.9) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdx | [2025-09-07](https://github.com/srazzak/tree-sitter-mdx/tree/0f2d4b204b231e5ebb7b94ff0259bee6c83ebc58) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
@@ -382,7 +382,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-menhir | [0.4.0](https://github.com/Kerl13/tree-sitter-menhir/tree/v0.4.0) |
 | tree-sitter-merlin6502 | [4.0.0](https://github.com/dfgordon/tree-sitter-merlin6502/tree/v4.0.0) |
 | tree-sitter-mermaid | [2024-04-22](https://github.com/monaqa/tree-sitter-mermaid/tree/90ae195b31933ceb9d079abfa8a3ad0a36fee4cc) |
-| tree-sitter-mers | [2025-11-14](https://github.com/Dummi26/mers/tree/6914b1dba27d193e25ea6039caccd0bf997b628a/tree-sitter-mers) |
+| tree-sitter-mers | [2025-11-20](https://github.com/Dummi26/mers/tree/39752692ada89c58a26b9ea43d6d9550cbde5791/tree-sitter-mers) |
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-11-05](https://github.com/shackle-rs/shackle/tree/a1090067ad19e24fabc0afb751a057a1926a4b85/parsers/tree-sitter-minizinc) |
