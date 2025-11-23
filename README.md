@@ -292,7 +292,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-hyperlink | [2024-10-21](https://github.com/savetheclocktower/tree-sitter-hyperlink/tree/0704b3e5a72892495dd13b85a5064582414cb39a) |
 | tree-sitter-hyprlang | [3.1.0](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang/tree/v3.1.0) |
 | tree-sitter-ic10 | [0.2.0](https://github.com/Xandaros/tree-sitter-ic10/tree/v0.2.0) |
-| tree-sitter-ical | [0.1.0](https://github.com/TitouanReal/tree-sitter-ical/tree/0.1.0) |
+| tree-sitter-ical | [0.3.0](https://github.com/TitouanReal/tree-sitter-ical/tree/v0.3.0) |
 | tree-sitter-idl | [3.14.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.14.0) |
 | tree-sitter-idris | [2024-11-05](https://github.com/kayhide/tree-sitter-idris/tree/c56a25cf57c68ff929356db25505c1cc4c7820f6) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
@@ -374,7 +374,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-markdown_inline | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.1/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.2.9](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.9) |
+| tree-sitter-matlab | [1.2.10](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.10) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdx | [2025-09-07](https://github.com/srazzak/tree-sitter-mdx/tree/0f2d4b204b231e5ebb7b94ff0259bee6c83ebc58) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
@@ -449,7 +449,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-perl | [2025-08-21](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/0c24d001dd1921e418fb933d208a7bd7dd3f923a) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.1.0](https://github.com/pest-parser/tree-sitter-pest/tree/v0.1.0) |
-| tree-sitter-pgn | [1.2.16](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.2.16) |
+| tree-sitter-pgn | [1.2.19](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.2.19) |
 | tree-sitter-php | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php) |
 | tree-sitter-php_only | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php_only) |
 | tree-sitter-phpdoc | [0.1.6](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.6) |

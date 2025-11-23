@@ -2423,12 +2423,12 @@
     };
   };
   "tree-sitter-ical" = {
-    version = "0.1.0";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "TitouanReal";
       repo = "tree-sitter-ical";
-      rev = "0.1.0";
-      hash = "sha256-7X+iUUGIH4C4Y2olt3uhw5rMJFGe8D3gSubFyb8+isE=";
+      rev = "v0.3.0";
+      hash = "sha256-UzsWpTxxkL+Z7wK+YmPGwf7c3/wRDhcp3oAKatJI49o=";
     };
   };
   "tree-sitter-idl" = {
@@ -3090,12 +3090,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.2.9";
+    version = "1.2.10";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.2.9";
-      hash = "sha256-TERkf0OLI2KdIYpd8YuQQY90q7tu04VgPdb6bGHIcoo=";
+      rev = "v1.2.10";
+      hash = "sha256-V7GOXiR//JgxjTOxRi+PpfRGvunX4r3C0Bu1CrN+/K4=";
     };
   };
   "tree-sitter-mcfuncx" = {
@@ -3702,12 +3702,12 @@
     };
   };
   "tree-sitter-pgn" = {
-    version = "1.2.16";
+    version = "1.2.19";
     src = fetchFromGitHub {
       owner = "rolandwalker";
       repo = "tree-sitter-pgn";
-      rev = "v1.2.16";
-      hash = "sha256-Elro03MxnCCxJ0r9t4nen8xZw4fykFA6tCMQ9vqE/rA=";
+      rev = "v1.2.19";
+      hash = "sha256-GhxpDFL/W5OjPOlcesdPQCTmNy7r0QgFY3murEqknWI=";
     };
   };
   "tree-sitter-phpdoc" = {
