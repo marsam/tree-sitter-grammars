@@ -305,7 +305,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
 | tree-sitter-ispc | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-ispc/tree/v0.1.1) |
 | tree-sitter-jack | [2024-10-04](https://github.com/nverno/tree-sitter-jack/tree/1a617413ea92c237bff4cbe7fa67eb3bf4425596) |
-| tree-sitter-jai | [2025-10-22](https://github.com/constantitus/tree-sitter-jai/tree/a73dd2be5dfca88e91e1c4c5229c18769ab7dac7) |
+| tree-sitter-jai | [2025-11-23](https://github.com/constantitus/tree-sitter-jai/tree/8407cfa3997bbc6dcfddf375e08d5ac3935a681b) |
 | tree-sitter-jakt | [2025-03-04](https://github.com/SerenityOS/tree-sitter-jakt/tree/e67a5de093cab9eb79be721bf39bc9115193534a) |
 | tree-sitter-janet_simple | [0.0.7](https://github.com/sogaiu/tree-sitter-janet-simple/tree/v0.0.7) |
 | tree-sitter-jasmin | [2025-10-13](https://github.com/jasmin-lang/tree-sitter-jasmin/tree/4e678d93d80f4e698a540981008bb44c105ffeff) |
@@ -505,7 +505,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-rasi | [0.1.0](https://github.com/Fymyte/tree-sitter-rasi/tree/v0.1.0) |
 | tree-sitter-razor | [2025-02-17](https://github.com/tris203/tree-sitter-razor/tree/fe46ce5ea7d844e53d59bc96f2175d33691c61c5) |
 | tree-sitter-rbs | [0.2.2](https://github.com/joker1007/tree-sitter-rbs/tree/v0.2.2) |
-| tree-sitter-rcl | [2025-08-30](https://codeberg.org/ruuda/tree-sitter-rcl/src/8e12740263615de4e5697b5ae4701dd1092a3e6d) |
+| tree-sitter-rcl | [2025-11-23](https://codeberg.org/ruuda/tree-sitter-rcl/src/a6e42ed21e23c32b76c1d8cb13ec60cdd0ed860d) |
 | tree-sitter-rdoc | [2025-01-13](https://github.com/gemmaro/tree-sitter-rdoc/tree/0fc9ddd8bbfee45bc70d662bc9c144a83fbb3879) |
 | tree-sitter-re2c | [2024-09-25](https://github.com/tree-sitter-grammars/tree-sitter-re2c/tree/c18a3c2f4b6665e35b7e50d6048ea3cff770c572) |
 | tree-sitter-readline | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-readline/tree/v1.1.1) |
