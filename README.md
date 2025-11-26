@@ -32,7 +32,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
-| tree-sitter-amber | [2025-10-12](https://github.com/amber-lang/tree-sitter-amber/tree/a2e28f49e2d60b4d80a6b9c025ad2072348a0a72) |
+| tree-sitter-amber | [2025-11-25](https://github.com/amber-lang/tree-sitter-amber/tree/dc69f42449fd3c807bacefa398263f62e581f755) |
 | tree-sitter-angular | [0.8.0](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.8.0) |
 | tree-sitter-apachesynapse | [2024-01-02](https://github.com/DaAlbrecht/tree-sitter-apachesynapse/tree/e125e0f6d40bdacbe6bcca05aff4f4145fcacdc4) |
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
@@ -172,7 +172,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-elisp | [1.6.1](https://github.com/Wilfred/tree-sitter-elisp/tree/1.6.1) |
 | tree-sitter-elixir | [0.3.4](https://github.com/elixir-lang/tree-sitter-elixir/tree/v0.3.4) |
 | tree-sitter-elle | [2025-11-01](https://github.com/acquitelol/tree-sitter-elle/tree/03ed4a2e6f36056975947802e58357686b525db3) |
-| tree-sitter-elm | [5.8.0](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.8.0) |
+| tree-sitter-elm | [5.9.0](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.9.0) |
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
 | tree-sitter-embedded_template | [0.25.0](https://github.com/tree-sitter/tree-sitter-embedded-template/tree/v0.25.0) |
@@ -254,7 +254,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gowork | [2024-09-11](https://github.com/zed-industries/tree-sitter-go-work/tree/acb0617bf7f4fda02c6217676cc64acb89536dc7) |
 | tree-sitter-gpg | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-gpg-config/tree/v0.2.1) |
 | tree-sitter-gpr | [2024-08-13](https://github.com/brownts/tree-sitter-gpr/tree/cea857d3c18d1385d1f5b66cd09ea1e44173945c) |
-| tree-sitter-gram | [0.2.1](https://github.com/gram-data/tree-sitter-gram/tree/0.2.1) |
+| tree-sitter-gram | [0.2.3](https://github.com/gram-data/tree-sitter-gram/tree/0.2.3) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/MaeBrooks/tree-sitter-gren/tree/v2.0.0) |
 | tree-sitter-gritql | [2025-11-21](https://github.com/honeycombio/tree-sitter-gritql/tree/4ca91bb4060ef2c2fde23afae91e7ce742945aa1) |
