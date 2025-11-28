@@ -33,7 +33,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
 | tree-sitter-amber | [2025-11-26](https://github.com/amber-lang/tree-sitter-amber/tree/107c6d4a420fb0c5962b62ebd9347b7eb0015957) |
-| tree-sitter-angular | [0.8.0](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.8.0) |
+| tree-sitter-angular | [0.8.1](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.8.1) |
 | tree-sitter-apachesynapse | [2024-01-02](https://github.com/DaAlbrecht/tree-sitter-apachesynapse/tree/e125e0f6d40bdacbe6bcca05aff4f4145fcacdc4) |
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
 | tree-sitter-apparmor | [2024-11-23](https://github.com/Su3h7aM/tree-sitter-apparmor/tree/1a600d3b93cde5c86af0940b376241cd770061cc) |
@@ -211,7 +211,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
 | tree-sitter-forth | [2023-11-03](https://github.com/AlexanderBrevig/tree-sitter-forth/tree/90189238385cf636b9ee99ce548b9e5b5e569d48) |
 | tree-sitter-fortran | [0.5.1](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.5.1) |
-| tree-sitter-fram | [2025-11-06](https://github.com/Brychlikov/tree-sitter-fram/tree/37e1b680c04f37c653564612118876aada11da27) |
+| tree-sitter-fram | [2025-11-27](https://github.com/Brychlikov/tree-sitter-fram/tree/eed5ccee1344c4a906b189dc30e66fad65b41330) |
 | tree-sitter-fsh | [2024-04-27](https://github.com/mgramigna/tree-sitter-fsh/tree/fad2e175099a45efbc98f000cc196d3674cc45e0) |
 | tree-sitter-fsharp | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp) |
 | tree-sitter-fsharp_signature | [0.1.0](https://github.com/ionide/tree-sitter-fsharp/tree/v0.1.0/fsharp_signature) |
@@ -496,7 +496,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-qmldir | [0.2.2](https://github.com/tree-sitter-grammars/tree-sitter-qmldir/tree/0.2.2) |
 | tree-sitter-qmljs | [0.3.0](https://github.com/yuja/tree-sitter-qmljs/tree/0.3.0) |
 | tree-sitter-quakec | [0.1](https://github.com/vkazanov/tree-sitter-quakec/tree/v0.1) |
-| tree-sitter-query | [0.7.0](https://github.com/tree-sitter-grammars/tree-sitter-query/tree/v0.7.0) |
+| tree-sitter-query | [0.8.0](https://github.com/tree-sitter-grammars/tree-sitter-query/tree/v0.8.0) |
 | tree-sitter-quint | [0.1.0](https://github.com/gruhn/tree-sitter-quint/tree/228f411597d2001c8f1fefb25f692007e4b5ea77) |
 | tree-sitter-r | [1.2.0](https://github.com/r-lib/tree-sitter-r/tree/v1.2.0) |
 | tree-sitter-racket | [0.24.7](https://github.com/6cdh/tree-sitter-racket/tree/v0.24.7) |
