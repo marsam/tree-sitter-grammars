@@ -144,7 +144,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
 | tree-sitter-desktop | [1.0.1](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v1.0.1) |
 | tree-sitter-devicetree | [0.15.0](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.15.0) |
-| tree-sitter-dezyne | [2025-05-05](https://github.com/j0ran/tree-sitter-dezyne/tree/824c0e858ec5a0190ed69c2106f0f042530a3860) |
+| tree-sitter-dezyne | [2025-11-29](https://github.com/j0ran/tree-sitter-dezyne/tree/4069db9cd6980d93bbec51fc7c708f04773905c5) |
 | tree-sitter-df | [0.0.4](https://github.com/usagi-coffee/tree-sitter-df/tree/v0.0.4) |
 | tree-sitter-dhall | [1.0.0](https://github.com/jbellerb/tree-sitter-dhall/tree/1.0.0) |
 | tree-sitter-dialogue | [2025-07-19](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/5fb60d8f73408171d3776a4311ae03694b03da8a) |

@@ -1216,12 +1216,12 @@
     };
   };
   "tree-sitter-dezyne" = {
-    version = "unstable-2025-05-05";
+    version = "unstable-2025-11-29";
     src = fetchFromGitHub {
       owner = "j0ran";
       repo = "tree-sitter-dezyne";
-      rev = "824c0e858ec5a0190ed69c2106f0f042530a3860";
-      hash = "sha256-mctc5ImjvBjYlk7GEgpBJz6lFjIq27n05jFg2rQGPDk=";
+      rev = "4069db9cd6980d93bbec51fc7c708f04773905c5";
+      hash = "sha256-ArkeDJj9ycEoFIuiPsTqwpupSl4vQCqEo9q3Tf5JxQw=";
     };
   };
   "tree-sitter-df" = {
