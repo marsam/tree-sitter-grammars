@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2025-11-01";
+    version = "unstable-2025-12-01";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "c9da51335907b9e7224393c5ef92c20dccb0a08e";
-      hash = "sha256-X5cpC9fMoQx3NybtmtN3+e10nVt2IG5VWDYUVVSPr8s=";
+      rev = "5f3f0a70130c78dc8a34f1afea9dfb88f4d2d123";
+      hash = "sha256-GGHUaGTK9sMPY94grgXMOGZTN+LN29YVp0uQOZeh2ZI=";
     };
   };
   "tree-sitter-cairo" = {
@@ -1729,12 +1729,12 @@
     };
   };
   "tree-sitter-forth" = {
-    version = "unstable-2023-11-03";
+    version = "unstable-2025-12-01";
     src = fetchFromGitHub {
       owner = "AlexanderBrevig";
       repo = "tree-sitter-forth";
-      rev = "90189238385cf636b9ee99ce548b9e5b5e569d48";
-      hash = "sha256-vySBDu9cMnubu4+7/sBttNxg1S4/MxWUKpjwEa14Rws=";
+      rev = "360ef13f8c609ec6d2e80782af69958b84e36cd0";
+      hash = "sha256-d7X1Ubd9tKMQgNHlH+sQxmcsgLWB4mxR5CIdyKkLnM8=";
     };
   };
   "tree-sitter-fortran" = {
@@ -2540,12 +2540,12 @@
     };
   };
   "tree-sitter-jai" = {
-    version = "unstable-2025-11-23";
+    version = "unstable-2025-12-01";
     src = fetchFromGitHub {
       owner = "constantitus";
       repo = "tree-sitter-jai";
-      rev = "8407cfa3997bbc6dcfddf375e08d5ac3935a681b";
-      hash = "sha256-+gvYRsqGKUCjN23yuGIi031HxKgyKPUpVreeyDvz8Bk=";
+      rev = "07d892578ee21774defafc00ca15af9c176dcc6a";
+      hash = "sha256-ZeFOmB3NjVsvErTWucAk8dMno84Q/BjAA3wBLign6xs=";
     };
   };
   "tree-sitter-jakt" = {
@@ -3189,12 +3189,12 @@
     };
   };
   "tree-sitter-mips" = {
-    version = "0.2.0";
+    version = "unstable-2025-12-01";
     src = fetchFromGitHub {
       owner = "omeyenburg";
       repo = "tree-sitter-mips";
-      rev = "v0.2.0";
-      hash = "sha256-UDnx/EboozgP1RLiihK37edPtDgSiXi0LVxNlM4gSkU=";
+      rev = "fd0f200530d22b9ee526a9646d1b759cf1e55c3f";
+      hash = "sha256-C1kPByXJyiHkgnIU35MJG04MnEWuBGS9MQWDrh7P6L4=";
     };
   };
   "tree-sitter-mlir" = {
@@ -5083,12 +5083,12 @@
     };
   };
   "tree-sitter-times" = {
-    version = "unstable-2025-11-03";
+    version = "unstable-2025-12-01";
     src = fetchFromGitHub {
       owner = "michaeladler";
       repo = "tree-sitter-times";
-      rev = "7ba73b05ac22b95ff9f14e0ab4883d02044669af";
-      hash = "sha256-IaprHPDLIr1DmiSdkRL0IEXKP8K+W21gH27uAh6bb74=";
+      rev = "51ff9d42ee2a70433259b695887cb96e54536331";
+      hash = "sha256-RG7P5QZnMrj5a103Png4Hztbbq+TdhjxR1EYyGIB5Jk=";
     };
   };
   "tree-sitter-tl" = {
