@@ -55,7 +55,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-awk | [0.7.2](https://github.com/Beaglefoot/tree-sitter-awk/tree/v0.7.2) |
 | tree-sitter-bara | [2025-11-08](https://github.com/Seungwuk98/tree-sitter-bara/tree/d64e66d07dba975baac50738c75c544620a8333c) |
 | tree-sitter-barq | [2025-03-19](https://github.com/alkhizanah/tree-sitter-barq/tree/f065394ed8fb493a6993190d9be1bc3f93c0fc7c) |
-| tree-sitter-bash | [0.25.0](https://github.com/tree-sitter/tree-sitter-bash/tree/v0.25.0) |
+| tree-sitter-bash | [0.25.1](https://github.com/tree-sitter/tree-sitter-bash/tree/v0.25.1) |
 | tree-sitter-bass | [2024-05-03](https://github.com/vito/tree-sitter-bass/tree/28dc7059722be090d04cd751aed915b2fee2f89a) |
 | tree-sitter-beancount | [2.4.1](https://github.com/polarmutex/tree-sitter-beancount/tree/v2.4.1) |
 | tree-sitter-bend | [2024-05-21](https://github.com/atomheartother/tree-sitter-bend/tree/3fda267484f868aacea6ea609adac4954f240d41) |
@@ -171,7 +171,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-eiffel | [1.0.0](https://github.com/imustafin/tree-sitter-eiffel/tree/v1.0.0) |
 | tree-sitter-elisp | [1.6.1](https://github.com/Wilfred/tree-sitter-elisp/tree/1.6.1) |
 | tree-sitter-elixir | [0.3.4](https://github.com/elixir-lang/tree-sitter-elixir/tree/v0.3.4) |
-| tree-sitter-elle | [2025-11-01](https://github.com/acquitelol/tree-sitter-elle/tree/03ed4a2e6f36056975947802e58357686b525db3) |
+| tree-sitter-elle | [2025-12-03](https://github.com/acquitelol/tree-sitter-elle/tree/687920224829af02636be60d753e17355b1e35f0) |
 | tree-sitter-elm | [5.9.0](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.9.0) |
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
@@ -386,7 +386,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-11-05](https://github.com/shackle-rs/shackle/tree/a1090067ad19e24fabc0afb751a057a1926a4b85/parsers/tree-sitter-minizinc) |
-| tree-sitter-mips | [2025-12-01](https://github.com/omeyenburg/tree-sitter-mips/tree/fd0f200530d22b9ee526a9646d1b759cf1e55c3f) |
+| tree-sitter-mips | [0.3.0](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.0) |
 | tree-sitter-mlir | [2025-11-28](https://github.com/artagnon/tree-sitter-mlir/tree/834a0b01e98eaf4313dfd48778e20bef1738ff8f) |
 | tree-sitter-mojo | [2024-12-07](https://github.com/lsh/tree-sitter-mojo/tree/564d5a8489e20e5f723020ae40308888699055c0) |
 | tree-sitter-moonbit | [2025-09-27](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82) |
