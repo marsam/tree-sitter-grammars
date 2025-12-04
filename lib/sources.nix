@@ -892,12 +892,12 @@
     };
   };
   "tree-sitter-clingo" = {
-    version = "1.0.1";
+    version = "1.0.3";
     src = fetchFromGitHub {
       owner = "potassco";
       repo = "tree-sitter-clingo";
-      rev = "v1.0.1";
-      hash = "sha256-riT9RUoxFi2TdKfIo4+lOhRvn7JpGXBQ4taZhIA0Hds=";
+      rev = "v1.0.3";
+      hash = "sha256-I0pbjktbcZ2e3udwNS6AxIOKf+JjVuYbHFwnU/FTYsQ=";
     };
   };
   "tree-sitter-clojure" = {
@@ -4703,12 +4703,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2025.11.27";
+    version = "2025.12.4";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2025.11.27";
-      hash = "sha256-ySIXYWhoSMwVdgvHpClYaAnAtOaS3YY+sLNxxr20Nns=";
+      rev = "2025.12.4";
+      hash = "sha256-CyPJ0F1JW4ax7rsxoZC2KbP+odZ6nboc2ERBcYPKCrM=";
     };
   };
   "tree-sitter-ssh_config" = {
