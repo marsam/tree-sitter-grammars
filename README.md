@@ -79,7 +79,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-bsv | [2025-11-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/f789c3445e0e923cbb7676af81e197a8afad84d8) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
-| tree-sitter-c3 | [0.8.2](https://github.com/c3lang/tree-sitter-c3/tree/v0.8.2) |
+| tree-sitter-c3 | [0.8.3](https://github.com/c3lang/tree-sitter-c3/tree/v0.8.3) |
 | tree-sitter-c_sharp | [0.23.1](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.1) |
 | tree-sitter-ca65 | [2024-07-28](https://github.com/captain-http/tree-sitter-ca65/tree/fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
@@ -348,8 +348,8 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ledger | [2025-05-04](https://github.com/cbarrete/tree-sitter-ledger/tree/96c92d4908a836bf8f661166721c98439f8afb80) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
-| tree-sitter-lilypond | [0.0.1](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.1/lilypond) |
-| tree-sitter-lilypond_scheme | [0.0.1](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.1/lilypond-scheme) |
+| tree-sitter-lilypond | [0.0.2](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.2/lilypond) |
+| tree-sitter-lilypond_scheme | [0.0.2](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.2/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2025-05-23](https://github.com/hankthetank27/tree-sitter-liquid/tree/d6ebde3974742cd1b61b55d1d94aab1dacb41056) |
 | tree-sitter-liquidsoap | [1.2.0](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.2.0) |
@@ -449,7 +449,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-perl | [2025-08-21](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/0c24d001dd1921e418fb933d208a7bd7dd3f923a) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.1.0](https://github.com/pest-parser/tree-sitter-pest/tree/v0.1.0) |
-| tree-sitter-pgn | [1.3.0](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.3.0) |
+| tree-sitter-pgn | [1.3.1](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.3.1) |
 | tree-sitter-php | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php) |
 | tree-sitter-php_only | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php_only) |
 | tree-sitter-phpdoc | [0.1.6](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.6) |
