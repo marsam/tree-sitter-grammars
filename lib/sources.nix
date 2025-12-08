@@ -2071,12 +2071,12 @@
     };
   };
   "tree-sitter-gotmpl" = {
-    version = "unstable-2025-11-15";
+    version = "unstable-2025-12-07";
     src = fetchFromGitHub {
       owner = "ngalaiko";
       repo = "tree-sitter-go-template";
-      rev = "9e54fa38db26c556c2669492063324ef481c9d43";
-      hash = "sha256-r/qpv/2+z0KSqxy5b31K3xlckSNta7v8MNDFBYOWWbQ=";
+      rev = "226692db9da6cb9939284b1ed263a0fb82d26768";
+      hash = "sha256-LxmDSdigxJr1wSnXaX4EWOI0/K2gaT8gATe0OnCBAFQ=";
     };
   };
   "tree-sitter-gowork" = {
