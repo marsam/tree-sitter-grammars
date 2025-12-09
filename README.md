@@ -468,7 +468,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-possum | [2024-11-16](https://github.com/mulias/tree-sitter-possum/tree/670eaef36883cd5f772160b9918c6b0003d22320) |
 | tree-sitter-postscript | [1.3.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.3.0) |
 | tree-sitter-poweron | [1.0.12](https://github.com/phileagleson/tree-sitter-poweron/tree/v1.0.12) |
-| tree-sitter-powershell | [0.25.8](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.25.8) |
+| tree-sitter-powershell | [0.25.10](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.25.10) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |
 | tree-sitter-printf | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-printf/tree/v0.5.1) |
 | tree-sitter-prisma | [1.6.0](https://github.com/victorhqc/tree-sitter-prisma/tree/v1.6.0) |
@@ -554,7 +554,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-skbdrc | [2025-08-22](https://github.com/starkwm/tree-sitter-skbdrc/tree/72f28cb0ca6f73b2ab7831a6e349dc1f1c36ef23) |
 | tree-sitter-slang | [0.3.1](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.1) |
 | tree-sitter-slim | [2025-06-14](https://github.com/theoo/tree-sitter-slim/tree/a06113f5175b805a37d20df0a6f9d722e0ab6cfe) |
-| tree-sitter-slint | [2025-09-22](https://github.com/slint-ui/tree-sitter-slint/tree/927f3e2f0213d0eea7f12c978c81067c3dc4289d) |
+| tree-sitter-slint | [2025-12-08](https://github.com/slint-ui/tree-sitter-slint/tree/f2e4e5a7bccb177562de8f5b4fe49a5531c9f7ca) |
 | tree-sitter-smali | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-smali/tree/v1.0.0) |
 | tree-sitter-smarty | [2023-11-15](https://github.com/Kibadda/tree-sitter-smarty/tree/10d7ec727362b2978d686b544cee96568e297aae) |
 | tree-sitter-smithy | [0.2.0](https://github.com/indoorvivants/tree-sitter-smithy/tree/v0.2.0) |
@@ -567,7 +567,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-sosl | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/sosl) |
 | tree-sitter-souffle | [0.5.0](https://github.com/langston-barrett/tree-sitter-souffle/tree/v0.5.0) |
 | tree-sitter-sourcepawn | [0.7.8](https://github.com/nilshelmig/tree-sitter-sourcepawn/tree/v0.7.8) |
-| tree-sitter-spade | [2025-12-04](https://gitlab.com/spade-lang/tree-sitter-spade//tree/f5d0c9a8ee81a6c5f5ab254ba646587448a58692) |
+| tree-sitter-spade | [2025-12-08](https://gitlab.com/spade-lang/tree-sitter-spade//tree/6569cd11cc9362e277845ce24111735059b145ee) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
 | tree-sitter-spicy | [2025-11-24](https://github.com/bbannier/tree-sitter-spicy/tree/93e4ad8ddd1ae5ee4dd864f2c98918e47221e069) |
