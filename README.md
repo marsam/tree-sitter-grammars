@@ -227,7 +227,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gdsl | [2025-02-04](https://github.com/NSSAC/tree-sitter-gdsl/tree/e2037409d8d4c2631acc5a543ca2201f155b49f9) |
 | tree-sitter-gemini | [2023-11-27](https://git.sr.ht/~nbsp/tree-sitter-gemini/tree/b60a42df3f76bd4e8f988465309d705a007dc506) |
 | tree-sitter-gemtext | [2024-12-14](https://github.com/pebbe/tree-sitter-gemtext/tree/5b5a96a17889bd8aab5c413bda9e7d29391a5a1c) |
-| tree-sitter-ghactions | [0.2.2](https://github.com/rmuir/tree-sitter-ghactions/tree/v0.2.2) |
+| tree-sitter-ghactions | [0.2.4](https://github.com/rmuir/tree-sitter-ghactions/tree/v0.2.4) |
 | tree-sitter-gherkin | [2025-02-27](https://github.com/binhtran432k/tree-sitter-gherkin/tree/1a709aebeecbe81bd70dfd6ea784894844be1511) |
 | tree-sitter-ghostty | [1.2](https://github.com/bezhermoso/tree-sitter-ghostty/tree/1.2) |
 | tree-sitter-git_config | [2025-05-11](https://github.com/the-mikedavis/tree-sitter-git-config/tree/0fbc9f99d5a28865f9de8427fb0672d66f9d83a5) |
@@ -453,7 +453,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-php | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php) |
 | tree-sitter-php_only | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php_only) |
 | tree-sitter-phpdoc | [0.1.6](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.6) |
-| tree-sitter-pic | [2025-08-01](https://github.com/smoeding/tree-sitter-pic/tree/8d85eecb3c202279673f77e0cf26e03eb074c0ed) |
+| tree-sitter-pic | [2025-12-14](https://github.com/smoeding/tree-sitter-pic/tree/c02aa6060c06147fec52a784a92b3f88f3610462) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
 | tree-sitter-pioasm | [2024-10-12](https://github.com/leo60228/tree-sitter-pioasm/tree/afece58efdb30440bddd151ef1347fa8d6f744a9) |
 | tree-sitter-pkl | [0.20.0](https://github.com/apple/tree-sitter-pkl/tree/v0.20.0) |
@@ -613,7 +613,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-teal | [0.1.0](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.1.0) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
 | tree-sitter-templ | [1.0.0](https://github.com/vrischmann/tree-sitter-templ/tree/v1.0.0) |
-| tree-sitter-tera | [2025-07-22](https://github.com/uncenter/tree-sitter-tera/tree/692937d52c8dfd91ce0dde722b9b4febbc9bc712) |
+| tree-sitter-tera | [0.1.0](https://github.com/uncenter/tree-sitter-tera/tree/v0.1.0) |
 | tree-sitter-terraform | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/v1.2.0/dialects/terraform) |
 | tree-sitter-test | [0.3.0](https://github.com/tree-sitter-grammars/tree-sitter-test/tree/v0.3.0) |
 | tree-sitter-textproto | [2024-10-16](https://github.com/PorterAtGoogle/tree-sitter-textproto/tree/568471b80fd8793d37ed01865d8c2208a9fefd1b) |
