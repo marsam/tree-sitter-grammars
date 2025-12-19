@@ -3288,12 +3288,12 @@
     };
   };
   "tree-sitter-mustache" = {
-    version = "unstable-2025-12-14";
+    version = "unstable-2025-12-18";
     src = fetchFromGitHub {
       owner = "TheLeoP";
       repo = "tree-sitter-mustache";
-      rev = "75c57055ef202e3c66c13fda76f55b1c65906b2c";
-      hash = "sha256-VtuK2sSL56drmfAiCkF8RL8I5OarKdoCRzO8MAvKzbs=";
+      rev = "0f1f3cf07508a64b84cbff457f1446a787c48a0e";
+      hash = "sha256-AckP7hnx3BwdV4+sbmZkscDxEsByt/xvd48hdGaFq2c=";
     };
   };
   "tree-sitter-muttrc" = {
