@@ -4757,12 +4757,12 @@
     };
   };
   "tree-sitter-strace" = {
-    version = "unstable-2023-10-29";
+    version = "unstable-2025-12-20";
     src = fetchFromGitHub {
       owner = "sigmaSd";
       repo = "tree-sitter-strace";
-      rev = "d819cdd5dbe455bd3c859193633c8d91c0df7c36";
-      hash = "sha256-u2LznohljEq7WEoVbwr1ZyV+qbchDuoktJFCeh4iePg=";
+      rev = "7fedc1c49758d5672e7e67ebcb3182b5b2e50815";
+      hash = "sha256-ttnerEKhjUL0CXSwjblkZV/jacw/Nu8I9Bnm03s7zX4=";
     };
   };
   "tree-sitter-strictdoc" = {
