@@ -184,7 +184,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-epics_msi_template | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-msi-template) |
 | tree-sitter-eprime | [2025-11-05](https://github.com/shackle-rs/shackle/tree/a1090067ad19e24fabc0afb751a057a1926a4b85/parsers/tree-sitter-eprime) |
 | tree-sitter-epscript | [2024-08-08](https://github.com/zuhanit/tree-sitter-epscript/tree/fbdd9fd453abbf332f6ad060ee610c5f0293f3c4) |
-| tree-sitter-erlang | [2025-10-07](https://github.com/WhatsApp/tree-sitter-erlang/tree/a260cb65eaa6e055289a34434f98c3aae6137ed5) |
+| tree-sitter-erlang | [2025-12-22](https://github.com/WhatsApp/tree-sitter-erlang/tree/f21023bbd6cd30cadbc793d80ae4d990d9be86fc) |
 | tree-sitter-esdl | [2022-09-05](https://github.com/matoous/tree-sitter-esdl/tree/49e21c031c2a1ed06c2ee85937ce73bc12a5801f) |
 | tree-sitter-esl | [2025-07-11](https://github.com/NSSAC/tree-sitter-esl/tree/6efcfce7ed607db69c70181fd81c72b67e6bb4bb) |
 | tree-sitter-eu4mod | [1.0.3](https://github.com/Coyote-31/tree-sitter-eu4mod/tree/v1.0.3) |
@@ -586,7 +586,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-streamdevice_proto | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/streamdevice-proto) |
 | tree-sitter-strictdoc | [0.2.0](https://github.com/manueldiagostino/tree-sitter-strictdoc/tree/v0.2.0) |
 | tree-sitter-strings | [2025-01-16](https://github.com/uber/tree-sitter-strings/tree/e368aceffde903b68f2ee84607967e5619a633aa) |
-| tree-sitter-structurizr | [2025-12-11](https://github.com/josteink/tree-sitter-structurizr/tree/11f46008f84ea3e4744a48fb9623a3e26f6f7679) |
+| tree-sitter-structurizr | [2025-12-22](https://github.com/josteink/tree-sitter-structurizr/tree/82b63b2d13d5020d48f0e66621c9ed4d826d6a37) |
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
