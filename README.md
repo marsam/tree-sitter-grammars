@@ -97,9 +97,9 @@ nix build .#tree-sitter-javascript
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2024-02-13](https://github.com/bufbuild/tree-sitter-cel/tree/df0585025e6f50cdb07347f5009ae3f47c652890) |
-| tree-sitter-cfhtml | [2025-10-07](https://github.com/cfmleditor/tree-sitter-cfml/tree/25e888b47f50979db00a25cb1fd6c857a615d5be/cfhtml) |
-| tree-sitter-cfml | [2025-10-07](https://github.com/cfmleditor/tree-sitter-cfml/tree/25e888b47f50979db00a25cb1fd6c857a615d5be/cfml) |
-| tree-sitter-cfscript | [2025-10-07](https://github.com/cfmleditor/tree-sitter-cfml/tree/25e888b47f50979db00a25cb1fd6c857a615d5be/cfscript) |
+| tree-sitter-cfhtml | [2025-12-23](https://github.com/cfmleditor/tree-sitter-cfml/tree/cd00ef63eb17ca78855776505b31497bc8ffd411/cfhtml) |
+| tree-sitter-cfml | [2025-12-23](https://github.com/cfmleditor/tree-sitter-cfml/tree/cd00ef63eb17ca78855776505b31497bc8ffd411/cfml) |
+| tree-sitter-cfscript | [2025-12-23](https://github.com/cfmleditor/tree-sitter-cfml/tree/cd00ef63eb17ca78855776505b31497bc8ffd411/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2025-12-16](https://github.com/tymbalodeon/tree-sitter-chuck/tree/687be75e3d6dab953329618c5dfddb6845df7cf0) |
@@ -443,7 +443,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-owl_ms | [2025-07-11](https://github.com/janekx21/owl-ms-language-server/tree/b6275869b9abdc90d77eeccefdfdba085e622a6a/crates/tree-sitter-owl-ms) |
 | tree-sitter-p4 | [2025-04-23](https://github.com/oxidecomputer/tree-sitter-p4/tree/ec27f5123d4f80ced59302820bec3e212794132f) |
 | tree-sitter-pactum | [2025-03-16](https://github.com/pactbuf/tree-sitter-pactum/tree/39a61aa94f778f82c4b80e6957d1ff2e76c978d1) |
-| tree-sitter-pascal | [0.10.0](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.0) |
+| tree-sitter-pascal | [0.10.2](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.2) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |
 | tree-sitter-perl | [2025-08-21](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/0c24d001dd1921e418fb933d208a7bd7dd3f923a) |
