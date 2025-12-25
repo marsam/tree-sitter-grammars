@@ -3207,12 +3207,12 @@
     };
   };
   "tree-sitter-mojo" = {
-    version = "unstable-2024-12-07";
+    version = "unstable-2025-12-25";
     src = fetchFromGitHub {
       owner = "lsh";
       repo = "tree-sitter-mojo";
-      rev = "564d5a8489e20e5f723020ae40308888699055c0";
-      hash = "sha256-UY4gTG9HI/agpD+2syb7lUqfZpw6I6UnKzs9zE9JFwA=";
+      rev = "03966fb3f209bea86844aab3bd0f2158a5a8bb8d";
+      hash = "sha256-Ofc8Z1q0Rxb3q4iYMtnKanUdnpGetE8A8sl+Sr1t3PA=";
     };
   };
   "tree-sitter-moonbit" = {
