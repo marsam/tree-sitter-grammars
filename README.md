@@ -364,7 +364,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-luap | [1.0.1](https://github.com/tree-sitter-grammars/tree-sitter-luap/tree/v1.0.1) |
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
-| tree-sitter-lx | [2025-12-26](https://github.com/curist/tree-sitter-lx/tree/b7bef7f9dddcc389c5f9b0c78e0de95e44a070df) |
+| tree-sitter-lx | [2025-12-28](https://github.com/curist/tree-sitter-lx/tree/3b6903d7a80d81f68684575d2083d0ecf23c7097) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
 | tree-sitter-magik | [2025-12-15](https://github.com/krn-robin/tree-sitter-magik/tree/0f4f51d372f8f81424e8e5ebf16dab95e8696db6) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
