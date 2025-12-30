@@ -3009,12 +3009,12 @@
     };
   };
   "tree-sitter-lx" = {
-    version = "unstable-2025-12-28";
+    version = "unstable-2025-12-29";
     src = fetchFromGitHub {
       owner = "curist";
       repo = "tree-sitter-lx";
-      rev = "3b6903d7a80d81f68684575d2083d0ecf23c7097";
-      hash = "sha256-Cq1TQBKN8jYtiIfxGLS1isG+/vwvxIVAptt8MoKlhL4=";
+      rev = "6d274efe5e3590f757600234e4837ae07d01e5b9";
+      hash = "sha256-NfGwyG51XfkTcKQVWE+ZBnk9F3OTqsH83ueb+Mg2POE=";
     };
   };
   "tree-sitter-m68k" = {
