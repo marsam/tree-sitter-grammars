@@ -57,7 +57,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-barq | [2025-03-19](https://github.com/alkhizanah/tree-sitter-barq/tree/f065394ed8fb493a6993190d9be1bc3f93c0fc7c) |
 | tree-sitter-bash | [0.25.1](https://github.com/tree-sitter/tree-sitter-bash/tree/v0.25.1) |
 | tree-sitter-bass | [2024-05-03](https://github.com/vito/tree-sitter-bass/tree/28dc7059722be090d04cd751aed915b2fee2f89a) |
-| tree-sitter-beancount | [2.4.1](https://github.com/polarmutex/tree-sitter-beancount/tree/v2.4.1) |
+| tree-sitter-beancount | [2.4.2](https://github.com/polarmutex/tree-sitter-beancount/tree/v2.4.2) |
 | tree-sitter-bend | [2024-05-21](https://github.com/atomheartother/tree-sitter-bend/tree/3fda267484f868aacea6ea609adac4954f240d41) |
 | tree-sitter-bibtex | [2025-04-19](https://github.com/latex-lsp/tree-sitter-bibtex/tree/8d04ed27b3bc7929f14b7df9236797dab9f3fa66) |
 | tree-sitter-bicep | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-bicep/tree/v1.1.0) |
@@ -257,7 +257,7 @@ nix build .#tree-sitter-javascript
 | tree-sitter-gram | [0.2.7](https://github.com/gram-data/tree-sitter-gram/tree/0.2.7) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/MaeBrooks/tree-sitter-gren/tree/v2.0.0) |
-| tree-sitter-gritql | [2025-11-21](https://github.com/honeycombio/tree-sitter-gritql/tree/4ca91bb4060ef2c2fde23afae91e7ce742945aa1) |
+| tree-sitter-gritql | [2025-12-31](https://github.com/honeycombio/tree-sitter-gritql/tree/66055ef49a960c3705e08a1e8531a2b56114249e) |
 | tree-sitter-groovy | [2025-01-22](https://github.com/murtaza64/tree-sitter-groovy/tree/86911590a8e46d71301c66468e5620d9faa5b6af) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
 | tree-sitter-gularen | [2025-11-07](https://github.com/noorwachid/tree-sitter-gularen/tree/9b089d770db747cf9239b237e1fc356a06591139) |

@@ -541,12 +541,12 @@
     };
   };
   "tree-sitter-beancount" = {
-    version = "2.4.1";
+    version = "2.4.2";
     src = fetchFromGitHub {
       owner = "polarmutex";
       repo = "tree-sitter-beancount";
-      rev = "v2.4.1";
-      hash = "sha256-i/Dgen2qF1Qmpi0nm2hDGNUe0tSw03llY4tPTiygWGQ=";
+      rev = "v2.4.2";
+      hash = "sha256-YMIFnx4N9EtdzCxrzQv3xQbLHfDMnbXN+OP5KkMT7+s=";
     };
   };
   "tree-sitter-bend" = {
@@ -2134,12 +2134,12 @@
     };
   };
   "tree-sitter-gritql" = {
-    version = "unstable-2025-11-21";
+    version = "unstable-2025-12-31";
     src = fetchFromGitHub {
       owner = "honeycombio";
       repo = "tree-sitter-gritql";
-      rev = "4ca91bb4060ef2c2fde23afae91e7ce742945aa1";
-      hash = "sha256-lHx9IwW8xXEzTHMIVFkSGdYm0a4cDSBeotn3G9D/GZE=";
+      rev = "66055ef49a960c3705e08a1e8531a2b56114249e";
+      hash = "sha256-5EPC6lLsfI3sBEbLyeChPMX0SmoYIwSOCOYOTcNztPE=";
     };
   };
   "tree-sitter-groovy" = {
