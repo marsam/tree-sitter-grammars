@@ -103,6 +103,9 @@ let
     // { tree-sitter-csv = grammars'.tree-sitter-csv // { location = "csv"; }; }
     // { tree-sitter-psv = grammars'.tree-sitter-csv // { location = "psv"; }; }
     // { tree-sitter-tsv = grammars'.tree-sitter-csv // { location = "tsv"; }; }
+    // { tree-sitter-objectscript = grammars'.tree-sitter-objectscript // { location = "udl"; }; }
+    // { tree-sitter-objectscript_core = grammars'.tree-sitter-objectscript // { location = "core"; }; }
+    // { tree-sitter-objectscript_expr = grammars'.tree-sitter-objectscript // { location = "expr"; }; }
     // { tree-sitter-xml = grammars'.tree-sitter-xml // rec { location = "xml"; postPatch = "cp -av queries/xml ${location}/queries"; }; }
     // { tree-sitter-dtd = grammars'.tree-sitter-xml // rec { location = "dtd"; postPatch = "cp -av queries/dtd ${location}/queries"; }; }
     // { tree-sitter-helm = grammars'.tree-sitter-gotmpl // { location = "dialects/helm"; }; }
@@ -137,8 +140,7 @@ let
     // { tree-sitter-calyx = grammars'.tree-sitter-calyx // { location = "calyx-lsp/tree-sitter-calyx"; }; }
     // { tree-sitter-ebnf = grammars'.tree-sitter-ebnf // { location = "crates/tree-sitter-ebnf"; }; }
     // { tree-sitter-sql = grammars'.tree-sitter-sql // { generate = true; }; }
-    // { tree-sitter-swift = grammars'.tree-sitter-swift // { generate = true; }; }
-    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { languageName = "tree-sitter-swift"; generate = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
+    // { tree-sitter-swifter = grammars'.tree-sitter-swifter // { languageName = "tree-sitter-swift"; fromGrammarJson = true; postPatch = "sed -i src/scanner.c -e '1i #include <ctype.h>'"; }; }
     // { tree-sitter-systemverilog = grammars'.tree-sitter-systemverilog // { languageName = "tree-sitter-verilog"; }; }
     // { tree-sitter-ziggy = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy"; }; }
     // { tree-sitter-ziggy_schema = grammars'.tree-sitter-ziggy // { location = "tree-sitter-ziggy-schema"; }; }
