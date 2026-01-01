@@ -389,7 +389,7 @@ in {
 | tree-sitter-kitty | [0.0.1](https://github.com/OXY2DEV/tree-sitter-kitty/tree/v0.0.1) |
 | tree-sitter-kittyconf | [2023-03-24](https://github.com/clo4/tree-sitter-kitty-conf/tree/9cdf551522d509c0432f136eb373bdf2e6032493) |
 | tree-sitter-koka | [2025-07-26](https://github.com/mtoohey31/tree-sitter-koka/tree/6dce132911ac375ac1a3591c868c47a2a84b30aa) |
-| tree-sitter-kos | [2025-01-21](https://github.com/kos-lang/tree-sitter-kos/tree/eff4e8a6e3b5ac283b17fa8df5a67f6e024b4150) |
+| tree-sitter-kos | [2025-12-31](https://github.com/kos-lang/tree-sitter-kos/tree/e4cec3a376c051199faea0ae27d0787b93fd2b0f) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
 | tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
@@ -413,7 +413,7 @@ in {
 | tree-sitter-log | [2023-11-26](https://github.com/Tudyx/tree-sitter-log/tree/62cfe307e942af3417171243b599cc7deac5eab9) |
 | tree-sitter-lox | [1.2.1](https://github.com/nverno/tree-sitter-lox/tree/v1.2.1) |
 | tree-sitter-lpf | [2023-10-13](https://gitlab.com/TheZoq2/tree-sitter-lpf//tree/db7372e60c722ca7f12ab359e57e6bf7611ab126) |
-| tree-sitter-lua | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-lua/tree/v0.4.0) |
+| tree-sitter-lua | [0.4.1](https://github.com/tree-sitter-grammars/tree-sitter-lua/tree/v0.4.1) |
 | tree-sitter-luadoc | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-luadoc/tree/v1.1.0) |
 | tree-sitter-luap | [1.0.1](https://github.com/tree-sitter-grammars/tree-sitter-luap/tree/v1.0.1) |
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |

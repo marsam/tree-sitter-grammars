@@ -2792,12 +2792,12 @@
     };
   };
   "tree-sitter-kos" = {
-    version = "unstable-2025-01-21";
+    version = "unstable-2025-12-31";
     src = fetchFromGitHub {
       owner = "kos-lang";
       repo = "tree-sitter-kos";
-      rev = "eff4e8a6e3b5ac283b17fa8df5a67f6e024b4150";
-      hash = "sha256-DggRtSSNS732OtBgYzD6ipzKVGpRBovVJ9GyNEo75CQ=";
+      rev = "e4cec3a376c051199faea0ae27d0787b93fd2b0f";
+      hash = "sha256-dBy8Db4u0HJLG8VCgw3Rl3qeYF8c0KuDKqpJ+/xUcoc=";
     };
   };
   "tree-sitter-kotlin" = {
@@ -3000,12 +3000,12 @@
     };
   };
   "tree-sitter-lua" = {
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-lua";
-      rev = "v0.4.0";
-      hash = "sha256-VQJEW06GdgEA1L1GJW+Gbdktq2Sx72FRUtokSI5gUCA=";
+      rev = "v0.4.1";
+      hash = "sha256-uCX11U9Uf9whBs8I29yxmNOsksj+QNjVcXU/0tUsanU=";
     };
   };
   "tree-sitter-luadoc" = {
