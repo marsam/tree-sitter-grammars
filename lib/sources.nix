@@ -3830,7 +3830,7 @@
   "tree-sitter-pluto" = {
     version = "unstable-2024-11-23";
     src = fetchFromGitHub {
-      owner = "0komo";
+      owner = "fuzzko";
       repo = "tree-sitter-pluto";
       rev = "e850a7b932752d5fd89fac73767a8bea101981ad";
       hash = "sha256-vnmY2JHvOCCLY99KpeDPqptmIjCFOenF9pyXHKG9MVI=";
@@ -3982,12 +3982,12 @@
     };
   };
   "tree-sitter-proto" = {
-    version = "unstable-2024-09-10";
+    version = "0.4.0";
     src = fetchFromGitHub {
-      owner = "rewinfrey";
+      owner = "coder3101";
       repo = "tree-sitter-proto";
-      rev = "13e03c6a0542e1ad55ae5d26b4dc0c35c6324cdf";
-      hash = "sha256-SWYUt9GZy3z1WJU8mU2TiS90+B7Jb6chrtwHY6jkiwA=";
+      rev = "0.4.0";
+      hash = "sha256-pi6yOIDyuYE9lDs8hqct+SDYbtfcujAX4vTXw8kYNis=";
     };
   };
   "tree-sitter-protobuf" = {
@@ -4342,7 +4342,7 @@
       hash = "sha256-M0Um0JYvxQDYC3kqIENCiEIdEPOPNa05/2idih/fWas=";
     };
   };
-  "tree-sitter-robots" = {
+  "tree-sitter-robots_txt" = {
     version = "1.0.1";
     src = fetchFromGitHub {
       owner = "opa-oz";

@@ -549,7 +549,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-pioasm": Grammar("https://github.com/leo60228/tree-sitter-pioasm"),
     "tree-sitter-pkl": Grammar("https://github.com/apple/tree-sitter-pkl"),
     "tree-sitter-plume": Grammar("https://github.com/plume-lang/tree-sitter-plume"),
-    "tree-sitter-pluto": Grammar("https://github.com/0komo/tree-sitter-pluto"),
+    "tree-sitter-pluto": Grammar("https://github.com/fuzzko/tree-sitter-pluto"),
     "tree-sitter-plymouth_script": Grammar("https://github.com/liushuyu/tree-sitter-plymouth-script"),
     "tree-sitter-po": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-po"),
     "tree-sitter-pod": Grammar("https://github.com/tree-sitter-perl/tree-sitter-pod", ("branch", "release")),
@@ -566,7 +566,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-promela": Grammar("https://github.com/siraben/tree-sitter-promela"),
     "tree-sitter-promql": Grammar("https://github.com/MichaHoffmann/tree-sitter-promql", None, "0.1.0"),  # not versioned
     "tree-sitter-properties": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-properties"),
-    "tree-sitter-proto": Grammar("https://github.com/rewinfrey/tree-sitter-proto"),
+    "tree-sitter-proto": Grammar("https://github.com/coder3101/tree-sitter-proto"),
     "tree-sitter-protobuf": Grammar("https://github.com/90-008/tree-sitter-protobuf"),
     "tree-sitter-prql": Grammar("https://github.com/PRQL/tree-sitter-prql"),
     "tree-sitter-publicodes": Grammar("https://github.com/publicodes/tree-sitter-publicodes"),
@@ -606,7 +606,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-rnc": Grammar("https://github.com/LdBeth/tree-sitter-rnc"),
     "tree-sitter-rnoweb": Grammar("https://github.com/bamonroe/tree-sitter-rnoweb"),
     "tree-sitter-robot": Grammar("https://github.com/Hubro/tree-sitter-robot"),
-    "tree-sitter-robots": Grammar("https://github.com/opa-oz/tree-sitter-robots-txt"),
+    "tree-sitter-robots_txt": Grammar("https://github.com/opa-oz/tree-sitter-robots-txt"),
     "tree-sitter-roc": Grammar("https://github.com/faldor20/tree-sitter-roc", ("commit", "3292b071b2574e71a9fcf66b2cc6e3092daa39f4")), # The next commit includes build/, which somehow makes the fetcher fail
     "tree-sitter-rocq": Grammar("https://github.com/lamg/tree-sitter-rocq"),
     "tree-sitter-ron": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-ron"),

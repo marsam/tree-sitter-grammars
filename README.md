@@ -517,7 +517,7 @@ in {
 | tree-sitter-pioasm | [2024-10-12](https://github.com/leo60228/tree-sitter-pioasm/tree/afece58efdb30440bddd151ef1347fa8d6f744a9) |
 | tree-sitter-pkl | [0.20.0](https://github.com/apple/tree-sitter-pkl/tree/v0.20.0) |
 | tree-sitter-plume | [2024-05-26](https://github.com/plume-lang/tree-sitter-plume/tree/8ea11031c48ed4379b0d85e652f93d74d1838560) |
-| tree-sitter-pluto | [2024-11-23](https://github.com/0komo/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
+| tree-sitter-pluto | [2024-11-23](https://github.com/fuzzko/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
 | tree-sitter-plymouth_script | [2024-06-18](https://github.com/liushuyu/tree-sitter-plymouth-script/tree/843f5bea453e60d1e169cbbfc81fbf41c2ead64a) |
 | tree-sitter-po | [2024-04-20](https://github.com/tree-sitter-grammars/tree-sitter-po/tree/bd860a0f57f697162bf28e576674be9c1500db5e) |
 | tree-sitter-pod | [2024-08-23](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/0bf8387987c21bf2f8ed41d2575a8f22b139687f) |
@@ -536,7 +536,7 @@ in {
 | tree-sitter-promela | [2022-02-11](https://github.com/siraben/tree-sitter-promela/tree/91da8f141c3c4c695eb71018c8a7b2e7ea39c167) |
 | tree-sitter-promql | [0.1.0](https://github.com/MichaHoffmann/tree-sitter-promql/tree/77625d78eebc3ffc44d114a07b2f348dff3061b0) |
 | tree-sitter-properties | [0.3.0](https://github.com/tree-sitter-grammars/tree-sitter-properties/tree/v0.3.0) |
-| tree-sitter-proto | [2024-09-10](https://github.com/rewinfrey/tree-sitter-proto/tree/13e03c6a0542e1ad55ae5d26b4dc0c35c6324cdf) |
+| tree-sitter-proto | [0.4.0](https://github.com/coder3101/tree-sitter-proto/tree/0.4.0) |
 | tree-sitter-protobuf | [2021-08-22](https://github.com/90-008/tree-sitter-protobuf/tree/5aef38d655f76a6b0d172340eed3766c93b3124c) |
 | tree-sitter-prql | [2023-07-28](https://github.com/PRQL/tree-sitter-prql/tree/09e158cd3650581c0af4c49c2e5b10c4834c8646) |
 | tree-sitter-psv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/psv) |
@@ -581,7 +581,7 @@ in {
 | tree-sitter-rnc | [0.0.1-alpha](https://github.com/LdBeth/tree-sitter-rnc/tree/v0.0.1-alpha) |
 | tree-sitter-rnoweb | [2024-03-14](https://github.com/bamonroe/tree-sitter-rnoweb/tree/1a74dc0ed731ad07db39f063e2c5a6fe528cae7f) |
 | tree-sitter-robot | [1.1.2](https://github.com/Hubro/tree-sitter-robot/tree/v1.1.2) |
-| tree-sitter-robots | [1.0.1](https://github.com/opa-oz/tree-sitter-robots-txt/tree/v1.0.1) |
+| tree-sitter-robots_txt | [1.0.1](https://github.com/opa-oz/tree-sitter-robots-txt/tree/v1.0.1) |
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
