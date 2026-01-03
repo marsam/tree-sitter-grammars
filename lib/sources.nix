@@ -4063,12 +4063,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2025-11-04";
+    version = "unstable-2026-01-03";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "70506342983840099df3d76ab9e20af713e6d1b1";
-      hash = "sha256-a/Z2zCEPUHpzj4NtCq7ZTBStp3M22aDfrsbCWf5zQrc=";
+      rev = "c4fc839c30c19f882702b6a9bb690c301d633c90";
+      hash = "sha256-2+JzJLPgQ3GXnpn4VpNEfHhhy0NA8BEkU1SOV5LX6zI=";
     };
   };
   "tree-sitter-q" = {
