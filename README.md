@@ -389,7 +389,7 @@ in {
 | tree-sitter-kitty | [0.0.1](https://github.com/OXY2DEV/tree-sitter-kitty/tree/v0.0.1) |
 | tree-sitter-kittyconf | [2023-03-24](https://github.com/clo4/tree-sitter-kitty-conf/tree/9cdf551522d509c0432f136eb373bdf2e6032493) |
 | tree-sitter-koka | [2025-07-26](https://github.com/mtoohey31/tree-sitter-koka/tree/6dce132911ac375ac1a3591c868c47a2a84b30aa) |
-| tree-sitter-kos | [2026-01-01](https://github.com/kos-lang/tree-sitter-kos/tree/ff4b3c4115cbdd380f8c23556559cddd51946f77) |
+| tree-sitter-kos | [2026-01-04](https://github.com/kos-lang/tree-sitter-kos/tree/03b261c1a78b71c38cf4616497f253c4a4ce118b) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
 | tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
@@ -418,7 +418,7 @@ in {
 | tree-sitter-luap | [1.0.1](https://github.com/tree-sitter-grammars/tree-sitter-luap/tree/v1.0.1) |
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
-| tree-sitter-lx | [2025-12-29](https://github.com/curist/tree-sitter-lx/tree/6d274efe5e3590f757600234e4837ae07d01e5b9) |
+| tree-sitter-lx | [2026-01-05](https://github.com/curist/tree-sitter-lx/tree/96e48af4e0f11bf708cc898a7ceb144a6bb19fa3) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
 | tree-sitter-magik | [2025-12-15](https://github.com/krn-robin/tree-sitter-magik/tree/0f4f51d372f8f81424e8e5ebf16dab95e8696db6) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
