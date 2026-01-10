@@ -352,7 +352,7 @@ in {
 | tree-sitter-ignis | [2025-10-24](https://github.com/Ignis-lang/tree-sitter-ignis/tree/23fc455990727e896a2dbdfc9dfa1989dd4e0ff5) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
 | tree-sitter-ink | [24.6.18](https://github.com/wldmr/tree-sitter-ink/tree/v24.6.18) |
-| tree-sitter-inko | [0.5.0](https://github.com/inko-lang/tree-sitter-inko/tree/v0.5.0) |
+| tree-sitter-inko | [0.5.1](https://github.com/inko-lang/tree-sitter-inko/tree/v0.5.1) |
 | tree-sitter-integerbasic | [3.0.0](https://github.com/dfgordon/tree-sitter-integerbasic/tree/v3.0.0) |
 | tree-sitter-ion | [2024-04-04](https://github.com/Ignis-lang/tree-sitter-ion/tree/3d87d54106c3b71fd90efda2b8bd442d1b4a3314) |
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
@@ -442,7 +442,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-11-05](https://github.com/shackle-rs/shackle/tree/a1090067ad19e24fabc0afb751a057a1926a4b85/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.0](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.0) |
-| tree-sitter-mlir | [2025-12-26](https://github.com/artagnon/tree-sitter-mlir/tree/c7eec06be8a9ddae688e1b03fca2eed79e9801c4) |
+| tree-sitter-mlir | [2026-01-09](https://github.com/artagnon/tree-sitter-mlir/tree/9edc9201736c5a471314b4e28c20d0f0b4642b6f) |
 | tree-sitter-mojo | [2025-12-25](https://github.com/lsh/tree-sitter-mojo/tree/03966fb3f209bea86844aab3bd0f2158a5a8bb8d) |
 | tree-sitter-moonbit | [2025-09-27](https://github.com/moonbitlang/tree-sitter-moonbit/tree/a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -511,7 +511,7 @@ in {
 | tree-sitter-pgn | [1.4.2](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.4.2) |
 | tree-sitter-php | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php) |
 | tree-sitter-php_only | [0.24.2](https://github.com/tree-sitter/tree-sitter-php/tree/v0.24.2/php_only) |
-| tree-sitter-phpdoc | [0.1.7](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.7) |
+| tree-sitter-phpdoc | [0.1.8](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.8) |
 | tree-sitter-pic | [2025-12-14](https://github.com/smoeding/tree-sitter-pic/tree/c02aa6060c06147fec52a784a92b3f88f3610462) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
 | tree-sitter-pioasm | [2024-10-12](https://github.com/leo60228/tree-sitter-pioasm/tree/afece58efdb30440bddd151ef1347fa8d6f744a9) |
