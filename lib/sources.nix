@@ -2396,12 +2396,12 @@
     };
   };
   "tree-sitter-hy" = {
-    version = "unstable-2025-01-02";
+    version = "unstable-2026-01-11";
     src = fetchFromGitHub {
       owner = "MinmusxMinmus";
       repo = "tree-sitter-hy";
-      rev = "384ac9ad1a795b835d98a99d40db04a5f99b95e7";
-      hash = "sha256-WRjcHutALCkQB85hxqAKpwuLY9c/u1zCwaoTAcHx2fY=";
+      rev = "471f2449d19bc995779641d7d2d866cff8c9e737";
+      hash = "sha256-ZNXtDmtq17/mVQpOK5UrMywMQx5hgyKxX3+e4BjeDOE=";
     };
   };
   "tree-sitter-hygen_template" = {
