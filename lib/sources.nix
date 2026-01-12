@@ -1981,12 +1981,12 @@
     };
   };
   "tree-sitter-glimmer" = {
-    version = "1.4.0-tree-sitter-glimmer";
+    version = "1.5.0-tree-sitter-glimmer";
     src = fetchFromGitHub {
       owner = "ember-tooling";
       repo = "tree-sitter-glimmer";
-      rev = "v1.4.0-tree-sitter-glimmer";
-      hash = "sha256-4kEOvObNnZtt2aaf0Df+R/Wvyk/JlFnsvbasDIJxt4w=";
+      rev = "v1.5.0-tree-sitter-glimmer";
+      hash = "sha256-SWvJsE0pt33FXFlTnR4CT/Q3XRt1w0x84h1FVZFaj9Q=";
     };
   };
   "tree-sitter-glimmer_javascript" = {
@@ -2486,12 +2486,12 @@
     };
   };
   "tree-sitter-ignis" = {
-    version = "unstable-2025-10-24";
+    version = "unstable-2026-01-11";
     src = fetchFromGitHub {
       owner = "Ignis-lang";
       repo = "tree-sitter-ignis";
-      rev = "23fc455990727e896a2dbdfc9dfa1989dd4e0ff5";
-      hash = "sha256-elQeF4g6NCj29wim1yw5ZWoGKT88co/BdFHUvUYK4Hk=";
+      rev = "acb587f02288ee035887987fc1f42f6a43db03e6";
+      hash = "sha256-eRPQlkj4thJbhB3lVQNA/fPIGANgKv9hskE8gnnoQV0=";
     };
   };
   "tree-sitter-ini" = {
@@ -3099,12 +3099,12 @@
     };
   };
   "tree-sitter-markdown" = {
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-markdown";
-      rev = "v0.5.1";
-      hash = "sha256-IYqh6JT74deu1UU4Nyls9Eg88BvQeYEta2UXZAbuZek=";
+      rev = "v0.5.2";
+      hash = "sha256-JJCFksPDwaiOmU+nZ3PHeLHlPKWTZBTnqcD/tQorWdU=";
     };
   };
   "tree-sitter-marte" = {

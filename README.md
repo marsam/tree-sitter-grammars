@@ -289,7 +289,7 @@ in {
 | tree-sitter-gitcommit | [2025-03-13](https://github.com/gbprod/tree-sitter-gitcommit/tree/a716678c0f00645fed1e6f1d0eb221481dbd6f6d) |
 | tree-sitter-gitignore | [2022-05-04](https://github.com/shunsambongi/tree-sitter-gitignore/tree/f4685bf11ac466dd278449bcfe5fd014e94aa504) |
 | tree-sitter-gleam | [1.1.0](https://github.com/gleam-lang/tree-sitter-gleam/tree/v1.1.0) |
-| tree-sitter-glimmer | [1.4.0-tree-sitter-glimmer](https://github.com/ember-tooling/tree-sitter-glimmer/tree/v1.4.0-tree-sitter-glimmer) |
+| tree-sitter-glimmer | [1.5.0-tree-sitter-glimmer](https://github.com/ember-tooling/tree-sitter-glimmer/tree/v1.5.0-tree-sitter-glimmer) |
 | tree-sitter-glimmer_javascript | [0.2.0-tree-sitter-glimmer-javascript](https://github.com/ember-tooling/tree-sitter-glimmer-javascript/tree/v0.2.0-tree-sitter-glimmer-javascript) |
 | tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
 | tree-sitter-glsl | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-glsl/tree/v0.2.0) |
@@ -349,7 +349,7 @@ in {
 | tree-sitter-idl | [3.14.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.14.0) |
 | tree-sitter-idris | [2024-11-05](https://github.com/kayhide/tree-sitter-idris/tree/c56a25cf57c68ff929356db25505c1cc4c7820f6) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
-| tree-sitter-ignis | [2025-10-24](https://github.com/Ignis-lang/tree-sitter-ignis/tree/23fc455990727e896a2dbdfc9dfa1989dd4e0ff5) |
+| tree-sitter-ignis | [2026-01-11](https://github.com/Ignis-lang/tree-sitter-ignis/tree/acb587f02288ee035887987fc1f42f6a43db03e6) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
 | tree-sitter-ink | [24.6.18](https://github.com/wldmr/tree-sitter-ink/tree/v24.6.18) |
 | tree-sitter-inko | [0.5.1](https://github.com/inko-lang/tree-sitter-inko/tree/v0.5.1) |
@@ -424,8 +424,8 @@ in {
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
-| tree-sitter-markdown | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.1/tree-sitter-markdown) |
-| tree-sitter-markdown_inline | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.1/tree-sitter-markdown-inline) |
+| tree-sitter-markdown | [0.5.2](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.2/tree-sitter-markdown) |
+| tree-sitter-markdown_inline | [0.5.2](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.2/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
 | tree-sitter-matlab | [1.2.10](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.10) |
