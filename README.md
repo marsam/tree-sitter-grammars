@@ -105,7 +105,6 @@ in {
 | tree-sitter-automad | [2025-08-21](https://github.com/automadcms/tree-sitter-automad/tree/06cd680f9e16bb1bb419def722f3edf3da2c8f86) |
 | tree-sitter-awk | [0.7.2](https://github.com/Beaglefoot/tree-sitter-awk/tree/v0.7.2) |
 | tree-sitter-bara | [2025-11-08](https://github.com/Seungwuk98/tree-sitter-bara/tree/d64e66d07dba975baac50738c75c544620a8333c) |
-| tree-sitter-barq | [2025-03-19](https://github.com/alkhizanah/tree-sitter-barq/tree/f065394ed8fb493a6993190d9be1bc3f93c0fc7c) |
 | tree-sitter-bash | [0.25.1](https://github.com/tree-sitter/tree-sitter-bash/tree/v0.25.1) |
 | tree-sitter-bass | [2024-05-03](https://github.com/vito/tree-sitter-bass/tree/28dc7059722be090d04cd751aed915b2fee2f89a) |
 | tree-sitter-beancount | [2.5.0](https://github.com/polarmutex/tree-sitter-beancount/tree/v2.5.0) |
@@ -121,6 +120,7 @@ in {
 | tree-sitter-blueprint | [2025-07-08](https://gitlab.com/gabmus/tree-sitter-blueprint//tree/355ef84ef8a958ac822117b652cf4d49bac16c79) |
 | tree-sitter-bp | [0.7.0](https://github.com/ambroisie/tree-sitter-bp/tree/v0.7.0) |
 | tree-sitter-bpf_c | [0.2.3](https://github.com/d-e-s-o/tree-sitter-bpf-c/tree/v0.2.3) |
+| tree-sitter-bpftrace | [0.3.0](https://github.com/sgruszka/tree-sitter-bpftrace/tree/v0.3.0) |
 | tree-sitter-bqn | [0.3.2](https://github.com/shnarazk/tree-sitter-bqn/tree/v0.3.2) |
 | tree-sitter-branescript | [2024-11-02](https://github.com/DanielVoogsgerd/treesitter-branescript/tree/c293852df20288952d5b65197670dfb0fe2cabcc) |
 | tree-sitter-breaker | [2024-04-30](https://github.com/mielpeeters/tree-sitter-breaker/tree/8c61b9633dcc08d7841bc399a7280ba5f8506607) |

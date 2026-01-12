@@ -531,15 +531,6 @@
       hash = "sha256-N3oa9FoziH7spfEiJke5LNIKovLO3TWOLS06VCrzluo=";
     };
   };
-  "tree-sitter-barq" = {
-    version = "unstable-2025-03-19";
-    src = fetchFromGitHub {
-      owner = "alkhizanah";
-      repo = "tree-sitter-barq";
-      rev = "f065394ed8fb493a6993190d9be1bc3f93c0fc7c";
-      hash = "sha256-nQG7KlYSb9P0ekIMqBKmsZTQL2WRi7YrJqcNyBjbUKg=";
-    };
-  };
   "tree-sitter-bass" = {
     version = "unstable-2024-05-03";
     src = fetchFromGitHub {
@@ -655,6 +646,15 @@
       repo = "tree-sitter-bpf-c";
       rev = "v0.2.3";
       hash = "sha256-NcZhOSKaTmkn6l07RWbmGeVtwAHq7yoo3r/p9hwKZko=";
+    };
+  };
+  "tree-sitter-bpftrace" = {
+    version = "0.3.0";
+    src = fetchFromGitHub {
+      owner = "sgruszka";
+      repo = "tree-sitter-bpftrace";
+      rev = "v0.3.0";
+      hash = "sha256-bwyjx5XfWxXzOC0zoDNUjXjLI7cC7S1ebYWtmVxUWPk=";
     };
   };
   "tree-sitter-bqn" = {
