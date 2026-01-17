@@ -1891,12 +1891,12 @@
     };
   };
   "tree-sitter-ghactions" = {
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchFromGitHub {
       owner = "rmuir";
       repo = "tree-sitter-ghactions";
-      rev = "v0.2.4";
-      hash = "sha256-ic1ysitXRU3Ngg6+rIra2/JcT+vM8M3Ap75ordhtF1o=";
+      rev = "v0.2.5";
+      hash = "sha256-e1lQYXwsI66d85OliJC7hW7HcTclbpwciPAKStbmZns=";
     };
   };
   "tree-sitter-gherkin" = {
@@ -2486,12 +2486,12 @@
     };
   };
   "tree-sitter-ignis" = {
-    version = "unstable-2026-01-14";
+    version = "unstable-2026-01-16";
     src = fetchFromGitHub {
       owner = "Ignis-lang";
       repo = "tree-sitter-ignis";
-      rev = "0dbd42dcefa5a29e24b1c69e0a7fd37260313e44";
-      hash = "sha256-cadYAS9tVsLEHRNbLWAGhydEJuRkNTz3UO9O8Z+RGgQ=";
+      rev = "cb2f70a9db60631f260e78ff8250fcc8a5c7fc9a";
+      hash = "sha256-z8vamAAjGloF4CXI6hsfIFWqPYfVP01NJEGMbaJ/4/A=";
     };
   };
   "tree-sitter-ini" = {
@@ -3045,12 +3045,12 @@
     };
   };
   "tree-sitter-lx" = {
-    version = "unstable-2026-01-15";
+    version = "unstable-2026-01-16";
     src = fetchFromGitHub {
       owner = "curist";
       repo = "tree-sitter-lx";
-      rev = "c860630ed3f4af2f32e2cd9a93da6da7095c3bdf";
-      hash = "sha256-kSbEGa1JcAA74GOFRYiQIKcUmoMXezugEleM3uzzmbk=";
+      rev = "b8cf787bae9aa71602d3146b5b6c3f43b1b95fc6";
+      hash = "sha256-FkB6hxM5v90tVtwx5VczXxw7zZCs5s5cAF6jYXgD4LE=";
     };
   };
   "tree-sitter-m68k" = {
@@ -3243,12 +3243,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-01-09";
+    version = "unstable-2026-01-16";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "9edc9201736c5a471314b4e28c20d0f0b4642b6f";
-      hash = "sha256-Ptg61FcxAriCFPJlsjCJcYmJFpHv7WPYLCj3AfJN5lQ=";
+      rev = "c457b68dd485c6bcbd82acc642ead9340f37fa77";
+      hash = "sha256-cMySLtfN6xyIDYhFbQNAi6qlp+FC9vbMbUmjEq3pQ7k=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4379,12 +4379,12 @@
     };
   };
   "tree-sitter-rpmspec" = {
-    version = "unstable-2026-01-15";
+    version = "unstable-2026-01-16";
     src = fetchFromGitLab {
       owner = "cryptomilk";
       repo = "tree-sitter-rpmspec";
-      rev = "d7b586d526aedfe6f84660eeb3335ce4f4f41ae0";
-      hash = "sha256-aYKaRtktkXaVGcRxkCozQ/CmM+Zq08yaxjZD/ak6Mis=";
+      rev = "710f6910faf0b71d62262493bc28670c552a7f7d";
+      hash = "sha256-9eF5lwP3kA6BYuI13EDtq45+GsEbzdmg432Oqu3sVII=";
     };
   };
   "tree-sitter-rslox" = {
