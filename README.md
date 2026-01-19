@@ -393,7 +393,7 @@ in {
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
 | tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
-| tree-sitter-lalrpop | [2025-03-20](https://github.com/traxys/tree-sitter-lalrpop/tree/8d38e9755c05d37df8a24dadb0fc64f6588ac188) |
+| tree-sitter-lalrpop | [2026-01-18](https://github.com/traxys/tree-sitter-lalrpop/tree/27b0f7bb55b4cabd8f01a933d9ee6a49dbfc2192) |
 | tree-sitter-lama | [2025-02-15](https://codeberg.org/ProgramSnail/tree-sitter-lama/src/747b20dfed4934868ba457fd811eb2fb9ffc0ff3) |
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
@@ -585,7 +585,7 @@ in {
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
-| tree-sitter-rpmspec | [2026-01-16](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/710f6910faf0b71d62262493bc28670c552a7f7d) |
+| tree-sitter-rpmspec | [2026-01-18](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/b37b3d5e037764eb2d029e17374b920076d3c343) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
 | tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.2.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.2.0) |
