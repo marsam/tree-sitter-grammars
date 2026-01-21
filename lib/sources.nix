@@ -1153,12 +1153,12 @@
     };
   };
   "tree-sitter-cython" = {
-    version = "unstable-2025-12-09";
+    version = "unstable-2026-01-20";
     src = fetchFromGitHub {
       owner = "b0o";
       repo = "tree-sitter-cython";
-      rev = "a334cf10eb5b69f73db742fc849fa013f946f3af";
-      hash = "sha256-tRWLWusYso+TPTPxnPtfkuCyN01t3e8qlj0yYasNgcg=";
+      rev = "172398fe40439418763fb2d903a1dbabb97ca8af";
+      hash = "sha256-bxzt9QzBVUpFEBKMQbMVz0vws+d8NWALMqffyyX4sIk=";
     };
   };
   "tree-sitter-d" = {
@@ -3261,11 +3261,11 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2025-09-27";
+    version = "unstable-2026-01-21";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82";
+      rev = "0fac3cec9aeb916f10c52c6901b016f8a5d9472b";
       hash = "sha256-CMI+qSZ/91e/YpFJYtczOGdaRAOfhZiZRFgdPiq1jJ8=";
     };
   };
@@ -4379,12 +4379,12 @@
     };
   };
   "tree-sitter-rpmspec" = {
-    version = "unstable-2026-01-19";
+    version = "unstable-2026-01-20";
     src = fetchFromGitLab {
       owner = "cryptomilk";
       repo = "tree-sitter-rpmspec";
-      rev = "45c70e03acf9819d38293b2bbe1cc60e9a020169";
-      hash = "sha256-F3X7rm8qHQ2pu/mWNttmqhMrYVom4DCHM0iUwYNADds=";
+      rev = "9ae06f1a27426e37c3546dbf8e04846f118dbe85";
+      hash = "sha256-ENgBhGESDyi7KWaZEnULQph950RZi5ELIu49EjeFAV8=";
     };
   };
   "tree-sitter-rslox" = {
