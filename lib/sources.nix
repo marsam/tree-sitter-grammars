@@ -244,12 +244,12 @@
     };
   };
   "tree-sitter-abl" = {
-    version = "0.0.33";
+    version = "0.0.47";
     src = fetchFromGitHub {
       owner = "usagi-coffee";
       repo = "tree-sitter-abl";
-      rev = "v0.0.33";
-      hash = "sha256-xvzKE4m49uQ1UGu0ag2qUscdFe2rf+awVEoSaZHEFD0=";
+      rev = "v0.0.47";
+      hash = "sha256-W9EdctBQ4AQnzCwPXTmW3RhE/rIre0wlZ8/SPPj4jss=";
     };
   };
   "tree-sitter-abnf" = {
@@ -1630,12 +1630,12 @@
     };
   };
   "tree-sitter-fennel" = {
-    version = "unstable-2025-08-11";
+    version = "unstable-2026-01-21";
     src = fetchFromGitHub {
       owner = "alexmozaidze";
       repo = "tree-sitter-fennel";
-      rev = "fd4a24e349bcbac8a03a5a00d0dfa207baf53ca5";
-      hash = "sha256-/+WJDDduMAEQvcTwplzNO8hfTiNbOyT2px4jRDxVQw0=";
+      rev = "3f0f6b24d599e92460b969aabc4f4c5a914d15a0";
+      hash = "sha256-jk9Misdfdso/h/lK/o9FTorK6DbNJPrZs/aw+3r/H1M=";
     };
   };
   "tree-sitter-fga" = {
@@ -1711,12 +1711,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2026-01-19";
+    version = "unstable-2026-01-21";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "4c9578010e449a7b464edc5f247d368be0d9d708";
-      hash = "sha256-Xa3hVbbcIQlXTCeAfD6iPs6dQtvG1pyPm7lofFZOwZs=";
+      rev = "bffd943a0740d6d7189e63b6ba86862dcf964339";
+      hash = "sha256-tN2wAqdhoOsxwSMwrgf4kyEJf+yfXlwh/r5X6fyYMXM=";
     };
   };
   "tree-sitter-forester" = {
@@ -4379,12 +4379,12 @@
     };
   };
   "tree-sitter-rpmspec" = {
-    version = "unstable-2026-01-20";
+    version = "unstable-2026-01-21";
     src = fetchFromGitLab {
       owner = "cryptomilk";
       repo = "tree-sitter-rpmspec";
-      rev = "9ae06f1a27426e37c3546dbf8e04846f118dbe85";
-      hash = "sha256-ENgBhGESDyi7KWaZEnULQph950RZi5ELIu49EjeFAV8=";
+      rev = "0a13e60f5f96ce1a400ac5c1d28a2e56f3b24e61";
+      hash = "sha256-Dy1LiPYyUHCV1RnqZjCmh5lxmFkhT4LgFBOKL+lY0Wg=";
     };
   };
   "tree-sitter-rslox" = {
@@ -4793,12 +4793,12 @@
     };
   };
   "tree-sitter-stan" = {
-    version = "0.2.1";
+    version = "0.2.6";
     src = fetchFromGitHub {
       owner = "WardBrian";
       repo = "tree-sitter-stan";
-      rev = "v0.2.1";
-      hash = "sha256-PZlcxQ5AzA7AhmB9jcFctnIBXKSYBUsjYwpBKOcHm6A=";
+      rev = "v0.2.6";
+      hash = "sha256-79wZUdVYEYcuA0mGuowIspu42wQE/8ysEAYZQlGjpIM=";
     };
   };
   "tree-sitter-starlark" = {
