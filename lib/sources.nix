@@ -126,15 +126,6 @@
       hash = "sha256-DNZC2cTy1C8OaMOpEHM6NoRtOIbLaBf0CLXXWCKODlw=";
     };
   };
-  "tree-sitter-julia" = {
-    version = "0.25.0";
-    src = fetchFromGitHub {
-      owner = "tree-sitter";
-      repo = "tree-sitter-julia";
-      rev = "v0.25.0";
-      hash = "sha256-Jk2jby7vWWSdnUU8s8zIIfyXFt7keWPJPyTyxPBrqBw=";
-    };
-  };
   "tree-sitter-ocaml" = {
     version = "0.24.2";
     src = fetchFromGitHub {
@@ -1087,6 +1078,15 @@
       repo = "tree-sitter-crystal";
       rev = "50ca9e6fcfb16a2cbcad59203cfd8ad650e25c49";
       hash = "sha256-xmQrplDxoJ8GhcTyCOuEGn4wwMM3/9M6tyM1dgRGARU=";
+    };
+  };
+  "tree-sitter-csound" = {
+    version = "unstable-2026-01-23";
+    src = fetchFromGitHub {
+      owner = "PasqualeMainolfi";
+      repo = "tree-sitter-csound";
+      rev = "7debf1715fb54b344318c4994fe3f42cf8074a77";
+      hash = "sha256-87BUn4RXZOViJ9mBAOUEEH8zLxK8z8XHhrX0U0NO8w0=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -2692,10 +2692,19 @@
       hash = "sha256-upv0wQvaGImNc0h4zs9uEdDEkxhh5LjXpxXqUw43uro=";
     };
   };
+  "tree-sitter-julia" = {
+    version = "unstable-2025-12-16";
+    src = fetchFromGitHub {
+      owner = "tree-sitter-grammars";
+      repo = "tree-sitter-julia";
+      rev = "dd7f707577585ade7a488d32dbfb366246ea3837";
+      hash = "sha256-GFR48voa5DDMq5QKKjhYepipao2lTu5VIUze20pW+FM=";
+    };
+  };
   "tree-sitter-just" = {
     version = "unstable-2026-01-22";
     src = fetchFromGitHub {
-      owner = "IndianBoy42";
+      owner = "casey";
       repo = "tree-sitter-just";
       rev = "7333f8c150aaac5bb46decc2d225a2d4cde8c51e";
       hash = "sha256-YzXQGcWfTMvCP7fDvQ4gGCtb4tl3r88W7bQSQhUxtyQ=";
@@ -5422,6 +5431,15 @@
       repo = "tree-sitter-verus";
       rev = "33478ffa93c0f46eec3e1486c66c53ea9e70cd70";
       hash = "sha256-aYAi+xzpoiQhyrRTEMW+mX4wu2W1Kyu5WvLVE0gE/FI=";
+    };
+  };
+  "tree-sitter-veryl" = {
+    version = "unstable-2026-01-22";
+    src = fetchFromGitHub {
+      owner = "veryl-lang";
+      repo = "tree-sitter-veryl";
+      rev = "cf761bc9469b3a6e9566eaf4d6ef651790e0b03e";
+      hash = "sha256-MPGiV4jPqx15CdDtG/T2IEgA0W7ic2tb5vX9CKsToKo=";
     };
   };
   "tree-sitter-vhdl" = {
