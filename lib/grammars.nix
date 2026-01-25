@@ -176,6 +176,7 @@ let
     # // { tree-sitter-carbon = grammars'.tree-sitter-carbon // { location = "utils/tree_sitter"; generate = true; }; }  # FIXME(marsam): Requires tree-sitter upgrade
 
     # Fix upstream issues
+    // { tree-sitter-abl = grammars'.tree-sitter-abl // { postPatch = "rm -v src/parser.c"; fromGrammarJson = true; }; }  # bypass git-lfs, because parser.c is too big
     // { tree-sitter-vhs = grammars'.tree-sitter-vhs // { postPatch = "rm -v src/parser.o"; }; }
     // { tree-sitter-context = grammars'.tree-sitter-context // { postPatch = "rm -v src/*.o"; }; }
     // { tree-sitter-yaml = grammars'.tree-sitter-yaml // { postPatch = "sed -i src/schema.core.c -i src/schema.json.c -e '1i #include <stdint.h>'"; }; }
