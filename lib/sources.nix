@@ -5515,12 +5515,12 @@
     };
   };
   "tree-sitter-vue" = {
-    version = "unstable-2024-03-26";
+    version = "unstable-2026-01-24";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-vue";
-      rev = "22bdfa6c9fc0f5ffa44c6e938ec46869ac8a99ff";
-      hash = "sha256-LnmUtJJpBIZPTJqrQQ7WI8V44hPw3yxR+j2jR0pHIdY=";
+      rev = "ce8011a414fdf8091f4e4071752efc376f4afb08";
+      hash = "sha256-pCoyDRuRCpfpJh7vQIM8yZz5aPcqrdYlTJGM/K5oQFs=";
     };
   };
   "tree-sitter-wasp" = {

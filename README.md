@@ -724,7 +724,7 @@ in {
 | tree-sitter-void | [2024-07-16](https://github.com/ge0mk/tree-sitter-void/tree/82ba59e160925a646b9b3c5e3aad846124cd4d05) |
 | tree-sitter-vola | [2025-10-11](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/6a7c2f426418445ccc60c02dcebb43dc7f0be037) |
 | tree-sitter-vrl | [0.1.1](https://github.com/belltoy/tree-sitter-vrl/tree/v0.1.1) |
-| tree-sitter-vue | [2024-03-26](https://github.com/tree-sitter-grammars/tree-sitter-vue/tree/22bdfa6c9fc0f5ffa44c6e938ec46869ac8a99ff) |
+| tree-sitter-vue | [2026-01-24](https://github.com/tree-sitter-grammars/tree-sitter-vue/tree/ce8011a414fdf8091f4e4071752efc376f4afb08) |
 | tree-sitter-wasp | [2024-10-17](https://github.com/bx2/tree-sitter-wasp/tree/3669fc2724bc7dcfd7d00f92d48c543c35455583) |
 | tree-sitter-wast | [2022-05-17](https://github.com/wasm-lsp/tree-sitter-wasm/tree/2ca28a9f9d709847bf7a3de0942a84e912f59088/wast) |
 | tree-sitter-wat | [2022-05-17](https://github.com/wasm-lsp/tree-sitter-wasm/tree/2ca28a9f9d709847bf7a3de0942a84e912f59088/wat) |
