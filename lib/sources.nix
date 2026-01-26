@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "unstable-2025-12-11";
+    version = "unstable-2026-01-25";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "e7d93cf5cdd82f64c4e893c82538fdb2b83297f5";
-      hash = "sha256-Vx/i1VDSjMnYhuv9GAab8IpOJtmH2HveZWB/wahmu5A=";
+      rev = "9a3548d766b1fca0cc52181a163d2359e074ee93";
+      hash = "sha256-byqeQP9edITJk/jWnfEkHZNRC12s9S7rNAnyau7e0M8=";
     };
   };
   "tree-sitter-alcha" = {
@@ -1081,12 +1081,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-01-23";
+    version = "unstable-2026-01-26";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "7debf1715fb54b344318c4994fe3f42cf8074a77";
-      hash = "sha256-87BUn4RXZOViJ9mBAOUEEH8zLxK8z8XHhrX0U0NO8w0=";
+      rev = "9ac285658cb1918078c58a4bba9bb98ff13a8a92";
+      hash = "sha256-N9JBwHU+IsbeazOelJoigM8xWyT2N0tuyMZHKL6jo2s=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -3549,12 +3549,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2025-12-13";
+    version = "unstable-2026-01-25";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "4c149627cc592560f77ead1c384e27ec85926407";
-      hash = "sha256-h02kb3VxSK/fxQENtj2yaRmAQ5I8rt5s5R8VrWOQWeo=";
+      rev = "bb3f533e5792260291945e1f329e1f0a779def6e";
+      hash = "sha256-0ebKHKexu1TROwfxokwwpPhCO+Nn7HmmX40jRu19xNo=";
     };
   };
   "tree-sitter-numbat" = {
@@ -4388,12 +4388,12 @@
     };
   };
   "tree-sitter-rpmspec" = {
-    version = "unstable-2026-01-23";
+    version = "unstable-2026-01-25";
     src = fetchFromGitLab {
       owner = "cryptomilk";
       repo = "tree-sitter-rpmspec";
-      rev = "9e0696cf1d9e9c886badca51a8b1637e1a1d709b";
-      hash = "sha256-SmZbCSejBCW2J8/khZ3ALoS15o7ZpMd4hSsJls8tZDI=";
+      rev = "8eb5848db7d09f43f6b0fb7ca1affc88469d008b";
+      hash = "sha256-P3zheIHJsb3MsSkRYTAVLbKpqekaceEaft3ZkhHkPgM=";
     };
   };
   "tree-sitter-rslox" = {
