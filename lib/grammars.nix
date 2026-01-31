@@ -97,6 +97,8 @@ let
     // { tree-sitter-latex = grammars'.tree-sitter-latex // { fromGrammarJson = true; }; }
     // { tree-sitter-prolog = grammars'.tree-sitter-prolog // { location = "grammars/prolog"; }; }
     // { tree-sitter-problog = grammars'.tree-sitter-prolog // { location = "grammars/problog"; }; }
+    // { tree-sitter-rpmspec = grammars'.tree-sitter-rpmspec // { location = "rpmspec"; }; }
+    // { tree-sitter-rpmbash = grammars'.tree-sitter-rpmspec // { location = "rpmbash"; }; }
     // { tree-sitter-apex = grammars'.tree-sitter-apex // { location = "apex"; }; }
     // { tree-sitter-soql = grammars'.tree-sitter-apex // { location = "soql"; }; }
     // { tree-sitter-sosl = grammars'.tree-sitter-apex // { location = "sosl"; }; }

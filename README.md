@@ -66,7 +66,7 @@ in {
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (697)</strong></summary>
+  <summary><strong>Available grammars (698)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -586,7 +586,8 @@ in {
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
-| tree-sitter-rpmspec | [2026-01-30](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/86e5caf999620dd67a630c2ee7926a14593bef99) |
+| tree-sitter-rpmbash | [2026-01-30](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/86e5caf999620dd67a630c2ee7926a14593bef99/rpmbash) |
+| tree-sitter-rpmspec | [2026-01-30](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/86e5caf999620dd67a630c2ee7926a14593bef99/rpmspec) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
 | tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.2.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.2.0) |
