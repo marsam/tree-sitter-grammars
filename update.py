@@ -206,7 +206,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-bsv": Grammar("https://github.com/yuyuranium/tree-sitter-bsv"),  # Alternative https://github.com/robertszafa/tree-sitter-bsv
     "tree-sitter-bteq": Grammar("https://github.com/aamayam/tree-sitter-bteq"),
     "tree-sitter-c3": Grammar("https://github.com/c3lang/tree-sitter-c3"),
-    "tree-sitter-ca65": Grammar("https://github.com/captain-http/tree-sitter-ca65"),
     "tree-sitter-cab": Grammar("https://github.com/cull-os/tree-sitter-cab"),
     "tree-sitter-cabal": Grammar("https://github.com/thomasvergne/tree-sitter-cabal"),
     "tree-sitter-caddy": Grammar("https://github.com/opa-oz/tree-sitter-caddy"),

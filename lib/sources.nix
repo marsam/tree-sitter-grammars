@@ -738,15 +738,6 @@
       hash = "sha256-aOvlLAXe7h2RC6oUSuLk6g9XvcrUsSVHV6M0dKkf+MU=";
     };
   };
-  "tree-sitter-ca65" = {
-    version = "unstable-2024-07-28";
-    src = fetchFromGitHub {
-      owner = "captain-http";
-      repo = "tree-sitter-ca65";
-      rev = "fe4d6ccb849c8bc42096f9855aba6dc7cdf5d270";
-      hash = "sha256-4kbDSOQozxZ6U4o9HHt66ey0iJgmRl7AC0NIXmPqSiU=";
-    };
-  };
   "tree-sitter-cab" = {
     version = "unstable-2025-02-01";
     src = fetchFromGitHub {
