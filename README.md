@@ -71,7 +71,7 @@ in {
 | Grammar   | Version |
 | --------- | ------- |
 | tree-sitter-abap | [2024-06-29](https://github.com/mkoval1/tree-sitter-abap/tree/c7604df9e25d56ae879fa25694fd9f2ddbab05d8) |
-| tree-sitter-abl | [0.0.49](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.49) |
+| tree-sitter-abl | [0.0.50](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.50) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
 | tree-sitter-ada | [2025-12-16](https://github.com/briot/tree-sitter-ada/tree/6b58259a08b1a22ba0247a7ce30be384db618da6) |
@@ -428,7 +428,7 @@ in {
 | tree-sitter-markdown_inline | [0.5.2](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.2/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.2.10](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.10) |
+| tree-sitter-matlab | [1.2.12](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.12) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdn | [0.1.5](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.5) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
