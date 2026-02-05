@@ -428,7 +428,7 @@ in {
 | tree-sitter-markdown_inline | [0.5.2](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.2/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
-| tree-sitter-matlab | [1.2.13](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.2.13) |
+| tree-sitter-matlab | [1.3.0](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.0) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdn | [0.1.5](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.5) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
@@ -613,7 +613,7 @@ in {
 | tree-sitter-skbdrc | [2025-08-22](https://github.com/starkwm/tree-sitter-skbdrc/tree/72f28cb0ca6f73b2ab7831a6e349dc1f1c36ef23) |
 | tree-sitter-slang | [0.3.1](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.1) |
 | tree-sitter-slim | [2025-06-14](https://github.com/theoo/tree-sitter-slim/tree/a06113f5175b805a37d20df0a6f9d722e0ab6cfe) |
-| tree-sitter-slint | [2026-02-01](https://github.com/slint-ui/tree-sitter-slint/tree/9b7b9416cddb46769745594c536e7673cc5e7121) |
+| tree-sitter-slint | [2026-02-04](https://github.com/slint-ui/tree-sitter-slint/tree/5dafe6745dd3bb24342acebe478015b642dc7135) |
 | tree-sitter-smali | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-smali/tree/v1.0.0) |
 | tree-sitter-smarty | [2023-11-15](https://github.com/Kibadda/tree-sitter-smarty/tree/10d7ec727362b2978d686b544cee96568e297aae) |
 | tree-sitter-smithy | [0.2.0](https://github.com/indoorvivants/tree-sitter-smithy/tree/v0.2.0) |
@@ -704,7 +704,7 @@ in {
 | tree-sitter-umka | [2026-01-30](https://github.com/thacuber2a03/tree-sitter-umka/tree/78a4c27f63cadb2ec5adfb67f082a9f7f16660d1) |
 | tree-sitter-ungrammar | [2023-02-28](https://github.com/tree-sitter-grammars/tree-sitter-ungrammar/tree/debd26fed283d80456ebafa33a06957b0c52e451) |
 | tree-sitter-unifieddiff | [2022-12-23](https://github.com/monaqa/tree-sitter-unifieddiff/tree/d4556131c279d73961943a2ebf878198ab7976a6) |
-| tree-sitter-unison | [2.1.1](https://github.com/kylegoetz/tree-sitter-unison/tree/2.1.1) |
+| tree-sitter-unison | [2.1.3](https://github.com/kylegoetz/tree-sitter-unison/tree/2.1.3) |
 | tree-sitter-uri | [2025-11-10](https://github.com/atusy/tree-sitter-uri/tree/b6ec28ddfa29bef3265fc285866eeda32fe2c816) |
 | tree-sitter-ursa | [1.0.25](https://github.com/ursalang/tree-sitter-ursa/tree/v1.0.25) |
 | tree-sitter-usd | [0.6.0](https://github.com/ColinKennedy/tree-sitter-usd/tree/v0.6.0) |
