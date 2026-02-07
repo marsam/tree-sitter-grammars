@@ -1702,12 +1702,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2026-02-05";
+    version = "unstable-2026-02-06";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "4d8d290b74e6c0b2be611984500040136aa93c67";
-      hash = "sha256-t57QvPkY5XHO0hOGZVK3KC3t+8Wx26F66C0RTZ7kqtA=";
+      rev = "9425a94ced16b1c65f373010b9dd9e066ccc5530";
+      hash = "sha256-gGJCx/D7Mpm9naCl0AfJrRNyxu9Gvqd8p/VaFb163nM=";
     };
   };
   "tree-sitter-forester" = {
