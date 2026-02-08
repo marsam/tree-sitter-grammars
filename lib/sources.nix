@@ -4992,13 +4992,13 @@
     };
   };
   "tree-sitter-t32" = {
-    version = "7.2.1";
+    version = "7.2.2";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "xasc";
       repo = "tree-sitter-t32";
-      rev = "v7.2.1";
-      hash = "sha256-dAbjM+wlKtJ3cY3zdRgsdsjJ0ZYDZxTL0mcunqqNbvw=";
+      rev = "v7.2.2";
+      hash = "sha256-BUao6oveuWWPn2jDUWAjzoi9YMsDEA5B+hKJHvCUtD0=";
     };
   };
   "tree-sitter-tablegen" = {

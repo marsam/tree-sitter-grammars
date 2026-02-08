@@ -661,7 +661,7 @@ in {
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.3.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.3.1) |
-| tree-sitter-t32 | [7.2.1](https://codeberg.org/xasc/tree-sitter-t32/src/v7.2.1) |
+| tree-sitter-t32 | [7.2.2](https://codeberg.org/xasc/tree-sitter-t32/src/v7.2.2) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
