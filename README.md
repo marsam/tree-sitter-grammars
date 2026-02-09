@@ -148,12 +148,12 @@ in {
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2024-02-13](https://github.com/bufbuild/tree-sitter-cel/tree/df0585025e6f50cdb07347f5009ae3f47c652890) |
-| tree-sitter-cfhtml | [2026-01-28](https://github.com/cfmleditor/tree-sitter-cfml/tree/ba6079a38bd4ce5e266b60693024fda7a6cad455/cfhtml) |
-| tree-sitter-cfml | [2026-01-28](https://github.com/cfmleditor/tree-sitter-cfml/tree/ba6079a38bd4ce5e266b60693024fda7a6cad455/cfml) |
-| tree-sitter-cfscript | [2026-01-28](https://github.com/cfmleditor/tree-sitter-cfml/tree/ba6079a38bd4ce5e266b60693024fda7a6cad455/cfscript) |
+| tree-sitter-cfhtml | [2026-01-28](https://github.com/cfmleditor/tree-sitter-cfml/tree/bfe7b0a7ea6579fd7740104504c63d20101014d0/cfhtml) |
+| tree-sitter-cfml | [2026-01-28](https://github.com/cfmleditor/tree-sitter-cfml/tree/bfe7b0a7ea6579fd7740104504c63d20101014d0/cfml) |
+| tree-sitter-cfscript | [2026-01-28](https://github.com/cfmleditor/tree-sitter-cfml/tree/bfe7b0a7ea6579fd7740104504c63d20101014d0/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
-| tree-sitter-chuck | [2025-12-16](https://github.com/tymbalodeon/tree-sitter-chuck/tree/687be75e3d6dab953329618c5dfddb6845df7cf0) |
+| tree-sitter-chuck | [2026-02-08](https://github.com/tymbalodeon/tree-sitter-chuck/tree/b68b2e0fec50756de036844d5ae190b1d20144a3) |
 | tree-sitter-circom | [2024-09-09](https://github.com/Decurity/tree-sitter-circom/tree/02150524228b1e6afef96949f2d6b7cc0aaf999e) |
 | tree-sitter-clingo | [1.0.4](https://github.com/potassco/tree-sitter-clingo/tree/v1.0.4) |
 | tree-sitter-clojure | [0.0.13](https://github.com/sogaiu/tree-sitter-clojure/tree/v0.0.13) |
@@ -339,7 +339,7 @@ in {
 | tree-sitter-humphrey | [2025-09-16](https://github.com/SavourySnaX/tree-sitter-humphrey/tree/70e3d8e5048edc354452e6a4cf19934dd3def8aa) |
 | tree-sitter-hurl | [1.7.0](https://github.com/pfeiferj/tree-sitter-hurl/tree/v1.7.0) |
 | tree-sitter-hxml | [0.2.2](https://github.com/tong/tree-sitter-hxml/tree/v0.2.2) |
-| tree-sitter-hy | [2026-01-27](https://github.com/MinmusxMinmus/tree-sitter-hy/tree/cd4a7197ee20a14edef02fdf51bba381886dd031) |
+| tree-sitter-hy | [2026-02-08](https://github.com/MinmusxMinmus/tree-sitter-hy/tree/939c76d3e13307854f056a577a5e2a33a1adc012) |
 | tree-sitter-hygen_template | [0.5.0](https://github.com/Hdoc1509/tree-sitter-hygen-template/tree/v0.5.0) |
 | tree-sitter-hylo | [2024-07-21](https://github.com/natsukagami/tree-sitter-hylo/tree/494cbdff0d13cbc67348316af2efa0286dbddf6f) |
 | tree-sitter-hyperlink | [2024-10-21](https://github.com/savetheclocktower/tree-sitter-hyperlink/tree/0704b3e5a72892495dd13b85a5064582414cb39a) |
