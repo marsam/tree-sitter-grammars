@@ -1072,12 +1072,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-02-10";
+    version = "unstable-2026-02-11";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "fbc93a1aadd5bfd02e482c8e6f5d08a45f3a212e";
-      hash = "sha256-kiQ85vYBG4fz07ng/pt6Y+5wL+19wuyLM2AZ6MWz8kQ=";
+      rev = "3c6673c72e8bd5934704c915611b8ad6d9d60430";
+      hash = "sha256-DQTa+D3iQWiMn1cZRmRxPYBBhWH+WfzVANlkSLVhI8k=";
     };
   };
   "tree-sitter-css_in_js" = {
