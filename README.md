@@ -147,7 +147,7 @@ in {
 | tree-sitter-catala_pl | [1.0.0](https://github.com/CatalaLang/tree-sitter-catala/tree/1.0.0/pl) |
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
-| tree-sitter-cel | [2024-02-13](https://github.com/bufbuild/tree-sitter-cel/tree/df0585025e6f50cdb07347f5009ae3f47c652890) |
+| tree-sitter-cel | [2026-02-12](https://github.com/bufbuild/tree-sitter-cel/tree/0c6ea38fad2290f0970ee12c6fac260d4fb8793d) |
 | tree-sitter-cfhtml | [2026-02-10](https://github.com/cfmleditor/tree-sitter-cfml/tree/6bb7e74437769b05f56b5a05f80efd8f31034e56/cfhtml) |
 | tree-sitter-cfml | [2026-02-10](https://github.com/cfmleditor/tree-sitter-cfml/tree/6bb7e74437769b05f56b5a05f80efd8f31034e56/cfml) |
 | tree-sitter-cfscript | [2026-02-10](https://github.com/cfmleditor/tree-sitter-cfml/tree/6bb7e74437769b05f56b5a05f80efd8f31034e56/cfscript) |
@@ -442,7 +442,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2025-11-05](https://github.com/shackle-rs/shackle/tree/a1090067ad19e24fabc0afb751a057a1926a4b85/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.0](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.0) |
-| tree-sitter-mlir | [2026-02-10](https://github.com/artagnon/tree-sitter-mlir/tree/b4eb1e01f0c719782faa7e190650f9ad7564106e) |
+| tree-sitter-mlir | [2026-02-13](https://github.com/artagnon/tree-sitter-mlir/tree/ec2e1a8d46b2d40231dcb72f801c8258457a1621) |
 | tree-sitter-mojo | [2025-12-25](https://github.com/lsh/tree-sitter-mojo/tree/03966fb3f209bea86844aab3bd0f2158a5a8bb8d) |
 | tree-sitter-moonbit | [2026-02-10](https://github.com/moonbitlang/tree-sitter-moonbit/tree/f4b3ecc298b13192ff0dafa295b0078d000e5931) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -613,7 +613,7 @@ in {
 | tree-sitter-skbdrc | [2025-08-22](https://github.com/starkwm/tree-sitter-skbdrc/tree/72f28cb0ca6f73b2ab7831a6e349dc1f1c36ef23) |
 | tree-sitter-slang | [0.3.1](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.1) |
 | tree-sitter-slim | [2025-06-14](https://github.com/theoo/tree-sitter-slim/tree/a06113f5175b805a37d20df0a6f9d722e0ab6cfe) |
-| tree-sitter-slint | [2026-02-04](https://github.com/slint-ui/tree-sitter-slint/tree/5dafe6745dd3bb24342acebe478015b642dc7135) |
+| tree-sitter-slint | [2026-02-12](https://github.com/slint-ui/tree-sitter-slint/tree/a6e4e1c656429e5df52dcfcd92da87b642f6678b) |
 | tree-sitter-smali | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-smali/tree/v1.0.0) |
 | tree-sitter-smarty | [2023-11-15](https://github.com/Kibadda/tree-sitter-smarty/tree/10d7ec727362b2978d686b544cee96568e297aae) |
 | tree-sitter-smithy | [0.2.0](https://github.com/indoorvivants/tree-sitter-smithy/tree/v0.2.0) |
