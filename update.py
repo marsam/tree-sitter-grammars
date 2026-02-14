@@ -433,7 +433,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-kdl": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-kdl"),
     "tree-sitter-kitty": Grammar("https://github.com/OXY2DEV/tree-sitter-kitty"),
     "tree-sitter-kittyconf": Grammar("https://github.com/clo4/tree-sitter-kitty-conf"),
-    "tree-sitter-koka": Grammar("https://github.com/mtoohey31/tree-sitter-koka"),
+    "tree-sitter-koka": Grammar("https://github.com/koka-community/tree-sitter-koka"),
     "tree-sitter-kos": Grammar("https://github.com/kos-lang/tree-sitter-kos"),
     "tree-sitter-kotlin": Grammar("https://github.com/fwcd/tree-sitter-kotlin"),
     "tree-sitter-koto": Grammar("https://github.com/koto-lang/tree-sitter-koto"),

@@ -388,7 +388,7 @@ in {
 | tree-sitter-kdl | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-kdl/tree/v1.1.0) |
 | tree-sitter-kitty | [0.0.1](https://github.com/OXY2DEV/tree-sitter-kitty/tree/v0.0.1) |
 | tree-sitter-kittyconf | [2023-03-24](https://github.com/clo4/tree-sitter-kitty-conf/tree/9cdf551522d509c0432f136eb373bdf2e6032493) |
-| tree-sitter-koka | [2025-07-26](https://github.com/mtoohey31/tree-sitter-koka/tree/6dce132911ac375ac1a3591c868c47a2a84b30aa) |
+| tree-sitter-koka | [2026-02-13](https://github.com/koka-community/tree-sitter-koka/tree/33df0ee12208058a02acfa1843f087a63cec4441) |
 | tree-sitter-kos | [2026-01-04](https://github.com/kos-lang/tree-sitter-kos/tree/03b261c1a78b71c38cf4616497f253c4a4ce118b) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
 | tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
