@@ -177,7 +177,7 @@ in {
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
 | tree-sitter-crystal | [2025-10-12](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/50ca9e6fcfb16a2cbcad59203cfd8ad650e25c49) |
-| tree-sitter-csound | [2026-02-14](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/7833c40533f4f2b85cb6e78dafb21e97d604c537) |
+| tree-sitter-csound | [2026-02-14](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/386de2bb0b6ebaab2c1b692fd98fc8b4291c8898) |
 | tree-sitter-css | [0.25.0](https://github.com/tree-sitter/tree-sitter-css/tree/v0.25.0) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -197,7 +197,7 @@ in {
 | tree-sitter-desktop | [1.1.0](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v1.1.0) |
 | tree-sitter-devicetree | [0.15.0](https://github.com/joelspadin/tree-sitter-devicetree/tree/v0.15.0) |
 | tree-sitter-dezyne | [2025-12-21](https://github.com/j0ran/tree-sitter-dezyne/tree/c5d0656063d1e0df30b0eebff84fc34f07f5d4c9) |
-| tree-sitter-df | [0.0.4](https://github.com/usagi-coffee/tree-sitter-df/tree/v0.0.4) |
+| tree-sitter-df | [0.0.8](https://github.com/usagi-coffee/tree-sitter-df/tree/v0.0.8) |
 | tree-sitter-dhall | [1.0.0](https://github.com/jbellerb/tree-sitter-dhall/tree/1.0.0) |
 | tree-sitter-dialogue | [2025-07-19](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/5fb60d8f73408171d3776a4311ae03694b03da8a) |
 | tree-sitter-diff | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-diff/tree/v0.1.0) |

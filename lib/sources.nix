@@ -1076,8 +1076,8 @@
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "7833c40533f4f2b85cb6e78dafb21e97d604c537";
-      hash = "sha256-zDBKXWIVNYlGuFzFGNoCjSASYYgJE+IYL4QqxLxt/B4=";
+      rev = "386de2bb0b6ebaab2c1b692fd98fc8b4291c8898";
+      hash = "sha256-fdIOK1+eyMb1e5auW06ME8yZmvZnMolPkQx63ut4sYg=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -1234,12 +1234,12 @@
     };
   };
   "tree-sitter-df" = {
-    version = "0.0.4";
+    version = "0.0.8";
     src = fetchFromGitHub {
       owner = "usagi-coffee";
       repo = "tree-sitter-df";
-      rev = "v0.0.4";
-      hash = "sha256-15NBrfY29/i+Ux4X9CbFe8vyfiIjMDdyxWGOar2k1dE=";
+      rev = "v0.0.8";
+      hash = "sha256-9cbGTAb2ZYVYpAcigQU5zcokuioITWELoRfYR3CxGi8=";
     };
   };
   "tree-sitter-dhall" = {
