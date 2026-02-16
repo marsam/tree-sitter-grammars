@@ -4901,12 +4901,12 @@
     };
   };
   "tree-sitter-sus" = {
-    version = "0.3.7";
+    version = "0.3.8";
     src = fetchFromGitHub {
       owner = "pc2";
       repo = "sus-compiler";
-      rev = "v0.3.7";
-      hash = "sha256-/Q9J2P0sal3JO0FM0uuZT8vkKQeUw8RLECxFiEsL41w=";
+      rev = "v0.3.8";
+      hash = "sha256-rARk8pNcdkyaBD88JuaWXnp/39Ge2Rf0T8K6hTvX37c=";
     };
   };
   "tree-sitter-svelte" = {
