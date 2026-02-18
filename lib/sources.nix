@@ -334,12 +334,12 @@
     };
   };
   "tree-sitter-angular" = {
-    version = "0.8.2";
+    version = "0.8.3";
     src = fetchFromGitHub {
       owner = "dlvandenberg";
       repo = "tree-sitter-angular";
-      rev = "v0.8.2";
-      hash = "sha256-nH7oiu1GgPjFSvH4lR4u/D2+eKJbbf8yIBbPgdv7I78=";
+      rev = "v0.8.3";
+      hash = "sha256-rCecCdb/Bi90KsMvStNvldDPI73EDevA+QLXTYRwueg=";
     };
   };
   "tree-sitter-apachesynapse" = {
@@ -640,12 +640,12 @@
     };
   };
   "tree-sitter-bpftrace" = {
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchFromGitHub {
       owner = "sgruszka";
       repo = "tree-sitter-bpftrace";
-      rev = "v0.3.1";
-      hash = "sha256-dM4wuIB1Sg+Fnb7ldx62OOd7w14ewEX0Em27peSeDL0=";
+      rev = "v0.3.2";
+      hash = "sha256-BIPAnkY9QcW+LSR9w1E7gsCAqpOYSBpG/FF7UQYm5XI=";
     };
   };
   "tree-sitter-bqn" = {
@@ -2116,12 +2116,12 @@
     };
   };
   "tree-sitter-gram" = {
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchFromGitHub {
       owner = "gram-data";
       repo = "tree-sitter-gram";
-      rev = "0.3.1";
-      hash = "sha256-IkUt8oNAejpu34dJvyYbGCjEKBLQeZTwJUOeu2osh24=";
+      rev = "0.3.2";
+      hash = "sha256-6LCzM0D//5KVzB3GtZHSO8r28eUMIRjzw7WEBWEvJ/s=";
     };
   };
   "tree-sitter-graphql" = {
@@ -3243,12 +3243,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-02-13";
+    version = "unstable-2026-02-18";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "d2ba26eeee7e3fd83a52236e1f143da42145ade7";
-      hash = "sha256-kPll9hqe7Jn0XEuQ1ZSJxeF5gnJWu3e2XUwDIpZV04M=";
+      rev = "3717574f2a5922e74a980567ca8c04c859615274";
+      hash = "sha256-0dWAhBp9nzhb80k6yzI2DNSHu5wAaoIcuMqXiP5PYuw=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3306,12 +3306,12 @@
     };
   };
   "tree-sitter-move_on_aptos" = {
-    version = "unstable-2025-03-21";
+    version = "unstable-2026-02-17";
     src = fetchFromGitHub {
       owner = "aptos-labs";
       repo = "tree-sitter-move-on-aptos";
-      rev = "c820eb4716e16393fa10f6a800ec00d506e22c34";
-      hash = "sha256-ZyTdwhhtcTvBj/iDaVVdc9C63Nyf0SSIUNX8QgMhets=";
+      rev = "12906b341de7cef81cf03d7d91dae51d8a9299e7";
+      hash = "sha256-KUMwgTpC0o6hVMXFPnzrZLY9eRQJCpanKzDUxur6ngM=";
     };
   };
   "tree-sitter-mozjs" = {
