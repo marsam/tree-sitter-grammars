@@ -585,8 +585,8 @@ in {
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
-| tree-sitter-rpmbash | [2026-02-13](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/13b12eeb20f2720638bb19f0f8c16439af03089f/rpmbash) |
-| tree-sitter-rpmspec | [2026-02-13](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/13b12eeb20f2720638bb19f0f8c16439af03089f/rpmspec) |
+| tree-sitter-rpmbash | [2026-02-18](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/12ca6187e144648d0cbe287dcc75f0fdd878a9ac/rpmbash) |
+| tree-sitter-rpmspec | [2026-02-18](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/12ca6187e144648d0cbe287dcc75f0fdd878a9ac/rpmspec) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
 | tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.2.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.2.0) |
@@ -635,7 +635,7 @@ in {
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2025.12.4](https://github.com/metio/tree-sitter-ssh-client-config/tree/2025.12.4) |
+| tree-sitter-ssh_client_config | [2026.2.18](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.2.18) |
 | tree-sitter-ssh_config | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.4.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.2.6](https://github.com/WardBrian/tree-sitter-stan/tree/v0.2.6) |
