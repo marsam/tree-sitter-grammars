@@ -838,12 +838,12 @@
     };
   };
   "tree-sitter-cel" = {
-    version = "unstable-2026-02-12";
+    version = "unstable-2026-02-19";
     src = fetchFromGitHub {
       owner = "bufbuild";
       repo = "tree-sitter-cel";
-      rev = "0c6ea38fad2290f0970ee12c6fac260d4fb8793d";
-      hash = "sha256-R0a+TDv5GuHAGxfarOVRINuVcp/BOJnNCHG1t66aTnk=";
+      rev = "138581459afd1397363a8b0c9ac80eedcb961ceb";
+      hash = "sha256-mQMyvP6D3mIeuGFRrLxD6qPvxkBEqAEYgM6qlixi7Qc=";
     };
   };
   "tree-sitter-cfml" = {
@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2025-11-05";
+    version = "unstable-2026-02-19";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "a1090067ad19e24fabc0afb751a057a1926a4b85";
-      hash = "sha256-ECJM+UvEHzo4kdfH6yKuIdQ3hv/MJmcmVm8opHgVxuA=";
+      rev = "618ff824fd2f5fa4c4c7d8a3c142f1f8dde6dd5b";
+      hash = "sha256-ig99R3dRCMljzO82vFianP2Lrm0lHN+5qiJwvhsijfk=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3243,12 +3243,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-02-18";
+    version = "unstable-2026-02-20";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "3717574f2a5922e74a980567ca8c04c859615274";
-      hash = "sha256-0dWAhBp9nzhb80k6yzI2DNSHu5wAaoIcuMqXiP5PYuw=";
+      rev = "fe703bcb17ee58a3029df8a35099be1415877633";
+      hash = "sha256-ctw5YO9bEau2VHggMq919omJ2lOZ7rUz7gTFAXm/1VM=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4280,12 +4280,12 @@
     };
   };
   "tree-sitter-rescript" = {
-    version = "unstable-2026-02-13";
+    version = "unstable-2026-02-19";
     src = fetchFromGitHub {
       owner = "rescript-lang";
       repo = "tree-sitter-rescript";
-      rev = "3159c949c15096b02b470bd4025754806fc7a17d";
-      hash = "sha256-A1u3CCJw6Rqsr6SLqVjYIr6spd7prLF4AMmA79N+8tQ=";
+      rev = "43c2f1f35024918d415dc933d4cc534d6419fedf";
+      hash = "sha256-QG4LvF/ix7wKHrZ1pUNXzG6ibbITUYAZYb4a39qJF/o=";
     };
   };
   "tree-sitter-restedlang" = {
