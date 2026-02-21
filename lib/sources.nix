@@ -838,12 +838,12 @@
     };
   };
   "tree-sitter-cel" = {
-    version = "unstable-2026-02-19";
+    version = "unstable-2026-02-20";
     src = fetchFromGitHub {
       owner = "bufbuild";
       repo = "tree-sitter-cel";
-      rev = "138581459afd1397363a8b0c9ac80eedcb961ceb";
-      hash = "sha256-mQMyvP6D3mIeuGFRrLxD6qPvxkBEqAEYgM6qlixi7Qc=";
+      rev = "e0b695e6c318babff09de7e66e0de0adaab7b8ad";
+      hash = "sha256-//wHfudCVgXsmhbBdEPJ8oM16zrDnRYj2d7HjkcJwwQ=";
     };
   };
   "tree-sitter-cfml" = {
@@ -1072,12 +1072,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-02-14";
+    version = "unstable-2026-02-20";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "386de2bb0b6ebaab2c1b692fd98fc8b4291c8898";
-      hash = "sha256-fdIOK1+eyMb1e5auW06ME8yZmvZnMolPkQx63ut4sYg=";
+      rev = "86fa072d6690c81f0076e3f042867719ad0a13ce";
+      hash = "sha256-ZZRdJIzSzu62Qwi8+QtV4TqhveA2U1UmhfVOixWH6UE=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -1441,12 +1441,12 @@
     };
   };
   "tree-sitter-elle" = {
-    version = "unstable-2026-01-28";
+    version = "unstable-2026-02-20";
     src = fetchFromGitHub {
       owner = "acquitelol";
       repo = "tree-sitter-elle";
-      rev = "6a9af66eb06e05c4ab5e76b94311018cac7db76c";
-      hash = "sha256-fjA/Pf3D6U2Ru6it81e4lQa13v2+qGwMg0SXC9yJFkc=";
+      rev = "c39d624e175b9d51baf0e852432cf796063fc460";
+      hash = "sha256-NMnaXxJQEpl7VLMQ3t2dJiYevqZlX+HFTHZG9qrxw68=";
     };
   };
   "tree-sitter-elm" = {
@@ -5407,12 +5407,12 @@
     };
   };
   "tree-sitter-vento" = {
-    version = "unstable-2026-02-10";
+    version = "unstable-2026-02-20";
     src = fetchFromGitHub {
       owner = "ventojs";
       repo = "tree-sitter-vento";
-      rev = "edd6596d4b0f392b87fc345dc26d84a6c32f7059";
-      hash = "sha256-QbPV9MVe5e9l/rAy2phEd5aqejl4KBkBhHIFdhuYCe4=";
+      rev = "93939f2344ce3d2fb1f1ae4e71edb614424d5be9";
+      hash = "sha256-ArPVEDpNTpq93Y3SMz1znLUZEvGhszbc/po82mtERMU=";
     };
   };
   "tree-sitter-verus" = {
