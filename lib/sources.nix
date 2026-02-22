@@ -5848,12 +5848,12 @@
     };
   };
   "tree-sitter-zsh" = {
-    version = "0.53.0";
+    version = "0.54.0";
     src = fetchFromGitHub {
       owner = "georgeharker";
       repo = "tree-sitter-zsh";
-      rev = "v0.53.0";
-      hash = "sha256-xDivWiJYwuydadkyin6jsc9FFwhgHQ+EBa/YQRiAM/s=";
+      rev = "v0.54.0";
+      hash = "sha256-ERdNq0opeHkzlud+QMHtgpmRnvoHmbnta9mtDSf5mrI=";
     };
   };
 }

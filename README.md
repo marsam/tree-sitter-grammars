@@ -766,7 +766,7 @@ in {
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
 | tree-sitter-zscript | [2025-10-20](https://github.com/dastrukar/tree-sitter-zscript/tree/b16bdbd7236b27e1dcc00edaef68e2fc6964b660) |
-| tree-sitter-zsh | [0.53.0](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.53.0) |
+| tree-sitter-zsh | [0.54.0](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.54.0) |
 
 </details>
 <!-- end-gramars -->
