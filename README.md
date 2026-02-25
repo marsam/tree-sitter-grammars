@@ -527,7 +527,7 @@ in {
 | tree-sitter-possum | [2024-11-16](https://github.com/mulias/tree-sitter-possum/tree/670eaef36883cd5f772160b9918c6b0003d22320) |
 | tree-sitter-postscript | [1.3.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.3.0) |
 | tree-sitter-poweron | [1.0.12](https://github.com/phileagleson/tree-sitter-poweron/tree/v1.0.12) |
-| tree-sitter-powershell | [0.26.0](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.26.0) |
+| tree-sitter-powershell | [0.26.3](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.26.3) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |
 | tree-sitter-printf | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-printf/tree/v0.5.1) |
 | tree-sitter-prisma | [1.6.0](https://github.com/victorhqc/tree-sitter-prisma/tree/v1.6.0) |
@@ -629,7 +629,7 @@ in {
 | tree-sitter-spade | [2026-02-23](https://gitlab.com/spade-lang/tree-sitter-spade//tree/f4f62fcb2340d744f6df48de22b5f239beecdab5) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
-| tree-sitter-spicy | [2026-02-02](https://github.com/bbannier/tree-sitter-spicy/tree/85150dfaf0eb247d912f3beaa2b0fa1cca063dab) |
+| tree-sitter-spicy | [2026-02-24](https://github.com/bbannier/tree-sitter-spicy/tree/2b11a2482fe2c4f77fd5820cb89a3572bd5e76db) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
