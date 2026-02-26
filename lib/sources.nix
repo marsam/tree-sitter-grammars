@@ -2928,12 +2928,12 @@
     };
   };
   "tree-sitter-liquid" = {
-    version = "unstable-2025-05-23";
+    version = "unstable-2026-02-25";
     src = fetchFromGitHub {
       owner = "hankthetank27";
       repo = "tree-sitter-liquid";
-      rev = "d6ebde3974742cd1b61b55d1d94aab1dacb41056";
-      hash = "sha256-rcRbo6iyO2uC2OS0dR20xJlDlBdCoyIUc9nEv0KPWxI=";
+      rev = "fa11c7ba45038b61e03a8a00ad667fb5f3d72088";
+      hash = "sha256-zDBaW8Tb5MgdLJTIJmZzkR0KqAqmEortAI6jbEspgqE=";
     };
   };
   "tree-sitter-liquidsoap" = {
@@ -3243,12 +3243,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-02-20";
+    version = "unstable-2026-02-26";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "fe703bcb17ee58a3029df8a35099be1415877633";
-      hash = "sha256-ctw5YO9bEau2VHggMq919omJ2lOZ7rUz7gTFAXm/1VM=";
+      rev = "70ccdc99c2ff8c694a842a63dcabfa918e144451";
+      hash = "sha256-fwf1mTjlEItLsNEmbY5mU8FILGqXyohhyCqpw6uGmH4=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4586,12 +4586,12 @@
     };
   };
   "tree-sitter-slint" = {
-    version = "unstable-2026-02-12";
+    version = "unstable-2026-02-26";
     src = fetchFromGitHub {
       owner = "slint-ui";
       repo = "tree-sitter-slint";
-      rev = "a6e4e1c656429e5df52dcfcd92da87b642f6678b";
-      hash = "sha256-A4m3jG7VjGws7pVzd7ulbhINe783shv4pc3tH8EDji0=";
+      rev = "4d7ad0617c30f865f051bbac04a9826bea29f987";
+      hash = "sha256-u/nVbZEJPMbBzYCgXpE8L1KJyWJmB27uofSkeOMSOnI=";
     };
   };
   "tree-sitter-smali" = {
@@ -4766,12 +4766,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.2.18";
+    version = "2026.2.26";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.2.18";
-      hash = "sha256-zEQ9jof8CMx6YtzU+y/GnBeI7htv9EbUHtAKSmX6c3M=";
+      rev = "2026.2.26";
+      hash = "sha256-TcOjOm7gv20ROBr82WmxUKAAiZKFHOWq9ouR/u5VFaQ=";
     };
   };
   "tree-sitter-ssh_config" = {
