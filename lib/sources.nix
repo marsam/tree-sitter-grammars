@@ -4559,12 +4559,12 @@
     };
   };
   "tree-sitter-skbdrc" = {
-    version = "unstable-2026-02-13";
+    version = "unstable-2026-03-01";
     src = fetchFromGitHub {
       owner = "starkwm";
       repo = "tree-sitter-skbdrc";
-      rev = "a9be1d4e7165e846bc1be140741675c3bad46dd0";
-      hash = "sha256-9z+AQIVxduXV4xdRmDDHJNlj4a22oOEnVKfXKNE/+tU=";
+      rev = "8c5c014b94191677f15f9a40fd6a1341c6834452";
+      hash = "sha256-SlAahEJXfDCjGObwYfimUFi5DPwBjQDnwCSprp9tynI=";
     };
   };
   "tree-sitter-slang" = {

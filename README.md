@@ -610,7 +610,7 @@ in {
 | tree-sitter-selinux | [2024-04-26](https://github.com/mdmfernandes/tree-sitter-selinux/tree/e13c6cdbe05845c0e9379c6937b59d7424e9ece3) |
 | tree-sitter-semver | [0.0.1](https://github.com/uselessscat/tree-sitter-semver/tree/0.0.1) |
 | tree-sitter-shosts | [2025-01-15](https://github.com/Smart-Hosts/tree-sitter-shosts/tree/0b62b6e0fddb6ee7ac6940bbc967fa1956233c60) |
-| tree-sitter-skbdrc | [2026-02-13](https://github.com/starkwm/tree-sitter-skbdrc/tree/a9be1d4e7165e846bc1be140741675c3bad46dd0) |
+| tree-sitter-skbdrc | [2026-03-01](https://github.com/starkwm/tree-sitter-skbdrc/tree/8c5c014b94191677f15f9a40fd6a1341c6834452) |
 | tree-sitter-slang | [0.3.1](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.1) |
 | tree-sitter-slim | [2025-06-14](https://github.com/theoo/tree-sitter-slim/tree/a06113f5175b805a37d20df0a6f9d722e0ab6cfe) |
 | tree-sitter-slint | [2026-02-26](https://github.com/slint-ui/tree-sitter-slint/tree/4d7ad0617c30f865f051bbac04a9826bea29f987) |
