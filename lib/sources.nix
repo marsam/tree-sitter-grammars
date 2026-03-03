@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-03-02";
+    version = "unstable-2026-03-03";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "4ca9a3136204a2f83d3ab8bb809199e7cfeddad0";
-      hash = "sha256-gHg5zzT8NI7CYia0ul7xYjkgrB3OwFn7RNUSAmvie4Q=";
+      rev = "e7f7a0b88ba4de6578c193b63d3c91ad0f3bf257";
+      hash = "sha256-9R/haUurRFSi+H2nDCp8+5dblzhlH2ohYReaYNUMmvY=";
     };
   };
   "tree-sitter-dbml" = {
@@ -1432,12 +1432,12 @@
     };
   };
   "tree-sitter-elixir" = {
-    version = "0.3.4";
+    version = "0.3.5";
     src = fetchFromGitHub {
       owner = "elixir-lang";
       repo = "tree-sitter-elixir";
-      rev = "v0.3.4";
-      hash = "sha256-9M/DpqpGivDtgGt3ojU/kHR51sla59+KtZ/95hT6IIo=";
+      rev = "v0.3.5";
+      hash = "sha256-C5/+t49pcFh45GqLZRjRs/sH8Ej+dklR/brad+snsyQ=";
     };
   };
   "tree-sitter-elle" = {
@@ -3063,12 +3063,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2026-02-23";
+    version = "unstable-2026-03-02";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "b517d25c271a379fa0605772604c1f53035c5c6b";
-      hash = "sha256-dnGF7KipEkvDPPaDDKvdrpC8e3d5JREvaJzmWjFes7w=";
+      rev = "f280cc35e135a54b4d8cb5dc89981cffb2f1fe44";
+      hash = "sha256-7Ow39SFSnkuAeasHgT29mUduL7dkfM+ubJewDRnQEjg=";
     };
   };
   "tree-sitter-make" = {
@@ -3540,12 +3540,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2026-01-25";
+    version = "unstable-2026-03-02";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "bb3f533e5792260291945e1f329e1f0a779def6e";
-      hash = "sha256-0ebKHKexu1TROwfxokwwpPhCO+Nn7HmmX40jRu19xNo=";
+      rev = "f4793e3809bb84e78dee260b47085d8203a58d88";
+      hash = "sha256-0tQOALi8079pqy12mGG3eqsqv2FsqVvRnetp4xXKH9s=";
     };
   };
   "tree-sitter-numbat" = {
@@ -4712,12 +4712,12 @@
     };
   };
   "tree-sitter-spicy" = {
-    version = "unstable-2026-02-24";
+    version = "unstable-2026-03-02";
     src = fetchFromGitHub {
       owner = "bbannier";
       repo = "tree-sitter-spicy";
-      rev = "2b11a2482fe2c4f77fd5820cb89a3572bd5e76db";
-      hash = "sha256-WJ+shbiP8lFQcadbbpbujpHp1t1j2GlTBme53nyiSXo=";
+      rev = "b673e657fb34001a42bf37c26267cafe14fede0f";
+      hash = "sha256-kaDVfRnfvaMUnODpx+yRbZVNKr8vOoVM51rsdRFR8e8=";
     };
   };
   "tree-sitter-spml" = {
@@ -4793,12 +4793,12 @@
     };
   };
   "tree-sitter-stan" = {
-    version = "0.2.6";
+    version = "0.2.8";
     src = fetchFromGitHub {
       owner = "WardBrian";
       repo = "tree-sitter-stan";
-      rev = "v0.2.6";
-      hash = "sha256-79wZUdVYEYcuA0mGuowIspu42wQE/8ysEAYZQlGjpIM=";
+      rev = "v0.2.8";
+      hash = "sha256-7lKG7ImziWuUq5IqSYpXOsPLvDVMgceGpMF5Peq1c8c=";
     };
   };
   "tree-sitter-starlark" = {
@@ -5137,12 +5137,12 @@
     };
   };
   "tree-sitter-times" = {
-    version = "unstable-2026-03-01";
+    version = "unstable-2026-03-02";
     src = fetchFromGitHub {
       owner = "michaeladler";
       repo = "tree-sitter-times";
-      rev = "37c79f4c473068a87054f7eab5f4751e08b9226f";
-      hash = "sha256-jpMuDqWXtECJKF/VW1qxzuF1QAAiQxOmxt9QekpcORQ=";
+      rev = "e80b353e9cafaccb72cd3531c177f291250d3609";
+      hash = "sha256-xL1rz1sOsAk+CNGOVmlHTobf74+Eojsc0hERIGVVk+o=";
     };
   };
   "tree-sitter-tl" = {
@@ -5434,12 +5434,12 @@
     };
   };
   "tree-sitter-vhdl" = {
-    version = "1.3.1";
+    version = "1.4.0";
     src = fetchFromGitHub {
       owner = "jpt13653903";
       repo = "tree-sitter-vhdl";
-      rev = "v1.3.1";
-      hash = "sha256-UbrTs3r+0gSHePTRiHyxZe55t9EIkaK2Auwojq6Dd+A=";
+      rev = "v1.4.0";
+      hash = "sha256-VnnBDxxirwGtPWI0YqRsC5CBEkfjP+DC+oUg97vkdos=";
     };
   };
   "tree-sitter-vhs" = {
@@ -5848,12 +5848,12 @@
     };
   };
   "tree-sitter-zsh" = {
-    version = "0.56.0";
+    version = "0.57.0";
     src = fetchFromGitHub {
       owner = "georgeharker";
       repo = "tree-sitter-zsh";
-      rev = "v0.56.0";
-      hash = "sha256-fU2cU0fuIxlJpvep7y+aSIPSMJE5lEWi1M+bb9/fOfk=";
+      rev = "v0.57.0";
+      hash = "sha256-LqUB72t6ZFejIrWFfOcQTSjOZQtnXprIhnoomrkoDTo=";
     };
   };
 }
