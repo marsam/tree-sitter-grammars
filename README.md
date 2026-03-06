@@ -78,7 +78,7 @@ in {
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [latest](https://github.com/SShadowS/tree-sitter-al/tree/latest) |
+| tree-sitter-al | [2026-03-04](https://github.com/SShadowS/tree-sitter-al/tree/f51327bab55ded96828810832634cb116eaba529) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
@@ -286,7 +286,7 @@ in {
 | tree-sitter-git_merge_conflict | [1.0.0](https://github.com/pv-hernandez/tree-sitter-git-merge-conflict/tree/v1.0.0) |
 | tree-sitter-git_rebase | [2024-07-22](https://github.com/the-mikedavis/tree-sitter-git-rebase/tree/bff4b66b44b020d918d67e2828eada1974a966aa) |
 | tree-sitter-gitattributes | [0.1.6](https://github.com/tree-sitter-grammars/tree-sitter-gitattributes/tree/v0.1.6) |
-| tree-sitter-gitcommit | [2026-03-04](https://github.com/gbprod/tree-sitter-gitcommit/tree/c5a5869cf78dfbf2c0b80f68b9274e3e32a713f6) |
+| tree-sitter-gitcommit | [0.4.0](https://github.com/gbprod/tree-sitter-gitcommit/tree/v0.4.0) |
 | tree-sitter-gitignore | [2022-05-04](https://github.com/shunsambongi/tree-sitter-gitignore/tree/f4685bf11ac466dd278449bcfe5fd014e94aa504) |
 | tree-sitter-gleam | [1.1.0](https://github.com/gleam-lang/tree-sitter-gleam/tree/v1.1.0) |
 | tree-sitter-glimmer | [1.6.0-tree-sitter-glimmer](https://github.com/ember-tooling/tree-sitter-glimmer/tree/v1.6.0-tree-sitter-glimmer) |
@@ -330,7 +330,7 @@ in {
 | tree-sitter-hlsplaylist | [0.0.5](https://github.com/Freed-Wu/tree-sitter-hlsplaylist/tree/0.0.5) |
 | tree-sitter-hocon | [2022-11-07](https://github.com/antosha417/tree-sitter-hocon/tree/c390f10519ae69fdb03b3e5764f5592fb6924bcc) |
 | tree-sitter-hoon | [0.0.3](https://github.com/urbit-pilled/tree-sitter-hoon/tree/0.0.3) |
-| tree-sitter-horn | [2024-12-09](https://github.com/giannosch/tree-sitter-horn/tree/8d22d343490a674502bd733bc00d5f17b3bbb028) |
+| tree-sitter-horn | [2024-12-09](https://github.com/giannos-ch/tree-sitter-horn/tree/8d22d343490a674502bd733bc00d5f17b3bbb028) |
 | tree-sitter-hosts | [2022-12-01](https://github.com/ath3/tree-sitter-hosts/tree/301b9379ce7dfc8bdbe2c2699a6887dcb73953f9) |
 | tree-sitter-html | [0.23.2](https://github.com/tree-sitter/tree-sitter-html/tree/v0.23.2) |
 | tree-sitter-htmldjango | [1.0.0](https://github.com/interdependence/tree-sitter-htmldjango/tree/v1.0.0) |
