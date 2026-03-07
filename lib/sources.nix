@@ -2937,12 +2937,12 @@
     };
   };
   "tree-sitter-liquidsoap" = {
-    version = "1.2.0";
+    version = "1.2.2";
     src = fetchFromGitHub {
       owner = "savonet";
       repo = "tree-sitter-liquidsoap";
-      rev = "v1.2.0";
-      hash = "sha256-ibDpFPqdz0WnRaKN0dP1uAPi9W9EWew+kDybuPz1Bow=";
+      rev = "v1.2.2";
+      hash = "sha256-eFdZxTIHijT6IuOjyIlElfr2HBU+BdOKJsIA1COmW9g=";
     };
   };
   "tree-sitter-lispbm" = {
@@ -4901,12 +4901,12 @@
     };
   };
   "tree-sitter-sus" = {
-    version = "0.3.8";
+    version = "0.3.9";
     src = fetchFromGitHub {
       owner = "pc2";
       repo = "sus-compiler";
-      rev = "v0.3.8";
-      hash = "sha256-rARk8pNcdkyaBD88JuaWXnp/39Ge2Rf0T8K6hTvX37c=";
+      rev = "v0.3.9";
+      hash = "sha256-9y/Jqx5u7Nkm0obCDerVT2RYRmiQox9twuIiIxiYkgs=";
     };
   };
   "tree-sitter-svelte" = {
