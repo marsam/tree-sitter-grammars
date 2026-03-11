@@ -127,7 +127,7 @@ in {
 | tree-sitter-brightscript | [2025-12-06](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/253fdfaa23814cb46c2d5fc19049fa0f2f62c6da) |
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
-| tree-sitter-bsl | [0.1.5](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.5) |
+| tree-sitter-bsl | [0.1.6](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.6) |
 | tree-sitter-bsv | [2025-11-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/f789c3445e0e923cbb7676af81e197a8afad84d8) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.1](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.1) |
@@ -257,7 +257,7 @@ in {
 | tree-sitter-flamingo | [0.1.4](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.4) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2026-03-04](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/3a362be4ded2c04bb48d374ac3dd53ccb14f0f75) |
+| tree-sitter-fodot | [2026-03-10](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/ed740ef6a9e32baf199c01d1b458816fec37597a) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -399,7 +399,7 @@ in {
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
 | tree-sitter-lean | [2024-12-25](https://github.com/Julian/tree-sitter-lean/tree/efe6b87145608d12f5996bd7f0cf6095a0e82261) |
-| tree-sitter-ledger | [2025-05-04](https://github.com/cbarrete/tree-sitter-ledger/tree/96c92d4908a836bf8f661166721c98439f8afb80) |
+| tree-sitter-ledger | [2026-03-11](https://github.com/cbarrete/tree-sitter-ledger/tree/2edce0372079896c810c7b218587f2b3fbb7a086) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
 | tree-sitter-lilypond | [0.0.2](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.2/lilypond) |
