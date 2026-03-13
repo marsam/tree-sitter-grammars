@@ -199,12 +199,12 @@
     };
   };
   "tree-sitter-scala" = {
-    version = "0.24.1";
+    version = "0.25.0";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-scala";
-      rev = "v0.24.1";
-      hash = "sha256-KOcsIvLiDoIXbXz01oGuuN5LAExFHYhECqiv074nWC0=";
+      rev = "v0.25.0";
+      hash = "sha256-xDp1+i0QLnY18EtiwurW1B4bbeS1qZKNJRxS6Qeb3pw=";
     };
   };
   "tree-sitter-typescript" = {
@@ -1504,11 +1504,11 @@
     };
   };
   "tree-sitter-epscript" = {
-    version = "unstable-2026-03-08";
+    version = "1.0.0";
     src = fetchFromGitHub {
       owner = "zuhanit";
       repo = "tree-sitter-epscript";
-      rev = "27b95b7f36d94c6f1de55d6923f508f5bd3b1dcf";
+      rev = "v1.0.0";
       hash = "sha256-DSuf4SrzDAKnG4BWpBzudc3FqYkHSvx50h7re/W17wY=";
     };
   };
@@ -1774,12 +1774,12 @@
     };
   };
   "tree-sitter-fsharp" = {
-    version = "0.1.0";
+    version = "0.2.2";
     src = fetchFromGitHub {
       owner = "ionide";
       repo = "tree-sitter-fsharp";
-      rev = "v0.1.0";
-      hash = "sha256-9YSywEoXxmLbyj3K888DbrHUBG4DrGTbYesW/SeDVvs=";
+      rev = "0.2.2";
+      hash = "sha256-tntrmAqY0E+8cdB/CLem54n3WIhsjljFOFeWb+2p0X8=";
     };
   };
   "tree-sitter-ftd" = {
@@ -3279,12 +3279,12 @@
     };
   };
   "tree-sitter-morloc" = {
-    version = "unstable-2026-02-22";
+    version = "unstable-2026-03-12";
     src = fetchFromGitHub {
       owner = "morloc-project";
       repo = "tree-sitter-morloc";
-      rev = "f6603bd357d49ccb27f75004b843d196735b6974";
-      hash = "sha256-xAH3tm3PcADOwAKah/hNVmhDzUE0DBbIlCP5bkM/Zco=";
+      rev = "005a3949e37d5bbe90e78adb1f08f58f65bb21ce";
+      hash = "sha256-01zsqB/42jHoQPkh3ojBdgcFWuRfo7rKhDXXBbwB0Js=";
     };
   };
   "tree-sitter-moshell" = {
@@ -3522,12 +3522,12 @@
     };
   };
   "tree-sitter-npf" = {
-    version = "unstable-2026-01-29";
+    version = "unstable-2026-03-12";
     src = fetchFromGitHub {
       owner = "ntyunyayev";
       repo = "tree-sitter-npf";
-      rev = "62d03d015b9e780cb179015b388c55375d51a9f6";
-      hash = "sha256-9Sz/Ru3ly5ANHlUHF14L0Cq3qoUpHW6l4XGu+4Usnn8=";
+      rev = "b6b7a6915410d1dd3b9e001fc21ed8dad3c99dcf";
+      hash = "sha256-gC1/8W3ko2pbedCfE0xdXx3gfK+lA0ZkYv2LYadx0uk=";
     };
   };
   "tree-sitter-nqc" = {
