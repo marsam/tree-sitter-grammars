@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-03-09";
+    version = "unstable-2026-03-13";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "c7d6a294149b805bf4057b3248054c7514b2c869";
-      hash = "sha256-7kQgQelJLzTcBZjN8DV0Jur0ZmobMaug531oYkBr5es=";
+      rev = "88f663ec4b49b73cfb121615aca42ad839ab200b";
+      hash = "sha256-86Nm4SlGaE8cjwTtvuDdv0Jvus98KzstT5omp/75yv8=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3585,12 +3585,12 @@
     };
   };
   "tree-sitter-objectscript" = {
-    version = "unstable-2026-03-10";
+    version = "unstable-2026-03-13";
     src = fetchFromGitHub {
       owner = "intersystems";
       repo = "tree-sitter-objectscript";
-      rev = "e03cd14c61bda43a135b23352f7fb695c2e9567f";
-      hash = "sha256-EOXmsU9PBLbAZbQGrhidb0NyinAGio1hFC5X0kIusts=";
+      rev = "7aa01969d0fea2e75dc69f2be2244b13d8269d6f";
+      hash = "sha256-htOcej2TVN8tHOnCD+tgTVAX3mbec7tXWIt9i3A+DrY=";
     };
   };
   "tree-sitter-ocamllex" = {

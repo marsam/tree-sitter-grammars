@@ -191,7 +191,7 @@ in {
 | tree-sitter-d2 | [0.7.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.2) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
 | tree-sitter-dart | [2026-02-09](https://github.com/UserNobody14/tree-sitter-dart/tree/81638dbbdb76a0e88ea8c31b95ec76b9625ddb84) |
-| tree-sitter-datazinc | [2026-03-09](https://github.com/shackle-rs/shackle/tree/c7d6a294149b805bf4057b3248054c7514b2c869/parsers/tree-sitter-datazinc) |
+| tree-sitter-datazinc | [2026-03-13](https://github.com/shackle-rs/shackle/tree/88f663ec4b49b73cfb121615aca42ad839ab200b/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
 | tree-sitter-desktop | [1.1.1](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v1.1.1) |
@@ -234,7 +234,7 @@ in {
 | tree-sitter-epics_db | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-db) |
 | tree-sitter-epics_msi_substitution | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-msi-substitution) |
 | tree-sitter-epics_msi_template | [2025-06-05](https://github.com/epics-extensions/tree-sitter-epics/tree/971a7f53d7f784d583ad1675a11315cb9c5177f6/epics-msi-template) |
-| tree-sitter-eprime | [2026-03-09](https://github.com/shackle-rs/shackle/tree/c7d6a294149b805bf4057b3248054c7514b2c869/parsers/tree-sitter-eprime) |
+| tree-sitter-eprime | [2026-03-13](https://github.com/shackle-rs/shackle/tree/88f663ec4b49b73cfb121615aca42ad839ab200b/parsers/tree-sitter-eprime) |
 | tree-sitter-epscript | [1.0.0](https://github.com/zuhanit/tree-sitter-epscript/tree/v1.0.0) |
 | tree-sitter-erlang | [2026-03-11](https://github.com/WhatsApp/tree-sitter-erlang/tree/1d78195c4fbb1fc027eb3e4220427f1eb8bfc89e) |
 | tree-sitter-esdl | [2022-09-05](https://github.com/matoous/tree-sitter-esdl/tree/49e21c031c2a1ed06c2ee85937ce73bc12a5801f) |
@@ -440,7 +440,7 @@ in {
 | tree-sitter-mers | [2025-11-20](https://github.com/Dummi26/mers/tree/39752692ada89c58a26b9ea43d6d9550cbde5791/tree-sitter-mers) |
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
-| tree-sitter-minizinc | [2026-03-09](https://github.com/shackle-rs/shackle/tree/c7d6a294149b805bf4057b3248054c7514b2c869/parsers/tree-sitter-minizinc) |
+| tree-sitter-minizinc | [2026-03-13](https://github.com/shackle-rs/shackle/tree/88f663ec4b49b73cfb121615aca42ad839ab200b/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.0](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.0) |
 | tree-sitter-mlir | [2026-02-27](https://github.com/artagnon/tree-sitter-mlir/tree/1cff1bf79135f8effef87d7cee9d3b26d1970ee9) |
 | tree-sitter-mojo | [2025-12-25](https://github.com/lsh/tree-sitter-mojo/tree/03966fb3f209bea86844aab3bd0f2158a5a8bb8d) |
@@ -482,9 +482,9 @@ in {
 | tree-sitter-nur | [2025-10-13](https://github.com/alkhizanah/tree-sitter-nur/tree/fed8074a0c9fc6d940adcd665e18fc0a63a46317) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
-| tree-sitter-objectscript | [2026-03-10](https://github.com/intersystems/tree-sitter-objectscript/tree/e03cd14c61bda43a135b23352f7fb695c2e9567f/udl) |
-| tree-sitter-objectscript_core | [2026-03-10](https://github.com/intersystems/tree-sitter-objectscript/tree/e03cd14c61bda43a135b23352f7fb695c2e9567f/core) |
-| tree-sitter-objectscript_expr | [2026-03-10](https://github.com/intersystems/tree-sitter-objectscript/tree/e03cd14c61bda43a135b23352f7fb695c2e9567f/expr) |
+| tree-sitter-objectscript | [2026-03-13](https://github.com/intersystems/tree-sitter-objectscript/tree/7aa01969d0fea2e75dc69f2be2244b13d8269d6f/udl) |
+| tree-sitter-objectscript_core | [2026-03-13](https://github.com/intersystems/tree-sitter-objectscript/tree/7aa01969d0fea2e75dc69f2be2244b13d8269d6f/core) |
+| tree-sitter-objectscript_expr | [2026-03-13](https://github.com/intersystems/tree-sitter-objectscript/tree/7aa01969d0fea2e75dc69f2be2244b13d8269d6f/expr) |
 | tree-sitter-ocaml | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/ocaml) |
 | tree-sitter-ocaml_interface | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/interface) |
 | tree-sitter-ocaml_type | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/type) |
