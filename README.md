@@ -417,7 +417,6 @@ in {
 | tree-sitter-luadoc | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-luadoc/tree/v1.1.0) |
 | tree-sitter-luap | [1.0.1](https://github.com/tree-sitter-grammars/tree-sitter-luap/tree/v1.0.1) |
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
-| tree-sitter-lura | [2023-11-15](https://github.com/aripiprazole/lura/tree/4f65c2e727c04138f2ce2ef56b512f2bbd760274/tree-sitter-lura) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
 | tree-sitter-magik | [2026-03-09](https://github.com/krn-robin/tree-sitter-magik/tree/7e2070ed3dfb6a7137db063649cea44841d5394e) |
@@ -456,7 +455,6 @@ in {
 | tree-sitter-msg | [2025-08-04](https://github.com/omnetpp/tree-sitter-msg/tree/49f037483a07b72edea169c7d9a0961225a633f2) |
 | tree-sitter-mustache | [2025-12-18](https://github.com/TheLeoP/tree-sitter-mustache/tree/0f1f3cf07508a64b84cbff457f1446a787c48a0e) |
 | tree-sitter-muttrc | [0.0.6](https://github.com/neomutt/tree-sitter-muttrc/tree/0.0.6) |
-| tree-sitter-myst | [0.0.1](https://github.com/elxy/tree-sitter-myst/tree/0.0.1) |
 | tree-sitter-nasl | [0.1.0](https://github.com/nichtsfrei/tree-sitter-nasl/tree/v0.1.0) |
 | tree-sitter-nasm | [2024-11-23](https://github.com/naclsn/tree-sitter-nasm/tree/d1b3638d017f2a8585e26dcfc66fe1df94185e30) |
 | tree-sitter-navi | [0.2.2](https://github.com/navi-language/tree-sitter-navi/tree/v0.2.2) |

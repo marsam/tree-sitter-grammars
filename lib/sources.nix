@@ -3035,15 +3035,6 @@
       hash = "sha256-5qbZA2mxTvrsfUrpgD+4y3oeJsifA91c/hfcVwQBRgI=";
     };
   };
-  "tree-sitter-lura" = {
-    version = "unstable-2023-11-15";
-    src = fetchFromGitHub {
-      owner = "aripiprazole";
-      repo = "lura";
-      rev = "4f65c2e727c04138f2ce2ef56b512f2bbd760274";
-      hash = "sha256-R1SiB4i+5Pi9kESyykBFMvNb5S183McxtsFAK6ixfr0=";
-    };
-  };
   "tree-sitter-lx" = {
     version = "unstable-2026-01-27";
     src = fetchFromGitHub {
@@ -3348,15 +3339,6 @@
       repo = "tree-sitter-muttrc";
       rev = "0.0.6";
       hash = "sha256-zma/oyMFI+r+/616yXV9b4ptC1FNYpHlpqY/Fez++n0=";
-    };
-  };
-  "tree-sitter-myst" = {
-    version = "0.0.1";
-    src = fetchFromGitHub {
-      owner = "elxy";
-      repo = "tree-sitter-myst";
-      rev = "0.0.1";
-      hash = "sha256-yzO293nk+++EUEIhlWHVshMtRw7tVhk0r+4KdeV0SI0=";
     };
   };
   "tree-sitter-nasl" = {

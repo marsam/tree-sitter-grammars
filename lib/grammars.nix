@@ -136,7 +136,6 @@ let
     // { tree-sitter-coalton = grammars'.tree-sitter-coalton // { location = "tree-sitter-coalton"; }; }
     // { tree-sitter-lilypond = grammars'.tree-sitter-lilypond // { location = "lilypond"; }; }
     // { tree-sitter-lilypond_scheme = grammars'.tree-sitter-lilypond // { location = "lilypond-scheme"; }; }
-    // { tree-sitter-lura = grammars'.tree-sitter-lura // { location = "tree-sitter-lura"; }; }
     // { tree-sitter-mers = grammars'.tree-sitter-mers // { location = "tree-sitter-mers"; }; }
     // { tree-sitter-stilts = grammars'.tree-sitter-stilts // { location = "tooling/tree-sitter-stilts"; }; }
     // { tree-sitter-calyx = grammars'.tree-sitter-calyx // { location = "calyx-lsp/tree-sitter-calyx"; }; }
