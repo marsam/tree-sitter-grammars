@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2026-03-16";
+    version = "unstable-2026-03-17";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "83910fa575ed96bbbbf709497ff2af2c98cfd4ff";
-      hash = "sha256-+JzOoIf3yQX3vdvI0dRejp+M64xNyRZZpBtFJmywZss=";
+      rev = "f2b233334ae032169c806daa8b6564207fa65da5";
+      hash = "sha256-ybdhyOnJjxl5gYkwx/Sz5VecTDnLA7dh+lw7iLuBQKE=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-03-13";
+    version = "unstable-2026-03-17";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "88f663ec4b49b73cfb121615aca42ad839ab200b";
-      hash = "sha256-86Nm4SlGaE8cjwTtvuDdv0Jvus98KzstT5omp/75yv8=";
+      rev = "2d22ecae0916a3d962cdb7e186a39b377d1f816a";
+      hash = "sha256-1mhMVdltHHv7IvblenPIU3odIeAXL8IKhLi07Pbruek=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3054,12 +3054,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2026-03-09";
+    version = "unstable-2026-03-17";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "7e2070ed3dfb6a7137db063649cea44841d5394e";
-      hash = "sha256-MU6ES7izWjqGbPv0/UCS5qcu5g6KLC26FYfaf0Via/I=";
+      rev = "297345ebd36fa9c1a3cfd1b22293e272c765a8a4";
+      hash = "sha256-W304xduiJ1OVDV2cUelaZhmsRapWrx/g+0wM/RaQ6zo=";
     };
   };
   "tree-sitter-make" = {
@@ -3522,12 +3522,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2026-03-02";
+    version = "unstable-2026-03-18";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "f4793e3809bb84e78dee260b47085d8203a58d88";
-      hash = "sha256-0tQOALi8079pqy12mGG3eqsqv2FsqVvRnetp4xXKH9s=";
+      rev = "6f843ccfc5d0b7b706eae5be91df19257b3f9a2b";
+      hash = "sha256-GTbXQqYUmx1pKtys6APPSoh5iNvG7uFCurmeFE7mF+0=";
     };
   };
   "tree-sitter-numbat" = {
