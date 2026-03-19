@@ -470,7 +470,7 @@ in {
 | tree-sitter-nim_format_string | [2023-10-21](https://github.com/aMOPel/tree-sitter-nim-format-string/tree/d45f75022d147cda056e98bfba68222c9c8eca3a) |
 | tree-sitter-ninja | [2022-01-07](https://github.com/alemuller/tree-sitter-ninja/tree/0a95cfdc0745b6ae82f60d3a339b37f19b7b9267) |
 | tree-sitter-nix | [0.3.0](https://github.com/nix-community/tree-sitter-nix/tree/v0.3.0) |
-| tree-sitter-noir | [2023-10-22](https://github.com/hhamud/tree-sitter-noir/tree/4cc223f677d72db319f1c8331b65a9564805c7bf) |
+| tree-sitter-noir | [2026-03-18](https://github.com/hhamud/tree-sitter-noir/tree/8e16055b1c37b12823e77f1936930793d45ed547) |
 | tree-sitter-nois | [2024-04-20](https://github.com/nois-lang/tree-sitter-nois/tree/0e9c9e962177dc0a17d6bd79ff14330334466800) |
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
 | tree-sitter-npf | [2026-03-12](https://github.com/ntyunyayev/tree-sitter-npf/tree/b6b7a6915410d1dd3b9e001fc21ed8dad3c99dcf) |
@@ -633,7 +633,7 @@ in {
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2026.3.12](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.3.12) |
+| tree-sitter-ssh_client_config | [2026.3.19](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.3.19) |
 | tree-sitter-ssh_config | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.4.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.2.9](https://github.com/WardBrian/tree-sitter-stan/tree/v0.2.9) |
