@@ -289,11 +289,11 @@
     };
   };
   "tree-sitter-al" = {
-    version = "unstable-2026-03-15";
+    version = "1.0.0";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "69f6d7e5759c98925c76bf5b5c4ddffe4d62a8cd";
+      rev = "v1.0.0";
       hash = "sha256-gd5JoHj8jmTSmjaIhQBjR+dl80UNgOF7l7Q2Zbe7w2g=";
     };
   };
@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "unstable-2026-03-21";
+    version = "0.26.2";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "e69165388dcbe04f1e5c6442ea488b1ca1fededf";
-      hash = "sha256-qlvwgzbsgx9xD9hNSgLyh3ADBjJ4Hq63tHmC6Rtbcgk=";
+      rev = "v0.26.2";
+      hash = "sha256-YtwHouzGyF0wNqt/2A+gGvRQBwR3bVZQM+PLt/PxSiQ=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1513,12 +1513,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "unstable-2026-03-11";
+    version = "0.15";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "1d78195c4fbb1fc027eb3e4220427f1eb8bfc89e";
-      hash = "sha256-v/yG3J+f62W3f7jS5/TslepZGHUbFIH8duA+hFVLblU=";
+      rev = "0.15";
+      hash = "sha256-EatEvMEI83yax2LCCrtJMFWDOuTzp4/rUPdARiRze6E=";
     };
   };
   "tree-sitter-esdl" = {
@@ -3116,6 +3116,15 @@
       hash = "sha256-PZCAs8lxHug68oDwkcNNvQK0TPCj2DP4KwzG+D8SmMU=";
     };
   };
+  "tree-sitter-mathprog" = {
+    version = "1.0.0";
+    src = fetchFromGitHub {
+      owner = "smoeding";
+      repo = "tree-sitter-mathprog";
+      rev = "v1.0.0";
+      hash = "sha256-MRpHH/BziykKdPWeOeerAq1Hoxm8rqIIDYf9wEJtCi8=";
+    };
+  };
   "tree-sitter-matlab" = {
     version = "1.3.0";
     src = fetchFromGitHub {
@@ -4477,15 +4486,6 @@
       hash = "sha256-JoR9J9VtKNP/3YwsDAkX5G6V8cArXWk8vFkzJ2SwFIE=";
     };
   };
-  "tree-sitter-scilab" = {
-    version = "unstable-2026-03-15";
-    src = fetchFromGitHub {
-      owner = "nicolas-graves";
-      repo = "tree-sitter-scilab";
-      rev = "0a3e26418cbf7f850b35426a4fd29ce0fa0c8f51";
-      hash = "sha256-ShhMtxdXMZWsZhr2lNA+T+o6TM4wgfeRLemTeZ57OZ0=";
-    };
-  };
   "tree-sitter-scss" = {
     version = "1.0.0";
     src = fetchFromGitHub {
@@ -5130,7 +5130,7 @@
   "tree-sitter-tl" = {
     version = "unstable-2025-11-28";
     src = fetchFromGitHub {
-      owner = "PoopyPooOS";
+      owner = "HematiteOS";
       repo = "tree-sitter-tl";
       rev = "fbe70a53f8f2f3c2ff5f235c853f2d32d15e6277";
       hash = "sha256-TZ8UHKadiLxj7JVvxcd+ZfB10fNzzhUlQA651lXLXP0=";

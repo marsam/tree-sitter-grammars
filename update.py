@@ -156,7 +156,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-ada": Grammar("https://github.com/briot/tree-sitter-ada", "HEAD"),  # Tagged with invalid version
     "tree-sitter-adl": Grammar("https://github.com/adl-lang/tree-sitter-adl"),
     "tree-sitter-aiken": Grammar("https://github.com/aiken-lang/tree-sitter-aiken"),
-    "tree-sitter-al": Grammar("https://github.com/SShadowS/tree-sitter-al", "HEAD"),
+    "tree-sitter-al": Grammar("https://github.com/SShadowS/tree-sitter-al"),
     "tree-sitter-alcha": Grammar("https://github.com/jpt13653903/tree-sitter-alcha"),
     "tree-sitter-alfa": Grammar("https://github.com/achrinza/tree-sitter-alfa"),
     "tree-sitter-alv": Grammar("https://github.com/s-ol/tree-sitter-alv"),
@@ -218,7 +218,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-catala_en": Grammar("https://github.com/CatalaLang/tree-sitter-catala"),
     "tree-sitter-cds": Grammar("https://github.com/cap-js-community/tree-sitter-cds"),
     "tree-sitter-cel": Grammar("https://github.com/bufbuild/tree-sitter-cel"),
-    "tree-sitter-cfml": Grammar("https://github.com/cfmleditor/tree-sitter-cfml", "HEAD"),
+    "tree-sitter-cfml": Grammar("https://github.com/cfmleditor/tree-sitter-cfml"),
     "tree-sitter-cgsql": Grammar("https://github.com/ricomariani/tree-sitter-cgsql"),
     "tree-sitter-chatito": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-chatito"),
     "tree-sitter-chuck": Grammar("https://github.com/tymbalodeon/tree-sitter-chuck"),
@@ -292,7 +292,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-envy": Grammar("https://github.com/envyhq/envy"),
     "tree-sitter-epics_cmd": Grammar("https://github.com/epics-extensions/tree-sitter-epics"),
     "tree-sitter-epscript": Grammar("https://github.com/zuhanit/tree-sitter-epscript"),
-    "tree-sitter-erlang": Grammar("https://github.com/WhatsApp/tree-sitter-erlang", "HEAD"),  # Alternative https://github.com/the-mikedavis/tree-sitter-erlang
+    "tree-sitter-erlang": Grammar("https://github.com/WhatsApp/tree-sitter-erlang"),  # Alternative https://github.com/the-mikedavis/tree-sitter-erlang
     "tree-sitter-esdl": Grammar("https://github.com/matoous/tree-sitter-esdl"),
     "tree-sitter-esl": Grammar("https://github.com/NSSAC/tree-sitter-esl"),
     "tree-sitter-eu4mod": Grammar("https://github.com/Coyote-31/tree-sitter-eu4mod"),
@@ -470,6 +470,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-markdown": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-markdown"),
     "tree-sitter-marte": Grammar("https://github.com/MARTe-Community/tree-sitter-marte"),
     "tree-sitter-martian": Grammar("https://github.com/LoganAMorrison/tree-sitter-martian"),
+    "tree-sitter-mathprog": Grammar("https://github.com/smoeding/tree-sitter-mathprog"),
     "tree-sitter-matlab": Grammar("https://github.com/acristoffers/tree-sitter-matlab"),
     "tree-sitter-mcfuncx": Grammar("https://github.com/PFiS1737/tree-sitter-mcfuncx"),
     "tree-sitter-mdn": Grammar("https://github.com/mdn/tree-sitter-mdn"),
@@ -621,7 +622,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-satysfi": Grammar("https://github.com/monaqa/tree-sitter-satysfi"),
     "tree-sitter-scfg": Grammar("https://github.com/rockorager/tree-sitter-scfg"),
     "tree-sitter-scheme": Grammar("https://github.com/6cdh/tree-sitter-scheme"),
-    "tree-sitter-scilab": Grammar("https://github.com/nicolas-graves/tree-sitter-scilab"),
     "tree-sitter-scss": Grammar("https://github.com/serenadeai/tree-sitter-scss"),  # Alternative: https://github.com/tree-sitter-grammars/tree-sitter-scss
     "tree-sitter-sdml": Grammar("https://github.com/sdm-lang/tree-sitter-sdml"),
     "tree-sitter-sed": Grammar("https://github.com/mskelton/tree-sitter-sed"),
@@ -693,7 +693,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-thrift": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-thrift"),
     "tree-sitter-tiger": Grammar("https://github.com/ambroisie/tree-sitter-tiger"),
     "tree-sitter-times": Grammar("https://github.com/michaeladler/tree-sitter-times"),
-    "tree-sitter-tl": Grammar("https://github.com/PoopyPooOS/tree-sitter-tl"),
+    "tree-sitter-tl": Grammar("https://github.com/HematiteOS/tree-sitter-tl"),
     "tree-sitter-tlaplus": Grammar("https://github.com/tlaplus-community/tree-sitter-tlaplus"),
     "tree-sitter-tlb": Grammar("https://github.com/nickshatilo/tree-sitter-tlb"),
     "tree-sitter-tmux": Grammar("https://github.com/Freed-Wu/tree-sitter-tmux"),

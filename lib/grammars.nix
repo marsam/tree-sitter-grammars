@@ -132,6 +132,7 @@ let
     // { tree-sitter-fsharp_signature = grammars'.tree-sitter-fsharp // { location = "fsharp_signature"; }; }
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
     // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
+    // { tree-sitter-cfquery = grammars'.tree-sitter-cfml // { location = "cfquery"; }; }
     // { tree-sitter-cfscript = grammars'.tree-sitter-cfml // { location = "cfscript"; }; }
     // { tree-sitter-coalton = grammars'.tree-sitter-coalton // { location = "tree-sitter-coalton"; }; }
     // { tree-sitter-lilypond = grammars'.tree-sitter-lilypond // { location = "lilypond"; }; }
@@ -171,9 +172,10 @@ let
     // { tree-sitter-rtf = grammars'.tree-sitter-rtf // { generate = true; }; }
     // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
     // { tree-sitter-scfg = grammars'.tree-sitter-scfg // { generate = true; }; }
-    // { tree-sitter-scilab = grammars'.tree-sitter-scilab // { generate = true; }; }
     // { tree-sitter-systemrdl = grammars'.tree-sitter-systemrdl // { generate = true; }; }
     // { tree-sitter-mandbconfig = grammars'.tree-sitter-mandbconfig // { generate = true; }; }
+    // { tree-sitter-stan = grammars'.tree-sitter-stan // rec { location = "grammars/stan"; postPatch = "cp -av queries ${location}/queries"; }; }
+    // { tree-sitter-stanfunctions = grammars'.tree-sitter-stan // { location = "grammars/stanfunctions"; }; }
     # // { tree-sitter-carbon = grammars'.tree-sitter-carbon // { location = "utils/tree_sitter"; generate = true; }; }  # FIXME(marsam): Requires tree-sitter upgrade
 
     # Fix upstream issues
