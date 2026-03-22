@@ -532,12 +532,12 @@
     };
   };
   "tree-sitter-beancount" = {
-    version = "2.5.0";
+    version = "2.5.1";
     src = fetchFromGitHub {
       owner = "polarmutex";
       repo = "tree-sitter-beancount";
-      rev = "v2.5.0";
-      hash = "sha256-eJ1XAPrVCoGQtrRJdcB/V4ULUmYXemUAE3FQijpH8q8=";
+      rev = "v2.5.1";
+      hash = "sha256-UJ8bswQJB7UYspNKLWaEXMOR4XlKVHfd7rvV5iaA5Tw=";
     };
   };
   "tree-sitter-bend" = {
@@ -2080,12 +2080,12 @@
     };
   };
   "tree-sitter-gotmpl" = {
-    version = "unstable-2025-12-21";
+    version = "unstable-2026-03-21";
     src = fetchFromGitHub {
       owner = "ngalaiko";
       repo = "tree-sitter-go-template";
-      rev = "04270cd3512e2c7de0c5f2823725d7b0c4c01fda";
-      hash = "sha256-DE5obq7mhDPSfXLImCL7ti1C0FQMU0uDslhaRBWhbPo=";
+      rev = "aa71f63de226c5592dfbfc1f29949522d7c95fac";
+      hash = "sha256-QSzUyRDGdBH9TaG3YCHnJp12WcR8kdbsZFIk8I+JW1Y=";
     };
   };
   "tree-sitter-gowork" = {
@@ -2594,12 +2594,12 @@
     };
   };
   "tree-sitter-javadoc" = {
-    version = "0.2.4";
+    version = "0.3.1";
     src = fetchFromGitHub {
       owner = "rmuir";
       repo = "tree-sitter-javadoc";
-      rev = "v0.2.4";
-      hash = "sha256-S7VOxQp6m16YBjREiQQfII6c5DTb2hItYZvWMmMbUs0=";
+      rev = "v0.3.1";
+      hash = "sha256-31HnXUtuimS9gr71r6Rs3VZYmiR8N8iuNNWsbe7Sz48=";
     };
   };
   "tree-sitter-jelly" = {
@@ -3729,12 +3729,12 @@
     };
   };
   "tree-sitter-perl" = {
-    version = "unstable-2025-08-21";
+    version = "unstable-2026-03-21";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-perl";
-      rev = "0c24d001dd1921e418fb933d208a7bd7dd3f923a";
-      hash = "sha256-rKu3CGHckXlQnI/bvrQDq40jRO4PAueWKNZJADjmv5A=";
+      rev = "1d5d6972b6c0958fc26ead7287aafada5facf75b";
+      hash = "sha256-3WfHUrFR8qunFd+8+l3+pkWgu3D9qdf4sN1Ch2aVbS8=";
     };
   };
   "tree-sitter-perm" = {
