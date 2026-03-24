@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "2.0.0";
+    version = "2.0.1";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "v2.0.0";
-      hash = "sha256-ey9e2RFtRVe5wgsI0oG3RvnYwYfVrCYXkAUQIOd4Xig=";
+      rev = "v2.0.1";
+      hash = "sha256-o5mfKBFvesmbTiDTrxaa1Tp5+8EF4UCMx1d7xe93USA=";
     };
   };
   "tree-sitter-alcha" = {
@@ -2242,12 +2242,12 @@
     };
   };
   "tree-sitter-heex" = {
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchFromGitHub {
       owner = "phoenixframework";
       repo = "tree-sitter-heex";
-      rev = "v0.8.0";
-      hash = "sha256-rifYGyIpB14VfcEZrmRwYSz+ZcajQcB4mCjXnXuVFDQ=";
+      rev = "v0.9.0";
+      hash = "sha256-1p2drpkA+5o+WSH5cv+zPVx30lNhQ9bqX5JHA0YSS2Y=";
     };
   };
   "tree-sitter-hicad" = {
@@ -3054,12 +3054,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2026-03-17";
+    version = "unstable-2026-03-23";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "297345ebd36fa9c1a3cfd1b22293e272c765a8a4";
-      hash = "sha256-W304xduiJ1OVDV2cUelaZhmsRapWrx/g+0wM/RaQ6zo=";
+      rev = "06fe02c76aef09faead56cdf9495bb9d5fc477b0";
+      hash = "sha256-GNdrQbPz0NuU1RdaGUM5HAtxFkDeO6NjseAsCll/4f8=";
     };
   };
   "tree-sitter-make" = {
@@ -3846,12 +3846,12 @@
     };
   };
   "tree-sitter-pod" = {
-    version = "unstable-2026-03-22";
+    version = "unstable-2026-03-23";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-pod";
-      rev = "b9acb96cc3616df319e09035cd83781465065801";
-      hash = "sha256-BOWrrmKDCSpTF7/EoZFkq9Aa8o6Kja994vHXDEbOBWw=";
+      rev = "3f15a3f11b422753fbf985190dceacb4bbf80ecf";
+      hash = "sha256-Yu6sK+tGtFVgAZUE3pfoMLzMNwxQQuQu/ZtrM45tNHs=";
     };
   };
   "tree-sitter-poe_filter" = {
@@ -5263,12 +5263,12 @@
     };
   };
   "tree-sitter-typoscript" = {
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchFromGitHub {
       owner = "Teddytrombone";
       repo = "tree-sitter-typoscript";
-      rev = "v0.1.1";
-      hash = "sha256-Eu7YMaMH1Xz2H3lmpYOqG42MA29Decaw27bpIwP5I/0=";
+      rev = "v0.1.2";
+      hash = "sha256-wO5f7iwfpPABNSjjQvF5422awARL84czN142EcxX7kA=";
     };
   };
   "tree-sitter-typst" = {

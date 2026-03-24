@@ -78,7 +78,7 @@ in {
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [2.0.0](https://github.com/SShadowS/tree-sitter-al/tree/v2.0.0) |
+| tree-sitter-al | [2.0.1](https://github.com/SShadowS/tree-sitter-al/tree/v2.0.1) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
@@ -322,7 +322,7 @@ in {
 | tree-sitter-haskell_persistent | [2023-09-19](https://github.com/MercuryTechnologies/tree-sitter-haskell-persistent/tree/577259b4068b2c281c9ebf94c109bd50a74d5857) |
 | tree-sitter-haxe | [0.13.0](https://github.com/vantreeseba/tree-sitter-haxe/tree/v0.13.0) |
 | tree-sitter-hcl | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-hcl/tree/v1.2.0) |
-| tree-sitter-heex | [0.8.0](https://github.com/phoenixframework/tree-sitter-heex/tree/v0.8.0) |
+| tree-sitter-heex | [0.9.0](https://github.com/phoenixframework/tree-sitter-heex/tree/v0.9.0) |
 | tree-sitter-helm | [2026-03-21](https://github.com/ngalaiko/tree-sitter-go-template/tree/aa71f63de226c5592dfbfc1f29949522d7c95fac/dialects/helm) |
 | tree-sitter-hicad | [0.0.1](https://github.com/petrisch/tree-sitter-hicad/tree/0.0.1) |
 | tree-sitter-hjson | [2021-08-02](https://github.com/winston0410/tree-sitter-hjson/tree/02fa3b79b3ff9a296066da6277adfc3f26cbc9e0) |
@@ -420,7 +420,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-03-17](https://github.com/krn-robin/tree-sitter-magik/tree/297345ebd36fa9c1a3cfd1b22293e272c765a8a4) |
+| tree-sitter-magik | [2026-03-23](https://github.com/krn-robin/tree-sitter-magik/tree/06fe02c76aef09faead56cdf9495bb9d5fc477b0) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -520,7 +520,7 @@ in {
 | tree-sitter-pluto | [2024-11-23](https://github.com/fuzzko/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
 | tree-sitter-plymouth_script | [2024-06-18](https://github.com/liushuyu/tree-sitter-plymouth-script/tree/843f5bea453e60d1e169cbbfc81fbf41c2ead64a) |
 | tree-sitter-po | [2024-04-20](https://github.com/tree-sitter-grammars/tree-sitter-po/tree/bd860a0f57f697162bf28e576674be9c1500db5e) |
-| tree-sitter-pod | [2026-03-22](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/b9acb96cc3616df319e09035cd83781465065801) |
+| tree-sitter-pod | [2026-03-23](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/3f15a3f11b422753fbf985190dceacb4bbf80ecf) |
 | tree-sitter-poe_filter | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-poe-filter/tree/v0.4.0) |
 | tree-sitter-pony | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-pony/tree/v1.0.0) |
 | tree-sitter-ponylang | [0.0.2](https://github.com/mfelsche/tree-sitter-ponylang/tree/v0.0.2) |
@@ -697,7 +697,7 @@ in {
 | tree-sitter-twig | [1.0.2](https://github.com/gbprod/tree-sitter-twig/tree/v1.0.2) |
 | tree-sitter-typescript | [0.23.2](https://github.com/tree-sitter/tree-sitter-typescript/tree/v0.23.2/typescript) |
 | tree-sitter-typespec | [2026-01-01](https://github.com/happenslol/tree-sitter-typespec/tree/395bef1e1eb4dd18365401642beb534e8a244056) |
-| tree-sitter-typoscript | [0.1.1](https://github.com/Teddytrombone/tree-sitter-typoscript/tree/v0.1.1) |
+| tree-sitter-typoscript | [0.1.2](https://github.com/Teddytrombone/tree-sitter-typoscript/tree/v0.1.2) |
 | tree-sitter-typst | [0.11.0](https://github.com/uben0/tree-sitter-typst/tree/v0.11.0) |
 | tree-sitter-udev | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-udev/tree/v0.2.1) |
 | tree-sitter-uiua | [0.13.0](https://github.com/shnarazk/tree-sitter-uiua/tree/v0.13.0) |
