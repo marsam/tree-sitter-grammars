@@ -379,7 +379,7 @@ in {
 | tree-sitter-jsonnet | [2024-08-15](https://github.com/sourcegraph/tree-sitter-jsonnet/tree/ddd075f1939aed8147b7aa67f042eda3fce22790) |
 | tree-sitter-juice | [2024-10-15](https://github.com/juicelang/tree-sitter-juice/tree/ae1a5b8b5c3c4875d1c11107ef96dc7e0c20c4b6) |
 | tree-sitter-julia | [2026-02-26](https://github.com/tree-sitter-grammars/tree-sitter-julia/tree/8454f266717232525ed03c7b09164b0404a03150) |
-| tree-sitter-just | [2026-03-15](https://github.com/casey/tree-sitter-just/tree/d9da862c156020c1a83d3c6ccdda32be6d8a5d4a) |
+| tree-sitter-just | [0.2.0](https://github.com/casey/tree-sitter-just/tree/v0.2.0) |
 | tree-sitter-kamailio_cfg | [0.1.3](https://github.com/IbrahimShahzad/tree-sitter-kamailio-cfg/tree/v0.1.3) |
 | tree-sitter-kanata | [0.1.1](https://github.com/postsolar/tree-sitter-kanata/tree/v0.1.1) |
 | tree-sitter-kanshi | [2025-04-14](https://github.com/marcelarie/tree-sitter-kanshi/tree/14826e4c4b034efb0850c27562860822cd34610e) |
@@ -472,7 +472,7 @@ in {
 | tree-sitter-nim_format_string | [2023-10-21](https://github.com/aMOPel/tree-sitter-nim-format-string/tree/d45f75022d147cda056e98bfba68222c9c8eca3a) |
 | tree-sitter-ninja | [2022-01-07](https://github.com/alemuller/tree-sitter-ninja/tree/0a95cfdc0745b6ae82f60d3a339b37f19b7b9267) |
 | tree-sitter-nix | [0.3.0](https://github.com/nix-community/tree-sitter-nix/tree/v0.3.0) |
-| tree-sitter-noir | [2026-03-24](https://github.com/hhamud/tree-sitter-noir/tree/4d569e7abf63b606aca7a3f066926a988db788d1) |
+| tree-sitter-noir | [2026-03-25](https://github.com/hhamud/tree-sitter-noir/tree/89cc4dbbfbc4ab3fadf75bf8f5c54d6a5f8ce682) |
 | tree-sitter-nois | [2024-04-20](https://github.com/nois-lang/tree-sitter-nois/tree/0e9c9e962177dc0a17d6bd79ff14330334466800) |
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
 | tree-sitter-npf | [2026-03-12](https://github.com/ntyunyayev/tree-sitter-npf/tree/b6b7a6915410d1dd3b9e001fc21ed8dad3c99dcf) |
