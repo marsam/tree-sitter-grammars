@@ -190,12 +190,12 @@
     };
   };
   "tree-sitter-rust" = {
-    version = "0.24.1";
+    version = "0.24.2";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-rust";
-      rev = "v0.24.1";
-      hash = "sha256-zCY+/fnmlYnhEXB9o/VzxRsQsAIkHBV1zF+ZGinph20=";
+      rev = "v0.24.2";
+      hash = "sha256-Ls6tB6IxXDQDWwx0BJ7RgbheelC4MH8z97E7wwhkDcY=";
     };
   };
   "tree-sitter-scala" = {
@@ -874,12 +874,12 @@
     };
   };
   "tree-sitter-chuck" = {
-    version = "unstable-2026-02-08";
+    version = "unstable-2026-03-28";
     src = fetchFromGitHub {
       owner = "tymbalodeon";
       repo = "tree-sitter-chuck";
-      rev = "b68b2e0fec50756de036844d5ae190b1d20144a3";
-      hash = "sha256-uv4QXEvHl8fmZdxI8lxA2ZeX7rgt7nfo1GQxJyp1uMk=";
+      rev = "68fb7bdba480915d87177feaa5593a666c0bb602";
+      hash = "sha256-yd+RWeY+gHtTkRaxYxXSv27yWupjZtnIDxbsUAMa9eg=";
     };
   };
   "tree-sitter-circom" = {
@@ -2116,12 +2116,12 @@
     };
   };
   "tree-sitter-gram" = {
-    version = "0.3.4";
+    version = "0.3.5";
     src = fetchFromGitHub {
       owner = "gram-data";
       repo = "tree-sitter-gram";
-      rev = "v0.3.4";
-      hash = "sha256-cfoA5ddiZLETv+D+yQHO5gGBo07oXI0f/YzexSY2sK8=";
+      rev = "v0.3.5";
+      hash = "sha256-MFJaOGx7ou4VM9zwMUfUBYgAQNzWxlYxL1r7X4o0rBU=";
     };
   };
   "tree-sitter-graphql" = {
@@ -2612,12 +2612,12 @@
     };
   };
   "tree-sitter-jinja" = {
-    version = "0.11.1";
+    version = "0.12.0";
     src = fetchFromGitHub {
       owner = "cathaysia";
       repo = "tree-sitter-jinja";
-      rev = "v0.11.1";
-      hash = "sha256-ZRAgY8W9FN6TRD9aFgypVd2X+pXs8oNp9qCB9qen9DY=";
+      rev = "v0.12.0";
+      hash = "sha256-edHxTYvMfBh0OJbEfKgSqumV2JH/48cQ2u0Uq8e4CxM=";
     };
   };
   "tree-sitter-jjdescription" = {
@@ -3243,12 +3243,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-03-26";
+    version = "unstable-2026-03-27";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "d0985cfecad20af5ce644d04791176eadb7e9f12";
-      hash = "sha256-JEZa58WCSELMR0kTrkvUNuaECjmUVICq6s9mB4TMSlg=";
+      rev = "96fa0adc3028cc6a9d281370c9f213a457c4a2d0";
+      hash = "sha256-6zXWbcwptKfJxZzx9txteVS1LSTSD9XUs3B4JsJLZlk=";
     };
   };
   "tree-sitter-mojo" = {
