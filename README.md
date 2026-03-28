@@ -66,7 +66,7 @@ in {
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (697)</strong></summary>
+  <summary><strong>Available grammars (696)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -203,8 +203,7 @@ in {
 | tree-sitter-dialogue | [2025-07-19](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/5fb60d8f73408171d3776a4311ae03694b03da8a) |
 | tree-sitter-diff | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-diff/tree/v0.1.0) |
 | tree-sitter-disassembly | [1.3.1](https://github.com/ColinKennedy/tree-sitter-disassembly/tree/1.3.1) |
-| tree-sitter-djot | [2025-01-23](https://github.com/treeman/tree-sitter-djot/tree/5e654beb9437e832490d07b4c4128c887a10269d/tree-sitter-djot) |
-| tree-sitter-djot_inline | [2025-01-23](https://github.com/treeman/tree-sitter-djot/tree/5e654beb9437e832490d07b4c4128c887a10269d/tree-sitter-djot-inline) |
+| tree-sitter-djot | [2025-09-15](https://github.com/treeman/tree-sitter-djot/tree/74fac1f53c6d52aeac104b6874e5506be6d0cfe6) |
 | tree-sitter-dockerfile | [0.2.0](https://github.com/camdencheek/tree-sitter-dockerfile/tree/v0.2.0) |
 | tree-sitter-dot | [2025-10-21](https://github.com/rydesun/tree-sitter-dot/tree/80327abbba6f47530edeb0df9f11bd5d5c93c14d) |
 | tree-sitter-dotbox | [2022-11-27](https://github.com/jakehamilton/tree-sitter-dotbox/tree/234f92d21f2a7b987477a763e117c58af47e429f) |
@@ -505,7 +504,7 @@ in {
 | tree-sitter-pascal | [0.10.2](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.2) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |
-| tree-sitter-perl | [2026-03-21](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/1d5d6972b6c0958fc26ead7287aafada5facf75b) |
+| tree-sitter-perl | [1.0.0](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/v1.0.0) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.1.0](https://github.com/pest-parser/tree-sitter-pest/tree/v0.1.0) |
 | tree-sitter-pgn | [1.4.3](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.4.3) |
@@ -520,7 +519,7 @@ in {
 | tree-sitter-pluto | [2024-11-23](https://github.com/fuzzko/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
 | tree-sitter-plymouth_script | [2024-06-18](https://github.com/liushuyu/tree-sitter-plymouth-script/tree/843f5bea453e60d1e169cbbfc81fbf41c2ead64a) |
 | tree-sitter-po | [2024-04-20](https://github.com/tree-sitter-grammars/tree-sitter-po/tree/bd860a0f57f697162bf28e576674be9c1500db5e) |
-| tree-sitter-pod | [2026-03-23](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/3f15a3f11b422753fbf985190dceacb4bbf80ecf) |
+| tree-sitter-pod | [1.0.0](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/v1.0.0) |
 | tree-sitter-poe_filter | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-poe-filter/tree/v0.4.0) |
 | tree-sitter-pony | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-pony/tree/v1.0.0) |
 | tree-sitter-ponylang | [0.0.2](https://github.com/mfelsche/tree-sitter-ponylang/tree/v0.0.2) |

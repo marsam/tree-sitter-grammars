@@ -149,8 +149,6 @@ let
     // { tree-sitter-datazinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-datazinc"; }; }
     // { tree-sitter-eprime = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-eprime"; }; }
     // { tree-sitter-minizinc = grammars'.tree-sitter-datazinc // { location = "parsers/tree-sitter-minizinc"; }; }
-    // { tree-sitter-djot = grammars'.tree-sitter-djot // { location = "tree-sitter-djot"; }; }
-    // { tree-sitter-djot_inline = grammars'.tree-sitter-djot // { location = "tree-sitter-djot-inline"; }; }
     // { tree-sitter-syncat_stylesheet = grammars'.tree-sitter-syncat_stylesheet // { location = "tree-sitter-syncat-stylesheet"; }; }
     // { tree-sitter-mozjs = grammars'.tree-sitter-mozjs // { location = "tree-sitter-mozjs"; }; }
     // { tree-sitter-ccomment = grammars'.tree-sitter-mozjs // { location = "tree-sitter-ccomment"; }; }
@@ -168,6 +166,8 @@ let
     // { tree-sitter-cgsql = grammars'.tree-sitter-cgsql // { generate = true; }; }
     // { tree-sitter-moshell = grammars'.tree-sitter-moshell // { generate = true; }; }
     // { tree-sitter-corth = grammars'.tree-sitter-corth // { generate = true; }; }
+    // { tree-sitter-perl = grammars'.tree-sitter-perl // { fromGrammarJson = true; }; }
+    // { tree-sitter-pod = grammars'.tree-sitter-pod // { fromGrammarJson = true; }; }
     // { tree-sitter-quint = grammars'.tree-sitter-quint // { generate = true; postPatch = "rm -v tree-sitter.json"; }; } # Missing metadata field
     // { tree-sitter-rtf = grammars'.tree-sitter-rtf // { generate = true; }; }
     // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
