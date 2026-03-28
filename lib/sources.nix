@@ -2152,11 +2152,11 @@
     };
   };
   "tree-sitter-groovy" = {
-    version = "initial";
+    version = "unstable-2026-03-04";
     src = fetchFromGitHub {
       owner = "murtaza64";
       repo = "tree-sitter-groovy";
-      rev = "initial";
+      rev = "781d9cd1b482a70a6b27091e5c9e14bbcab3b768";
       hash = "sha256-KvgVjFLzT1jJ9PieVslJLKXrijYzI/ttny+536famw0=";
     };
   };

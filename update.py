@@ -363,7 +363,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-graphql": Grammar("https://github.com/bkegley/tree-sitter-graphql"),
     "tree-sitter-gren": Grammar("https://github.com/MaeBrooks/tree-sitter-gren"),
     "tree-sitter-gritql": Grammar("https://github.com/biomejs/tree-sitter-gritql"),
-    "tree-sitter-groovy": Grammar("https://github.com/murtaza64/tree-sitter-groovy"),
+    "tree-sitter-groovy": Grammar("https://github.com/murtaza64/tree-sitter-groovy", "HEAD"),
     "tree-sitter-gstlaunch": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch"),
     "tree-sitter-gularen": Grammar("https://github.com/noorwachid/tree-sitter-gularen"),
     "tree-sitter-hack": Grammar("https://github.com/slackhq/tree-sitter-hack"),

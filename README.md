@@ -311,7 +311,7 @@ in {
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/MaeBrooks/tree-sitter-gren/tree/v2.0.0) |
 | tree-sitter-gritql | [2026-03-01](https://github.com/biomejs/tree-sitter-gritql/tree/aabd71cc5efdbb78138bd433ab150f15d05c7a51) |
-| tree-sitter-groovy | [initial](https://github.com/murtaza64/tree-sitter-groovy/tree/initial) |
+| tree-sitter-groovy | [2026-03-04](https://github.com/murtaza64/tree-sitter-groovy/tree/781d9cd1b482a70a6b27091e5c9e14bbcab3b768) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
 | tree-sitter-gularen | [2025-11-07](https://github.com/noorwachid/tree-sitter-gularen/tree/9b089d770db747cf9239b237e1fc356a06591139) |
 | tree-sitter-hack | [2025-11-03](https://github.com/slackhq/tree-sitter-hack/tree/1a7ded90288189746c54861ac144ede97df95081) |
