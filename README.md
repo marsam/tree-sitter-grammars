@@ -66,7 +66,7 @@ in {
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (696)</strong></summary>
+  <summary><strong>Available grammars (698)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -185,6 +185,7 @@ in {
 | tree-sitter-cuda | [0.21.1](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.1) |
 | tree-sitter-cue | [0.1.0](https://github.com/eonpatapon/tree-sitter-cue/tree/v0.1.0) |
 | tree-sitter-curry | [0.0.3](https://github.com/matthesjh/tree-sitter-curry/tree/v0.0.3) |
+| tree-sitter-cyberchef | [2026-03-18](https://github.com/tree-sitter-grammars/tree-sitter-cyberchef/tree/8bad395b98253324085b4b5227b14d4988f374b7) |
 | tree-sitter-cylc | [0.2.0](https://github.com/elliotfontaine/tree-sitter-cylc/tree/v0.2.0) |
 | tree-sitter-cypher | [0.0.1](https://github.com/simplificare-org/tree-sitter-cypher/tree/v0.0.1) |
 | tree-sitter-cython | [2026-02-02](https://github.com/b0o/tree-sitter-cython/tree/575484a6bf294fb680da04dfdc9f37b0c497a39d) |
@@ -368,7 +369,7 @@ in {
 | tree-sitter-jelly | [0.1](https://github.com/OpenJelly/tree-sitter-jelly/tree/0.1) |
 | tree-sitter-jinja | [0.12.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.12.0/tree-sitter-jinja) |
 | tree-sitter-jinja_inline | [0.12.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.12.0/tree-sitter-jinja_inline) |
-| tree-sitter-jjdescription | [2025-02-20](https://github.com/kareigu/tree-sitter-jjdescription/tree/1613b8c85b6ead48464d73668f39910dcbb41911) |
+| tree-sitter-jjdescription | [1.0.3](https://github.com/ribru17/tree-sitter-jjdescription/tree/v1.0.3) |
 | tree-sitter-jq | [1.0.0](https://github.com/nverno/tree-sitter-jq/tree/v1.0.0) |
 | tree-sitter-jsdoc | [0.25.0](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.25.0) |
 | tree-sitter-jslt | [2023-08-31](https://github.com/Kuzat/tree-sitter-jslt/tree/3d0c51a48f371471fe87cc0c8ceb0741029ed77c) |
@@ -484,6 +485,7 @@ in {
 | tree-sitter-objectscript | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/udl) |
 | tree-sitter-objectscript_core | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/core) |
 | tree-sitter-objectscript_expr | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/expr) |
+| tree-sitter-objectscript_udl | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/udl) |
 | tree-sitter-ocaml | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/ocaml) |
 | tree-sitter-ocaml_interface | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/interface) |
 | tree-sitter-ocaml_type | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/type) |

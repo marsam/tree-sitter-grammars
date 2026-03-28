@@ -249,6 +249,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-cuda": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-cuda"),
     "tree-sitter-cue": Grammar("https://github.com/eonpatapon/tree-sitter-cue"),
     "tree-sitter-curry": Grammar("https://github.com/matthesjh/tree-sitter-curry"),
+    "tree-sitter-cyberchef": Grammar("https://github.com/tree-sitter-grammars/tree-sitter-cyberchef"),
     "tree-sitter-cylc": Grammar("https://github.com/elliotfontaine/tree-sitter-cylc"),
     "tree-sitter-cypher": Grammar("https://github.com/simplificare-org/tree-sitter-cypher"),
     "tree-sitter-cython": Grammar("https://github.com/b0o/tree-sitter-cython"),
@@ -415,7 +416,7 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-javadoc": Grammar("https://github.com/rmuir/tree-sitter-javadoc"),
     "tree-sitter-jelly": Grammar("https://github.com/OpenJelly/tree-sitter-jelly"),
     "tree-sitter-jinja": Grammar("https://github.com/cathaysia/tree-sitter-jinja"), # Alternative: https://github.com/dbt-labs/tree-sitter-jinja2
-    "tree-sitter-jjdescription": Grammar("https://github.com/kareigu/tree-sitter-jjdescription"),
+    "tree-sitter-jjdescription": Grammar("https://github.com/ribru17/tree-sitter-jjdescription"),  # Alternative: https://github.com/kareigu/tree-sitter-jjdescription
     "tree-sitter-jq": Grammar("https://github.com/nverno/tree-sitter-jq"),  # Alternative: https://github.com/flurie/tree-sitter-jq
     "tree-sitter-jslt": Grammar("https://github.com/Kuzat/tree-sitter-jslt"),
     "tree-sitter-json5": Grammar("https://github.com/Joakker/tree-sitter-json5"),

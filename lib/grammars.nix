@@ -108,6 +108,7 @@ let
     // { tree-sitter-objectscript = grammars'.tree-sitter-objectscript // { location = "udl"; }; }
     // { tree-sitter-objectscript_core = grammars'.tree-sitter-objectscript // { location = "core"; }; }
     // { tree-sitter-objectscript_expr = grammars'.tree-sitter-objectscript // { location = "expr"; }; }
+    // { tree-sitter-objectscript_udl = grammars'.tree-sitter-objectscript // { location = "udl"; }; }
     // { tree-sitter-xml = grammars'.tree-sitter-xml // rec { location = "xml"; postPatch = "cp -av queries/xml ${location}/queries"; }; }
     // { tree-sitter-dtd = grammars'.tree-sitter-xml // rec { location = "dtd"; postPatch = "cp -av queries/dtd ${location}/queries"; }; }
     // { tree-sitter-helm = grammars'.tree-sitter-gotmpl // { location = "dialects/helm"; }; }
