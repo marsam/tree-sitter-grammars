@@ -419,7 +419,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-03-23](https://github.com/krn-robin/tree-sitter-magik/tree/06fe02c76aef09faead56cdf9495bb9d5fc477b0) |
+| tree-sitter-magik | [2026-03-30](https://github.com/krn-robin/tree-sitter-magik/tree/f288161c5f64f0582386e54d90cf1a720520b55d) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -481,9 +481,9 @@ in {
 | tree-sitter-nur | [2025-10-13](https://github.com/alkhizanah/tree-sitter-nur/tree/fed8074a0c9fc6d940adcd665e18fc0a63a46317) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
-| tree-sitter-objectscript | [2026-03-22](https://github.com/intersystems/tree-sitter-objectscript/tree/a60196ecc4e6d492510a0eb0374e74020895b917/udl) |
-| tree-sitter-objectscript_core | [2026-03-22](https://github.com/intersystems/tree-sitter-objectscript/tree/a60196ecc4e6d492510a0eb0374e74020895b917/core) |
-| tree-sitter-objectscript_expr | [2026-03-22](https://github.com/intersystems/tree-sitter-objectscript/tree/a60196ecc4e6d492510a0eb0374e74020895b917/expr) |
+| tree-sitter-objectscript | [2026-03-30](https://github.com/intersystems/tree-sitter-objectscript/tree/f1c568c622a0a43191563fd4c5e649a61eef11cc/udl) |
+| tree-sitter-objectscript_core | [2026-03-30](https://github.com/intersystems/tree-sitter-objectscript/tree/f1c568c622a0a43191563fd4c5e649a61eef11cc/core) |
+| tree-sitter-objectscript_expr | [2026-03-30](https://github.com/intersystems/tree-sitter-objectscript/tree/f1c568c622a0a43191563fd4c5e649a61eef11cc/expr) |
 | tree-sitter-ocaml | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/ocaml) |
 | tree-sitter-ocaml_interface | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/interface) |
 | tree-sitter-ocaml_type | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/type) |
