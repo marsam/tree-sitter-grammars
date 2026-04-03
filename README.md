@@ -92,8 +92,8 @@ in {
 | tree-sitter-arduino | [0.24.0](https://github.com/tree-sitter-grammars/tree-sitter-arduino/tree/v0.24.0) |
 | tree-sitter-aria | [2025-11-20](https://github.com/arialang/tree-sitter-aria/tree/6a96e4d7de32fe89a8b0c3d79167a2797dd29c01) |
 | tree-sitter-asa | [2024-11-20](https://github.com/menaruben/tree-sitter-asa/tree/ddc26bd9dd5ad59aae23f4cf5bad67751a1dc0ae) |
-| tree-sitter-asciidoc | [0.6.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.6.0/tree-sitter-asciidoc) |
-| tree-sitter-asciidoc_inline | [0.6.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.6.0/tree-sitter-asciidoc_inline) |
+| tree-sitter-asciidoc | [0.7.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.7.0/tree-sitter-asciidoc) |
+| tree-sitter-asciidoc_inline | [0.7.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.7.0/tree-sitter-asciidoc_inline) |
 | tree-sitter-asl | [2025-02-05](https://github.com/crvdgc/tree-sitter-asl/tree/03cc414576972f560488276bb8e959245f277cc5) |
 | tree-sitter-asm | [0.24.0](https://github.com/RubixDev/tree-sitter-asm/tree/v0.24.0) |
 | tree-sitter-asm6502 | [2024-11-10](https://github.com/stoneman1/tree-sitter-asm6502/tree/cab7b193bce6a1319b36a9d9ae7efef4535b9224) |
@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-02-14](https://github.com/caddyserver/tree-sitter-caddyfile/tree/8951716aa2855e02dada302c540a90f277546095) |
+| tree-sitter-caddyfile | [2026-04-02](https://github.com/caddyserver/tree-sitter-caddyfile/tree/f8086016343af2844dab0ecb6112f4171f4239b9) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -405,7 +405,7 @@ in {
 | tree-sitter-lilypond | [0.0.2](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.2/lilypond) |
 | tree-sitter-lilypond_scheme | [0.0.2](https://github.com/nwhetsell/tree-sitter-lilypond/tree/v0.0.2/lilypond-scheme) |
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
-| tree-sitter-liquid | [2026-03-26](https://github.com/hankthetank27/tree-sitter-liquid/tree/9566ca79911052919fce09d26f1f655b5e093857) |
+| tree-sitter-liquid | [2026-04-02](https://github.com/hankthetank27/tree-sitter-liquid/tree/e45dbac8c5fa95b1f0e00e7e0c04bc8855823391) |
 | tree-sitter-liquidsoap | [1.2.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.2.2) |
 | tree-sitter-lispbm | [2025-06-02](https://github.com/cortex/tree-sitter-lispbm/tree/fa6160774e2ddf99426406375fd30431060c77aa) |
 | tree-sitter-llvm | [1.1.0](https://github.com/benwilliamgraham/tree-sitter-llvm/tree/v1.1.0) |
@@ -660,7 +660,7 @@ in {
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.3.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.3.1) |
-| tree-sitter-t32 | [7.2.5](https://codeberg.org/xasc/tree-sitter-t32/src/v7.2.5) |
+| tree-sitter-t32 | [7.2.6](https://codeberg.org/xasc/tree-sitter-t32/src/v7.2.6) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
