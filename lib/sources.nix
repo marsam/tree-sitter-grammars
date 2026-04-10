@@ -3522,12 +3522,12 @@
     };
   };
   "tree-sitter-npf" = {
-    version = "unstable-2026-03-12";
+    version = "unstable-2026-04-09";
     src = fetchFromGitHub {
       owner = "ntyunyayev";
       repo = "tree-sitter-npf";
-      rev = "b6b7a6915410d1dd3b9e001fc21ed8dad3c99dcf";
-      hash = "sha256-gC1/8W3ko2pbedCfE0xdXx3gfK+lA0ZkYv2LYadx0uk=";
+      rev = "01cc58a58ac499dfa621a34a4fd17f56d1e5ebce";
+      hash = "sha256-7G06BIv1Hr2o/6gjMilAPbY2abeIA/jG4Z6uma2b9Fg=";
     };
   };
   "tree-sitter-nqc" = {
