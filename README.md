@@ -248,7 +248,7 @@ in {
 | tree-sitter-familymarkup | [1.14.0](https://github.com/redexp/tree-sitter-familymarkup/tree/v1.14.0) |
 | tree-sitter-fasm | [2024-11-21](https://github.com/wassup05/tree-sitter-fasm/tree/6b9e9de027273380d34ed705636c71481f0a2239) |
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
-| tree-sitter-faust | [2025-07-01](https://github.com/khiner/tree-sitter-faust/tree/122dd101919289ea809bad643712fcb483a1bed0) |
+| tree-sitter-faust | [2026-04-11](https://github.com/khiner/tree-sitter-faust/tree/505ed95f185a0e557bf31975bad9b3bdd2708e95) |
 | tree-sitter-fennel | [2026-01-21](https://github.com/alexmozaidze/tree-sitter-fennel/tree/3f0f6b24d599e92460b969aabc4f4c5a914d15a0) |
 | tree-sitter-fga | [2026-03-19](https://github.com/matoous/tree-sitter-fga/tree/ce72d1c484ba133a18e966d67be66bce85695451) |
 | tree-sitter-fidl | [2024-02-27](https://github.com/google/tree-sitter-fidl/tree/0a8910f293268e27ff554357c229ba172b0eaed2) |
@@ -311,7 +311,7 @@ in {
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/MaeBrooks/tree-sitter-gren/tree/v2.0.0) |
 | tree-sitter-gritql | [2026-03-01](https://github.com/biomejs/tree-sitter-gritql/tree/aabd71cc5efdbb78138bd433ab150f15d05c7a51) |
-| tree-sitter-groovy | [2026-03-04](https://github.com/murtaza64/tree-sitter-groovy/tree/781d9cd1b482a70a6b27091e5c9e14bbcab3b768) |
+| tree-sitter-groovy | [2026-04-11](https://github.com/murtaza64/tree-sitter-groovy/tree/deb0dcf8c4544f07564060f6e9b9f6e4b0bfc27d) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
 | tree-sitter-gularen | [2025-11-07](https://github.com/noorwachid/tree-sitter-gularen/tree/9b089d770db747cf9239b237e1fc356a06591139) |
 | tree-sitter-hack | [2025-11-03](https://github.com/slackhq/tree-sitter-hack/tree/1a7ded90288189746c54861ac144ede97df95081) |
@@ -766,7 +766,7 @@ in {
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2026-03-22](https://github.com/dastrukar/tree-sitter-zscript/tree/35c1449ddae6bc647c952a79e39ca848a31a1b9d) |
+| tree-sitter-zscript | [2026-04-11](https://github.com/dastrukar/tree-sitter-zscript/tree/2781e61b05d370b3ef97b7b323c8a944599fdec7) |
 | tree-sitter-zsh | [0.63.3](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.63.3) |
 
 </details>
