@@ -1621,12 +1621,12 @@
     };
   };
   "tree-sitter-faust" = {
-    version = "unstable-2026-04-11";
+    version = "unstable-2026-04-12";
     src = fetchFromGitHub {
       owner = "khiner";
       repo = "tree-sitter-faust";
-      rev = "505ed95f185a0e557bf31975bad9b3bdd2708e95";
-      hash = "sha256-EGzbWDHtbTJsO11AUsKqaPC+iUaEOwr+ZAC5JDZnGwo=";
+      rev = "2bd027f18927d13afdfdfc3f1e7088aaa515691f";
+      hash = "sha256-0DrpMqRidCYE8frE/45XFbxD8hbzGznQI9gCbOtOwSE=";
     };
   };
   "tree-sitter-fennel" = {
@@ -2513,12 +2513,12 @@
     };
   };
   "tree-sitter-inko" = {
-    version = "0.5.1";
+    version = "0.6.0";
     src = fetchFromGitHub {
       owner = "inko-lang";
       repo = "tree-sitter-inko";
-      rev = "v0.5.1";
-      hash = "sha256-bt/T6O/7of8r9DrA6DU8pM4vWlBCgWWzw89GZbDyJnw=";
+      rev = "v0.6.0";
+      hash = "sha256-1HoQRCWysE0ySLhJ/CF4z7aB28ficD/LoES+bp23hhc=";
     };
   };
   "tree-sitter-integerbasic" = {
@@ -5830,12 +5830,12 @@
     };
   };
   "tree-sitter-zscript" = {
-    version = "unstable-2026-04-11";
+    version = "unstable-2026-04-12";
     src = fetchFromGitHub {
       owner = "dastrukar";
       repo = "tree-sitter-zscript";
-      rev = "2781e61b05d370b3ef97b7b323c8a944599fdec7";
-      hash = "sha256-ABq2+GrvEg3ahJ6u6qCEp5/x7/v7n34Q/gF4MbSwYAY=";
+      rev = "71ca49664c05ab61c3cc1cad44f67e0308dec2eb";
+      hash = "sha256-yu8tGKx3VfNwQ+GXO731t0sRum5RJP0OMyUTZ5Gp7wk=";
     };
   };
   "tree-sitter-zsh" = {

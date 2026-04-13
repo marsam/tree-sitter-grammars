@@ -248,7 +248,7 @@ in {
 | tree-sitter-familymarkup | [1.14.0](https://github.com/redexp/tree-sitter-familymarkup/tree/v1.14.0) |
 | tree-sitter-fasm | [2024-11-21](https://github.com/wassup05/tree-sitter-fasm/tree/6b9e9de027273380d34ed705636c71481f0a2239) |
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
-| tree-sitter-faust | [2026-04-11](https://github.com/khiner/tree-sitter-faust/tree/505ed95f185a0e557bf31975bad9b3bdd2708e95) |
+| tree-sitter-faust | [2026-04-12](https://github.com/khiner/tree-sitter-faust/tree/2bd027f18927d13afdfdfc3f1e7088aaa515691f) |
 | tree-sitter-fennel | [2026-01-21](https://github.com/alexmozaidze/tree-sitter-fennel/tree/3f0f6b24d599e92460b969aabc4f4c5a914d15a0) |
 | tree-sitter-fga | [2026-03-19](https://github.com/matoous/tree-sitter-fga/tree/ce72d1c484ba133a18e966d67be66bce85695451) |
 | tree-sitter-fidl | [2024-02-27](https://github.com/google/tree-sitter-fidl/tree/0a8910f293268e27ff554357c229ba172b0eaed2) |
@@ -353,7 +353,7 @@ in {
 | tree-sitter-ignis | [2026-02-09](https://github.com/Ignis-lang/tree-sitter-ignis/tree/bd484c44659e7a61a99ed455a6ca0809cd265bba) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
 | tree-sitter-ink | [26.2.27](https://github.com/wldmr/tree-sitter-ink/tree/v26.2.27) |
-| tree-sitter-inko | [0.5.1](https://github.com/inko-lang/tree-sitter-inko/tree/v0.5.1) |
+| tree-sitter-inko | [0.6.0](https://github.com/inko-lang/tree-sitter-inko/tree/v0.6.0) |
 | tree-sitter-integerbasic | [3.0.0](https://github.com/dfgordon/tree-sitter-integerbasic/tree/v3.0.0) |
 | tree-sitter-ion | [2024-04-04](https://github.com/Ignis-lang/tree-sitter-ion/tree/3d87d54106c3b71fd90efda2b8bd442d1b4a3314) |
 | tree-sitter-isle | [2025-01-15](https://github.com/eagr/tree-sitter-isle/tree/e69ef9a7da3419013e418775b8ac8a84a4f9adfb) |
@@ -766,7 +766,7 @@ in {
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2026-04-11](https://github.com/dastrukar/tree-sitter-zscript/tree/2781e61b05d370b3ef97b7b323c8a944599fdec7) |
+| tree-sitter-zscript | [2026-04-12](https://github.com/dastrukar/tree-sitter-zscript/tree/71ca49664c05ab61c3cc1cad44f67e0308dec2eb) |
 | tree-sitter-zsh | [0.63.3](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.63.3) |
 
 </details>
