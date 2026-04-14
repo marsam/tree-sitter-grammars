@@ -3063,12 +3063,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2026-04-06";
+    version = "unstable-2026-04-13";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "7f821c17c1b109ecd4f7559bb5ebb7eff5315cbc";
-      hash = "sha256-prAyuH92cfTunZYAhKoN2o6WiRd4BJ0gdpnT8SovZfk=";
+      rev = "3b6c0d033221b107c8b04bf789621e76c904ed55";
+      hash = "sha256-6byXc7ukgJh8xgyBTWt7BbofbNQgop4kImar9kD3hKc=";
     };
   };
   "tree-sitter-make" = {
