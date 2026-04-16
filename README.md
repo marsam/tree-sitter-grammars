@@ -563,7 +563,7 @@ in {
 | tree-sitter-radiant | [2024-12-07](https://github.com/mahgoh/tree-sitter-radiant/tree/b5884c22bb691bc6b8f262afdd27e52d0ca04d83) |
 | tree-sitter-ralph | [2024-06-24](https://github.com/alephium/tree-sitter-ralph/tree/f6d81bf7a4599c77388035439cf5801cd461ff77) |
 | tree-sitter-rasi | [0.1.0](https://github.com/Fymyte/tree-sitter-rasi/tree/v0.1.0) |
-| tree-sitter-razor | [2026-04-14](https://github.com/tris203/tree-sitter-razor/tree/ba85f57c1474e01d6f7b90876f0b9e1e1962e545) |
+| tree-sitter-razor | [2026-04-15](https://github.com/tris203/tree-sitter-razor/tree/1e8ec29b7179329ce7cffcfae2c5347e8a00f7cf) |
 | tree-sitter-rbs | [0.2.2](https://github.com/joker1007/tree-sitter-rbs/tree/v0.2.2) |
 | tree-sitter-rcl | [2025-12-17](https://codeberg.org/ruuda/tree-sitter-rcl/src/9e14baa313f79d1717cf81e8e35f051c7da77073) |
 | tree-sitter-rdoc | [2025-01-13](https://github.com/gemmaro/tree-sitter-rdoc/tree/0fc9ddd8bbfee45bc70d662bc9c144a83fbb3879) |
@@ -612,7 +612,7 @@ in {
 | tree-sitter-shosts | [2025-01-15](https://github.com/Smart-Hosts/tree-sitter-shosts/tree/0b62b6e0fddb6ee7ac6940bbc967fa1956233c60) |
 | tree-sitter-skbdrc | [2026-03-01](https://github.com/starkwm/tree-sitter-skbdrc/tree/8c5c014b94191677f15f9a40fd6a1341c6834452) |
 | tree-sitter-slang | [0.3.1](https://github.com/tree-sitter-grammars/tree-sitter-slang/tree/v0.3.1) |
-| tree-sitter-slim | [2025-06-14](https://github.com/theoo/tree-sitter-slim/tree/a06113f5175b805a37d20df0a6f9d722e0ab6cfe) |
+| tree-sitter-slim | [2026-04-15](https://github.com/theoo/tree-sitter-slim/tree/d4ff7e388eb271c04662f2176c08548c9c51078f) |
 | tree-sitter-slint | [2026-02-26](https://github.com/slint-ui/tree-sitter-slint/tree/4d7ad0617c30f865f051bbac04a9826bea29f987) |
 | tree-sitter-smali | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-smali/tree/v1.0.0) |
 | tree-sitter-smarty | [2023-11-15](https://github.com/Kibadda/tree-sitter-smarty/tree/10d7ec727362b2978d686b544cee96568e297aae) |
