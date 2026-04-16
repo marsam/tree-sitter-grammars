@@ -105,9 +105,10 @@ let
     // { tree-sitter-csv = grammars'.tree-sitter-csv // { location = "csv"; }; }
     // { tree-sitter-psv = grammars'.tree-sitter-csv // { location = "psv"; }; }
     // { tree-sitter-tsv = grammars'.tree-sitter-csv // { location = "tsv"; }; }
-    // { tree-sitter-objectscript = grammars'.tree-sitter-objectscript // { location = "udl"; }; }
+    // { tree-sitter-objectscript = grammars'.tree-sitter-objectscript // { location = "objectscript"; }; }
     // { tree-sitter-objectscript_core = grammars'.tree-sitter-objectscript // { location = "core"; }; }
     // { tree-sitter-objectscript_expr = grammars'.tree-sitter-objectscript // { location = "expr"; }; }
+    // { tree-sitter-objectscript_routine = grammars'.tree-sitter-objectscript // { location = "objectscript_routine"; }; }
     // { tree-sitter-objectscript_udl = grammars'.tree-sitter-objectscript // { location = "udl"; }; }
     // { tree-sitter-xml = grammars'.tree-sitter-xml // rec { location = "xml"; postPatch = "cp -av queries/xml ${location}/queries"; }; }
     // { tree-sitter-dtd = grammars'.tree-sitter-xml // rec { location = "dtd"; postPatch = "cp -av queries/dtd ${location}/queries"; }; }
@@ -158,12 +159,6 @@ let
     // { tree-sitter-catala_en = grammars'.tree-sitter-catala_en // rec { location = "en"; postPatch = "cp -av queries ${location}/queries"; }; }
     // { tree-sitter-catala_fr = grammars'.tree-sitter-catala_en // rec { location = "fr"; postPatch = "cp -av queries ${location}/queries"; }; }
     // { tree-sitter-catala_pl = grammars'.tree-sitter-catala_en // rec { location = "pl"; postPatch = "cp -av queries ${location}/queries"; }; }
-    // { tree-sitter-epics_cmd = grammars'.tree-sitter-epics_cmd // { location = "epics-cmd"; }; }
-    // { tree-sitter-epics_db = grammars'.tree-sitter-epics_cmd // { location = "epics-db"; }; }
-    // { tree-sitter-epics_msi_substitution = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-substitution"; }; }
-    // { tree-sitter-epics_msi_template = grammars'.tree-sitter-epics_cmd // { location = "epics-msi-template"; }; }
-    // { tree-sitter-snl = grammars'.tree-sitter-epics_cmd // { location = "snl"; }; }
-    // { tree-sitter-streamdevice_proto = grammars'.tree-sitter-epics_cmd // { location = "streamdevice-proto"; }; }
     // { tree-sitter-cgsql = grammars'.tree-sitter-cgsql // { generate = true; }; }
     // { tree-sitter-moshell = grammars'.tree-sitter-moshell // { generate = true; }; }
     // { tree-sitter-corth = grammars'.tree-sitter-corth // { generate = true; }; }
