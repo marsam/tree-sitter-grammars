@@ -184,7 +184,7 @@ in {
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
 | tree-sitter-cuda | [0.21.1](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.1) |
 | tree-sitter-cue | [0.1.0](https://github.com/eonpatapon/tree-sitter-cue/tree/v0.1.0) |
-| tree-sitter-curry | [0.0.3](https://github.com/matthesjh/tree-sitter-curry/tree/v0.0.3) |
+| tree-sitter-curry | [0.0.4](https://github.com/matthesjh/tree-sitter-curry/tree/v0.0.4) |
 | tree-sitter-cyberchef | [2026-03-18](https://github.com/tree-sitter-grammars/tree-sitter-cyberchef/tree/8bad395b98253324085b4b5227b14d4988f374b7) |
 | tree-sitter-cylc | [0.2.0](https://github.com/elliotfontaine/tree-sitter-cylc/tree/v0.2.0) |
 | tree-sitter-cypher | [0.0.1](https://github.com/simplificare-org/tree-sitter-cypher/tree/v0.0.1) |
@@ -285,7 +285,7 @@ in {
 | tree-sitter-ghostty | [1.2](https://github.com/bezhermoso/tree-sitter-ghostty/tree/1.2) |
 | tree-sitter-git_config | [2025-05-11](https://github.com/the-mikedavis/tree-sitter-git-config/tree/0fbc9f99d5a28865f9de8427fb0672d66f9d83a5) |
 | tree-sitter-git_merge_conflict | [1.0.0](https://github.com/pv-hernandez/tree-sitter-git-merge-conflict/tree/v1.0.0) |
-| tree-sitter-git_rebase | [2026-03-14](https://github.com/the-mikedavis/tree-sitter-git-rebase/tree/760ba8e34e7a68294ffb9c495e1388e030366188) |
+| tree-sitter-git_rebase | [1.0.0](https://github.com/the-mikedavis/tree-sitter-git-rebase/tree/v1.0.0) |
 | tree-sitter-gitattributes | [0.1.6](https://github.com/tree-sitter-grammars/tree-sitter-gitattributes/tree/v0.1.6) |
 | tree-sitter-gitcommit | [0.5.0](https://github.com/gbprod/tree-sitter-gitcommit/tree/v0.5.0) |
 | tree-sitter-gitignore | [2022-05-04](https://github.com/shunsambongi/tree-sitter-gitignore/tree/f4685bf11ac466dd278449bcfe5fd014e94aa504) |
@@ -420,7 +420,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-04-13](https://github.com/krn-robin/tree-sitter-magik/tree/3b6c0d033221b107c8b04bf789621e76c904ed55) |
+| tree-sitter-magik | [2026-04-20](https://github.com/krn-robin/tree-sitter-magik/tree/acb6fc12853eda8d60411fa87e863f2db904ba08) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -563,7 +563,7 @@ in {
 | tree-sitter-radiant | [2024-12-07](https://github.com/mahgoh/tree-sitter-radiant/tree/b5884c22bb691bc6b8f262afdd27e52d0ca04d83) |
 | tree-sitter-ralph | [2024-06-24](https://github.com/alephium/tree-sitter-ralph/tree/f6d81bf7a4599c77388035439cf5801cd461ff77) |
 | tree-sitter-rasi | [0.1.0](https://github.com/Fymyte/tree-sitter-rasi/tree/v0.1.0) |
-| tree-sitter-razor | [2026-04-18](https://github.com/tris203/tree-sitter-razor/tree/a57265cc454a060292f869d6b30c10f797adb971) |
+| tree-sitter-razor | [2026-04-20](https://github.com/tris203/tree-sitter-razor/tree/a3399c26610817c6d32c7643793caf3729cfb6d2) |
 | tree-sitter-rbs | [0.2.2](https://github.com/joker1007/tree-sitter-rbs/tree/v0.2.2) |
 | tree-sitter-rcl | [2025-12-17](https://codeberg.org/ruuda/tree-sitter-rcl/src/9e14baa313f79d1717cf81e8e35f051c7da77073) |
 | tree-sitter-rdoc | [2025-01-13](https://github.com/gemmaro/tree-sitter-rdoc/tree/0fc9ddd8bbfee45bc70d662bc9c144a83fbb3879) |
