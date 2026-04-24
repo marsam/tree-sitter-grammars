@@ -2486,12 +2486,12 @@
     };
   };
   "tree-sitter-ignis" = {
-    version = "unstable-2026-02-09";
+    version = "unstable-2026-04-23";
     src = fetchFromGitHub {
       owner = "Ignis-lang";
       repo = "tree-sitter-ignis";
-      rev = "bd484c44659e7a61a99ed455a6ca0809cd265bba";
-      hash = "sha256-tTvnMgf1n38I86SN9N1cOK6Z+hT3jaFzUan9fpdIg1I=";
+      rev = "b4846e13c45957f609cf39c8037549809c240793";
+      hash = "sha256-vlyX2vEOi83cnctzusqXpi7X8mTOIApiCYC2cizvbJ8=";
     };
   };
   "tree-sitter-ini" = {
@@ -4063,12 +4063,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-04-22";
+    version = "unstable-2026-04-24";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "08c2dc697b151267c9c6c48ed3b535ed7f2521e5";
-      hash = "sha256-yAEYRZNA5G0dxeRHk44KYw26TpA5ahZYESWwCaq2yTU=";
+      rev = "38fd704fcfc0fe4ad36fb7ce09f02c222666cbd2";
+      hash = "sha256-tJQS/JaUdatUb84GSHV7dA8w4pPrUpgCQJhCFNUkMV8=";
     };
   };
   "tree-sitter-q" = {
@@ -4757,12 +4757,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.4.16";
+    version = "2026.4.23";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.4.16";
-      hash = "sha256-bWZsxfLr8e2Kv96EGOwTyycLBH8DhXsLrzUIABN5um8=";
+      rev = "2026.4.23";
+      hash = "sha256-2tAoK0X52cA+BkBus3aW3rlu+q3himH0WpgmU07aCcM=";
     };
   };
   "tree-sitter-ssh_config" = {
