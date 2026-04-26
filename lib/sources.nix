@@ -4280,12 +4280,12 @@
     };
   };
   "tree-sitter-rescript" = {
-    version = "unstable-2026-04-24";
+    version = "unstable-2026-04-26";
     src = fetchFromGitHub {
       owner = "rescript-lang";
       repo = "tree-sitter-rescript";
-      rev = "cafdc4ffad57bcdb8cd49f19a640d0fdfc929387";
-      hash = "sha256-2bvODwjjVXXFBT2b3o7laWEEXxXesbrOw7IgjYYTmGc=";
+      rev = "7dbc8a80640e794302938fef3555e272ec7ff33f";
+      hash = "sha256-36WIP1xqeEWOC7CQ6zZY0SwjEdJjCqDlUGpl7hBAlHM=";
     };
   };
   "tree-sitter-restedlang" = {

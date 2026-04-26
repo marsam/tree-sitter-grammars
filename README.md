@@ -575,7 +575,7 @@ in {
 | tree-sitter-regex | [0.25.0](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.25.0) |
 | tree-sitter-rego | [2026-01-14](https://github.com/FallenAngel97/tree-sitter-rego/tree/ddd39af81fe8b0288102a7cb97959dfce723e0f3) |
 | tree-sitter-requirements | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.5.0) |
-| tree-sitter-rescript | [2026-04-24](https://github.com/rescript-lang/tree-sitter-rescript/tree/cafdc4ffad57bcdb8cd49f19a640d0fdfc929387) |
+| tree-sitter-rescript | [2026-04-26](https://github.com/rescript-lang/tree-sitter-rescript/tree/7dbc8a80640e794302938fef3555e272ec7ff33f) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
 | tree-sitter-rifleconf | [2026-01-23](https://github.com/purarue/tree-sitter-rifleconf/tree/6389ef0fc0d48f0397ec233109c074a0cb685e36) |
 | tree-sitter-risor | [2026-03-20](https://github.com/applejag/tree-sitter-risor/tree/e2a28baa9b37d1b96c5ff32c7b41ef9987ecbeb4) |
