@@ -148,10 +148,10 @@ in {
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfhtml | [0.26.4](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.4/cfhtml) |
-| tree-sitter-cfml | [0.26.4](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.4/cfml) |
-| tree-sitter-cfquery | [0.26.4](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.4/cfquery) |
-| tree-sitter-cfscript | [0.26.4](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.4/cfscript) |
+| tree-sitter-cfhtml | [0.26.6](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.6/cfhtml) |
+| tree-sitter-cfml | [0.26.6](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.6/cfml) |
+| tree-sitter-cfquery | [0.26.6](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.6/cfquery) |
+| tree-sitter-cfscript | [0.26.6](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.6/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -553,7 +553,7 @@ in {
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
 | tree-sitter-ql | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql/tree/v0.23.1) |
 | tree-sitter-ql_dbscheme | [0.23.1](https://github.com/tree-sitter/tree-sitter-ql-dbscheme/tree/v0.23.1) |
-| tree-sitter-qmldir | [0.2.2](https://github.com/tree-sitter-grammars/tree-sitter-qmldir/tree/0.2.2) |
+| tree-sitter-qmldir | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-qmldir/tree/v0.1.0) |
 | tree-sitter-qmljs | [0.3.0](https://github.com/yuja/tree-sitter-qmljs/tree/0.3.0) |
 | tree-sitter-quakec | [0.1](https://github.com/vkazanov/tree-sitter-quakec/tree/v0.1) |
 | tree-sitter-query | [0.8.0](https://github.com/tree-sitter-grammars/tree-sitter-query/tree/v0.8.0) |

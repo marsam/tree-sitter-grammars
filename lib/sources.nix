@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.4";
+    version = "0.26.6";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.4";
-      hash = "sha256-+uaRPi258Zt+YQzD7wzfRzzEUXlT6Rut8LitB0+FuXw=";
+      rev = "v0.26.6";
+      hash = "sha256-vjMHTYjtQdEgNsRtGi7JeFACzGQbCwd2BX7a/l9BJmo=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -4090,12 +4090,12 @@
     };
   };
   "tree-sitter-qmldir" = {
-    version = "0.2.2";
+    version = "0.1.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-qmldir";
-      rev = "0.2.2";
-      hash = "sha256-8niEFMpiGTEYl+ze2ybfkdOKx2ww25hMPWdjrPfJlR8=";
+      rev = "v0.1.0";
+      hash = "sha256-lQl2FpdtqBQq0eE/JwqMKHH8K+UtOfUR/4iolexsDXU=";
     };
   };
   "tree-sitter-qmljs" = {
