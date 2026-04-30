@@ -5578,15 +5578,6 @@
       hash = "sha256-oBo41rvptzQzsyD6chjbvOfiH9+SVVX+s3+yDvSXWk4=";
     };
   };
-  "tree-sitter-wdl" = {
-    version = "unstable-2023-07-30";
-    src = fetchFromGitHub {
-      owner = "jdidion";
-      repo = "tree-sitter-wdl";
-      rev = "3e90feaf59830d1e44017c729b4d5b354071ddc8";
-      hash = "sha256-LV+F5y0P3JiOjYk/dDNRLtYjr3qPdUFNT3heO9/FDcA=";
-    };
-  };
   "tree-sitter-webidl" = {
     version = "unstable-2025-03-21";
     src = fetchFromGitHub {

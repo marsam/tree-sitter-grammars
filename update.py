@@ -743,7 +743,6 @@ GRAMMARS: dict[str, Grammar] = {
     "tree-sitter-wasp": Grammar("https://github.com/bx2/tree-sitter-wasp"),
     "tree-sitter-wast": Grammar("https://github.com/wasm-lsp/tree-sitter-wasm"),
     "tree-sitter-wbproto": Grammar("https://github.com/acristoffers/tree-sitter-wbproto"),
-    "tree-sitter-wdl": Grammar("https://github.com/jdidion/tree-sitter-wdl"),
     "tree-sitter-webidl": Grammar("https://github.com/Endoqa/tree-sitter-webidl"),
     "tree-sitter-wenyan": Grammar("https://github.com/duskmoon314/tree-sitter-wenyan"),
     "tree-sitter-werk": Grammar("https://github.com/jakobhellermann/tree-sitter-werk"),

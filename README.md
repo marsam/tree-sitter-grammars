@@ -732,7 +732,6 @@ in {
 | tree-sitter-wast | [2022-05-17](https://github.com/wasm-lsp/tree-sitter-wasm/tree/2ca28a9f9d709847bf7a3de0942a84e912f59088/wast) |
 | tree-sitter-wat | [2022-05-17](https://github.com/wasm-lsp/tree-sitter-wasm/tree/2ca28a9f9d709847bf7a3de0942a84e912f59088/wat) |
 | tree-sitter-wbproto | [2024-07-22](https://github.com/acristoffers/tree-sitter-wbproto/tree/fd7c99b141635d9e046a829d78961dcdcfdd3c59) |
-| tree-sitter-wdl | [2023-07-30](https://github.com/jdidion/tree-sitter-wdl/tree/3e90feaf59830d1e44017c729b4d5b354071ddc8) |
 | tree-sitter-webidl | [2025-03-21](https://github.com/Endoqa/tree-sitter-webidl/tree/b8d8cc409434673aebe15f43b6a5ca9b46151e02) |
 | tree-sitter-wenyan | [2022-09-03](https://github.com/duskmoon314/tree-sitter-wenyan/tree/ea93d8bb9c605bebf832bb175254c0310dd526e9) |
 | tree-sitter-werk | [2025-02-18](https://github.com/jakobhellermann/tree-sitter-werk/tree/8d278338d8161b70dccb228f654ac6544c7737ed) |
