@@ -1711,12 +1711,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2026-03-10";
+    version = "unstable-2026-04-29";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "ed740ef6a9e32baf199c01d1b458816fec37597a";
-      hash = "sha256-xlC7JRkd2RRq9Uk84UqYPrL8YutY4GGXRV8hdTbrmpc=";
+      rev = "d6a20d62c789b1f46af3059f0b595b0677b00531";
+      hash = "sha256-mnYu2a7bORqceFgRSMqKl40SdJvrInfodKqGKGJTK+E=";
     };
   };
   "tree-sitter-forester" = {
@@ -2486,12 +2486,12 @@
     };
   };
   "tree-sitter-ignis" = {
-    version = "unstable-2026-04-23";
+    version = "unstable-2026-04-29";
     src = fetchFromGitHub {
       owner = "Ignis-lang";
       repo = "tree-sitter-ignis";
-      rev = "b4846e13c45957f609cf39c8037549809c240793";
-      hash = "sha256-vlyX2vEOi83cnctzusqXpi7X8mTOIApiCYC2cizvbJ8=";
+      rev = "9548b6c11e25dab93fccfe065a439b0cbe7d9c53";
+      hash = "sha256-iCSqLHMXUb1HaTlU5Y/b3ktnqxGEdMiuXHg7wYQRQSI=";
     };
   };
   "tree-sitter-ini" = {

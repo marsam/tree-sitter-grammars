@@ -258,7 +258,7 @@ in {
 | tree-sitter-flamingo | [0.1.4](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.4) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2026-03-10](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/ed740ef6a9e32baf199c01d1b458816fec37597a) |
+| tree-sitter-fodot | [2026-04-29](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/d6a20d62c789b1f46af3059f0b595b0677b00531) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -350,7 +350,7 @@ in {
 | tree-sitter-idl | [3.17.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.17.0) |
 | tree-sitter-idris | [2024-11-05](https://github.com/kayhide/tree-sitter-idris/tree/c56a25cf57c68ff929356db25505c1cc4c7820f6) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
-| tree-sitter-ignis | [2026-04-23](https://github.com/Ignis-lang/tree-sitter-ignis/tree/b4846e13c45957f609cf39c8037549809c240793) |
+| tree-sitter-ignis | [2026-04-29](https://github.com/Ignis-lang/tree-sitter-ignis/tree/9548b6c11e25dab93fccfe065a439b0cbe7d9c53) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
 | tree-sitter-ink | [26.2.27](https://github.com/wldmr/tree-sitter-ink/tree/v26.2.27) |
 | tree-sitter-inko | [0.6.0](https://github.com/inko-lang/tree-sitter-inko/tree/v0.6.0) |
