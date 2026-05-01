@@ -350,7 +350,7 @@ in {
 | tree-sitter-idl | [3.17.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.17.0) |
 | tree-sitter-idris | [2024-11-05](https://github.com/kayhide/tree-sitter-idris/tree/c56a25cf57c68ff929356db25505c1cc4c7820f6) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
-| tree-sitter-ignis | [2026-04-29](https://github.com/Ignis-lang/tree-sitter-ignis/tree/9548b6c11e25dab93fccfe065a439b0cbe7d9c53) |
+| tree-sitter-ignis | [2026-04-30](https://github.com/Ignis-lang/tree-sitter-ignis/tree/aa9910058de5e9cf901fb4e16f381d0c8c513c73) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
 | tree-sitter-ink | [26.2.27](https://github.com/wldmr/tree-sitter-ink/tree/v26.2.27) |
 | tree-sitter-inko | [0.6.0](https://github.com/inko-lang/tree-sitter-inko/tree/v0.6.0) |
@@ -574,7 +574,7 @@ in {
 | tree-sitter-regent | [0.3.7](https://github.com/ellishg/tree-sitter-regent/tree/v0.3.7) |
 | tree-sitter-regex | [0.25.0](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.25.0) |
 | tree-sitter-rego | [2026-01-14](https://github.com/FallenAngel97/tree-sitter-rego/tree/ddd39af81fe8b0288102a7cb97959dfce723e0f3) |
-| tree-sitter-requirements | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.5.0) |
+| tree-sitter-requirements | [0.6.1](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.6.1) |
 | tree-sitter-rescript | [2026-04-26](https://github.com/rescript-lang/tree-sitter-rescript/tree/5b90cd4e4138b1231a67977303bda47eb608480a) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
 | tree-sitter-rifleconf | [2026-01-23](https://github.com/purarue/tree-sitter-rifleconf/tree/6389ef0fc0d48f0397ec233109c074a0cb685e36) |
@@ -635,7 +635,7 @@ in {
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2026.4.23](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.4.23) |
+| tree-sitter-ssh_client_config | [2026.4.30](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.4.30) |
 | tree-sitter-ssh_config | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.4.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.3.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.3.1/grammars/stan) |
@@ -662,7 +662,7 @@ in {
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.3.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.3.1) |
-| tree-sitter-t32 | [7.2.6](https://codeberg.org/xasc/tree-sitter-t32/src/v7.2.6) |
+| tree-sitter-t32 | [8.0.0](https://codeberg.org/xasc/tree-sitter-t32/src/v8.0.0) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
