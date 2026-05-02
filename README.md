@@ -307,7 +307,7 @@ in {
 | tree-sitter-gowork | [2024-09-11](https://github.com/zed-industries/tree-sitter-go-work/tree/acb0617bf7f4fda02c6217676cc64acb89536dc7) |
 | tree-sitter-gpg | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-gpg-config/tree/v0.2.1) |
 | tree-sitter-gpr | [2024-08-13](https://github.com/brownts/tree-sitter-gpr/tree/cea857d3c18d1385d1f5b66cd09ea1e44173945c) |
-| tree-sitter-gram | [0.3.6](https://github.com/gram-data/tree-sitter-gram/tree/v0.3.6) |
+| tree-sitter-gram | [0.3.7](https://github.com/gram-data/tree-sitter-gram/tree/v0.3.7) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/gren-lang/tree-sitter-gren/tree/v2.0.0) |
 | tree-sitter-gritql | [2026-03-01](https://github.com/biomejs/tree-sitter-gritql/tree/aabd71cc5efdbb78138bd433ab150f15d05c7a51) |
@@ -576,7 +576,7 @@ in {
 | tree-sitter-regex | [0.25.0](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.25.0) |
 | tree-sitter-rego | [2026-01-14](https://github.com/FallenAngel97/tree-sitter-rego/tree/ddd39af81fe8b0288102a7cb97959dfce723e0f3) |
 | tree-sitter-requirements | [0.6.1](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.6.1) |
-| tree-sitter-rescript | [2026-04-26](https://github.com/rescript-lang/tree-sitter-rescript/tree/5b90cd4e4138b1231a67977303bda47eb608480a) |
+| tree-sitter-rescript | [6.0.0](https://github.com/rescript-lang/tree-sitter-rescript/tree/v6.0.0) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
 | tree-sitter-rifleconf | [2026-01-23](https://github.com/purarue/tree-sitter-rifleconf/tree/6389ef0fc0d48f0397ec233109c074a0cb685e36) |
 | tree-sitter-risor | [2026-03-20](https://github.com/applejag/tree-sitter-risor/tree/e2a28baa9b37d1b96c5ff32c7b41ef9987ecbeb4) |
@@ -587,8 +587,8 @@ in {
 | tree-sitter-roc | [2025-02-03](https://github.com/faldor20/tree-sitter-roc/tree/3292b071b2574e71a9fcf66b2cc6e3092daa39f4) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
-| tree-sitter-rpmbash | [2026-04-08](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/01e5b9ed82eedb0d70b250406849c90e833f0a0a/rpmbash) |
-| tree-sitter-rpmspec | [2026-04-08](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/01e5b9ed82eedb0d70b250406849c90e833f0a0a/rpmspec) |
+| tree-sitter-rpmbash | [2026-05-01](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/7d1557162655f677729dca90cc180aca657053ec/rpmbash) |
+| tree-sitter-rpmspec | [2026-05-01](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/7d1557162655f677729dca90cc180aca657053ec/rpmspec) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
 | tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.2.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.2.0) |
@@ -630,7 +630,7 @@ in {
 | tree-sitter-spade | [2026-02-23](https://gitlab.com/spade-lang/tree-sitter-spade//tree/f4f62fcb2340d744f6df48de22b5f239beecdab5) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
-| tree-sitter-spicy | [2026-04-06](https://github.com/bbannier/tree-sitter-spicy/tree/5ddcff4bdb005ddc4026344385eb81860a180d33) |
+| tree-sitter-spicy | [2026-05-01](https://github.com/bbannier/tree-sitter-spicy/tree/5673fd64c20da9980e34ae3c3fb7fa1890a3fdc3) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
@@ -680,7 +680,7 @@ in {
 | tree-sitter-tfvars | [2024-06-25](https://github.com/opa-oz/tree-sitter-tfvars/tree/dbe19193dd51ccbcc4bfd5294804aa45960b4369) |
 | tree-sitter-thrift | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-thrift/tree/v0.5.0) |
 | tree-sitter-tiger | [0.3.0](https://github.com/ambroisie/tree-sitter-tiger/tree/v0.3.0) |
-| tree-sitter-times | [2026-04-01](https://github.com/michaeladler/tree-sitter-times/tree/a7fa67b29b675372051b4645b6f28f2635bd4ba1) |
+| tree-sitter-times | [2026-05-01](https://github.com/michaeladler/tree-sitter-times/tree/e5acb6b468730414345abe5857f9b584f9093f08) |
 | tree-sitter-tl | [2025-11-28](https://github.com/HematiteOS/tree-sitter-tl/tree/fbe70a53f8f2f3c2ff5f235c853f2d32d15e6277) |
 | tree-sitter-tlaplus | [1.5.0](https://github.com/tlaplus-community/tree-sitter-tlaplus/tree/1.5.0) |
 | tree-sitter-tlb | [2025-01-26](https://github.com/nickshatilo/tree-sitter-tlb/tree/2c297bc02ae93b55f0216e94e34c76ea21c3ebe4) |
