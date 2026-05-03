@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-04-06](https://github.com/caddyserver/tree-sitter-caddyfile/tree/6e62b4e297c955f050a6542a8d24df2f223a90e8) |
+| tree-sitter-caddyfile | [2026-05-02](https://github.com/caddyserver/tree-sitter-caddyfile/tree/683332a6430675abfd9867201ef47b2b99bdb266) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -768,7 +768,7 @@ in {
 | tree-sitter-ziggy_schema | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy-schema) |
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
-| tree-sitter-zscript | [2026-04-12](https://github.com/dastrukar/tree-sitter-zscript/tree/71ca49664c05ab61c3cc1cad44f67e0308dec2eb) |
+| tree-sitter-zscript | [2026-05-02](https://github.com/dastrukar/tree-sitter-zscript/tree/75ff06e2b4fb7bfcdeb165ecb12a20dfea3c318d) |
 | tree-sitter-zsh | [0.63.3](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.63.3) |
 
 </details>
