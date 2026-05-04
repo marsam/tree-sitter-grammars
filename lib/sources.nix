@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.6";
+    version = "0.26.9";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.6";
-      hash = "sha256-vjMHTYjtQdEgNsRtGi7JeFACzGQbCwd2BX7a/l9BJmo=";
+      rev = "v0.26.9";
+      hash = "sha256-fYUjGDTrPNx/nU3IF5p1/GL9qDzRA/ogUmg9nGLkmfg=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -2947,12 +2947,12 @@
     };
   };
   "tree-sitter-lilypond" = {
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchFromGitHub {
       owner = "nwhetsell";
       repo = "tree-sitter-lilypond";
-      rev = "v0.0.2";
-      hash = "sha256-Db5Gpd0EKcsVdiZWKaXHXPQPkciu+hrklXxfTQYQWgo=";
+      rev = "v0.0.3";
+      hash = "sha256-YwNSewwCVjpcP5Y/uhsYgRdhrA6YouqP2+4+2Le5bkw=";
     };
   };
   "tree-sitter-linkerscript" = {
@@ -4578,12 +4578,12 @@
     };
   };
   "tree-sitter-skbdrc" = {
-    version = "unstable-2026-03-01";
+    version = "unstable-2026-05-03";
     src = fetchFromGitHub {
       owner = "starkwm";
       repo = "tree-sitter-skbdrc";
-      rev = "8c5c014b94191677f15f9a40fd6a1341c6834452";
-      hash = "sha256-SlAahEJXfDCjGObwYfimUFi5DPwBjQDnwCSprp9tynI=";
+      rev = "210735255e2aa517a138a952e79792e403bdced2";
+      hash = "sha256-jSWykcEJdFsBTRwvXK9pF2PeumKpwB+KtwI2iui8y7A=";
     };
   };
   "tree-sitter-slang" = {
@@ -4956,12 +4956,12 @@
     };
   };
   "tree-sitter-swift" = {
-    version = "0.7.1-pypi-with-generated-files";
+    version = "0.7.2";
     src = fetchFromGitHub {
       owner = "alex-pinkus";
       repo = "tree-sitter-swift";
-      rev = "0.7.1-pypi-with-generated-files";
-      hash = "sha256-BVOCGYUSEXpu2Mu7VRVCZrBBqZpZdK3oLm3aYmOH+cs=";
+      rev = "0.7.2";
+      hash = "sha256-H0GDivT/hl4/apuGvrTuvatMURSHdBjnhVZvfQseruk=";
     };
   };
   "tree-sitter-swifter" = {
@@ -5390,12 +5390,12 @@
     };
   };
   "tree-sitter-ursa" = {
-    version = "1.0.25";
+    version = "1.0.27";
     src = fetchFromGitHub {
       owner = "ursalang";
       repo = "tree-sitter-ursa";
-      rev = "v1.0.25";
-      hash = "sha256-Ykln5FEasNuDvXu+uBCkNaaNSBLGtt7u3ofj1rX0XjM=";
+      rev = "v1.0.27";
+      hash = "sha256-6nKrhSQM8+zm5Nx0CxaHVs3FHPasjACeaJ6kE2a48Lg=";
     };
   };
   "tree-sitter-usd" = {
