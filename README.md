@@ -192,7 +192,7 @@ in {
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
 | tree-sitter-d2 | [0.7.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.2) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
-| tree-sitter-dart | [2026-03-14](https://github.com/UserNobody14/tree-sitter-dart/tree/0fc19c3a57b1109802af41d2b8f60d8835c5da3a) |
+| tree-sitter-dart | [2026-05-05](https://github.com/UserNobody14/tree-sitter-dart/tree/6922ad29141e819773d6ffb0c6d2c27adefb5acc) |
 | tree-sitter-datazinc | [2026-03-20](https://github.com/shackle-rs/shackle/tree/99d7dc1250dc9dba12e69b3247f71a6ac763489a/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
@@ -420,7 +420,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-04-20](https://github.com/krn-robin/tree-sitter-magik/tree/acb6fc12853eda8d60411fa87e863f2db904ba08) |
+| tree-sitter-magik | [2026-05-04](https://github.com/krn-robin/tree-sitter-magik/tree/54585aa46b3ab73c84246d11f0a859285c9afa32) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -529,7 +529,7 @@ in {
 | tree-sitter-possum | [2024-11-16](https://github.com/mulias/tree-sitter-possum/tree/670eaef36883cd5f772160b9918c6b0003d22320) |
 | tree-sitter-postscript | [1.3.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.3.0) |
 | tree-sitter-poweron | [1.0.12](https://github.com/phileagleson/tree-sitter-poweron/tree/v1.0.12) |
-| tree-sitter-powershell | [0.26.3](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.26.3) |
+| tree-sitter-powershell | [0.26.5](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.26.5) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |
 | tree-sitter-printf | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-printf/tree/v0.5.1) |
 | tree-sitter-prisma | [1.6.0](https://github.com/victorhqc/tree-sitter-prisma/tree/v1.6.0) |
@@ -708,7 +708,7 @@ in {
 | tree-sitter-unifieddiff | [2022-12-23](https://github.com/monaqa/tree-sitter-unifieddiff/tree/d4556131c279d73961943a2ebf878198ab7976a6) |
 | tree-sitter-unison | [2.1.3](https://github.com/kylegoetz/tree-sitter-unison/tree/2.1.3) |
 | tree-sitter-uri | [2025-11-10](https://github.com/atusy/tree-sitter-uri/tree/b6ec28ddfa29bef3265fc285866eeda32fe2c816) |
-| tree-sitter-ursa | [1.0.27](https://github.com/ursalang/tree-sitter-ursa/tree/v1.0.27) |
+| tree-sitter-ursa | [1.0.29](https://github.com/ursalang/tree-sitter-ursa/tree/v1.0.29) |
 | tree-sitter-usd | [0.6.0](https://github.com/ColinKennedy/tree-sitter-usd/tree/v0.6.0) |
 | tree-sitter-uxntal | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-uxntal/tree/v1.0.0) |
 | tree-sitter-v | [0.0.6](https://github.com/vlang/v-analyzer/tree/0.0.6/tree_sitter_v) |
