@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.9";
+    version = "0.26.10";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.9";
-      hash = "sha256-fYUjGDTrPNx/nU3IF5p1/GL9qDzRA/ogUmg9nGLkmfg=";
+      rev = "v0.26.10";
+      hash = "sha256-JwAZiUi69AfIYC23JHUwOZh5OLwk3wD/TDJhrDzBmFY=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-dart" = {
-    version = "unstable-2026-05-05";
+    version = "unstable-2026-05-06";
     src = fetchFromGitHub {
       owner = "UserNobody14";
       repo = "tree-sitter-dart";
-      rev = "6922ad29141e819773d6ffb0c6d2c27adefb5acc";
-      hash = "sha256-wJeU12ulM6MGL7WV/7pFq+0JfWvMGCwUx0WkSymjoPk=";
+      rev = "02e9bb191c7cb6c73cbd9e09a5d089e4496f9cff";
+      hash = "sha256-s9JV4BNc0hfmVkOAWi3uSkdG8dRqAq+BKBIONSB/9Ok=";
     };
   };
   "tree-sitter-datazinc" = {
@@ -2532,12 +2532,12 @@
     };
   };
   "tree-sitter-ink" = {
-    version = "26.2.27";
+    version = "26.5.5";
     src = fetchFromGitHub {
       owner = "wldmr";
       repo = "tree-sitter-ink";
-      rev = "v26.2.27";
-      hash = "sha256-R2G1MF+OtfijfcFYK/d6jzXl1VI8mUVahu3TRjNte8E=";
+      rev = "v26.5.5";
+      hash = "sha256-EjV5VKtQxBcPYAYiVwR4CgmKcNYaNp35QuFYfyHqPPc=";
     };
   };
   "tree-sitter-inko" = {
@@ -3703,12 +3703,12 @@
     };
   };
   "tree-sitter-org" = {
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchFromGitHub {
       owner = "nvim-orgmode";
       repo = "tree-sitter-org";
-      rev = "2.0.3";
-      hash = "sha256-Ok4BlEshQSAxxIdqPWgYx82ksqm6XJ5G9oXpD94Oozg=";
+      rev = "2.0.4";
+      hash = "sha256-76ImC8GMW+yAKG++AHryUi+MYTmtJ5ogygC+bgNMErA=";
     };
   };
   "tree-sitter-ott" = {
@@ -5435,12 +5435,12 @@
     };
   };
   "tree-sitter-vcl" = {
-    version = "0.2.1";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "ntsk";
       repo = "tree-sitter-vcl";
-      rev = "v0.2.1";
-      hash = "sha256-erEMm3Llpr1EiWKPUj/tnr/jklaTAGwpR7ozfWoikD0=";
+      rev = "v0.3.0";
+      hash = "sha256-qk+Ym0JG+pDuynOEcaqxzGLm91+g9dkJp1f4HAju1xw=";
     };
   };
   "tree-sitter-vento" = {
