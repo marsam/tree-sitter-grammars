@@ -1153,12 +1153,12 @@
     };
   };
   "tree-sitter-cython" = {
-    version = "unstable-2026-02-02";
+    version = "unstable-2026-05-07";
     src = fetchFromGitHub {
       owner = "b0o";
       repo = "tree-sitter-cython";
-      rev = "575484a6bf294fb680da04dfdc9f37b0c497a39d";
-      hash = "sha256-DNSXLW8ePdTADRzZHhD4qb64eRLgC6t+roFYWTRh4VA=";
+      rev = "756a20c4d601b715f7b321eaad144f4cb14031bf";
+      hash = "sha256-0j6q6exCJ+/A73aAphpWM5aiD6qndvGRYkXk9hhxtNI=";
     };
   };
   "tree-sitter-d" = {
@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-dart" = {
-    version = "unstable-2026-05-06";
+    version = "unstable-2026-05-08";
     src = fetchFromGitHub {
       owner = "UserNobody14";
       repo = "tree-sitter-dart";
-      rev = "02e9bb191c7cb6c73cbd9e09a5d089e4496f9cff";
-      hash = "sha256-s9JV4BNc0hfmVkOAWi3uSkdG8dRqAq+BKBIONSB/9Ok=";
+      rev = "507c5546dc73667c03d36803ee9bd4df0bbe4b0b";
+      hash = "sha256-8j5JPvtWnCOb0FACJqoWT9EKNhWysnPF2Wt987PW7Bo=";
     };
   };
   "tree-sitter-datazinc" = {

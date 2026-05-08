@@ -188,11 +188,11 @@ in {
 | tree-sitter-cyberchef | [2026-03-18](https://github.com/tree-sitter-grammars/tree-sitter-cyberchef/tree/8bad395b98253324085b4b5227b14d4988f374b7) |
 | tree-sitter-cylc | [0.2.0](https://github.com/elliotfontaine/tree-sitter-cylc/tree/v0.2.0) |
 | tree-sitter-cypher | [0.0.1](https://github.com/simplificare-org/tree-sitter-cypher/tree/v0.0.1) |
-| tree-sitter-cython | [2026-02-02](https://github.com/b0o/tree-sitter-cython/tree/575484a6bf294fb680da04dfdc9f37b0c497a39d) |
+| tree-sitter-cython | [2026-05-07](https://github.com/b0o/tree-sitter-cython/tree/756a20c4d601b715f7b321eaad144f4cb14031bf) |
 | tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
 | tree-sitter-d2 | [0.7.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.2) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
-| tree-sitter-dart | [2026-05-06](https://github.com/UserNobody14/tree-sitter-dart/tree/02e9bb191c7cb6c73cbd9e09a5d089e4496f9cff) |
+| tree-sitter-dart | [2026-05-08](https://github.com/UserNobody14/tree-sitter-dart/tree/507c5546dc73667c03d36803ee9bd4df0bbe4b0b) |
 | tree-sitter-datazinc | [2026-03-20](https://github.com/shackle-rs/shackle/tree/99d7dc1250dc9dba12e69b3247f71a6ac763489a/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
