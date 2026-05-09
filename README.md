@@ -443,7 +443,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-03-20](https://github.com/shackle-rs/shackle/tree/99d7dc1250dc9dba12e69b3247f71a6ac763489a/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-04-24](https://github.com/artagnon/tree-sitter-mlir/tree/63dc64a6317c11443749141b2313e24bdba8acad) |
+| tree-sitter-mlir | [2026-05-08](https://github.com/artagnon/tree-sitter-mlir/tree/40cecd36b0790ac76baa97c8f70742d0403d11cf) |
 | tree-sitter-mojo | [2025-12-25](https://github.com/lsh/tree-sitter-mojo/tree/03966fb3f209bea86844aab3bd0f2158a5a8bb8d) |
 | tree-sitter-moonbit | [2026-04-28](https://github.com/moonbitlang/tree-sitter-moonbit/tree/36191d7fe4ec4298c8c1f251af6a82939f8e9a67) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -760,7 +760,7 @@ in {
 | tree-sitter-yasnippet | [2024-05-30](https://github.com/nverno/tree-sitter-yasnippet/tree/d444ecb29c827548c8ae74bab9b65fd57fe386f5) |
 | tree-sitter-yuck | [0.0.2](https://github.com/tree-sitter-grammars/tree-sitter-yuck/tree/v0.0.2) |
 | tree-sitter-zathurarc | [0.0.9](https://github.com/Freed-Wu/tree-sitter-zathurarc/tree/0.0.9) |
-| tree-sitter-zeek | [0.2.13](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.13) |
+| tree-sitter-zeek | [0.2.14](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.14) |
 | tree-sitter-zeque | [2024-11-24](https://github.com/QnnOkabayashi/tree-sitter-zeque/tree/69d107306b60a91b8958d7a00bc3ea24cb69b9e0) |
 | tree-sitter-zig | [1.1.2](https://github.com/tree-sitter-grammars/tree-sitter-zig/tree/v1.1.2) |
 | tree-sitter-ziggy | [0.0.1](https://github.com/kristoff-it/ziggy/tree/0.0.1/tree-sitter-ziggy) |
