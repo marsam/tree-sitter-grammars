@@ -127,8 +127,8 @@ in {
 | tree-sitter-brightscript | [2025-12-06](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/253fdfaa23814cb46c2d5fc19049fa0f2f62c6da) |
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
-| tree-sitter-bsl | [0.1.6](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.6) |
-| tree-sitter-bsv | [2025-11-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/f789c3445e0e923cbb7676af81e197a8afad84d8) |
+| tree-sitter-bsl | [0.1.7](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.7) |
+| tree-sitter-bsv | [2026-05-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/6a0b8bdbff062049facc541e2fcf72a742cd59a5) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.2](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.2) |
 | tree-sitter-c3 | [0.9.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.9.0) |
@@ -487,9 +487,9 @@ in {
 | tree-sitter-objectscript_expr | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/expr) |
 | tree-sitter-objectscript_routine | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/objectscript_routine) |
 | tree-sitter-objectscript_udl | [1.7.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.7.0/udl) |
-| tree-sitter-ocaml | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/ocaml) |
-| tree-sitter-ocaml_interface | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/interface) |
-| tree-sitter-ocaml_type | [0.24.2](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.24.2/grammars/type) |
+| tree-sitter-ocaml | [0.25.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.25.0/grammars/ocaml) |
+| tree-sitter-ocaml_interface | [0.25.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.25.0/grammars/interface) |
+| tree-sitter-ocaml_type | [0.25.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.25.0/grammars/type) |
 | tree-sitter-ocamllex | [0.25.0](https://github.com/314eter/tree-sitter-ocamllex/tree/v0.25.0) |
 | tree-sitter-ocen | [2025-03-18](https://github.com/ocen-lang/ocen-tree-sitter/tree/bd63fef7b172b217c332f8f09d25a860e6605f06) |
 | tree-sitter-octizys | [2025-06-09](https://github.com/Luis-omega/tree-sitter-octizys/tree/fcab69d57b5eb30cc9a04ca22e200c24fdb00840) |
@@ -663,7 +663,7 @@ in {
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
 | tree-sitter-systemverilog | [0.3.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.3.1) |
-| tree-sitter-t32 | [8.0.0](https://codeberg.org/xasc/tree-sitter-t32/src/v8.0.0) |
+| tree-sitter-t32 | [8.0.1](https://codeberg.org/xasc/tree-sitter-t32/src/v8.0.1) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
