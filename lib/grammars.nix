@@ -94,6 +94,8 @@ let
     grammars'
     // { tree-sitter-asciidoc = grammars'.tree-sitter-asciidoc // { location = "tree-sitter-asciidoc"; }; }
     // { tree-sitter-asciidoc_inline = grammars'.tree-sitter-asciidoc // { location = "tree-sitter-asciidoc_inline"; }; }
+    // { tree-sitter-bsl = grammars'.tree-sitter-bsl // { location = "grammars/bsl"; }; }
+    // { tree-sitter-sdbl = grammars'.tree-sitter-bsl // { location = "grammars/sdbl"; }; }
     // { tree-sitter-latex = grammars'.tree-sitter-latex // { fromGrammarJson = true; }; }
     // { tree-sitter-prolog = grammars'.tree-sitter-prolog // { location = "grammars/prolog"; }; }
     // { tree-sitter-problog = grammars'.tree-sitter-prolog // { location = "grammars/problog"; }; }
