@@ -66,7 +66,7 @@ in {
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (699)</strong></summary>
+  <summary><strong>Available grammars (700)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -127,7 +127,7 @@ in {
 | tree-sitter-brightscript | [2025-12-06](https://github.com/ajdelcimmuto/tree-sitter-brightscript/tree/253fdfaa23814cb46c2d5fc19049fa0f2f62c6da) |
 | tree-sitter-bru | [2024-06-12](https://github.com/pedrobarco/tree-sitter-bru/tree/28b16aa6aa4616ad0236d599dc2e56e4aae2aa18) |
 | tree-sitter-bruno | [0.1.0](https://github.com/Scalamando/tree-sitter-bruno/tree/v0.1.0) |
-| tree-sitter-bsl | [0.1.7](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.7) |
+| tree-sitter-bsl | [0.1.7](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.7/grammars/bsl) |
 | tree-sitter-bsv | [2026-05-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/6a0b8bdbff062049facc541e2fcf72a742cd59a5) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.2](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.2) |
@@ -295,7 +295,7 @@ in {
 | tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
 | tree-sitter-glsl | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-glsl/tree/v0.2.0) |
 | tree-sitter-gn | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-gn/tree/v1.0.0) |
-| tree-sitter-gnuplot | [2026-05-10](https://github.com/dpezto/tree-sitter-gnuplot/tree/a94edd49cc7369a6bb9fe76758d9d6be76462b73) |
+| tree-sitter-gnuplot | [2026-05-12](https://github.com/dpezto/tree-sitter-gnuplot/tree/29586d47b9363c29bf02cc4d1b45c4379adf6317) |
 | tree-sitter-go | [0.25.0](https://github.com/tree-sitter/tree-sitter-go/tree/v0.25.0) |
 | tree-sitter-gobra | [2024-11-28](https://github.com/HSMF/tree-sitter-gobra/tree/fc0d8be6169ef296b031e65a8d9ebcad6a974cdf) |
 | tree-sitter-goctl | [2024-08-14](https://github.com/chaozwn/tree-sitter-goctl/tree/49c43532689fe1f53e8b9e009d0521cab02c432b) |
@@ -606,6 +606,7 @@ in {
 | tree-sitter-scfg | [2025-10-29](https://github.com/rockorager/tree-sitter-scfg/tree/d850fd470445d73de318a21d734d1e09e29b773c) |
 | tree-sitter-scheme | [0.24.7-1](https://github.com/6cdh/tree-sitter-scheme/tree/v0.24.7-1) |
 | tree-sitter-scss | [1.0.0](https://github.com/serenadeai/tree-sitter-scss/tree/v1.0.0) |
+| tree-sitter-sdbl | [0.1.7](https://github.com/alkoleft/tree-sitter-bsl/tree/v0.1.7/grammars/sdbl) |
 | tree-sitter-sdml | [0.4.14](https://github.com/sdm-lang/tree-sitter-sdml/tree/v0.4.14) |
 | tree-sitter-sed | [2024-11-10](https://github.com/mskelton/tree-sitter-sed/tree/e13f8bccd4e6bc190fa34f3df8b2d576a41ff04d) |
 | tree-sitter-selinux | [2024-04-26](https://github.com/mdmfernandes/tree-sitter-selinux/tree/e13c6cdbe05845c0e9379c6937b59d7424e9ece3) |

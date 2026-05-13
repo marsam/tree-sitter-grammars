@@ -2054,12 +2054,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "unstable-2026-05-10";
+    version = "unstable-2026-05-12";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "a94edd49cc7369a6bb9fe76758d9d6be76462b73";
-      hash = "sha256-2UD5Osn3GLVymybAQSvfIpbZXzR6wC/vCLBaglJJ9YQ=";
+      rev = "29586d47b9363c29bf02cc4d1b45c4379adf6317";
+      hash = "sha256-KYKMtUC3f4HWa1sUe0xdeGh/otN2XvZrKQ7Upx0ukNY=";
     };
   };
   "tree-sitter-gobra" = {
