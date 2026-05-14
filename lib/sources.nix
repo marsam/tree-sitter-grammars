@@ -1550,12 +1550,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "0.16";
+    version = "0.17";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "0.16";
-      hash = "sha256-8NutuRTMRguJYD3d2O0My7oOdUA7SSITt11UMl3xLHU=";
+      rev = "0.17";
+      hash = "sha256-W2GLaa3Rv4fsuGJDFOtWUHlEc9O0nRsj96bHszQnrjE=";
     };
   };
   "tree-sitter-esdl" = {
