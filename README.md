@@ -78,12 +78,12 @@ in {
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [2.5.1](https://github.com/SShadowS/tree-sitter-al/tree/v2.5.1) |
+| tree-sitter-al | [2.5.1-shim](https://github.com/SShadowS/tree-sitter-al/tree/v2.5.1-shim) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
 | tree-sitter-amber | [2025-11-26](https://github.com/amber-lang/tree-sitter-amber/tree/107c6d4a420fb0c5962b62ebd9347b7eb0015957) |
-| tree-sitter-angular | [0.8.3](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.8.3) |
+| tree-sitter-angular | [0.9.2](https://github.com/dlvandenberg/tree-sitter-angular/tree/v0.9.2) |
 | tree-sitter-apachesynapse | [2024-01-02](https://github.com/DaAlbrecht/tree-sitter-apachesynapse/tree/e125e0f6d40bdacbe6bcca05aff4f4145fcacdc4) |
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
 | tree-sitter-apparmor | [2024-11-23](https://github.com/Su3h7aM/tree-sitter-apparmor/tree/1a600d3b93cde5c86af0940b376241cd770061cc) |
