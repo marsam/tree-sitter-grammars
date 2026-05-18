@@ -78,7 +78,7 @@ in {
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [2.5.1-shim](https://github.com/SShadowS/tree-sitter-al/tree/v2.5.1-shim) |
+| tree-sitter-al | [2.5.2](https://github.com/SShadowS/tree-sitter-al/tree/v2.5.2) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
@@ -148,10 +148,10 @@ in {
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfhtml | [0.26.12](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.12/cfhtml) |
-| tree-sitter-cfml | [0.26.12](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.12/cfml) |
-| tree-sitter-cfquery | [0.26.12](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.12/cfquery) |
-| tree-sitter-cfscript | [0.26.12](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.12/cfscript) |
+| tree-sitter-cfhtml | [0.26.16](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.16/cfhtml) |
+| tree-sitter-cfml | [0.26.16](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.16/cfml) |
+| tree-sitter-cfquery | [0.26.16](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.16/cfquery) |
+| tree-sitter-cfscript | [0.26.16](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.16/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -390,7 +390,7 @@ in {
 | tree-sitter-kitty | [0.0.1](https://github.com/OXY2DEV/tree-sitter-kitty/tree/v0.0.1) |
 | tree-sitter-kittyconf | [2023-03-24](https://github.com/clo4/tree-sitter-kitty-conf/tree/9cdf551522d509c0432f136eb373bdf2e6032493) |
 | tree-sitter-koka | [2026-02-23](https://github.com/koka-community/tree-sitter-koka/tree/07b1ce29a06656b552f7f198e572499062ccfffe) |
-| tree-sitter-kos | [2026-01-04](https://github.com/kos-lang/tree-sitter-kos/tree/03b261c1a78b71c38cf4616497f253c4a4ce118b) |
+| tree-sitter-kos | [2026-05-17](https://github.com/kos-lang/tree-sitter-kos/tree/a7338629da17c5246dc2129cd2a493a6ee59e922) |
 | tree-sitter-kotlin | [0.3.8](https://github.com/fwcd/tree-sitter-kotlin/tree/0.3.8) |
 | tree-sitter-koto | [0.16.0](https://github.com/koto-lang/tree-sitter-koto/tree/v0.16.0) |
 | tree-sitter-kusto | [2023-11-03](https://github.com/Willem-J-an/tree-sitter-kusto/tree/8353a1296607d6ba33db7c7e312226e5fc83e8ce) |
@@ -399,7 +399,7 @@ in {
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
-| tree-sitter-lean | [2026-05-16](https://github.com/Julian/tree-sitter-lean/tree/d7fa499954b4327058bc1b8deb35947530b2b05c) |
+| tree-sitter-lean | [2026-05-17](https://github.com/Julian/tree-sitter-lean/tree/b889fad95487aa12671034f7b02440ea99c2a1f2) |
 | tree-sitter-ledger | [2026-03-20](https://github.com/cbarrete/tree-sitter-ledger/tree/22a1ab8195c1f6e808679f803007756fe7638c6f) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
