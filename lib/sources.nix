@@ -828,15 +828,6 @@
       hash = "sha256-OKJ1GRol9sYj7qC15U6eHZUPLYdmwlYbMOBuJZDnNlU=";
     };
   };
-  "tree-sitter-cds" = {
-    version = "1.0.0";
-    src = fetchFromGitHub {
-      owner = "cap-js-community";
-      repo = "tree-sitter-cds";
-      rev = "v1.0.0";
-      hash = "sha256-51Fmhct+Z4kgH2aKS1JaJezgtMbjtqWBIRcxoY8HKBI=";
-    };
-  };
   "tree-sitter-cel" = {
     version = "unstable-2026-03-04";
     src = fetchFromGitHub {
@@ -3385,15 +3376,6 @@
       repo = "tree-sitter-muttrc";
       rev = "0.0.6";
       hash = "sha256-zma/oyMFI+r+/616yXV9b4ptC1FNYpHlpqY/Fez++n0=";
-    };
-  };
-  "tree-sitter-nasl" = {
-    version = "0.1.0";
-    src = fetchFromGitHub {
-      owner = "nichtsfrei";
-      repo = "tree-sitter-nasl";
-      rev = "v0.1.0";
-      hash = "sha256-dfg06/J8rI9QZ3FX8klzMamHW3Im5qUmAW/KrABUM+o=";
     };
   };
   "tree-sitter-nasm" = {

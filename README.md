@@ -66,7 +66,7 @@ in {
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (699)</strong></summary>
+  <summary><strong>Available grammars (697)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -146,7 +146,6 @@ in {
 | tree-sitter-catala_fr | [1.0.0](https://github.com/CatalaLang/tree-sitter-catala/tree/1.0.0/fr) |
 | tree-sitter-catala_pl | [1.0.0](https://github.com/CatalaLang/tree-sitter-catala/tree/1.0.0/pl) |
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
-| tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
 | tree-sitter-cfml | [0.26.29](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.29/cfml) |
 | tree-sitter-cfquery | [0.26.29](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.29/cfquery) |
@@ -456,7 +455,6 @@ in {
 | tree-sitter-msg | [0.0.2](https://github.com/omnetpp/tree-sitter-msg/tree/0.0.2) |
 | tree-sitter-mustache | [2025-12-18](https://github.com/TheLeoP/tree-sitter-mustache/tree/0f1f3cf07508a64b84cbff457f1446a787c48a0e) |
 | tree-sitter-muttrc | [0.0.6](https://github.com/neomutt/tree-sitter-muttrc/tree/0.0.6) |
-| tree-sitter-nasl | [0.1.0](https://github.com/nichtsfrei/tree-sitter-nasl/tree/v0.1.0) |
 | tree-sitter-nasm | [2024-11-23](https://github.com/naclsn/tree-sitter-nasm/tree/d1b3638d017f2a8585e26dcfc66fe1df94185e30) |
 | tree-sitter-navi | [0.2.2](https://github.com/navi-language/tree-sitter-navi/tree/v0.2.2) |
 | tree-sitter-navi_stream | [0.1.1](https://github.com/navi-language/tree-sitter-navi-stream/tree/v0.1.1) |
