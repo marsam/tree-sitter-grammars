@@ -135,7 +135,6 @@ let
     // { tree-sitter-fsharp = grammars'.tree-sitter-fsharp // rec { location = "fsharp"; postPatch = "cp -av queries ${location}/queries"; }; }
     // { tree-sitter-fsharp_signature = grammars'.tree-sitter-fsharp // { location = "fsharp_signature"; }; }
     // { tree-sitter-cfml = grammars'.tree-sitter-cfml // { location = "cfml"; }; }
-    // { tree-sitter-cfhtml = grammars'.tree-sitter-cfml // { location = "cfhtml"; }; }
     // { tree-sitter-cfquery = grammars'.tree-sitter-cfml // { location = "cfquery"; }; }
     // { tree-sitter-cfscript = grammars'.tree-sitter-cfml // { location = "cfscript"; }; }
     // { tree-sitter-coalton = grammars'.tree-sitter-coalton // { location = "tree-sitter-coalton"; }; }

@@ -66,7 +66,7 @@ in {
 
 <!-- start-gramars -->
 <details>
-  <summary><strong>Available grammars (700)</strong></summary>
+  <summary><strong>Available grammars (699)</strong></summary>
 
 | Grammar   | Version |
 | --------- | ------- |
@@ -148,7 +148,6 @@ in {
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfhtml | [0.26.20](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.20/cfhtml) |
 | tree-sitter-cfml | [0.26.20](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.20/cfml) |
 | tree-sitter-cfquery | [0.26.20](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.20/cfquery) |
 | tree-sitter-cfscript | [0.26.20](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.20/cfscript) |
