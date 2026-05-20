@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-dart" = {
-    version = "unstable-2026-05-08";
+    version = "unstable-2026-05-20";
     src = fetchFromGitHub {
       owner = "UserNobody14";
       repo = "tree-sitter-dart";
-      rev = "507c5546dc73667c03d36803ee9bd4df0bbe4b0b";
-      hash = "sha256-8j5JPvtWnCOb0FACJqoWT9EKNhWysnPF2Wt987PW7Bo=";
+      rev = "a9bdfa3db2fbc9b9f12c93450d04a671f33a5102";
+      hash = "sha256-uDrlxJ8uZypeVe+NAhuYjCluYIjXwtVYH9aBW9P9ars=";
     };
   };
   "tree-sitter-datazinc" = {
@@ -3280,12 +3280,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-05-08";
+    version = "unstable-2026-05-20";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "40cecd36b0790ac76baa97c8f70742d0403d11cf";
-      hash = "sha256-ilyEJRwJoW3eSWkA+auxtEASYZDpRLrxmAk4YlGOCHY=";
+      rev = "f234edcdab9a10ee7444c172f19f41a8d4afba56";
+      hash = "sha256-ndX2GckBbBlJr8F+NVPLKwaVycpsAZM23cR1zIPhTyI=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3361,12 +3361,12 @@
     };
   };
   "tree-sitter-msg" = {
-    version = "unstable-2025-08-04";
+    version = "0.0.2";
     src = fetchFromGitHub {
       owner = "omnetpp";
       repo = "tree-sitter-msg";
-      rev = "49f037483a07b72edea169c7d9a0961225a633f2";
-      hash = "sha256-Fy1fV2PSRYFUWN8OUg+vCvSjGY5FFMW8FmNedZN5MrU=";
+      rev = "0.0.2";
+      hash = "sha256-Rbw9ou7Wb9mVPcedZAdt6/I2Z3Xt+fzx6vtaO3jiplY=";
     };
   };
   "tree-sitter-mustache" = {
@@ -5813,12 +5813,12 @@
     };
   };
   "tree-sitter-zeek" = {
-    version = "0.2.14";
+    version = "0.2.15";
     src = fetchFromGitHub {
       owner = "zeek";
       repo = "tree-sitter-zeek";
-      rev = "v0.2.14";
-      hash = "sha256-kDfdy6nqv704AcFtf9JOsI09GNBsh7l4GRt+hhReOgM=";
+      rev = "v0.2.15";
+      hash = "sha256-gxBHNhldyzAQdsMb5QwPAB8z+k/hFAS6SrSQmAAfi9Q=";
     };
   };
   "tree-sitter-zeque" = {
@@ -5876,12 +5876,12 @@
     };
   };
   "tree-sitter-zsh" = {
-    version = "0.63.3";
+    version = "0.63.5";
     src = fetchFromGitHub {
       owner = "georgeharker";
       repo = "tree-sitter-zsh";
-      rev = "v0.63.3";
-      hash = "sha256-O7v+o3HTrQauVHh7sh8aoIYjy9BsFMHrJYvXb/lY17k=";
+      rev = "v0.63.5";
+      hash = "sha256-KCvuyVWR09jlTk+za0FA/z89O5deToxvJ9zNQoBq/+E=";
     };
   };
 }
