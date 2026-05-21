@@ -236,7 +236,7 @@ in {
 | tree-sitter-epics_msi_template | [0.1.2](https://github.com/minijackson/tree-sitter-epics-msi-template/tree/v0.1.2) |
 | tree-sitter-eprime | [2026-03-20](https://github.com/shackle-rs/shackle/tree/99d7dc1250dc9dba12e69b3247f71a6ac763489a/parsers/tree-sitter-eprime) |
 | tree-sitter-epscript | [1.0.0](https://github.com/zuhanit/tree-sitter-epscript/tree/v1.0.0) |
-| tree-sitter-erlang | [0.17](https://github.com/WhatsApp/tree-sitter-erlang/tree/0.17) |
+| tree-sitter-erlang | [0.18](https://github.com/WhatsApp/tree-sitter-erlang/tree/0.18) |
 | tree-sitter-esdl | [2022-09-05](https://github.com/matoous/tree-sitter-esdl/tree/49e21c031c2a1ed06c2ee85937ce73bc12a5801f) |
 | tree-sitter-esl | [2025-07-11](https://github.com/NSSAC/tree-sitter-esl/tree/6efcfce7ed607db69c70181fd81c72b67e6bb4bb) |
 | tree-sitter-eu4mod | [1.0.3](https://github.com/Coyote-31/tree-sitter-eu4mod/tree/v1.0.3) |
@@ -398,7 +398,7 @@ in {
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
-| tree-sitter-lean | [2026-05-18](https://github.com/Julian/tree-sitter-lean/tree/78b6e3d403b47d5cbac283db9dd48bc850441043) |
+| tree-sitter-lean | [2026-05-20](https://github.com/Julian/tree-sitter-lean/tree/6a4a622b53b7424d7fb1bbc500ca5a3b7e4d3532) |
 | tree-sitter-ledger | [2026-03-20](https://github.com/cbarrete/tree-sitter-ledger/tree/22a1ab8195c1f6e808679f803007756fe7638c6f) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |

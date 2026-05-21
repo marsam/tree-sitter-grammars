@@ -1550,12 +1550,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "0.17";
+    version = "0.18";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "0.17";
-      hash = "sha256-W2GLaa3Rv4fsuGJDFOtWUHlEc9O0nRsj96bHszQnrjE=";
+      rev = "0.18";
+      hash = "sha256-RnTLL1XP53WRpRCgylhc0FMpEuF48DTW3kN6by8goL8=";
     };
   };
   "tree-sitter-esdl" = {
@@ -2911,12 +2911,12 @@
     };
   };
   "tree-sitter-lean" = {
-    version = "unstable-2026-05-18";
+    version = "unstable-2026-05-20";
     src = fetchFromGitHub {
       owner = "Julian";
       repo = "tree-sitter-lean";
-      rev = "78b6e3d403b47d5cbac283db9dd48bc850441043";
-      hash = "sha256-SvlQeBuDwUqA5Wjxl9IXKf587DZbeqvol4Wcpp1zmao=";
+      rev = "6a4a622b53b7424d7fb1bbc500ca5a3b7e4d3532";
+      hash = "sha256-JPsJZkDd7HGnT0dZsUDM/WnXTF96EzZh4FcpPk4BR3g=";
     };
   };
   "tree-sitter-ledger" = {
