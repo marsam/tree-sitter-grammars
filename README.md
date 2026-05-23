@@ -442,7 +442,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-03-20](https://github.com/shackle-rs/shackle/tree/99d7dc1250dc9dba12e69b3247f71a6ac763489a/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-05-20](https://github.com/artagnon/tree-sitter-mlir/tree/f234edcdab9a10ee7444c172f19f41a8d4afba56) |
+| tree-sitter-mlir | [2026-05-22](https://github.com/artagnon/tree-sitter-mlir/tree/40ed63e398b75991e3c9fa32b9d88f44a93e4994) |
 | tree-sitter-mojo | [2025-12-25](https://github.com/lsh/tree-sitter-mojo/tree/03966fb3f209bea86844aab3bd0f2158a5a8bb8d) |
 | tree-sitter-moonbit | [2026-05-21](https://github.com/moonbitlang/tree-sitter-moonbit/tree/ebdb3f38d46309a3a7f81c2af357da05ec8a4470) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |

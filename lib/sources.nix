@@ -3280,12 +3280,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-05-20";
+    version = "unstable-2026-05-22";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "f234edcdab9a10ee7444c172f19f41a8d4afba56";
-      hash = "sha256-ndX2GckBbBlJr8F+NVPLKwaVycpsAZM23cR1zIPhTyI=";
+      rev = "40ed63e398b75991e3c9fa32b9d88f44a93e4994";
+      hash = "sha256-8WX8bCrFEV5VW86Pz04cJfiQTpXLMXNuihV/ej0tdG8=";
     };
   };
   "tree-sitter-mojo" = {
