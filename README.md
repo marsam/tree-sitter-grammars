@@ -131,7 +131,7 @@ in {
 | tree-sitter-bsv | [2026-05-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/6a0b8bdbff062049facc541e2fcf72a742cd59a5) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.2](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.2) |
-| tree-sitter-c3 | [0.10.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.10.0) |
+| tree-sitter-c3 | [0.11.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.11.0) |
 | tree-sitter-c_sharp | [0.23.5](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.5) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
@@ -188,7 +188,7 @@ in {
 | tree-sitter-cylc | [0.2.0](https://github.com/elliotfontaine/tree-sitter-cylc/tree/v0.2.0) |
 | tree-sitter-cypher | [0.0.1](https://github.com/simplificare-org/tree-sitter-cypher/tree/v0.0.1) |
 | tree-sitter-cython | [2026-05-07](https://github.com/b0o/tree-sitter-cython/tree/756a20c4d601b715f7b321eaad144f4cb14031bf) |
-| tree-sitter-d | [0.8.2](https://github.com/gdamore/tree-sitter-d/tree/v0.8.2) |
+| tree-sitter-d | [0.8.3](https://github.com/gdamore/tree-sitter-d/tree/v0.8.3) |
 | tree-sitter-d2 | [0.7.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.2) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
 | tree-sitter-dart | [2026-05-20](https://github.com/UserNobody14/tree-sitter-dart/tree/a9bdfa3db2fbc9b9f12c93450d04a671f33a5102) |
@@ -366,8 +366,8 @@ in {
 | tree-sitter-javadoc | [0.3.1](https://github.com/rmuir/tree-sitter-javadoc/tree/v0.3.1) |
 | tree-sitter-javascript | [0.25.0](https://github.com/tree-sitter/tree-sitter-javascript/tree/v0.25.0) |
 | tree-sitter-jelly | [0.1](https://github.com/OpenJelly/tree-sitter-jelly/tree/0.1) |
-| tree-sitter-jinja | [0.12.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.12.0/tree-sitter-jinja) |
-| tree-sitter-jinja_inline | [0.12.0](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.12.0/tree-sitter-jinja_inline) |
+| tree-sitter-jinja | [0.12.1](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.12.1/tree-sitter-jinja) |
+| tree-sitter-jinja_inline | [0.12.1](https://github.com/cathaysia/tree-sitter-jinja/tree/v0.12.1/tree-sitter-jinja_inline) |
 | tree-sitter-jjdescription | [1.0.3](https://github.com/ribru17/tree-sitter-jjdescription/tree/v1.0.3) |
 | tree-sitter-jq | [1.0.0](https://github.com/nverno/tree-sitter-jq/tree/v1.0.0) |
 | tree-sitter-jsdoc | [0.25.0](https://github.com/tree-sitter/tree-sitter-jsdoc/tree/v0.25.0) |
