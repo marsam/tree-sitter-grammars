@@ -1261,12 +1261,12 @@
     };
   };
   "tree-sitter-dialogue" = {
-    version = "unstable-2025-07-19";
+    version = "unstable-2026-05-28";
     src = fetchFromGitHub {
       owner = "IntangibleMatter";
       repo = "tree-sitter-dialogue";
-      rev = "5fb60d8f73408171d3776a4311ae03694b03da8a";
-      hash = "sha256-cqNkLg7jGbohsVwpiS7ouf7oqyis9EFnLJk8GO8FvjQ=";
+      rev = "2e7e82f319fa2536d4f52f8a3da07e4c142a703e";
+      hash = "sha256-xYMOx9zxRf0oDiYih0qnmIAiSTVcNdq26gOSfLkdyHk=";
     };
   };
   "tree-sitter-diff" = {
@@ -2911,12 +2911,12 @@
     };
   };
   "tree-sitter-lean" = {
-    version = "unstable-2026-05-26";
+    version = "unstable-2026-05-28";
     src = fetchFromGitHub {
       owner = "Julian";
       repo = "tree-sitter-lean";
-      rev = "e4cd9b80f8d2bd997d860a9a70680660b74b0696";
-      hash = "sha256-Cj6xZtn09IwaikIOtZfl0P5sR4p7VKeCS8aGT9fcAx4=";
+      rev = "181182c1d39ba1ecb879b6fab2bf2ed3e57e54f0";
+      hash = "sha256-1RDmqm/c4pEAAaDw50w7sreK+LWn3J5wOtP6Ih0YTqs=";
     };
   };
   "tree-sitter-ledger" = {
@@ -4785,12 +4785,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.5.21";
+    version = "2026.5.28";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.5.21";
-      hash = "sha256-cx1hln99PBipuSt8NHwSffQidgw9hUczAf1U1ZEfjDw=";
+      rev = "2026.5.28";
+      hash = "sha256-Zj3aUcqYPYMTv/87bJXKOSOy8H3JFZxcfXcUumyMzUg=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -4920,12 +4920,12 @@
     };
   };
   "tree-sitter-surrealql" = {
-    version = "unstable-2026-05-26";
+    version = "unstable-2026-05-28";
     src = fetchFromGitHub {
       owner = "surrealdb";
       repo = "surrealql-tree-sitter";
-      rev = "dd9d8eb5f6f3837556be2b8931416cd0c233eb2e";
-      hash = "sha256-3k/G/dCTO5wP5pNrKl6Muf3pczIn9BxY/hIPwIqkneE=";
+      rev = "b913f822fffcc445633723674611adc32c61953f";
+      hash = "sha256-OE7phPgZUHhYyso/n+xufGk3j9wfQIWZwF89Q2wR3fk=";
     };
   };
   "tree-sitter-sus" = {
