@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.25";
+    version = "0.26.28";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.25";
-      hash = "sha256-jJ/rrEtzDHz4KLxZpHv36npKl6MIjL1lNkcNss/ALrU=";
+      rev = "v0.26.28";
+      hash = "sha256-OqAvmsQxDkIaucxUlEjKa7ojTfrsEheHUzHMVG+ZvKc=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1288,13 +1288,13 @@
     };
   };
   "tree-sitter-djot" = {
-    version = "unstable-2026-05-26";
+    version = "unstable-2026-05-31";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "treeman";
       repo = "tree-sitter-djot";
-      rev = "8d67ca3bee4e4b7be66b399ad57ea44cc5478477";
-      hash = "sha256-m8FW3kYsoBJohhOwm9vcJkLt2AXrMSakTAGXRORm+YI=";
+      rev = "60edf66560c09ac123acbb0e47041dbce511900d";
+      hash = "sha256-yANPEC3UtcRqSx+7Zet6YWpG8JJ91uBfb8z2FgctD0M=";
     };
   };
   "tree-sitter-dockerfile" = {
@@ -3766,12 +3766,12 @@
     };
   };
   "tree-sitter-perl" = {
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-perl";
-      rev = "v1.0.2";
-      hash = "sha256-5sZuWw/izibt6kUstwguNeKM0B6nDt5Jv9Sqn1pv1S8=";
+      rev = "v1.0.3";
+      hash = "sha256-FYEcSWgMqhTyaiSfWslsErgWWLiaZCIs08jff1JTJN8=";
     };
   };
   "tree-sitter-perm" = {
@@ -3883,12 +3883,12 @@
     };
   };
   "tree-sitter-pod" = {
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-pod";
-      rev = "v1.0.0";
-      hash = "sha256-HE4jwqAn4jfyonFkUzA0n+MZxWa7LuV8Cfq5wgrDwjI=";
+      rev = "v1.1.0";
+      hash = "sha256-5EHA3hPyrfana+g3kxqnKUwT2jUiVNb8fy07RWwp1/A=";
     };
   };
   "tree-sitter-poe_filter" = {
@@ -4956,12 +4956,12 @@
     };
   };
   "tree-sitter-swift" = {
-    version = "0.7.2";
+    version = "0.7.3";
     src = fetchFromGitHub {
       owner = "alex-pinkus";
       repo = "tree-sitter-swift";
-      rev = "0.7.2";
-      hash = "sha256-H0GDivT/hl4/apuGvrTuvatMURSHdBjnhVZvfQseruk=";
+      rev = "0.7.3";
+      hash = "sha256-Vjv2VleH3pweHNEdDBE41FvCCgBEFeEZVP6gZvkdjv4=";
     };
   };
   "tree-sitter-swifter" = {

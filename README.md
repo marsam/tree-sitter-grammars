@@ -148,9 +148,9 @@ in {
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.25](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.25/cfml) |
-| tree-sitter-cfquery | [0.26.25](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.25/cfquery) |
-| tree-sitter-cfscript | [0.26.25](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.25/cfscript) |
+| tree-sitter-cfml | [0.26.28](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.28/cfml) |
+| tree-sitter-cfquery | [0.26.28](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.28/cfquery) |
+| tree-sitter-cfscript | [0.26.28](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.28/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -203,7 +203,7 @@ in {
 | tree-sitter-dialogue | [2026-05-28](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/2e7e82f319fa2536d4f52f8a3da07e4c142a703e) |
 | tree-sitter-diff | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-diff/tree/v0.1.0) |
 | tree-sitter-disassembly | [1.3.1](https://github.com/ColinKennedy/tree-sitter-disassembly/tree/1.3.1) |
-| tree-sitter-djot | [2026-05-26](https://codeberg.org/treeman/tree-sitter-djot/src/8d67ca3bee4e4b7be66b399ad57ea44cc5478477) |
+| tree-sitter-djot | [2026-05-31](https://codeberg.org/treeman/tree-sitter-djot/src/60edf66560c09ac123acbb0e47041dbce511900d) |
 | tree-sitter-dockerfile | [0.2.0](https://github.com/camdencheek/tree-sitter-dockerfile/tree/v0.2.0) |
 | tree-sitter-dot | [2025-10-21](https://github.com/rydesun/tree-sitter-dot/tree/80327abbba6f47530edeb0df9f11bd5d5c93c14d) |
 | tree-sitter-dotbox | [2022-11-27](https://github.com/jakehamilton/tree-sitter-dotbox/tree/234f92d21f2a7b987477a763e117c58af47e429f) |
@@ -506,7 +506,7 @@ in {
 | tree-sitter-pascal | [0.10.2](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.2) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |
-| tree-sitter-perl | [1.0.2](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/v1.0.2) |
+| tree-sitter-perl | [1.0.3](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/v1.0.3) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.1.0](https://github.com/pest-parser/tree-sitter-pest/tree/v0.1.0) |
 | tree-sitter-pgn | [1.4.3](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.4.3) |
@@ -521,7 +521,7 @@ in {
 | tree-sitter-pluto | [2024-11-23](https://github.com/asumbek/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
 | tree-sitter-plymouth_script | [2024-06-18](https://github.com/liushuyu/tree-sitter-plymouth-script/tree/843f5bea453e60d1e169cbbfc81fbf41c2ead64a) |
 | tree-sitter-po | [2024-04-20](https://github.com/tree-sitter-grammars/tree-sitter-po/tree/bd860a0f57f697162bf28e576674be9c1500db5e) |
-| tree-sitter-pod | [1.0.0](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/v1.0.0) |
+| tree-sitter-pod | [1.1.0](https://github.com/tree-sitter-perl/tree-sitter-pod/tree/v1.1.0) |
 | tree-sitter-poe_filter | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-poe-filter/tree/v0.4.0) |
 | tree-sitter-pony | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-pony/tree/v1.0.0) |
 | tree-sitter-ponylang | [0.0.2](https://github.com/mfelsche/tree-sitter-ponylang/tree/v0.0.2) |
@@ -656,7 +656,7 @@ in {
 | tree-sitter-sus | [0.3.10](https://github.com/pc2/sus-compiler/tree/v0.3.10/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
-| tree-sitter-swift | [0.7.2](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.2) |
+| tree-sitter-swift | [0.7.3](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.3) |
 | tree-sitter-swifter | [0.9.22](https://codeberg.org/woolsweater/tree-sitter-swifter/src/v0.9.22) |
 | tree-sitter-sxhkdrc | [2022-08-31](https://github.com/RaafatTurki/tree-sitter-sxhkdrc/tree/440d5f913d9465c9c776a1bd92334d32febcf065) |
 | tree-sitter-syncat_stylesheet | [3.8.0](https://github.com/foxfriends/syncat/tree/3.8.0/tree-sitter-syncat-stylesheet) |
