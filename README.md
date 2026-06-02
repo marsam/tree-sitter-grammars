@@ -148,9 +148,9 @@ in {
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
 | tree-sitter-cds | [1.0.0](https://github.com/cap-js-community/tree-sitter-cds/tree/v1.0.0) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.28](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.28/cfml) |
-| tree-sitter-cfquery | [0.26.28](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.28/cfquery) |
-| tree-sitter-cfscript | [0.26.28](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.28/cfscript) |
+| tree-sitter-cfml | [0.26.29](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.29/cfml) |
+| tree-sitter-cfquery | [0.26.29](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.29/cfquery) |
+| tree-sitter-cfscript | [0.26.29](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.29/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -419,7 +419,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-05-25](https://github.com/krn-robin/tree-sitter-magik/tree/3369b8c24ffde5f2a6166b7f99deb3e792dfaea1) |
+| tree-sitter-magik | [2026-06-01](https://github.com/krn-robin/tree-sitter-magik/tree/3d9d50fb2297dae0a3bf91cb34a8bf36c7097215) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -652,7 +652,7 @@ in {
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealdb | [2024-02-20](https://github.com/DariusCorvus/tree-sitter-surrealdb/tree/17a7ed4481bdaaa35a1372f3a94bc851d634a19e) |
-| tree-sitter-surrealql | [2026-05-28](https://github.com/surrealdb/surrealql-tree-sitter/tree/b913f822fffcc445633723674611adc32c61953f) |
+| tree-sitter-surrealql | [2026-06-01](https://github.com/surrealdb/surrealql-tree-sitter/tree/872c65dd7fecd60bd2728ae4239c860ede326d38) |
 | tree-sitter-sus | [0.3.10](https://github.com/pc2/sus-compiler/tree/v0.3.10/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
