@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "2.5.2";
+    version = "2.5.2-shim";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "v2.5.2";
-      hash = "sha256-4KfHSRfcrIG5jq6cng+jsO+KZCBiPOi2rzkwVYvNkc8=";
+      rev = "v2.5.2-shim";
+      hash = "sha256-EpBBDrERcVrXiW3lCFmS1uutXI2RGws2LTMogUWSoWM=";
     };
   };
   "tree-sitter-alcha" = {
@@ -4091,12 +4091,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-05-27";
+    version = "unstable-2026-06-03";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "9ba6816d5e15cc2b0d289ad358c8bb5e60fb4d35";
-      hash = "sha256-lM4i77e0PW55hncpLss/QWVBjY0I4ovc5w5nsXEis2E=";
+      rev = "dac7bfe5efed47ed781533c5dea46dff2f21052a";
+      hash = "sha256-5IRkfJLYN8d8+1D424ETQML2gQIlSj9qKmOmyHidY04=";
     };
   };
   "tree-sitter-q" = {
@@ -4920,12 +4920,12 @@
     };
   };
   "tree-sitter-surrealql" = {
-    version = "unstable-2026-06-01";
+    version = "unstable-2026-06-02";
     src = fetchFromGitHub {
       owner = "surrealdb";
       repo = "surrealql-tree-sitter";
-      rev = "872c65dd7fecd60bd2728ae4239c860ede326d38";
-      hash = "sha256-bqd7A6PDPbBLpW2mW3Mp7LWW3BV2YUC5sa16NguRS3k=";
+      rev = "aa7d25d852754e7e482aa15ffe5ff49fb3106a88";
+      hash = "sha256-NR9sMZDJdi8QD63aPIXJKvlRoOfenDPUHn9GFiSHlZM=";
     };
   };
   "tree-sitter-sus" = {
