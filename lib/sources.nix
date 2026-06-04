@@ -415,12 +415,12 @@
     };
   };
   "tree-sitter-asciidoc" = {
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchFromGitHub {
       owner = "cathaysia";
       repo = "tree-sitter-asciidoc";
-      rev = "v0.7.0";
-      hash = "sha256-sAk05eVahkhFUNaDMn2vlECqr7isRZ96903gCxGaAzE=";
+      rev = "v0.8.0";
+      hash = "sha256-jHTgSy1Ezig1WCrplyv45F+D1RdOUaEv4McPehFq2Ug=";
     };
   };
   "tree-sitter-asl" = {

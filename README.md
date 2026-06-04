@@ -92,8 +92,8 @@ in {
 | tree-sitter-arduino | [0.24.0](https://github.com/tree-sitter-grammars/tree-sitter-arduino/tree/v0.24.0) |
 | tree-sitter-aria | [2025-11-20](https://github.com/arialang/tree-sitter-aria/tree/6a96e4d7de32fe89a8b0c3d79167a2797dd29c01) |
 | tree-sitter-asa | [2024-11-20](https://github.com/menaruben/tree-sitter-asa/tree/ddc26bd9dd5ad59aae23f4cf5bad67751a1dc0ae) |
-| tree-sitter-asciidoc | [0.7.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.7.0/tree-sitter-asciidoc) |
-| tree-sitter-asciidoc_inline | [0.7.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.7.0/tree-sitter-asciidoc_inline) |
+| tree-sitter-asciidoc | [0.8.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.8.0/tree-sitter-asciidoc) |
+| tree-sitter-asciidoc_inline | [0.8.0](https://github.com/cathaysia/tree-sitter-asciidoc/tree/v0.8.0/tree-sitter-asciidoc_inline) |
 | tree-sitter-asl | [2025-02-05](https://github.com/crvdgc/tree-sitter-asl/tree/03cc414576972f560488276bb8e959245f277cc5) |
 | tree-sitter-asm | [0.24.0](https://github.com/RubixDev/tree-sitter-asm/tree/v0.24.0) |
 | tree-sitter-asm6502 | [2024-11-10](https://github.com/stoneman1/tree-sitter-asm6502/tree/cab7b193bce6a1319b36a9d9ae7efef4535b9224) |
