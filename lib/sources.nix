@@ -1550,12 +1550,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "0.18";
+    version = "0.19";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "0.18";
-      hash = "sha256-RnTLL1XP53WRpRCgylhc0FMpEuF48DTW3kN6by8goL8=";
+      rev = "0.19";
+      hash = "sha256-1bviRDBztC6EplHFS4lqRYt05f0VH6Ofwo9umwSqve4=";
     };
   };
   "tree-sitter-esdl" = {
@@ -2180,12 +2180,12 @@
     };
   };
   "tree-sitter-gritql" = {
-    version = "unstable-2026-03-01";
+    version = "unstable-2026-06-04";
     src = fetchFromGitHub {
       owner = "biomejs";
       repo = "tree-sitter-gritql";
-      rev = "aabd71cc5efdbb78138bd433ab150f15d05c7a51";
-      hash = "sha256-4J0O68gfn8RuqM6J20ijucIyDeNJPVeBHbW4eTdCKck=";
+      rev = "7e3e1a74e82c7a5caac1e58884067289f0ebae51";
+      hash = "sha256-9E8HU7nbzD9oMwXCe+U09fAhxTL9WeGu7RuWyUkFy2Y=";
     };
   };
   "tree-sitter-groovy" = {
@@ -4785,12 +4785,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.5.28";
+    version = "2026.6.4";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.5.28";
-      hash = "sha256-Zj3aUcqYPYMTv/87bJXKOSOy8H3JFZxcfXcUumyMzUg=";
+      rev = "2026.6.4";
+      hash = "sha256-jluMtWRFuyG8WGiVn1ge2NfSdRIq8zqS1R12AG/Imtc=";
     };
   };
   "tree-sitter-ssh_config" = {
