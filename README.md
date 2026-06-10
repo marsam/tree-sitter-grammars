@@ -545,7 +545,7 @@ in {
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2026-06-08](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/a116c4a11ea023ea428b386fd2283587f662cebc) |
+| tree-sitter-pyrope | [2026-06-10](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/2dfafcac6565889c6012d4dc7e6b91c354a5752c) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.11](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.11) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
