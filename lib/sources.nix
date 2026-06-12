@@ -415,12 +415,12 @@
     };
   };
   "tree-sitter-asciidoc" = {
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchFromGitHub {
       owner = "cathaysia";
       repo = "tree-sitter-asciidoc";
-      rev = "v0.8.0";
-      hash = "sha256-jHTgSy1Ezig1WCrplyv45F+D1RdOUaEv4McPehFq2Ug=";
+      rev = "v0.9.0";
+      hash = "sha256-sJlpYTmK3fAlY3K0OBOAxy6Tr6lDJhfr5+taAEHPG50=";
     };
   };
   "tree-sitter-asl" = {
@@ -2045,12 +2045,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v1.0.0";
-      hash = "sha256-o+rI+QUM4qDlDVmWw2s375GmdagHCm7h7std3QeOR8E=";
+      rev = "v1.1.0";
+      hash = "sha256-K63SB/2qSxMK+9k/nXTbPeITQK7KD5vrQGeFH4XAZyI=";
     };
   };
   "tree-sitter-gobra" = {
@@ -3289,12 +3289,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2026-05-21";
+    version = "unstable-2026-06-12";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "ebdb3f38d46309a3a7f81c2af357da05ec8a4470";
-      hash = "sha256-ZdwmM2PuG2TOtYdKrPRE1iHhaCRhAGuTJo7DNMiNWvM=";
+      rev = "c76eb43a7ea35de24eec13dee1fe22fadb2533d7";
+      hash = "sha256-nPESRI3H9imrmHGonCoS/oPH254G4AJruLhA7wpDmNQ=";
     };
   };
   "tree-sitter-mor" = {
@@ -4073,12 +4073,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-06-10";
+    version = "unstable-2026-06-12";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "2dfafcac6565889c6012d4dc7e6b91c354a5752c";
-      hash = "sha256-xuQDe07Ri57D5D7E7hExjESyO/39UpYFcLR0zEdjc4I=";
+      rev = "279462b1427472184266ea76b5ce7f2367661d20";
+      hash = "sha256-fk21nUh0KiGSvwNt234UguR/jmZsx758RdQvGk9+WyE=";
     };
   };
   "tree-sitter-q" = {
@@ -4190,12 +4190,12 @@
     };
   };
   "tree-sitter-razor" = {
-    version = "unstable-2026-04-20";
+    version = "unstable-2026-06-11";
     src = fetchFromGitHub {
       owner = "tris203";
       repo = "tree-sitter-razor";
-      rev = "a3399c26610817c6d32c7643793caf3729cfb6d2";
-      hash = "sha256-hH3qIp5IKwOyxiQXlS2NnuTbt/ssNMEV8PaL1xDMi+g=";
+      rev = "900f53dc6cc592f6e616adc2f732cb0f66fc9147";
+      hash = "sha256-s+evcRfRQcW7HAGRikqF+zEZK4WYFTGWWRcpe9cwxgM=";
     };
   };
   "tree-sitter-rbs" = {
