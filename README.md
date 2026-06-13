@@ -293,7 +293,7 @@ in {
 | tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
 | tree-sitter-glsl | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-glsl/tree/v0.2.0) |
 | tree-sitter-gn | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-gn/tree/v1.0.0) |
-| tree-sitter-gnuplot | [1.1.0](https://github.com/dpezto/tree-sitter-gnuplot/tree/v1.1.0) |
+| tree-sitter-gnuplot | [1.1.2](https://github.com/dpezto/tree-sitter-gnuplot/tree/v1.1.2) |
 | tree-sitter-go | [0.25.0](https://github.com/tree-sitter/tree-sitter-go/tree/v0.25.0) |
 | tree-sitter-gobra | [2024-11-28](https://github.com/HSMF/tree-sitter-gobra/tree/fc0d8be6169ef296b031e65a8d9ebcad6a974cdf) |
 | tree-sitter-goctl | [2024-08-14](https://github.com/chaozwn/tree-sitter-goctl/tree/49c43532689fe1f53e8b9e009d0521cab02c432b) |
@@ -441,7 +441,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-05-29](https://github.com/shackle-rs/shackle/tree/181db41500cb517d5c9756920429137e62e1aeee/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-05-29](https://github.com/artagnon/tree-sitter-mlir/tree/8012662e96d5119898fe2f3d4f3b2366597d2607) |
+| tree-sitter-mlir | [2026-06-13](https://github.com/artagnon/tree-sitter-mlir/tree/eabbbe4cfbd5d7cfa88dbb3836c5f861f72df096) |
 | tree-sitter-mojo | [2025-12-25](https://github.com/lsh/tree-sitter-mojo/tree/03966fb3f209bea86844aab3bd0f2158a5a8bb8d) |
 | tree-sitter-moonbit | [2026-06-12](https://github.com/moonbitlang/tree-sitter-moonbit/tree/c76eb43a7ea35de24eec13dee1fe22fadb2533d7) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |

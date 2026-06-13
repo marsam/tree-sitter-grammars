@@ -2045,12 +2045,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "1.1.0";
+    version = "1.1.2";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v1.1.0";
-      hash = "sha256-K63SB/2qSxMK+9k/nXTbPeITQK7KD5vrQGeFH4XAZyI=";
+      rev = "v1.1.2";
+      hash = "sha256-yikCngN87EWqQJcMYhlishXQOEesj28gXKlNCvRgdUc=";
     };
   };
   "tree-sitter-gobra" = {
@@ -3271,12 +3271,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-05-29";
+    version = "unstable-2026-06-13";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "8012662e96d5119898fe2f3d4f3b2366597d2607";
-      hash = "sha256-uICYCUmokoKmndOopmvqHUCWlc9rWiRCYUFv/6vquxw=";
+      rev = "eabbbe4cfbd5d7cfa88dbb3836c5f861f72df096";
+      hash = "sha256-ZXdXoE7e/1w7c2iuYiK1OT0XnIv24s55b6ArQcAVOCM=";
     };
   };
   "tree-sitter-mojo" = {
