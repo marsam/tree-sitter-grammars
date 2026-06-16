@@ -406,7 +406,7 @@ in {
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2026-04-02](https://github.com/hankthetank27/tree-sitter-liquid/tree/e45dbac8c5fa95b1f0e00e7e0c04bc8855823391) |
 | tree-sitter-liquidsoap | [1.2.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.2.2) |
-| tree-sitter-lispbm | [2026-06-08](https://github.com/cortex/tree-sitter-lispbm/tree/f843f23c9d030219e48c245758818e45a03a05be) |
+| tree-sitter-lispbm | [2026-06-15](https://github.com/cortex/tree-sitter-lispbm/tree/0186edda34489931bd4b973fbcdf789ed2d303ba) |
 | tree-sitter-llvm | [1.1.0](https://github.com/benwilliamgraham/tree-sitter-llvm/tree/v1.1.0) |
 | tree-sitter-llvm_mir | [2024-10-03](https://github.com/Flakebi/tree-sitter-llvm-mir/tree/d166ff8c5950f80b0a476956e7a0ad2f27c12505) |
 | tree-sitter-log | [2023-11-26](https://github.com/Tudyx/tree-sitter-log/tree/62cfe307e942af3417171243b599cc7deac5eab9) |
@@ -545,7 +545,7 @@ in {
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2026-06-14](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/daf3508b6612eb6ae11d119354155c4e05baa297) |
+| tree-sitter-pyrope | [2026-06-15](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/0f4e69f28e8abb9075c5e3ce1e5b3864df85bfb1) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.11](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.11) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
