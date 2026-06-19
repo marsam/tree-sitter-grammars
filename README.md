@@ -441,7 +441,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-05-29](https://github.com/shackle-rs/shackle/tree/181db41500cb517d5c9756920429137e62e1aeee/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-06-13](https://github.com/artagnon/tree-sitter-mlir/tree/eabbbe4cfbd5d7cfa88dbb3836c5f861f72df096) |
+| tree-sitter-mlir | [2026-06-19](https://github.com/artagnon/tree-sitter-mlir/tree/dff8f793e7d154f909427f5de42476ef72634aee) |
 | tree-sitter-mojo | [2026-06-16](https://github.com/lsh/tree-sitter-mojo/tree/33193a99afe6d0dbe865d56f6e7514c4087f87b2) |
 | tree-sitter-moonbit | [2026-06-12](https://github.com/moonbitlang/tree-sitter-moonbit/tree/c76eb43a7ea35de24eec13dee1fe22fadb2533d7) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -634,7 +634,7 @@ in {
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2026.6.4](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.6.4) |
+| tree-sitter-ssh_client_config | [2026.6.18](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.6.18) |
 | tree-sitter-ssh_config | [0.4.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.4.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.3.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.3.1/grammars/stan) |
