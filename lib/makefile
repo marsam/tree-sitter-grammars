@@ -78,4 +78,8 @@ endif
 test:
 	$(TS) test
 
-.PHONY: all install test
+clean:
+	rm -f $(OBJS)
+	rm -f lib$(LANGUAGE_NAME).$(SOEXT) lib$(LANGUAGE_NAME).$(SOEXT).*
+
+.PHONY: all install test clean
