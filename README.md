@@ -269,7 +269,7 @@ in {
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2026-06-22](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/967dba2e319e43c1c6bebaefdf7c3a8dd2f1d113) |
+| tree-sitter-galvan | [2026-06-23](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/d1b3d0b2316317609f544baa8d2cb9225e91423e) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
@@ -397,7 +397,7 @@ in {
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
-| tree-sitter-lean | [2026-06-22](https://github.com/Julian/tree-sitter-lean/tree/30f05c80eab5b7ec8de9e0c7dbc23db58e6123c8) |
+| tree-sitter-lean | [2026-06-23](https://github.com/Julian/tree-sitter-lean/tree/dc5997b2744595eeb389e1ed9c4f5e727c5b655e) |
 | tree-sitter-ledger | [2026-03-20](https://github.com/cbarrete/tree-sitter-ledger/tree/22a1ab8195c1f6e808679f803007756fe7638c6f) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
