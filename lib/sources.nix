@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2026-05-02";
+    version = "unstable-2026-06-27";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "683332a6430675abfd9867201ef47b2b99bdb266";
-      hash = "sha256-bLWItZ8axo4i6q8fej64bs40mVBNKRFWGdq1zII5oHc=";
+      rev = "89e3ffaab3938154cc7b16ac3570662f63d30527";
+      hash = "sha256-7fqqk0nhqmtSmFndsnALR4Wow2MjpaRlTMKxj4ZWqyo=";
     };
   };
   "tree-sitter-cairo" = {
@@ -1838,12 +1838,12 @@
     };
   };
   "tree-sitter-galvan" = {
-    version = "unstable-2026-06-25";
+    version = "unstable-2026-06-27";
     src = fetchFromGitHub {
       owner = "antoniusnaumann";
       repo = "tree-sitter-galvan";
-      rev = "b62105720fdb233393e5b9ef5f78e4677d818de7";
-      hash = "sha256-jBqdMkWC3PQ9gDnGaAzKelADk3vjn4LvaM8CdPwehpc=";
+      rev = "6343456c88d51de863c0d22f5a33e9bd6d6602de";
+      hash = "sha256-hfoTQjpKA/YhPmnb2kNw5NIVMb9sEVOOm+BXYYNvQXE=";
     };
   };
   "tree-sitter-gap" = {
@@ -4073,12 +4073,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-06-26";
+    version = "unstable-2026-06-27";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "187cdcc89fcd1cbe7400a6e31dd3b76b10982cb3";
-      hash = "sha256-lCN0CO1gbkRYMlKXZqxdRlf2eyI2JJ5zooE1jNtEXRM=";
+      rev = "00f1df07ad5542f6bc67d7531ee1995c031e2019";
+      hash = "sha256-/lO5EUWOByT4rFFUwhLs8rud+RMx+f7gtq4TRz9d8Es=";
     };
   };
   "tree-sitter-q" = {
@@ -4713,12 +4713,12 @@
     };
   };
   "tree-sitter-spicy" = {
-    version = "unstable-2026-06-22";
+    version = "unstable-2026-06-27";
     src = fetchFromGitHub {
       owner = "bbannier";
       repo = "tree-sitter-spicy";
-      rev = "8440e3467f95f15eda718bdbbf6c5f1913ce2639";
-      hash = "sha256-CuyjoHvfQy3jQOSC/1obeLvm9w+peCF1oBVwsNfpwYY=";
+      rev = "90d5fa0a5975fffa88089d8a64824295dfbb693d";
+      hash = "sha256-XUm6UXxEm6Klam9DtucV92bPqOM8bOfou4bt8UkFHoI=";
     };
   };
   "tree-sitter-spml" = {
