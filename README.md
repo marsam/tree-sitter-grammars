@@ -504,7 +504,7 @@ in {
 | tree-sitter-pascal | [0.10.2](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.2) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
 | tree-sitter-pem | [0.1.1](https://github.com/tree-sitter-grammars/tree-sitter-pem/tree/v0.1.1) |
-| tree-sitter-perl | [1.1.3](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/v1.1.3) |
+| tree-sitter-perl | [1.2.1](https://github.com/tree-sitter-perl/tree-sitter-perl/tree/v1.2.1) |
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.1.0](https://github.com/pest-parser/tree-sitter-pest/tree/v0.1.0) |
 | tree-sitter-pgn | [1.4.3](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.4.3) |

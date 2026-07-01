@@ -3748,12 +3748,12 @@
     };
   };
   "tree-sitter-perl" = {
-    version = "1.1.3";
+    version = "1.2.1";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-perl";
-      rev = "v1.1.3";
-      hash = "sha256-jP9ALLfKtnaYaFgHXfqT+oDvRlIig9f3HZ8VfM2Rsrs=";
+      rev = "v1.2.1";
+      hash = "sha256-i5T7jT0zi0TSt7eAvjvJRak8kpzxOEoPydU+yEosNgA=";
     };
   };
   "tree-sitter-perm" = {
