@@ -1802,12 +1802,12 @@
     };
   };
   "tree-sitter-fsharp" = {
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchFromGitHub {
       owner = "ionide";
       repo = "tree-sitter-fsharp";
-      rev = "0.3.0";
-      hash = "sha256-ntcLDSt6BPF9PtASx221hwZhKl3yKKrzbEYQD/ghYxw=";
+      rev = "0.3.1";
+      hash = "sha256-nTe97w+tjc+IbvF2FPniX5UzVpG4sSYzcNisfy6bjBg=";
     };
   };
   "tree-sitter-ftd" = {
@@ -2045,12 +2045,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "1.1.2";
+    version = "2.0.0";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v1.1.2";
-      hash = "sha256-yikCngN87EWqQJcMYhlishXQOEesj28gXKlNCvRgdUc=";
+      rev = "v2.0.0";
+      hash = "sha256-UHgeM0pQm9DQwZdPByzJvYY4DbzcxE0WDDuqVGcsxts=";
     };
   };
   "tree-sitter-gobra" = {
@@ -3550,12 +3550,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2026-04-22";
+    version = "unstable-2026-07-01";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "348b787d8b0409091d85fe9d4eb007fe9f3406bb";
-      hash = "sha256-OL3fqHjimJ9VrR2UoeIdLxKKcsA1J80A9T8GSBO9KwE=";
+      rev = "d694570aa26b53d0d642460a0430e8aa07dcbea0";
+      hash = "sha256-eWHAcV8bPCnL9y4PtPn6cJRylGQ2KMxCUoUGwDVigkg=";
     };
   };
   "tree-sitter-numbat" = {
@@ -5147,12 +5147,12 @@
     };
   };
   "tree-sitter-times" = {
-    version = "unstable-2026-05-01";
+    version = "unstable-2026-07-01";
     src = fetchFromGitHub {
       owner = "michaeladler";
       repo = "tree-sitter-times";
-      rev = "e5acb6b468730414345abe5857f9b584f9093f08";
-      hash = "sha256-8uH5LpmKm7edZP9qCOFi5dvddb5RoZn75V/MjlOUbgY=";
+      rev = "11e2f91039724381cb86829255df6878557c4a16";
+      hash = "sha256-YHoyMWf7K9oJjGiojlYn8aLGKJShfpYWAmav3KOPp54=";
     };
   };
   "tree-sitter-tl" = {
@@ -5435,12 +5435,12 @@
     };
   };
   "tree-sitter-verus" = {
-    version = "unstable-2025-11-24";
+    version = "unstable-2026-07-01";
     src = fetchFromGitHub {
       owner = "secure-foundations";
       repo = "tree-sitter-verus";
-      rev = "33478ffa93c0f46eec3e1486c66c53ea9e70cd70";
-      hash = "sha256-aYAi+xzpoiQhyrRTEMW+mX4wu2W1Kyu5WvLVE0gE/FI=";
+      rev = "687c99772ce8559a3376f389f52ea1ab4849a9d2";
+      hash = "sha256-7NmetKYP04hPulAj/EJ9eKSJpEW/UOtwVehLEViV5hc=";
     };
   };
   "tree-sitter-veryl" = {
