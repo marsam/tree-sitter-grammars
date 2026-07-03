@@ -1590,8 +1590,8 @@
     src = fetchFromGitHub {
       owner = "tpkessler";
       repo = "tree-sitter-exoterra";
-      rev = "4a0d9a970cd72c7ba6fa73a754f0d69c46c64c94";
-      hash = "sha256-gnzAA5SWGgiI8Kn/Sw72vnpBjAC9l7EthqLIyEYMlLs=";
+      rev = "bc45b9e214c631bac5e21c236f574d6be8e493e2";
+      hash = "sha256-mgGyjN5mur5PmPk/jVdJGV+R/xcUeXB3WyB6gADMWS0=";
     };
   };
   "tree-sitter-facility" = {
@@ -2640,12 +2640,12 @@
     };
   };
   "tree-sitter-jinja" = {
-    version = "0.12.1";
+    version = "0.13.0";
     src = fetchFromGitHub {
       owner = "cathaysia";
       repo = "tree-sitter-jinja";
-      rev = "v0.12.1";
-      hash = "sha256-A0umM9Nf8Q6Ie5YTvaNuY/y8No3rAKnuAQ3QaS1fgrM=";
+      rev = "v0.13.0";
+      hash = "sha256-DgHJ3pwLG6yLxzIaNSB+wpmt8Wl0CLdYcfOx+MDr39A=";
     };
   };
   "tree-sitter-jjdescription" = {
@@ -4073,12 +4073,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-06-27";
+    version = "unstable-2026-07-02";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "00f1df07ad5542f6bc67d7531ee1995c031e2019";
-      hash = "sha256-/lO5EUWOByT4rFFUwhLs8rud+RMx+f7gtq4TRz9d8Es=";
+      rev = "3776315064eacd11cd174c1d83ac837014693066";
+      hash = "sha256-xdU26qSxJe+VjKe56CUzTOvYL9Xy8lY1mPF9MeDL1OE=";
     };
   };
   "tree-sitter-q" = {
@@ -4767,12 +4767,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.6.25";
+    version = "2026.7.2";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.6.25";
-      hash = "sha256-eU16jHGZfCtIvcrd+X7Bj2qCuMsTo/fQiQx/H6VlDu0=";
+      rev = "2026.7.2";
+      hash = "sha256-eq73UlAaZFUjK5XrIn3V/TgwbaH0tQ086XVAmGnaVhw=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -5507,12 +5507,12 @@
     };
   };
   "tree-sitter-vola" = {
-    version = "unstable-2026-06-10";
+    version = "unstable-2026-07-02";
     src = fetchFromGitLab {
       owner = "tendsinmende";
       repo = "tree-sitter-vola";
-      rev = "49d13119f4cf49bd0f8ea2abcdab4e2885724527";
-      hash = "sha256-mht8PVUxf76qrek1QQrqoYMDdXcgjXDEpM0jsCkH9qs=";
+      rev = "dbe89d16a1b5d1b4fe7814a2ed4e06444bad84f8";
+      hash = "sha256-WWOl9En9rv9dRJkn3jMR9W2hWroiBllX7XSFqQhgjNE=";
     };
   };
   "tree-sitter-vrl" = {
