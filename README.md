@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-06-29](https://github.com/caddyserver/tree-sitter-caddyfile/tree/15437433b7deec0f0431fb4a5bedb64ecae01513) |
+| tree-sitter-caddyfile | [2026-07-03](https://github.com/caddyserver/tree-sitter-caddyfile/tree/3ab80983d42b846378a1d8857b76e8c0a3f137a3) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -571,7 +571,7 @@ in {
 | tree-sitter-refal | [0.2.0](https://github.com/ilya-klyuchnikov/tree-sitter-refal/tree/0.2.0) |
 | tree-sitter-regent | [0.3.7](https://github.com/ellishg/tree-sitter-regent/tree/v0.3.7) |
 | tree-sitter-regex | [0.25.0](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.25.0) |
-| tree-sitter-rego | [2026-01-14](https://github.com/FallenAngel97/tree-sitter-rego/tree/ddd39af81fe8b0288102a7cb97959dfce723e0f3) |
+| tree-sitter-rego | [2026-07-03](https://github.com/FallenAngel97/tree-sitter-rego/tree/2ed149b424b24a301e9750f1d78263212f037ac5) |
 | tree-sitter-requirements | [0.6.1](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.6.1) |
 | tree-sitter-rescript | [6.0.0](https://github.com/rescript-lang/tree-sitter-rescript/tree/v6.0.0) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
