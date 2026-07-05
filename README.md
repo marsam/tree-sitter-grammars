@@ -443,7 +443,7 @@ in {
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
 | tree-sitter-mlir | [2026-06-29](https://github.com/artagnon/tree-sitter-mlir/tree/48cb6b8b75b2cd0be1b6027e17da349da6711119) |
 | tree-sitter-mojo | [2026-06-16](https://github.com/lsh/tree-sitter-mojo/tree/33193a99afe6d0dbe865d56f6e7514c4087f87b2) |
-| tree-sitter-moonbit | [2026-06-12](https://github.com/moonbitlang/tree-sitter-moonbit/tree/c76eb43a7ea35de24eec13dee1fe22fadb2533d7) |
+| tree-sitter-moonbit | [2026-07-05](https://github.com/moonbitlang/tree-sitter-moonbit/tree/d2134bf18b701ba72dec03f28af9c0e76bb055fa) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-morloc | [2026-03-12](https://github.com/morloc-project/tree-sitter-morloc/tree/005a3949e37d5bbe90e78adb1f08f58f65bb21ce) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |

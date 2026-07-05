@@ -3289,12 +3289,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2026-06-12";
+    version = "unstable-2026-07-05";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "c76eb43a7ea35de24eec13dee1fe22fadb2533d7";
-      hash = "sha256-nPESRI3H9imrmHGonCoS/oPH254G4AJruLhA7wpDmNQ=";
+      rev = "d2134bf18b701ba72dec03f28af9c0e76bb055fa";
+      hash = "sha256-KX0mGN8voNBdjD4Yv4PSArN55cbDMuM1XN1bP0IetAA=";
     };
   };
   "tree-sitter-mor" = {
