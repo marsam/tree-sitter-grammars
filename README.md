@@ -78,7 +78,7 @@ in {
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [3.0.1](https://github.com/SShadowS/tree-sitter-al/tree/v3.0.1) |
+| tree-sitter-al | [3.2.0](https://github.com/SShadowS/tree-sitter-al/tree/v3.2.0) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
@@ -441,9 +441,9 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-05-29](https://github.com/shackle-rs/shackle/tree/181db41500cb517d5c9756920429137e62e1aeee/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-06-29](https://github.com/artagnon/tree-sitter-mlir/tree/48cb6b8b75b2cd0be1b6027e17da349da6711119) |
+| tree-sitter-mlir | [2026-07-05](https://github.com/artagnon/tree-sitter-mlir/tree/ec226fc960ef2c4df6b92dc710b863868837c6c9) |
 | tree-sitter-mojo | [2026-06-16](https://github.com/lsh/tree-sitter-mojo/tree/33193a99afe6d0dbe865d56f6e7514c4087f87b2) |
-| tree-sitter-moonbit | [2026-07-05](https://github.com/moonbitlang/tree-sitter-moonbit/tree/d2134bf18b701ba72dec03f28af9c0e76bb055fa) |
+| tree-sitter-moonbit | [2026-07-06](https://github.com/moonbitlang/tree-sitter-moonbit/tree/fe025ee46c206a36aa99f0c8444cb730abe5473e) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
 | tree-sitter-morloc | [2026-03-12](https://github.com/morloc-project/tree-sitter-morloc/tree/005a3949e37d5bbe90e78adb1f08f58f65bb21ce) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
@@ -571,7 +571,7 @@ in {
 | tree-sitter-refal | [0.2.0](https://github.com/ilya-klyuchnikov/tree-sitter-refal/tree/0.2.0) |
 | tree-sitter-regent | [0.3.7](https://github.com/ellishg/tree-sitter-regent/tree/v0.3.7) |
 | tree-sitter-regex | [0.25.0](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.25.0) |
-| tree-sitter-rego | [2026-07-03](https://github.com/FallenAngel97/tree-sitter-rego/tree/2ed149b424b24a301e9750f1d78263212f037ac5) |
+| tree-sitter-rego | [2026-07-06](https://github.com/FallenAngel97/tree-sitter-rego/tree/c2a8c8f9553738afbdfdb9b3b24769ed14e60e7a) |
 | tree-sitter-requirements | [0.6.1](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.6.1) |
 | tree-sitter-rescript | [6.0.0](https://github.com/rescript-lang/tree-sitter-rescript/tree/v6.0.0) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
