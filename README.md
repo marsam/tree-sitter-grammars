@@ -176,7 +176,7 @@ in {
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
 | tree-sitter-crystal | [2025-10-12](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/50ca9e6fcfb16a2cbcad59203cfd8ad650e25c49) |
-| tree-sitter-csound | [2026-03-04](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/6a7e80087e754c166eb1612cbe7fe215cc26b43c) |
+| tree-sitter-csound | [2026-07-06](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/9a0a07f13c23ab3f76f172a242e53d8abc154a48) |
 | tree-sitter-css | [0.25.0](https://github.com/tree-sitter/tree-sitter-css/tree/v0.25.0) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -190,7 +190,7 @@ in {
 | tree-sitter-d | [0.9.1](https://github.com/gdamore/tree-sitter-d/tree/v0.9.1) |
 | tree-sitter-d2 | [0.7.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.2) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
-| tree-sitter-dart | [2026-05-20](https://github.com/UserNobody14/tree-sitter-dart/tree/a9bdfa3db2fbc9b9f12c93450d04a671f33a5102) |
+| tree-sitter-dart | [2026-07-07](https://github.com/UserNobody14/tree-sitter-dart/tree/be07cf7118d3dba06236a3f19541685a68209934) |
 | tree-sitter-datazinc | [2026-05-29](https://github.com/shackle-rs/shackle/tree/181db41500cb517d5c9756920429137e62e1aeee/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |

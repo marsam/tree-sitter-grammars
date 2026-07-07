@@ -1063,12 +1063,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-03-04";
+    version = "unstable-2026-07-06";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "6a7e80087e754c166eb1612cbe7fe215cc26b43c";
-      hash = "sha256-mbuGiQwhrd5bGrX2Td5AXDSw4pdFB6k0MtR4fVJfkQg=";
+      rev = "9a0a07f13c23ab3f76f172a242e53d8abc154a48";
+      hash = "sha256-OTGNeFh6dVZMO1ia5ems0++pUEIA4JHqe2SMx1iqUK0=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -1171,12 +1171,12 @@
     };
   };
   "tree-sitter-dart" = {
-    version = "unstable-2026-05-20";
+    version = "unstable-2026-07-07";
     src = fetchFromGitHub {
       owner = "UserNobody14";
       repo = "tree-sitter-dart";
-      rev = "a9bdfa3db2fbc9b9f12c93450d04a671f33a5102";
-      hash = "sha256-uDrlxJ8uZypeVe+NAhuYjCluYIjXwtVYH9aBW9P9ars=";
+      rev = "be07cf7118d3dba06236a3f19541685a68209934";
+      hash = "sha256-BPy4K3mjVBFdAtkVJBa8JCaWwRiO73khO32lh0rlcfw=";
     };
   };
   "tree-sitter-datazinc" = {
