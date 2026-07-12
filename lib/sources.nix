@@ -1180,12 +1180,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-07-10";
+    version = "unstable-2026-07-12";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "ae042d038442c1478640b41d1cb2592c53f0845c";
-      hash = "sha256-0l/+uGDiz3QOgul/qWIK+VJ8xSQCqZ1R0LI3d6O31KU=";
+      rev = "289a52ec6cd962e8ffdbdffcad015aa02e51450d";
+      hash = "sha256-ZhZ+hvsIbwBY1Sp0HPjMbJc64P0HcMUeASOWzX+NjoU=";
     };
   };
   "tree-sitter-dbml" = {
@@ -1640,12 +1640,12 @@
     };
   };
   "tree-sitter-faust" = {
-    version = "unstable-2026-04-12";
+    version = "1.2.0";
     src = fetchFromGitHub {
       owner = "khiner";
       repo = "tree-sitter-faust";
-      rev = "2bd027f18927d13afdfdfc3f1e7088aaa515691f";
-      hash = "sha256-0DrpMqRidCYE8frE/45XFbxD8hbzGznQI9gCbOtOwSE=";
+      rev = "v1.2.0";
+      hash = "sha256-jzedhMP31Q17+UN6qi8k4nyqvoqVeYxflFIZcE8sf4g=";
     };
   };
   "tree-sitter-fennel" = {
@@ -3271,12 +3271,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-07-05";
+    version = "unstable-2026-07-11";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "ec226fc960ef2c4df6b92dc710b863868837c6c9";
-      hash = "sha256-FcbOEz02542sno1N02Wz9E64Gx5fvorTf+BPf8IG6sE=";
+      rev = "48cd551edcac72f34e96a0dbd3630a46a44327c5";
+      hash = "sha256-DYMcVkE26aSph34+WqmCnbs/rHBkHq1rZdd39HYneY8=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4109,12 +4109,12 @@
     };
   };
   "tree-sitter-qmljs" = {
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchFromGitHub {
       owner = "yuja";
       repo = "tree-sitter-qmljs";
-      rev = "0.3.0";
-      hash = "sha256-tV4lipey+OAQwygRFp9lQAzgCNiZzSu7p3Mr6CCBH1g=";
+      rev = "0.3.1";
+      hash = "sha256-Yn3/adOETfPHBVCIVfI5qXUwC2wQr14pbhK2aUtdCiY=";
     };
   };
   "tree-sitter-quakec" = {
@@ -4272,12 +4272,12 @@
     };
   };
   "tree-sitter-rego" = {
-    version = "unstable-2026-07-06";
+    version = "unstable-2026-07-11";
     src = fetchFromGitHub {
       owner = "FallenAngel97";
       repo = "tree-sitter-rego";
-      rev = "c2a8c8f9553738afbdfdb9b3b24769ed14e60e7a";
-      hash = "sha256-XnG10v71MU/VcXQqvoaArHacc+eFZR5zQiRG7yMvxzs=";
+      rev = "7f8a43138951a13832919312290147bd175180cd";
+      hash = "sha256-kBTK6IjEnMnSPIF964GmTv6m+RukfP2TLcPHqHnxyIc=";
     };
   };
   "tree-sitter-requirements" = {
