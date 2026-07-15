@@ -1184,8 +1184,8 @@
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "6b8d164783746d4e8b8bc79d0d3d9af9ffcbb097";
-      hash = "sha256-Obodi12owPxJ9cjZUEOUvbsxnCpNGWwo5NDz7/GGQRw=";
+      rev = "264a5c77995168e279d8ab9841af96d50403b1ba";
+      hash = "sha256-pNQQ6XyIUp7T4D+nwH7FEozJ4YU1KOcwl3Z/ifmNYv0=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3082,12 +3082,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2026-06-29";
+    version = "unstable-2026-07-14";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "3a7e53e91938de7c6f356fc5249d23fdc353a80a";
-      hash = "sha256-m+adSIuUfWB4STlKDECIGp5yB5HrjNo3ha6xyBwLbcs=";
+      rev = "c5c276ecb26c45d1f56597660bcb93639015d882";
+      hash = "sha256-RCfHnAgwz3Qn6Egvfcbxi6LZzhoNdWc6mfFfHiMK/iM=";
     };
   };
   "tree-sitter-make" = {
@@ -3271,12 +3271,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-07-12";
+    version = "unstable-2026-07-14";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "2ddb5b2194bafaf84145d1c189731f3b68d10ae8";
-      hash = "sha256-Zn4LIbInmaV3+p/eqVYQyON8Rv0eyFziTYr6GI58OLc=";
+      rev = "a5bcbd07b4bc6103a8ee1536188c42a2059d43ba";
+      hash = "sha256-h0ZKsVbZg4i99qsH0xHW/KcStl73HBKX8LtixMzPcf0=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3370,12 +3370,12 @@
     };
   };
   "tree-sitter-muttrc" = {
-    version = "0.0.7";
+    version = "0.1.0";
     src = fetchFromGitHub {
       owner = "neomutt";
       repo = "tree-sitter-muttrc";
-      rev = "0.0.7";
-      hash = "sha256-ONYM8ZjV4I16zO8h2bObxxpBH0AKtlwdXU4o5ls4+34=";
+      rev = "0.1.0";
+      hash = "sha256-0IRJzdggQIWBs6CEAgqMpXNO7YgydtllU6CHpq4lTcc=";
     };
   };
   "tree-sitter-nasm" = {
@@ -5822,12 +5822,12 @@
     };
   };
   "tree-sitter-ziggy" = {
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "kristoff-it";
       repo = "ziggy";
-      rev = "v0.1.0";
-      hash = "sha256-bErq4vUwxQo51VL3wb62V0wIdCIBwzEQyEBqaY4LgMI=";
+      rev = "v0.2.0";
+      hash = "sha256-luLYcGQ/2yi5SZbv1l7Be9LcizqiZdJY1i6TuxqFLdg=";
     };
   };
   "tree-sitter-zote" = {
