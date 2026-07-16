@@ -3375,7 +3375,7 @@
       owner = "neomutt";
       repo = "tree-sitter-muttrc";
       rev = "0.1.0";
-      hash = "sha256-0IRJzdggQIWBs6CEAgqMpXNO7YgydtllU6CHpq4lTcc=";
+      hash = "sha256-VDT5uOnVdjWEnJt2LPjj0JropBVPuLjIDe9fhPLxFdg=";
     };
   };
   "tree-sitter-nasm" = {
@@ -4767,12 +4767,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.7.9";
+    version = "2026.7.16";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.7.9";
-      hash = "sha256-La1h6uJC5gUA84OAr3zBbQiR+AnrhcUhNf6r4HUpwhg=";
+      rev = "2026.7.16";
+      hash = "sha256-u0CcoXBiNAfiFJ+CV35Y7ZhmYEHmphDQWGTgaClX3gw=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -5188,7 +5188,7 @@
       owner = "Freed-Wu";
       repo = "tree-sitter-tmux";
       rev = "0.1.0";
-      hash = "sha256-HrUgCvog3n30txBspyQKTUKVkx7HJNfaGqMQpjRkblA=";
+      hash = "sha256-yFGFyrTtm6Oq9RIk00jxr4zHVg0a5eWqF6iWlE23y4Q=";
     };
   };
   "tree-sitter-todome" = {
@@ -5624,12 +5624,12 @@
     };
   };
   "tree-sitter-wit" = {
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchFromGitHub {
       owner = "bytecodealliance";
       repo = "tree-sitter-wit";
-      rev = "v1.3.0";
-      hash = "sha256-FG73R38Bw60+aT5YB/xpENCnQwoGMVjXRLjP1GdJEn4=";
+      rev = "v1.4.0";
+      hash = "sha256-63xH63s6lgticgRtMz7LCL1ThuXegn7qFCZgeQqIZH4=";
     };
   };
   "tree-sitter-witcherscript" = {
@@ -5786,12 +5786,12 @@
     };
   };
   "tree-sitter-zathurarc" = {
-    version = "0.0.11";
+    version = "0.1.0";
     src = fetchFromGitHub {
       owner = "Freed-Wu";
       repo = "tree-sitter-zathurarc";
-      rev = "0.0.11";
-      hash = "sha256-L3vRXbAcA5cN6yzXTVeS0X1jt3oKgAlakMfkuelvjBM=";
+      rev = "0.1.0";
+      hash = "sha256-L0RbHcXrznsZwRSqkfHW56J6/tM66tYa/lIZvL0Ivgw=";
     };
   };
   "tree-sitter-zeek" = {
