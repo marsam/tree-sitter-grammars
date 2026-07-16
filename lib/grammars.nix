@@ -101,6 +101,9 @@ let
     // { tree-sitter-problog = grammars'.tree-sitter-prolog // { location = "grammars/problog"; }; }
     // { tree-sitter-rpmspec = grammars'.tree-sitter-rpmspec // { location = "rpmspec"; }; }
     // { tree-sitter-rpmbash = grammars'.tree-sitter-rpmspec // { location = "rpmbash"; }; }
+    // { tree-sitter-cedar = grammars'.tree-sitter-cedar // { location = "cedar"; }; }
+    // { tree-sitter-cedarschema = grammars'.tree-sitter-cedar // { location = "cedarschema"; }; }
+    // { tree-sitter-cedarentities = grammars'.tree-sitter-cedar // { location = "cedarentities"; }; }
     // { tree-sitter-apex = grammars'.tree-sitter-apex // { location = "apex"; }; }
     // { tree-sitter-soql = grammars'.tree-sitter-apex // { location = "soql"; }; }
     // { tree-sitter-sosl = grammars'.tree-sitter-apex // { location = "sosl"; }; }
@@ -168,6 +171,12 @@ let
     // { tree-sitter-pod = grammars'.tree-sitter-pod // { fromGrammarJson = true; }; }
     // { tree-sitter-quint = grammars'.tree-sitter-quint // { generate = true; postPatch = "rm -v tree-sitter.json"; }; } # Missing metadata field
     // { tree-sitter-rtf = grammars'.tree-sitter-rtf // { generate = true; }; }
+    // { tree-sitter-expando = grammars'.tree-sitter-expando // { generate = true; }; }
+    // { tree-sitter-hlsplaylist = grammars'.tree-sitter-hlsplaylist // { generate = true; }; }
+    // { tree-sitter-muttrc = grammars'.tree-sitter-muttrc // { generate = true; }; }
+    // { tree-sitter-tmux = grammars'.tree-sitter-tmux // { generate = true; }; }
+    // { tree-sitter-tmuxf = grammars'.tree-sitter-tmuxf // { generate = true; }; }
+    // { tree-sitter-zathurarc = grammars'.tree-sitter-zathurarc // { generate = true; }; }
     // { tree-sitter-sus = grammars'.tree-sitter-sus // { location = "tree-sitter-sus"; }; }
     // { tree-sitter-scfg = grammars'.tree-sitter-scfg // { generate = true; }; }
     // { tree-sitter-systemrdl = grammars'.tree-sitter-systemrdl // { generate = true; }; }
