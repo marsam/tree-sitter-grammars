@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-07-09](https://github.com/caddyserver/tree-sitter-caddyfile/tree/531abee60f1c8b1d9b567763708fc26690d63833) |
+| tree-sitter-caddyfile | [2026-07-18](https://github.com/caddyserver/tree-sitter-caddyfile/tree/b4021950903ff12e90454c318eb4a2171582f141) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -411,7 +411,7 @@ in {
 | tree-sitter-linkerscript | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-linkerscript/tree/v1.0.0) |
 | tree-sitter-liquid | [2026-04-02](https://github.com/hankthetank27/tree-sitter-liquid/tree/e45dbac8c5fa95b1f0e00e7e0c04bc8855823391) |
 | tree-sitter-liquidsoap | [1.2.2](https://github.com/savonet/tree-sitter-liquidsoap/tree/v1.2.2) |
-| tree-sitter-lispbm | [2026-06-15](https://github.com/cortex/tree-sitter-lispbm/tree/0186edda34489931bd4b973fbcdf789ed2d303ba) |
+| tree-sitter-lispbm | [2026-07-17](https://github.com/cortex/tree-sitter-lispbm/tree/13f9f9efcd963c51cdb36556abb0ffbb77b6dd4b) |
 | tree-sitter-llvm | [1.1.0](https://github.com/benwilliamgraham/tree-sitter-llvm/tree/v1.1.0) |
 | tree-sitter-llvm_mir | [2024-10-03](https://github.com/Flakebi/tree-sitter-llvm-mir/tree/d166ff8c5950f80b0a476956e7a0ad2f27c12505) |
 | tree-sitter-log | [2023-11-26](https://github.com/Tudyx/tree-sitter-log/tree/62cfe307e942af3417171243b599cc7deac5eab9) |
@@ -664,7 +664,7 @@ in {
 | tree-sitter-syncat_stylesheet | [3.8.0](https://github.com/foxfriends/syncat/tree/3.8.0/tree-sitter-syncat-stylesheet) |
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
-| tree-sitter-systemverilog | [0.3.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.3.1) |
+| tree-sitter-systemverilog | [0.4.0](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.4.0) |
 | tree-sitter-t32 | [9.0.1](https://codeberg.org/xasc/tree-sitter-t32/src/v9.0.1) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
@@ -720,7 +720,7 @@ in {
 | tree-sitter-vcl | [0.3.1](https://github.com/ntsk/tree-sitter-vcl/tree/v0.3.1) |
 | tree-sitter-vento | [2026-02-23](https://github.com/ventojs/tree-sitter-vento/tree/4569bc1fb81f050ca4ef3ceefdd31cfeb35c4f0a) |
 | tree-sitter-verilog | [1.0.3](https://github.com/tree-sitter/tree-sitter-verilog/tree/v1.0.3) |
-| tree-sitter-verus | [2026-07-01](https://github.com/secure-foundations/tree-sitter-verus/tree/687c99772ce8559a3376f389f52ea1ab4849a9d2) |
+| tree-sitter-verus | [2026-07-17](https://github.com/secure-foundations/tree-sitter-verus/tree/f95e0bb2230022ecea9ba01811e85bb0d915d4cf) |
 | tree-sitter-veryl | [2026-01-29](https://github.com/veryl-lang/tree-sitter-veryl/tree/f38156e6fa97e7386cdfbcbcc537dc970a13c3ce) |
 | tree-sitter-vhdl | [1.5.0](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v1.5.0) |
 | tree-sitter-vhs | [2025-03-26](https://github.com/charmbracelet/tree-sitter-vhs/tree/0c6fae9d2cfc5b217bfd1fe84a7678f5917116db) |
