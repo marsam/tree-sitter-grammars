@@ -2613,12 +2613,12 @@
     };
   };
   "tree-sitter-jai" = {
-    version = "unstable-2026-05-25";
+    version = "unstable-2026-07-18";
     src = fetchFromGitHub {
       owner = "constantitus";
       repo = "tree-sitter-jai";
-      rev = "c61176d276761e6ee44a86b018446a1608b47b99";
-      hash = "sha256-uJYZ9Amx3G82g1LVYd5+1E0oUPiPZYgTxtzQNJUKo3Q=";
+      rev = "714acc6da66526d9111b51ab8eee7e016b9e2268";
+      hash = "sha256-4FZ/BQsnyB4T8mkdfr/VSB9jxbImCKXr7DPYeCHu1FM=";
     };
   };
   "tree-sitter-jakt" = {
@@ -3109,12 +3109,12 @@
     };
   };
   "tree-sitter-magik" = {
-    version = "unstable-2026-07-14";
+    version = "unstable-2026-07-20";
     src = fetchFromGitHub {
       owner = "krn-robin";
       repo = "tree-sitter-magik";
-      rev = "c5c276ecb26c45d1f56597660bcb93639015d882";
-      hash = "sha256-RCfHnAgwz3Qn6Egvfcbxi6LZzhoNdWc6mfFfHiMK/iM=";
+      rev = "e20347b8f1bba3547f6f0bb84f631b8a384939f8";
+      hash = "sha256-qO5MsVExSdJqxjmt6qKH5cRtqyZhdFEFI+8A8DOONFE=";
     };
   };
   "tree-sitter-make" = {
@@ -3397,12 +3397,12 @@
     };
   };
   "tree-sitter-muttrc" = {
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchFromGitHub {
       owner = "neomutt";
       repo = "tree-sitter-muttrc";
-      rev = "0.1.0";
-      hash = "sha256-VDT5uOnVdjWEnJt2LPjj0JropBVPuLjIDe9fhPLxFdg=";
+      rev = "0.1.1";
+      hash = "sha256-LtCyR82xsPDgyYdJ9wulxgpPH6id/lIAJgalnnAPWtg=";
     };
   };
   "tree-sitter-nasm" = {
@@ -4100,12 +4100,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-07-12";
+    version = "unstable-2026-07-20";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "fd8d3a88700378cfdeee46927a01e6e97a30161c";
-      hash = "sha256-88Y0wxQJ66xri4o0f3483HW7dpQzeYbZLaHh7zg31Ho=";
+      rev = "ace9553099006b5e301cbae7ec741a90baad1911";
+      hash = "sha256-4HYfDpTKPXbapv15lOeslvAmLWizqh6UQxI3W0fgf5A=";
     };
   };
   "tree-sitter-q" = {
@@ -5201,12 +5201,12 @@
     };
   };
   "tree-sitter-tmux" = {
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchFromGitHub {
       owner = "Freed-Wu";
       repo = "tree-sitter-tmux";
-      rev = "0.1.0";
-      hash = "sha256-yFGFyrTtm6Oq9RIk00jxr4zHVg0a5eWqF6iWlE23y4Q=";
+      rev = "0.1.1";
+      hash = "sha256-XNya842XjfHx8k9RQYGh6gXC8Knc7VfUMzaqy5QRgIs=";
     };
   };
   "tree-sitter-tmuxf" = {
