@@ -286,7 +286,7 @@ in {
 | tree-sitter-ghactions | [0.2.5](https://github.com/rmuir/tree-sitter-ghactions/tree/v0.2.5) |
 | tree-sitter-gherkin | [2025-02-27](https://github.com/binhtddev/tree-sitter-gherkin/tree/1a709aebeecbe81bd70dfd6ea784894844be1511) |
 | tree-sitter-ghostty | [1.3.1](https://github.com/bezhermoso/tree-sitter-ghostty/tree/1.3.1) |
-| tree-sitter-git_config | [2025-05-11](https://github.com/the-mikedavis/tree-sitter-git-config/tree/0fbc9f99d5a28865f9de8427fb0672d66f9d83a5) |
+| tree-sitter-git_config | [2026-07-20](https://github.com/the-mikedavis/tree-sitter-git-config/tree/3a61756a81a86291a0f48e3eeeaa0692b9981aa9) |
 | tree-sitter-git_merge_conflict | [1.0.0](https://github.com/pv-hernandez/tree-sitter-git-merge-conflict/tree/v1.0.0) |
 | tree-sitter-git_rebase | [1.0.0](https://github.com/the-mikedavis/tree-sitter-git-rebase/tree/v1.0.0) |
 | tree-sitter-gitattributes | [0.1.6](https://github.com/tree-sitter-grammars/tree-sitter-gitattributes/tree/v0.1.6) |
@@ -402,7 +402,7 @@ in {
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
-| tree-sitter-lean | [2026-06-23](https://github.com/Julian/tree-sitter-lean/tree/dc5997b2744595eeb389e1ed9c4f5e727c5b655e) |
+| tree-sitter-lean | [2026-07-20](https://github.com/Julian/tree-sitter-lean/tree/86c2bcb379fe0b2ad13d8b3411400deff75b2785) |
 | tree-sitter-ledger | [2026-03-20](https://github.com/cbarrete/tree-sitter-ledger/tree/22a1ab8195c1f6e808679f803007756fe7638c6f) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
@@ -763,7 +763,7 @@ in {
 | tree-sitter-yarnlock | [0.2.0](https://github.com/amaanq/tree-sitter-yarnlock/tree/v0.2.0) |
 | tree-sitter-yasnippet | [2024-05-30](https://github.com/nverno/tree-sitter-yasnippet/tree/d444ecb29c827548c8ae74bab9b65fd57fe386f5) |
 | tree-sitter-yuck | [0.0.2](https://github.com/tree-sitter-grammars/tree-sitter-yuck/tree/v0.0.2) |
-| tree-sitter-zathurarc | [0.1.1](https://github.com/Freed-Wu/tree-sitter-zathurarc/tree/0.1.1) |
+| tree-sitter-zathurarc | [0.1.2](https://github.com/Freed-Wu/tree-sitter-zathurarc/tree/0.1.2) |
 | tree-sitter-zeek | [0.2.15](https://github.com/zeek/tree-sitter-zeek/tree/v0.2.15) |
 | tree-sitter-zeque | [2024-11-24](https://github.com/QnnOkabayashi/tree-sitter-zeque/tree/69d107306b60a91b8958d7a00bc3ea24cb69b9e0) |
 | tree-sitter-zig | [1.1.2](https://github.com/tree-sitter-grammars/tree-sitter-zig/tree/v1.1.2) |
