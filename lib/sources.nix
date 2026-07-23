@@ -2072,12 +2072,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "2.0.0";
+    version = "2.0.3";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v2.0.0";
-      hash = "sha256-UHgeM0pQm9DQwZdPByzJvYY4DbzcxE0WDDuqVGcsxts=";
+      rev = "v2.0.3";
+      hash = "sha256-6fwgaLp5aDsyprMdlANbKMyGsvL/sN+MpwvJb7jy1GE=";
     };
   };
   "tree-sitter-gobra" = {
@@ -3320,8 +3320,8 @@
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "1488aa70768c3d931524c82534d7676558706fce";
-      hash = "sha256-BbIgmrc/D5gLIO7xDFQRzFZqDg/gJpeGX7hi1Yjz3S0=";
+      rev = "5435c307c6cf2ef0d508a99047b06f35a4308444";
+      hash = "sha256-UUEjrF6uGwTtFGRjmjw75ky8eDwVwAHOHro48TAI+WM=";
     };
   };
   "tree-sitter-mor" = {
@@ -3802,12 +3802,12 @@
     };
   };
   "tree-sitter-pgn" = {
-    version = "1.4.3";
+    version = "1.4.4";
     src = fetchFromGitHub {
       owner = "rolandwalker";
       repo = "tree-sitter-pgn";
-      rev = "v1.4.3";
-      hash = "sha256-7N0irNJt/tiKywUSZAIVt/E1urNXDMG+hYvu+EPpfXA=";
+      rev = "v1.4.4";
+      hash = "sha256-pBjzkVGLOeUPLpah3q1aRq1GSKtoLA6eZkEcCWidh7c=";
     };
   };
   "tree-sitter-phpdoc" = {
@@ -4740,12 +4740,12 @@
     };
   };
   "tree-sitter-spicy" = {
-    version = "unstable-2026-07-13";
+    version = "unstable-2026-07-22";
     src = fetchFromGitHub {
       owner = "bbannier";
       repo = "tree-sitter-spicy";
-      rev = "632b107889f3124bd97699ad3c62a0ab2aa5a003";
-      hash = "sha256-70OPI8CBz3UUccb3i/s4myPwB40pcohHFTQOE9hZOB8=";
+      rev = "ad0629c563659e9b24c138ba47bb349ffef8aea8";
+      hash = "sha256-Ctl0mkmLHxfp6xzTTmK5VHiovY8aEjQg2BFBc1iNUu8=";
     };
   };
   "tree-sitter-spml" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.7.16";
+    version = "2026.7.23";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.7.16";
-      hash = "sha256-u0CcoXBiNAfiFJ+CV35Y7ZhmYEHmphDQWGTgaClX3gw=";
+      rev = "2026.7.23";
+      hash = "sha256-S+XI/23bDan7nawJYkpihT7opTfeM1E2wKlu+DDn5oc=";
     };
   };
   "tree-sitter-ssh_config" = {
