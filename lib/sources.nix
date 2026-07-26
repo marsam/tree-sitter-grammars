@@ -1829,12 +1829,12 @@
     };
   };
   "tree-sitter-fsharp" = {
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchFromGitHub {
       owner = "ionide";
       repo = "tree-sitter-fsharp";
-      rev = "0.3.1";
-      hash = "sha256-nTe97w+tjc+IbvF2FPniX5UzVpG4sSYzcNisfy6bjBg=";
+      rev = "0.3.2";
+      hash = "sha256-7yf0y1/XKCLM6qC4O5JGRof8MGN4fN5bi0BHBBPTbXs=";
     };
   };
   "tree-sitter-ftd" = {
@@ -2072,12 +2072,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "2.0.4";
+    version = "3.0.0";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v2.0.4";
-      hash = "sha256-X8qK3jluHEns/nLpdwKyWNfM12vgkAr10r+DH+1mLb4=";
+      rev = "v3.0.0";
+      hash = "sha256-S+PMvugIpwoppfeufk1typ6m9Wfs8sw1EJIX47ZC8qQ=";
     };
   };
   "tree-sitter-gobra" = {
@@ -5822,12 +5822,12 @@
     };
   };
   "tree-sitter-zathurarc" = {
-    version = "0.1.5";
+    version = "0.1.7";
     src = fetchFromGitHub {
       owner = "Freed-Wu";
       repo = "tree-sitter-zathurarc";
-      rev = "0.1.5";
-      hash = "sha256-e0yDAR0WUUV4mnyNTKVmjXVt8jnTEG1rjjIxc5x+jlw=";
+      rev = "0.1.7";
+      hash = "sha256-hnNGPDACJeDzzpgwvEnv80Srzz1LrJr3n/1/k7L5Htw=";
     };
   };
   "tree-sitter-zeek" = {
