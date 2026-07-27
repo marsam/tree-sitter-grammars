@@ -2072,12 +2072,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "3.0.0";
+    version = "4.0.1";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v3.0.0";
-      hash = "sha256-S+PMvugIpwoppfeufk1typ6m9Wfs8sw1EJIX47ZC8qQ=";
+      rev = "v4.0.1";
+      hash = "sha256-KOy6S7dcM/jIZHdlhmoAYpvLYVTzOBD+BbFu2iwyX9o=";
     };
   };
   "tree-sitter-gobra" = {
