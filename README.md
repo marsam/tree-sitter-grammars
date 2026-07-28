@@ -269,12 +269,12 @@ in {
 | tree-sitter-fortran | [0.6.0](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.6.0) |
 | tree-sitter-fram | [2025-11-27](https://github.com/fram-lang/tree-sitter-fram/tree/eed5ccee1344c4a906b189dc30e66fad65b41330) |
 | tree-sitter-fsh | [2024-04-27](https://github.com/mgramigna/tree-sitter-fsh/tree/fad2e175099a45efbc98f000cc196d3674cc45e0) |
-| tree-sitter-fsharp | [0.3.2](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.2/fsharp) |
-| tree-sitter-fsharp_signature | [0.3.2](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.2/fsharp_signature) |
+| tree-sitter-fsharp | [0.3.3](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.3/fsharp) |
+| tree-sitter-fsharp_signature | [0.3.3](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.3/fsharp_signature) |
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
-| tree-sitter-galvan | [2026-07-13](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/48ef48e90d3ddc8ffd911d322e617cc11d5da598) |
+| tree-sitter-galvan | [2026-07-27](https://github.com/antoniusnaumann/tree-sitter-galvan/tree/20e105460fce849e62eb8a561d4ca0edd038d880) |
 | tree-sitter-gap | [0.3.1](https://github.com/gap-system/tree-sitter-gap/tree/v0.3.1) |
 | tree-sitter-gaptst | [0.4.2](https://github.com/gap-system/tree-sitter-gaptst/tree/v0.4.2) |
 | tree-sitter-gas | [0.0.1](https://github.com/sirius94/tree-sitter-gas/tree/0.0.1) |
@@ -423,7 +423,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-07-20](https://github.com/krn-robin/tree-sitter-magik/tree/e20347b8f1bba3547f6f0bb84f631b8a384939f8) |
+| tree-sitter-magik | [2026-07-27](https://github.com/krn-robin/tree-sitter-magik/tree/ba2035742bc9c5a125ade5d0556db8b2e0773b98) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -633,7 +633,7 @@ in {
 | tree-sitter-spade | [2026-02-23](https://gitlab.com/spade-lang/tree-sitter-spade//tree/f4f62fcb2340d744f6df48de22b5f239beecdab5) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2024-02-08](https://github.com/authzed/tree-sitter-spicedb/tree/a4e4645651f86d6684c15dfa9931b7841dc52a66) |
-| tree-sitter-spicy | [2026-07-22](https://github.com/bbannier/tree-sitter-spicy/tree/ad0629c563659e9b24c138ba47bb349ffef8aea8) |
+| tree-sitter-spicy | [2026-07-27](https://github.com/bbannier/tree-sitter-spicy/tree/92ab93288d6a5955e488340deeeb6b3cd854daea) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
