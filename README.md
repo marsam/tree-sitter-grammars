@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-07-23](https://github.com/caddyserver/tree-sitter-caddyfile/tree/af6a28e850a383575d974bd2c335858c5f1fada9) |
+| tree-sitter-caddyfile | [2026-07-31](https://github.com/caddyserver/tree-sitter-caddyfile/tree/b00e432eed3628f0f4178659e9f601cb9f7fb85f) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -224,7 +224,7 @@ in {
 | tree-sitter-eex | [0.1.0](https://github.com/connorlay/tree-sitter-eex/tree/v0.1.0) |
 | tree-sitter-egglog | [2024-02-15](https://github.com/hatoo/tree-sitter-egglog/tree/3c6ea4377df2ee194a438882e78a392af76c798e) |
 | tree-sitter-eiffel | [1.0.0](https://github.com/imustafin/tree-sitter-eiffel/tree/v1.0.0) |
-| tree-sitter-elisp | [1.7.0](https://github.com/Wilfred/tree-sitter-elisp/tree/1.7.0) |
+| tree-sitter-elisp | [1.7.2](https://github.com/Wilfred/tree-sitter-elisp/tree/1.7.2) |
 | tree-sitter-elixir | [0.3.5](https://github.com/elixir-lang/tree-sitter-elixir/tree/v0.3.5) |
 | tree-sitter-elle | [2026-02-20](https://github.com/acquitelol/tree-sitter-elle/tree/c39d624e175b9d51baf0e852432cf796063fc460) |
 | tree-sitter-elm | [5.9.4](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.9.4) |
@@ -269,8 +269,8 @@ in {
 | tree-sitter-fortran | [0.6.0](https://github.com/stadelmanma/tree-sitter-fortran/tree/v0.6.0) |
 | tree-sitter-fram | [2025-11-27](https://github.com/fram-lang/tree-sitter-fram/tree/eed5ccee1344c4a906b189dc30e66fad65b41330) |
 | tree-sitter-fsh | [2024-04-27](https://github.com/mgramigna/tree-sitter-fsh/tree/fad2e175099a45efbc98f000cc196d3674cc45e0) |
-| tree-sitter-fsharp | [0.3.10](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.10/fsharp) |
-| tree-sitter-fsharp_signature | [0.3.10](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.10/fsharp_signature) |
+| tree-sitter-fsharp | [0.3.11](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.11/fsharp) |
+| tree-sitter-fsharp_signature | [0.3.11](https://github.com/ionide/tree-sitter-fsharp/tree/0.3.11/fsharp_signature) |
 | tree-sitter-ftd | [2024-03-21](https://github.com/fastn-stack/tree-sitter-ftd/tree/26498ec51adc524e4fe33cc3241d8ea130d47455) |
 | tree-sitter-func | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-func/tree/v1.0.0) |
 | tree-sitter-fusion | [1.1.2](https://gitlab.com/jirgn/tree-sitter-fusion//tree/v1.1.2) |
@@ -434,7 +434,7 @@ in {
 | tree-sitter-mathprog | [1.0.0](https://github.com/smoeding/tree-sitter-mathprog/tree/v1.0.0) |
 | tree-sitter-matlab | [1.3.0](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.0) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
-| tree-sitter-mdn | [0.1.5](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.5) |
+| tree-sitter-mdn | [0.1.6](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.6) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
 | tree-sitter-melody | [2024-03-21](https://github.com/abiriadev/tree-sitter-melody/tree/ade2f6aa32bd8e87eba3f7c736ff97c6047b69d1) |
@@ -717,7 +717,7 @@ in {
 | tree-sitter-v | [0.0.6](https://github.com/vlang/v-analyzer/tree/0.0.6/tree_sitter_v) |
 | tree-sitter-vala | [2024-10-29](https://github.com/vala-lang/tree-sitter-vala/tree/97e6db3c8c73b15a9541a458d8e797a07f588ef4) |
 | tree-sitter-vcard | [0.3.0](https://github.com/TitouanReal/tree-sitter-vcard/tree/0.3.0) |
-| tree-sitter-vcl | [0.3.1](https://github.com/ntsk/tree-sitter-vcl/tree/v0.3.1) |
+| tree-sitter-vcl | [0.4.0](https://github.com/ntsk/tree-sitter-vcl/tree/v0.4.0) |
 | tree-sitter-vento | [2026-02-23](https://github.com/ventojs/tree-sitter-vento/tree/4569bc1fb81f050ca4ef3ceefdd31cfeb35c4f0a) |
 | tree-sitter-verilog | [1.0.3](https://github.com/tree-sitter/tree-sitter-verilog/tree/v1.0.3) |
 | tree-sitter-verus | [2026-07-17](https://github.com/secure-foundations/tree-sitter-verus/tree/f95e0bb2230022ecea9ba01811e85bb0d915d4cf) |
