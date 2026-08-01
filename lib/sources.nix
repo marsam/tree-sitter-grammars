@@ -262,12 +262,12 @@
     };
   };
   "tree-sitter-ada" = {
-    version = "unstable-2025-12-16";
+    version = "unstable-2026-07-31";
     src = fetchFromGitHub {
       owner = "briot";
       repo = "tree-sitter-ada";
-      rev = "6b58259a08b1a22ba0247a7ce30be384db618da6";
-      hash = "sha256-FAlSBpaHmKaz8qoJV/MZmD5yPkWFDE9RovpCMA9OWpI=";
+      rev = "dd5fa4cdb3aba91abc687aa68fb1431396fce6a6";
+      hash = "sha256-0D9TgpEDos6vlgTjQCJjJQblpPaSgjg7uG7SB371DFM=";
     };
   };
   "tree-sitter-adl" = {
@@ -1757,12 +1757,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2026-07-28";
+    version = "unstable-2026-07-31";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "f875fe35398995174dfefcc5f87578085eece9db";
-      hash = "sha256-CZG/9ZRlYIFObCxltMUYy4U6SPztNmTwdKr/jhUu48o=";
+      rev = "bab4b2d8998004f3b2cdcdd6d976dc2e3589dd3e";
+      hash = "sha256-lv2AEr9DX7lmMql3slwwK0gzUdvyjfpv/fhoUG3RP60=";
     };
   };
   "tree-sitter-forester" = {
@@ -2072,12 +2072,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "4.0.1";
+    version = "4.1.0";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v4.0.1";
-      hash = "sha256-KOy6S7dcM/jIZHdlhmoAYpvLYVTzOBD+BbFu2iwyX9o=";
+      rev = "v4.1.0";
+      hash = "sha256-iLzFa6hpYj1ZbSWrl6cK7AskgOn+hMDbYf76U/RjAQs=";
     };
   };
   "tree-sitter-gobra" = {
@@ -3298,12 +3298,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-07-28";
+    version = "unstable-2026-07-31";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "02502986d1b73f4e8327b5feaa652b7b2b4fb7ea";
-      hash = "sha256-qjGRMN8p0Z92XOOwY7xATqJOmOoZuGluBk6kIdxE4Pw=";
+      rev = "8ed481a219b3e67b9b862676d84a7b2e1bc2ea8c";
+      hash = "sha256-Gp0ivSNJY7CueDxDrYa3KX18Ys9IBtisvZiR8zcFeV4=";
     };
   };
   "tree-sitter-mojo" = {
@@ -5534,12 +5534,12 @@
     };
   };
   "tree-sitter-vola" = {
-    version = "unstable-2026-07-02";
+    version = "unstable-2026-07-31";
     src = fetchFromGitLab {
       owner = "tendsinmende";
       repo = "tree-sitter-vola";
-      rev = "dbe89d16a1b5d1b4fe7814a2ed4e06444bad84f8";
-      hash = "sha256-WWOl9En9rv9dRJkn3jMR9W2hWroiBllX7XSFqQhgjNE=";
+      rev = "3fa876f96363bc572eb758dc4218f344f89f4f96";
+      hash = "sha256-O5QnRXPlAEVab62rsjw0CX4kVuEFY81DBB6k+dXpk6E=";
     };
   };
   "tree-sitter-vrl" = {

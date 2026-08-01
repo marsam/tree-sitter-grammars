@@ -74,7 +74,7 @@ in {
 | tree-sitter-abl | [0.0.52](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.52) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
-| tree-sitter-ada | [2025-12-16](https://github.com/briot/tree-sitter-ada/tree/6b58259a08b1a22ba0247a7ce30be384db618da6) |
+| tree-sitter-ada | [2026-07-31](https://github.com/briot/tree-sitter-ada/tree/dd5fa4cdb3aba91abc687aa68fb1431396fce6a6) |
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
@@ -261,7 +261,7 @@ in {
 | tree-sitter-flamingo | [0.1.4](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.4) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2026-07-28](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/f875fe35398995174dfefcc5f87578085eece9db) |
+| tree-sitter-fodot | [2026-07-31](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/bab4b2d8998004f3b2cdcdd6d976dc2e3589dd3e) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -298,7 +298,7 @@ in {
 | tree-sitter-glimmer_typescript | [0.3.0-tree-sitter-glimmer-typescript](https://github.com/ember-tooling/tree-sitter-glimmer-typescript/tree/v0.3.0-tree-sitter-glimmer-typescript) |
 | tree-sitter-glsl | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-glsl/tree/v0.2.0) |
 | tree-sitter-gn | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-gn/tree/v1.0.0) |
-| tree-sitter-gnuplot | [4.0.1](https://github.com/dpezto/tree-sitter-gnuplot/tree/v4.0.1) |
+| tree-sitter-gnuplot | [4.1.0](https://github.com/dpezto/tree-sitter-gnuplot/tree/v4.1.0) |
 | tree-sitter-go | [0.25.0](https://github.com/tree-sitter/tree-sitter-go/tree/v0.25.0) |
 | tree-sitter-gobra | [2024-11-28](https://github.com/HSMF/tree-sitter-gobra/tree/fc0d8be6169ef296b031e65a8d9ebcad6a974cdf) |
 | tree-sitter-goctl | [2024-08-14](https://github.com/chaozwn/tree-sitter-goctl/tree/49c43532689fe1f53e8b9e009d0521cab02c432b) |
@@ -446,7 +446,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-07-29](https://github.com/shackle-rs/shackle/tree/9bdbc995043072537f9ba28a54ea5f59090f7994/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-07-28](https://github.com/artagnon/tree-sitter-mlir/tree/02502986d1b73f4e8327b5feaa652b7b2b4fb7ea) |
+| tree-sitter-mlir | [2026-07-31](https://github.com/artagnon/tree-sitter-mlir/tree/8ed481a219b3e67b9b862676d84a7b2e1bc2ea8c) |
 | tree-sitter-mojo | [2026-06-16](https://github.com/lsh/tree-sitter-mojo/tree/33193a99afe6d0dbe865d56f6e7514c4087f87b2) |
 | tree-sitter-moonbit | [2026-07-22](https://github.com/moonbitlang/tree-sitter-moonbit/tree/5435c307c6cf2ef0d508a99047b06f35a4308444) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -728,7 +728,7 @@ in {
 | tree-sitter-vimdoc | [4.1.0](https://github.com/neovim/tree-sitter-vimdoc/tree/v4.1.0) |
 | tree-sitter-virgil | [2024-07-05](https://github.com/btwj/tree-sitter-virgil/tree/8e6907839b384af9019f4d52ee24d7b7cfb9cf70) |
 | tree-sitter-void | [2024-07-16](https://github.com/ge0mk/tree-sitter-void/tree/82ba59e160925a646b9b3c5e3aad846124cd4d05) |
-| tree-sitter-vola | [2026-07-02](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/dbe89d16a1b5d1b4fe7814a2ed4e06444bad84f8) |
+| tree-sitter-vola | [2026-07-31](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/3fa876f96363bc572eb758dc4218f344f89f4f96) |
 | tree-sitter-vrl | [0.1.1](https://github.com/belltoy/tree-sitter-vrl/tree/v0.1.1) |
 | tree-sitter-vue | [2026-01-24](https://github.com/tree-sitter-grammars/tree-sitter-vue/tree/ce8011a414fdf8091f4e4071752efc376f4afb08) |
 | tree-sitter-wasp | [2024-10-17](https://github.com/bx2/tree-sitter-wasp/tree/3669fc2724bc7dcfd7d00f92d48c543c35455583) |
