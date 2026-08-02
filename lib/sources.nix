@@ -829,12 +829,12 @@
     };
   };
   "tree-sitter-cedar" = {
-    version = "0.11.2";
+    version = "0.12.0";
     src = fetchFromGitHub {
       owner = "DuskSystems";
       repo = "tree-sitter-cedar";
-      rev = "v0.11.2";
-      hash = "sha256-ZS+d8+NZUssGCv3+dD1Lcfgn5ra+tlxVUHapjcH12MM=";
+      rev = "v0.12.0";
+      hash = "sha256-EGANGn6ZngjSr7BNwJah45rQI/+taStJyEDhZh1W0ds=";
     };
   };
   "tree-sitter-cel" = {

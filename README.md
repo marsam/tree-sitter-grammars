@@ -146,9 +146,9 @@ in {
 | tree-sitter-catala_fr | [1.0.0](https://github.com/CatalaLang/tree-sitter-catala/tree/1.0.0/fr) |
 | tree-sitter-catala_pl | [1.0.0](https://github.com/CatalaLang/tree-sitter-catala/tree/1.0.0/pl) |
 | tree-sitter-ccomment | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-ccomment) |
-| tree-sitter-cedar | [0.11.2](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.11.2/cedar) |
-| tree-sitter-cedarentities | [0.11.2](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.11.2/cedarentities) |
-| tree-sitter-cedarschema | [0.11.2](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.11.2/cedarschema) |
+| tree-sitter-cedar | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedar) |
+| tree-sitter-cedarentities | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarentities) |
+| tree-sitter-cedarschema | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarschema) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
 | tree-sitter-cfml | [0.26.30](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.30/cfml) |
 | tree-sitter-cfquery | [0.26.30](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.30/cfquery) |
