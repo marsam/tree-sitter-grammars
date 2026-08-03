@@ -712,7 +712,7 @@ in {
 | tree-sitter-unison | [2.1.3](https://github.com/kylegoetz/tree-sitter-unison/tree/2.1.3) |
 | tree-sitter-uri | [2025-11-10](https://github.com/atusy/tree-sitter-uri/tree/b6ec28ddfa29bef3265fc285866eeda32fe2c816) |
 | tree-sitter-ursa | [1.0.29](https://github.com/ursalang/tree-sitter-ursa/tree/v1.0.29) |
-| tree-sitter-usd | [0.6.0](https://github.com/ColinKennedy/tree-sitter-usd/tree/v0.6.0) |
+| tree-sitter-usd | [0.8.1](https://github.com/ColinKennedy/tree-sitter-usd/tree/v0.8.1) |
 | tree-sitter-uxntal | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-uxntal/tree/v1.0.0) |
 | tree-sitter-v | [0.0.6](https://github.com/vlang/v-analyzer/tree/0.0.6/tree_sitter_v) |
 | tree-sitter-vala | [2024-10-29](https://github.com/vala-lang/tree-sitter-vala/tree/97e6db3c8c73b15a9541a458d8e797a07f588ef4) |

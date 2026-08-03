@@ -5408,12 +5408,12 @@
     };
   };
   "tree-sitter-usd" = {
-    version = "0.6.0";
+    version = "0.8.1";
     src = fetchFromGitHub {
       owner = "ColinKennedy";
       repo = "tree-sitter-usd";
-      rev = "v0.6.0";
-      hash = "sha256-r6Sm8FiTgxdYc5cAG5JXVtA5/2jID5H/xmKbjSYn/zI=";
+      rev = "v0.8.1";
+      hash = "sha256-AEt0MpsiatyFfDXBVNkuykXXb38s1EZ4+XgJ30bWc7c=";
     };
   };
   "tree-sitter-uxntal" = {
