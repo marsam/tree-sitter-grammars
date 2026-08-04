@@ -1198,12 +1198,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-07-29";
+    version = "unstable-2026-08-03";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "9bdbc995043072537f9ba28a54ea5f59090f7994";
-      hash = "sha256-cRC1rFKsYaZD2eyBk/JvulL29R8NyKJDWkwFbXaX/JE=";
+      rev = "09632ab24be8ca50d1dd3891ba9db4df5240e8a3";
+      hash = "sha256-WqS6SmyuZG3PQ4cwAbgveS2IVzN+/AOyhh2molDMrH4=";
     };
   };
   "tree-sitter-dbml" = {
