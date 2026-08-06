@@ -639,7 +639,7 @@ in {
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2026.7.30](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.7.30) |
+| tree-sitter-ssh_client_config | [2026.8.6](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.8.6) |
 | tree-sitter-ssh_config | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.5.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.3.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.3.1/grammars/stan) |
@@ -671,7 +671,7 @@ in {
 | tree-sitter-talon | [5.0.0](https://github.com/wenkokke/tree-sitter-talon/tree/5.0.0) |
 | tree-sitter-task | [2022-08-17](https://github.com/AlexanderBrevig/tree-sitter-task/tree/ed4fb3674dd2d889c36e121f7173099290452af2) |
 | tree-sitter-taskjuggler | [2024-05-01](https://gitlab.com/bricka/tree-sitter-taskjuggler//tree/941791e2c40593f40897a35c21cec9129eee0968) |
-| tree-sitter-tcl | [2025-05-14](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/8f11ac7206a54ed11210491cee1e0657e2962c47) |
+| tree-sitter-tcl | [2026-08-05](https://github.com/tree-sitter-grammars/tree-sitter-tcl/tree/850a72ab6436e06645b33b11cfa60cbdb04b1f01) |
 | tree-sitter-teal | [0.1.0](https://github.com/euclidianAce/tree-sitter-teal/tree/v0.1.0) |
 | tree-sitter-teika | [0.1.0](https://github.com/neubaner/tree-sitter-teika/tree/0.1.0) |
 | tree-sitter-templ | [1.0.0](https://github.com/vrischmann/tree-sitter-templ/tree/v1.0.0) |
