@@ -150,9 +150,9 @@ in {
 | tree-sitter-cedarentities | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarentities) |
 | tree-sitter-cedarschema | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarschema) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.30](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.30/cfml) |
-| tree-sitter-cfquery | [0.26.30](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.30/cfquery) |
-| tree-sitter-cfscript | [0.26.30](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.30/cfscript) |
+| tree-sitter-cfml | [0.26.31](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.31/cfml) |
+| tree-sitter-cfquery | [0.26.31](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.31/cfquery) |
+| tree-sitter-cfscript | [0.26.31](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.31/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -682,7 +682,7 @@ in {
 | tree-sitter-tfvars | [2024-06-25](https://github.com/opa-oz/tree-sitter-tfvars/tree/dbe19193dd51ccbcc4bfd5294804aa45960b4369) |
 | tree-sitter-thrift | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-thrift/tree/v0.5.0) |
 | tree-sitter-tiger | [0.3.0](https://github.com/ambroisie/tree-sitter-tiger/tree/v0.3.0) |
-| tree-sitter-times | [2026-07-01](https://github.com/michaeladler/tree-sitter-times/tree/11e2f91039724381cb86829255df6878557c4a16) |
+| tree-sitter-times | [2026-08-06](https://github.com/michaeladler/tree-sitter-times/tree/b4e44fd9337470df02c25edc30ba7f73fdf7db78) |
 | tree-sitter-tl | [2025-11-28](https://github.com/HematiteOS/tree-sitter-tl/tree/fbe70a53f8f2f3c2ff5f235c853f2d32d15e6277) |
 | tree-sitter-tlaplus | [1.5.0](https://github.com/tlaplus-community/tree-sitter-tlaplus/tree/1.5.0) |
 | tree-sitter-tlb | [2025-01-26](https://github.com/nickshatilo/tree-sitter-tlb/tree/2c297bc02ae93b55f0216e94e34c76ea21c3ebe4) |
@@ -699,7 +699,7 @@ in {
 | tree-sitter-tup | [2025-03-10](https://github.com/RoBaertschi/tree-sitter-tup/tree/f315d25a11f8bb25a6ccdf7fd0b8dead4d361695) |
 | tree-sitter-turbowave | [1.7.1](https://github.com/dfgordon/tree-sitter-turbowave/tree/v1.7.1) |
 | tree-sitter-turtle | [0.1.0](https://github.com/GordianDziwis/tree-sitter-turtle/tree/0.1.0) |
-| tree-sitter-twig | [1.0.2](https://github.com/gbprod/tree-sitter-twig/tree/v1.0.2) |
+| tree-sitter-twig | [1.1.0](https://github.com/gbprod/tree-sitter-twig/tree/v1.1.0) |
 | tree-sitter-typescript | [0.23.2](https://github.com/tree-sitter/tree-sitter-typescript/tree/v0.23.2/typescript) |
 | tree-sitter-typespec | [2026-01-01](https://github.com/happenslol/tree-sitter-typespec/tree/395bef1e1eb4dd18365401642beb534e8a244056) |
 | tree-sitter-typoscript | [0.1.2](https://github.com/Teddytrombone/tree-sitter-typoscript/tree/v0.1.2) |
@@ -720,7 +720,7 @@ in {
 | tree-sitter-vcl | [0.4.0](https://github.com/ntsk/tree-sitter-vcl/tree/v0.4.0) |
 | tree-sitter-vento | [2026-02-23](https://github.com/ventojs/tree-sitter-vento/tree/4569bc1fb81f050ca4ef3ceefdd31cfeb35c4f0a) |
 | tree-sitter-verilog | [1.0.3](https://github.com/tree-sitter/tree-sitter-verilog/tree/v1.0.3) |
-| tree-sitter-verus | [2026-07-17](https://github.com/secure-foundations/tree-sitter-verus/tree/f95e0bb2230022ecea9ba01811e85bb0d915d4cf) |
+| tree-sitter-verus | [2026-08-07](https://github.com/secure-foundations/tree-sitter-verus/tree/0c939ef2ec0a188c3cf24518474fb8082db02ec4) |
 | tree-sitter-veryl | [2026-01-29](https://github.com/veryl-lang/tree-sitter-veryl/tree/f38156e6fa97e7386cdfbcbcc537dc970a13c3ce) |
 | tree-sitter-vhdl | [1.5.0](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v1.5.0) |
 | tree-sitter-vhs | [2025-03-26](https://github.com/charmbracelet/tree-sitter-vhs/tree/0c6fae9d2cfc5b217bfd1fe84a7678f5917116db) |
