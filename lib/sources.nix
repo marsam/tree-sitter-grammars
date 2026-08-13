@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "4.0.0";
+    version = "4.0.1";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "v4.0.0";
-      hash = "sha256-yae5UnOUWUeWwbqgJSx75tNznLkSJIP9R08Ebgu44iI=";
+      rev = "v4.0.1";
+      hash = "sha256-zTmt0iC/uhroviiPY8QXe+aEGl5xkpIhvv4pu7ZbYog=";
     };
   };
   "tree-sitter-alcha" = {
@@ -1202,8 +1202,8 @@
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "4120aaec1cfbb9d9aaee431901237342aa75c076";
-      hash = "sha256-PPl/xLZ8WRoZN8GGe/TrBHm5+hlUHoj3DQ2JT9b9VvY=";
+      rev = "110a8c4d951fe0f2da244e4802137a6e73488fe3";
+      hash = "sha256-w22FigzFDtnCe5gRYyERdnAqxuxbZMssRT08DphGr38=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3298,12 +3298,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-08-08";
+    version = "unstable-2026-08-13";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "8b8c66573772fde5c8fa9ce95398ea74e81d920c";
-      hash = "sha256-C20LSLOI2p9rT/29KwyMRBl7B1qXcDpPuDCW7ZjMPVA=";
+      rev = "aead512ee9abb7a644bb87cddb9b168f3cc38e5b";
+      hash = "sha256-eO5HXP+qkJoaSA0lnypfkm8HTFWcwPzxzp4h8N6QcSA=";
     };
   };
   "tree-sitter-mojo" = {
@@ -3577,12 +3577,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2026-07-28";
+    version = "unstable-2026-08-13";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "9467420d184bd2c510378f4cda624eca35dd4590";
-      hash = "sha256-qc1DGPGpGC9Y65hXFGLeuaNLTtWnlrvXF+o1OspvCvE=";
+      rev = "64613ef22f4116862d7997939c8d1794ceb1f856";
+      hash = "sha256-wHgmE4cJs3Kj55wNLAUdvuw3jllzXbjlN2cUrI58yHs=";
     };
   };
   "tree-sitter-numbat" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.8.6";
+    version = "2026.8.13";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.8.6";
-      hash = "sha256-2po80xskxqmgwA32WIj9yE2BtjALUFcKCcwjcYx6jMg=";
+      rev = "2026.8.13";
+      hash = "sha256-a4tkU01oJ7x9rfVJRB3F9y8O3gmCVy0gLV6RieTrLLc=";
     };
   };
   "tree-sitter-ssh_config" = {
