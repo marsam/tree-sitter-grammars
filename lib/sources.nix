@@ -2532,12 +2532,12 @@
     };
   };
   "tree-sitter-ignis" = {
-    version = "unstable-2026-04-30";
+    version = "unstable-2026-08-15";
     src = fetchFromGitHub {
       owner = "Ignis-lang";
       repo = "tree-sitter-ignis";
-      rev = "aa9910058de5e9cf901fb4e16f381d0c8c513c73";
-      hash = "sha256-dZqOJmY2zGbIyfICVyHEA467qrlEoEQ0kYG0U9GJfDg=";
+      rev = "9938aae4d2f432823023608d3f34a0d758bfc56e";
+      hash = "sha256-RCoiQw7XicgIwPi7bdXrvRzGhdzPuVDb5TJh9wqszgs=";
     };
   };
   "tree-sitter-ini" = {
