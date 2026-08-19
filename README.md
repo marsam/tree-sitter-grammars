@@ -576,7 +576,7 @@ in {
 | tree-sitter-refal | [0.2.0](https://github.com/ilya-klyuchnikov/tree-sitter-refal/tree/0.2.0) |
 | tree-sitter-regent | [0.3.7](https://github.com/ellishg/tree-sitter-regent/tree/v0.3.7) |
 | tree-sitter-regex | [0.25.0](https://github.com/tree-sitter/tree-sitter-regex/tree/v0.25.0) |
-| tree-sitter-rego | [2026-07-11](https://github.com/FallenAngel97/tree-sitter-rego/tree/7f8a43138951a13832919312290147bd175180cd) |
+| tree-sitter-rego | [2026-08-18](https://github.com/FallenAngel97/tree-sitter-rego/tree/da2a1f63cd877efb05d56de61fe516e90012b9a7) |
 | tree-sitter-requirements | [0.6.1](https://github.com/tree-sitter-grammars/tree-sitter-requirements/tree/v0.6.1) |
 | tree-sitter-rescript | [6.0.0](https://github.com/rescript-lang/tree-sitter-rescript/tree/v6.0.0) |
 | tree-sitter-restedlang | [0.0.2](https://github.com/Gnarus-G/tree-sitter-restedlang/tree/v0.0.2) |
@@ -655,7 +655,7 @@ in {
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
 | tree-sitter-surrealql | [2026-07-23](https://github.com/surrealdb/surrealql-tree-sitter/tree/5b98402dddbc3edfb85d8f555640b33166b71e62) |
-| tree-sitter-sus | [0.4.0](https://github.com/pc2/sus-compiler/tree/v0.4.0/tree-sitter-sus) |
+| tree-sitter-sus | [0.5.0](https://github.com/pc2/sus-compiler/tree/v0.5.0/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
 | tree-sitter-swift | [0.7.3](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.3) |
