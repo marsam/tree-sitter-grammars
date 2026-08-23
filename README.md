@@ -562,7 +562,7 @@ in {
 | tree-sitter-query | [0.8.0](https://github.com/tree-sitter-grammars/tree-sitter-query/tree/v0.8.0) |
 | tree-sitter-quint | [0.1.0](https://github.com/gruhn/tree-sitter-quint/tree/228f411597d2001c8f1fefb25f692007e4b5ea77) |
 | tree-sitter-r | [1.3.0](https://github.com/r-lib/tree-sitter-r/tree/v1.3.0) |
-| tree-sitter-racket | [0.24.7-1](https://github.com/6cdh/tree-sitter-racket/tree/v0.24.7-1) |
+| tree-sitter-racket | [0.25.0](https://github.com/6cdh/tree-sitter-racket/tree/v0.25.0) |
 | tree-sitter-radiant | [2024-12-07](https://github.com/mahgoh/tree-sitter-radiant/tree/b5884c22bb691bc6b8f262afdd27e52d0ca04d83) |
 | tree-sitter-ralph | [2024-06-24](https://github.com/alephium/tree-sitter-ralph/tree/f6d81bf7a4599c77388035439cf5801cd461ff77) |
 | tree-sitter-rasi | [0.1.0](https://github.com/Fymyte/tree-sitter-rasi/tree/v0.1.0) |
@@ -585,7 +585,7 @@ in {
 | tree-sitter-rnoweb | [2024-03-14](https://github.com/bamonroe/tree-sitter-rnoweb/tree/1a74dc0ed731ad07db39f063e2c5a6fe528cae7f) |
 | tree-sitter-robot | [1.5.0](https://github.com/Hubro/tree-sitter-robot/tree/v1.5.0) |
 | tree-sitter-robots_txt | [1.0.1](https://github.com/opa-oz/tree-sitter-robots-txt/tree/v1.0.1) |
-| tree-sitter-roc | [2026-07-02](https://github.com/faldor20/tree-sitter-roc/tree/68f405426d030a7625392aabf41836c1aad05d33) |
+| tree-sitter-roc | [2026-08-22](https://github.com/faldor20/tree-sitter-roc/tree/2760de95b87004ed537151f2467377a6ddafdef0) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
 | tree-sitter-rpmbash | [2026-05-01](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/7d1557162655f677729dca90cc180aca657053ec/rpmbash) |
@@ -632,7 +632,7 @@ in {
 | tree-sitter-sourcepawn | [0.8.0](https://github.com/nilshelmig/tree-sitter-sourcepawn/tree/v0.8.0) |
 | tree-sitter-spade | [2026-08-17](https://gitlab.com/spade-lang/tree-sitter-spade//tree/136376ceaa2a765d25be3cc19df725e2f61f5301) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
-| tree-sitter-spicedb | [2026-08-19](https://github.com/authzed/tree-sitter-spicedb/tree/dd0f744574ca1bcdfa6196a1f162e4c0324275c3) |
+| tree-sitter-spicedb | [2026-08-23](https://github.com/authzed/tree-sitter-spicedb/tree/6bba27682a2f4e297a8f6fd19539f550d27009e2) |
 | tree-sitter-spicy | [2026-08-17](https://github.com/bbannier/tree-sitter-spicy/tree/6b076cee4c99296cf10923b51a1eaa7f21b2834c) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
@@ -722,7 +722,7 @@ in {
 | tree-sitter-verilog | [1.0.3](https://github.com/tree-sitter/tree-sitter-verilog/tree/v1.0.3) |
 | tree-sitter-verus | [2026-08-07](https://github.com/secure-foundations/tree-sitter-verus/tree/0c939ef2ec0a188c3cf24518474fb8082db02ec4) |
 | tree-sitter-veryl | [2026-01-29](https://github.com/veryl-lang/tree-sitter-veryl/tree/f38156e6fa97e7386cdfbcbcc537dc970a13c3ce) |
-| tree-sitter-vhdl | [1.5.1](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v1.5.1) |
+| tree-sitter-vhdl | [2.0.0](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v2.0.0) |
 | tree-sitter-vhs | [2025-03-26](https://github.com/charmbracelet/tree-sitter-vhs/tree/0c6fae9d2cfc5b217bfd1fe84a7678f5917116db) |
 | tree-sitter-vim | [0.8.1](https://github.com/tree-sitter-grammars/tree-sitter-vim/tree/v0.8.1) |
 | tree-sitter-vimdoc | [4.1.0](https://github.com/neovim/tree-sitter-vimdoc/tree/v4.1.0) |
