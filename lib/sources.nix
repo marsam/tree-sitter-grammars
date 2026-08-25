@@ -4019,12 +4019,12 @@
     };
   };
   "tree-sitter-proto" = {
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchFromGitHub {
       owner = "coder3101";
       repo = "tree-sitter-proto";
-      rev = "0.4.0";
-      hash = "sha256-pi6yOIDyuYE9lDs8hqct+SDYbtfcujAX4vTXw8kYNis=";
+      rev = "0.5.0";
+      hash = "sha256-d1FU6NQs+9MPpeUBerXDghly4B9JfOTjK7Wc+ugypC0=";
     };
   };
   "tree-sitter-protobuf" = {

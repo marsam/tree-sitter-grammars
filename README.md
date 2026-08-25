@@ -540,7 +540,7 @@ in {
 | tree-sitter-promela | [2022-02-11](https://github.com/siraben/tree-sitter-promela/tree/91da8f141c3c4c695eb71018c8a7b2e7ea39c167) |
 | tree-sitter-promql | [0.1.0](https://github.com/MichaHoffmann/tree-sitter-promql/tree/77625d78eebc3ffc44d114a07b2f348dff3061b0) |
 | tree-sitter-properties | [0.3.0](https://github.com/tree-sitter-grammars/tree-sitter-properties/tree/v0.3.0) |
-| tree-sitter-proto | [0.4.0](https://github.com/coder3101/tree-sitter-proto/tree/0.4.0) |
+| tree-sitter-proto | [0.5.0](https://github.com/coder3101/tree-sitter-proto/tree/0.5.0) |
 | tree-sitter-protobuf | [2021-08-22](https://github.com/90-008/tree-sitter-protobuf/tree/5aef38d655f76a6b0d172340eed3766c93b3124c) |
 | tree-sitter-prql | [2023-07-28](https://github.com/PRQL/tree-sitter-prql/tree/09e158cd3650581c0af4c49c2e5b10c4834c8646) |
 | tree-sitter-psv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/psv) |
