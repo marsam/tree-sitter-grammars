@@ -226,7 +226,7 @@ in {
 | tree-sitter-eiffel | [1.0.0](https://github.com/imustafin/tree-sitter-eiffel/tree/v1.0.0) |
 | tree-sitter-elisp | [1.7.2](https://github.com/Wilfred/tree-sitter-elisp/tree/1.7.2) |
 | tree-sitter-elixir | [0.3.5](https://github.com/elixir-lang/tree-sitter-elixir/tree/v0.3.5) |
-| tree-sitter-elle | [2026-02-20](https://github.com/acquitelol/tree-sitter-elle/tree/c39d624e175b9d51baf0e852432cf796063fc460) |
+| tree-sitter-elle | [2026-08-26](https://github.com/acquitelol/tree-sitter-elle/tree/33679ed05b7d7abfce165b34a21efa1acc8ec5a0) |
 | tree-sitter-elm | [5.9.4](https://github.com/elm-tooling/tree-sitter-elm/tree/v5.9.4) |
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
@@ -432,7 +432,7 @@ in {
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
 | tree-sitter-mathprog | [1.0.0](https://github.com/smoeding/tree-sitter-mathprog/tree/v1.0.0) |
-| tree-sitter-matlab | [1.3.0](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.0) |
+| tree-sitter-matlab | [1.3.1](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.1) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdn | [0.1.6](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.6) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
@@ -639,7 +639,7 @@ in {
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2026.8.20](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.8.20) |
+| tree-sitter-ssh_client_config | [2026.8.27](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.8.27) |
 | tree-sitter-ssh_config | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.5.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.3.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.3.1/grammars/stan) |
