@@ -131,7 +131,7 @@ in {
 | tree-sitter-bsv | [2026-06-09](https://github.com/yuyuranium/tree-sitter-bsv/tree/8c7f59f5fa86a73d56c97bbb1b84e0d5951364d8) |
 | tree-sitter-bteq | [2024-11-10](https://github.com/aamayam/tree-sitter-bteq/tree/bf69388748984152f2aa6900ffc3e3140b96a1de) |
 | tree-sitter-c | [0.24.2](https://github.com/tree-sitter/tree-sitter-c/tree/v0.24.2) |
-| tree-sitter-c3 | [0.11.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.11.0) |
+| tree-sitter-c3 | [0.12.0](https://github.com/c3lang/tree-sitter-c3/tree/v0.12.0) |
 | tree-sitter-c_sharp | [0.23.5](https://github.com/tree-sitter/tree-sitter-c-sharp/tree/v0.23.5) |
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
@@ -342,7 +342,7 @@ in {
 | tree-sitter-http | [3.0](https://github.com/rest-nvim/tree-sitter-http/tree/v3.0) |
 | tree-sitter-humphrey | [2025-09-16](https://github.com/SavourySnaX/tree-sitter-humphrey/tree/70e3d8e5048edc354452e6a4cf19934dd3def8aa) |
 | tree-sitter-hurl | [1.7.0](https://github.com/pfeiferj/tree-sitter-hurl/tree/v1.7.0) |
-| tree-sitter-hxml | [0.2.3](https://github.com/tong/tree-sitter-hxml/tree/v0.2.3) |
+| tree-sitter-hxml | [0.2.4](https://github.com/tong/tree-sitter-hxml/tree/v0.2.4) |
 | tree-sitter-hy | [2026-08-07](https://github.com/MinmusxMinmus/tree-sitter-hy/tree/143ef86c43eeca07d9dcf27f6d4bbe887762f9fc) |
 | tree-sitter-hygen_template | [0.5.0](https://github.com/Hdoc1509/tree-sitter-hygen-template/tree/v0.5.0) |
 | tree-sitter-hylo | [2024-07-21](https://github.com/natsukagami/tree-sitter-hylo/tree/494cbdff0d13cbc67348316af2efa0286dbddf6f) |
