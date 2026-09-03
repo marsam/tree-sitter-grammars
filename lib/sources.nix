@@ -3334,12 +3334,12 @@
     };
   };
   "tree-sitter-morloc" = {
-    version = "unstable-2026-03-12";
+    version = "unstable-2026-09-03";
     src = fetchFromGitHub {
       owner = "morloc-project";
       repo = "tree-sitter-morloc";
-      rev = "005a3949e37d5bbe90e78adb1f08f58f65bb21ce";
-      hash = "sha256-01zsqB/42jHoQPkh3ojBdgcFWuRfo7rKhDXXBbwB0Js=";
+      rev = "4c2adde594992a1d6865bf07e17700f6b844c64d";
+      hash = "sha256-BYNkYe/6cJ2vWj+9OJjpfjf28sgboXEk3IPLMemoV6U=";
     };
   };
   "tree-sitter-moshell" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.8.27";
+    version = "2026.9.3";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.8.27";
-      hash = "sha256-yTdEinKdEmWPiw6+fBq15tXe8GsoC7PFk2pVaDSFCYA=";
+      rev = "2026.9.3";
+      hash = "sha256-/lemMoC6QGz4aXcnb5pGlq7m5ClXcbLK7ZKKwhtUn9E=";
     };
   };
   "tree-sitter-ssh_config" = {
