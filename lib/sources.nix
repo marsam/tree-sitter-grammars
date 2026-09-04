@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2026-08-27";
+    version = "unstable-2026-09-03";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "8ee969d8fd68d67661016d890110e4cae18ed03c";
-      hash = "sha256-gVEiGqjPdOp0B0rlXlm+74wvo9xJmUvhfrAZV9uIvhk=";
+      rev = "90e0a0c6e82ccc59fc2320a3ad71b4edb93c15f3";
+      hash = "sha256-lP94jkTbu0XVCtcLglojK//HVx4Zv4lm9WXlM6u58Ow=";
     };
   };
   "tree-sitter-cairo" = {
