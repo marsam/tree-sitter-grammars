@@ -195,7 +195,7 @@ in {
 | tree-sitter-d2 | [0.7.2](https://github.com/ravsii/tree-sitter-d2/tree/v0.7.2) |
 | tree-sitter-darklang | [2025-02-05](https://github.com/darklang/dark/tree/e78bc97559fa4b47c30bf97ce6bff5dc2e779615/tree-sitter-darklang) |
 | tree-sitter-dart | [2026-07-07](https://github.com/UserNobody14/tree-sitter-dart/tree/be07cf7118d3dba06236a3f19541685a68209934) |
-| tree-sitter-datazinc | [2026-09-07](https://github.com/shackle-rs/shackle/tree/3cd30880a4d0956bd2c5e401421723055dbd2093/parsers/tree-sitter-datazinc) |
+| tree-sitter-datazinc | [2026-09-08](https://github.com/shackle-rs/shackle/tree/d4c6ea489faeae72c4ad99816c4007099db6e609/parsers/tree-sitter-datazinc) |
 | tree-sitter-dbml | [0.1.0](https://github.com/dynamotn/tree-sitter-dbml/tree/v0.1.0) |
 | tree-sitter-dbspec | [1.0](https://github.com/immortalvm/tree-sitter-dbspec/tree/1.0) |
 | tree-sitter-desktop | [1.1.1](https://github.com/ValdezFOmar/tree-sitter-desktop/tree/v1.1.1) |
@@ -237,7 +237,7 @@ in {
 | tree-sitter-epics_db | [0.2.0](https://github.com/minijackson/tree-sitter-epics-db/tree/v0.2.0) |
 | tree-sitter-epics_msi_substitution | [0.3.0](https://github.com/minijackson/tree-sitter-epics-msi-substitution/tree/v0.3.0) |
 | tree-sitter-epics_msi_template | [0.1.2](https://github.com/minijackson/tree-sitter-epics-msi-template/tree/v0.1.2) |
-| tree-sitter-eprime | [2026-09-07](https://github.com/shackle-rs/shackle/tree/3cd30880a4d0956bd2c5e401421723055dbd2093/parsers/tree-sitter-eprime) |
+| tree-sitter-eprime | [2026-09-08](https://github.com/shackle-rs/shackle/tree/d4c6ea489faeae72c4ad99816c4007099db6e609/parsers/tree-sitter-eprime) |
 | tree-sitter-epscript | [1.0.0](https://github.com/zuhanit/tree-sitter-epscript/tree/v1.0.0) |
 | tree-sitter-erlang | [0.20](https://github.com/WhatsApp/tree-sitter-erlang/tree/0.20) |
 | tree-sitter-esdl | [2022-09-05](https://github.com/matoous/tree-sitter-esdl/tree/49e21c031c2a1ed06c2ee85937ce73bc12a5801f) |
@@ -434,7 +434,7 @@ in {
 | tree-sitter-mathprog | [1.0.0](https://github.com/smoeding/tree-sitter-mathprog/tree/v1.0.0) |
 | tree-sitter-matlab | [1.3.1](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.1) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
-| tree-sitter-mdn | [0.1.6](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.6) |
+| tree-sitter-mdn | [0.1.7](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.7) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
 | tree-sitter-mediawiki | [2022-08-19](https://github.com/Ordoviz/tree-sitter-mediawiki/tree/1340c1bf8a0379b49318ab237fd43aa3cffcad5b) |
 | tree-sitter-melody | [2024-03-21](https://github.com/abiriadev/tree-sitter-melody/tree/ade2f6aa32bd8e87eba3f7c736ff97c6047b69d1) |
@@ -444,7 +444,7 @@ in {
 | tree-sitter-mers | [2025-11-20](https://github.com/Dummi26/mers/tree/39752692ada89c58a26b9ea43d6d9550cbde5791/tree-sitter-mers) |
 | tree-sitter-meson | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-meson/tree/v1.3.0) |
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
-| tree-sitter-minizinc | [2026-09-07](https://github.com/shackle-rs/shackle/tree/3cd30880a4d0956bd2c5e401421723055dbd2093/parsers/tree-sitter-minizinc) |
+| tree-sitter-minizinc | [2026-09-08](https://github.com/shackle-rs/shackle/tree/d4c6ea489faeae72c4ad99816c4007099db6e609/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
 | tree-sitter-mlir | [2026-09-04](https://github.com/artagnon/tree-sitter-mlir/tree/08c51d88284ada36a5c2847ebeb94297f032adec) |
 | tree-sitter-mojo | [2026-08-20](https://github.com/lsh/tree-sitter-mojo/tree/b3dbc3525ab650543e222025fc76122f086ab8ec) |
@@ -633,7 +633,7 @@ in {
 | tree-sitter-spade | [2026-08-17](https://gitlab.com/spade-lang/tree-sitter-spade//tree/136376ceaa2a765d25be3cc19df725e2f61f5301) |
 | tree-sitter-sparql | [0.1.0](https://github.com/GordianDziwis/tree-sitter-sparql/tree/0.1.0) |
 | tree-sitter-spicedb | [2026-08-23](https://github.com/authzed/tree-sitter-spicedb/tree/6bba27682a2f4e297a8f6fd19539f550d27009e2) |
-| tree-sitter-spicy | [2026-08-31](https://github.com/bbannier/tree-sitter-spicy/tree/8c70f4ba981eddf49b82ea5e1507379081c9080f) |
+| tree-sitter-spicy | [2026-09-08](https://github.com/bbannier/tree-sitter-spicy/tree/f93f58bd127defaa0cd6333372c0471360e809bf) |
 | tree-sitter-spml | [0.0.1](https://github.com/DrWursterich/tree-sitter-spml/tree/v0.0.1) |
 | tree-sitter-sproto | [2025-08-12](https://github.com/hanxi/tree-sitter-sproto/tree/d554c1456e35e7b2690552d52921c987d0cf6799) |
 | tree-sitter-sql | [0.3.11](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.11) |
@@ -654,7 +654,7 @@ in {
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
-| tree-sitter-surrealql | [2026-07-23](https://github.com/surrealdb/surrealql-tree-sitter/tree/5b98402dddbc3edfb85d8f555640b33166b71e62) |
+| tree-sitter-surrealql | [2026-09-07](https://github.com/surrealdb/surrealql-tree-sitter/tree/df12d94720f3e22822026df41194feb3f47c20b2) |
 | tree-sitter-sus | [0.5.0](https://github.com/pc2/sus-compiler/tree/v0.5.0/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
