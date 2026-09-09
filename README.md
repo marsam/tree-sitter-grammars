@@ -78,7 +78,7 @@ in {
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [4.0.1](https://github.com/SShadowS/tree-sitter-al/tree/v4.0.1) |
+| tree-sitter-al | [4.1.0](https://github.com/SShadowS/tree-sitter-al/tree/v4.1.0) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
@@ -389,7 +389,7 @@ in {
 | tree-sitter-kappa | [2024-12-19](https://github.com/Spyderisk/tree-sitter-kappa/tree/45fcd46d3769f45421c2a5d9651bf8621de8ff86) |
 | tree-sitter-kcl | [0.1.0](https://github.com/kcl-lang/tree-sitter-kcl/tree/v0.1.0) |
 | tree-sitter-kconfig | [1.3.0](https://github.com/tree-sitter-grammars/tree-sitter-kconfig/tree/v1.3.0) |
-| tree-sitter-kdl | [1.1.0](https://github.com/tree-sitter-grammars/tree-sitter-kdl/tree/v1.1.0) |
+| tree-sitter-kdl | [2.0.0](https://github.com/tree-sitter-grammars/tree-sitter-kdl/tree/v2.0.0) |
 | tree-sitter-kitty | [0.0.1](https://github.com/OXY2DEV/tree-sitter-kitty/tree/v0.0.1) |
 | tree-sitter-kittyconf | [2023-03-24](https://github.com/clo4/tree-sitter-kitty-conf/tree/9cdf551522d509c0432f136eb373bdf2e6032493) |
 | tree-sitter-koka | [2026-02-23](https://github.com/koka-community/tree-sitter-koka/tree/07b1ce29a06656b552f7f198e572499062ccfffe) |
@@ -504,7 +504,7 @@ in {
 | tree-sitter-org | [2.0.4](https://github.com/nvim-orgmode/tree-sitter-org/tree/2.0.4) |
 | tree-sitter-ott | [2024-08-10](https://github.com/arawho/tree-sitter-ott/tree/67df80de360e04efde264508ec496916e3ddbd4c) |
 | tree-sitter-owl_ms | [2025-07-11](https://github.com/janekx21/owl-ms-language-server/tree/b6275869b9abdc90d77eeccefdfdba085e622a6a/crates/tree-sitter-owl-ms) |
-| tree-sitter-p4 | [2025-04-23](https://github.com/oxidecomputer/tree-sitter-p4/tree/ec27f5123d4f80ced59302820bec3e212794132f) |
+| tree-sitter-p4 | [2026-09-08](https://github.com/oxidecomputer/tree-sitter-p4/tree/c31780d3f4a38d00e62d7d4ee0cd90856aeb47e0) |
 | tree-sitter-pactum | [2025-03-16](https://github.com/protopact/tree-sitter-pactum/tree/39a61aa94f778f82c4b80e6957d1ff2e76c978d1) |
 | tree-sitter-pascal | [0.10.2](https://github.com/Isopod/tree-sitter-pascal/tree/v0.10.2) |
 | tree-sitter-passwd | [2022-12-01](https://github.com/ath3/tree-sitter-passwd/tree/20239395eacdc2e0923a7e5683ad3605aee7b716) |
