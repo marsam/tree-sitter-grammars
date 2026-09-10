@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "4.1.0";
+    version = "4.3.0";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "v4.1.0";
-      hash = "sha256-KnGGaA0mDMgTEICwOOyQVfQq592vJKzWfxlb7caOgvM=";
+      rev = "v4.3.0";
+      hash = "sha256-LALDz8k9Yz7F35qwv6k7w4c2cavq8QwLugzL5mhrUYQ=";
     };
   };
   "tree-sitter-alcha" = {
@@ -1198,12 +1198,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-09-08";
+    version = "unstable-2026-09-09";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "d4c6ea489faeae72c4ad99816c4007099db6e609";
-      hash = "sha256-kuYJZ3/Q4xiPMGC6teT8acltXPc01z1TFLEx0A8dN1g=";
+      rev = "74fae220b0bc9758c6817576709b2e36c058230a";
+      hash = "sha256-oeCYT4EzRO7apzbl1BSk7unjcjqIfLubAB+UXxGarJ4=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3307,12 +3307,12 @@
     };
   };
   "tree-sitter-mojo" = {
-    version = "unstable-2026-08-20";
+    version = "unstable-2026-09-09";
     src = fetchFromGitHub {
       owner = "lsh";
       repo = "tree-sitter-mojo";
-      rev = "b3dbc3525ab650543e222025fc76122f086ab8ec";
-      hash = "sha256-yf8zqK9QQ8AKAExHsLOz6M5rIbqiRE0aW52NGLUuMZI=";
+      rev = "bf85507ab30b4022e2b8f8a17ef8ad702c89b45b";
+      hash = "sha256-FSkPfzZTtvxkWpOhgVt3HbNcXS10q9ERJLl4gDkjQKY=";
     };
   };
   "tree-sitter-moonbit" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.9.3";
+    version = "2026.9.10";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.9.3";
-      hash = "sha256-/lemMoC6QGz4aXcnb5pGlq7m5ClXcbLK7ZKKwhtUn9E=";
+      rev = "2026.9.10";
+      hash = "sha256-Ja3R0KgY43ICf7dJRZRtmINtmJoSQ7dOfqn+pyXNYq4=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -5480,12 +5480,12 @@
     };
   };
   "tree-sitter-vhdl" = {
-    version = "2.0.0";
+    version = "2.0.2";
     src = fetchFromGitHub {
       owner = "jpt13653903";
       repo = "tree-sitter-vhdl";
-      rev = "v2.0.0";
-      hash = "sha256-VXKO9bDwpvVRTjIrdMEGEC7THg9+k3kUALYawVTXAoc=";
+      rev = "v2.0.2";
+      hash = "sha256-75Xg2B48S7okhS9jKCTRZYdshSjLWVB6EXRFeuNHRuk=";
     };
   };
   "tree-sitter-vhs" = {
