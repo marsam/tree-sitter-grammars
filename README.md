@@ -351,7 +351,7 @@ in {
 | tree-sitter-ic10 | [0.2.0](https://github.com/Xandaros/tree-sitter-ic10/tree/v0.2.0) |
 | tree-sitter-ical | [0.3.0](https://github.com/TitouanReal/tree-sitter-ical/tree/v0.3.0) |
 | tree-sitter-idl | [3.18.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.18.0) |
-| tree-sitter-idris | [2024-11-05](https://github.com/kayhide/tree-sitter-idris/tree/c56a25cf57c68ff929356db25505c1cc4c7820f6) |
+| tree-sitter-idris | [2026-09-11](https://github.com/kayhide/tree-sitter-idris/tree/9fe334fb603fdce0e84349ed78f41ae3d2f7036b) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
 | tree-sitter-ignis | [2026-08-20](https://github.com/Ignis-lang/tree-sitter-ignis/tree/5a862fc024da6c4417e031865dae6ed24a8a6fdd) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
@@ -654,7 +654,7 @@ in {
 | tree-sitter-styled | [2025-02-25](https://github.com/mskelton/tree-sitter-styled/tree/319cdcaa0346ba6db668a222d938e5c3569e2a51) |
 | tree-sitter-supercollider | [0.3.2](https://github.com/madskjeldgaard/tree-sitter-supercollider/tree/v0.3.2) |
 | tree-sitter-surface | [0.2.0](https://github.com/connorlay/tree-sitter-surface/tree/v0.2.0) |
-| tree-sitter-surrealql | [2026-09-10](https://github.com/surrealdb/surrealql-tree-sitter/tree/22feaab95659bb5b491a30b89aa9251613135342) |
+| tree-sitter-surrealql | [2026-09-11](https://github.com/surrealdb/surrealql-tree-sitter/tree/373e7cd52e3beabfbe8339f2cbf6a0cfb6a35d0e) |
 | tree-sitter-sus | [0.5.0](https://github.com/pc2/sus-compiler/tree/v0.5.0/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
