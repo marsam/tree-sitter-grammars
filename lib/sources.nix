@@ -640,12 +640,12 @@
     };
   };
   "tree-sitter-bpftrace" = {
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchFromGitHub {
       owner = "sgruszka";
       repo = "tree-sitter-bpftrace";
-      rev = "v0.4.0";
-      hash = "sha256-oF18plD9mjvalP+TLKh1r0L4zWmfRRwYn2RI7UdTcfY=";
+      rev = "v0.4.1";
+      hash = "sha256-Kmr/a4pazV3k21M0KDNPSUJgvsXKicnB6MZ70Juufiw=";
     };
   };
   "tree-sitter-bqn" = {
@@ -892,12 +892,12 @@
     };
   };
   "tree-sitter-clingo" = {
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchFromGitHub {
       owner = "potassco";
       repo = "tree-sitter-clingo";
-      rev = "v1.0.5";
-      hash = "sha256-78Yghc1UcOR08jdEdN+45pDWNmK23dJBuTNOD8P3WRY=";
+      rev = "v1.0.6";
+      hash = "sha256-Af5+rW923CDIhR8TiBfXthPUSRqDwlNqdbIRyyp/D0s=";
     };
   };
   "tree-sitter-clojure" = {
@@ -2613,12 +2613,12 @@
     };
   };
   "tree-sitter-jai" = {
-    version = "unstable-2026-07-18";
+    version = "unstable-2026-09-14";
     src = fetchFromGitHub {
       owner = "constantitus";
       repo = "tree-sitter-jai";
-      rev = "714acc6da66526d9111b51ab8eee7e016b9e2268";
-      hash = "sha256-4FZ/BQsnyB4T8mkdfr/VSB9jxbImCKXr7DPYeCHu1FM=";
+      rev = "96440b0f78a45bed1668d5693f26c0d30b4d1a84";
+      hash = "sha256-nWN8BBbv/BiCrLQ9PQGGabQbLIfosiVcvFXawkTmCN4=";
     };
   };
   "tree-sitter-jakt" = {
@@ -3577,12 +3577,12 @@
     };
   };
   "tree-sitter-nu" = {
-    version = "unstable-2026-08-13";
+    version = "unstable-2026-09-14";
     src = fetchFromGitHub {
       owner = "nushell";
       repo = "tree-sitter-nu";
-      rev = "64613ef22f4116862d7997939c8d1794ceb1f856";
-      hash = "sha256-wHgmE4cJs3Kj55wNLAUdvuw3jllzXbjlN2cUrI58yHs=";
+      rev = "4f577aaa735154f934594b598a69ed7b1b707cf6";
+      hash = "sha256-kORiz85hud0dCGW+k/qEBew+4493a6Ij8qrT5+mFoGE=";
     };
   };
   "tree-sitter-numbat" = {
@@ -5534,12 +5534,12 @@
     };
   };
   "tree-sitter-vola" = {
-    version = "unstable-2026-07-31";
+    version = "unstable-2026-09-14";
     src = fetchFromGitLab {
       owner = "tendsinmende";
       repo = "tree-sitter-vola";
-      rev = "3fa876f96363bc572eb758dc4218f344f89f4f96";
-      hash = "sha256-O5QnRXPlAEVab62rsjw0CX4kVuEFY81DBB6k+dXpk6E=";
+      rev = "52254446bbdd17c2e02375e133699181e9d0b2fc";
+      hash = "sha256-yfKlSo0pTaF8hY4wECnbg+kH4dgwJJKZcqY9CzdVtic=";
     };
   };
   "tree-sitter-vrl" = {
