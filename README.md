@@ -184,7 +184,7 @@ in {
 | tree-sitter-css | [0.25.0](https://github.com/tree-sitter/tree-sitter-css/tree/v0.25.0) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
-| tree-sitter-cuda | [0.21.1](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.1) |
+| tree-sitter-cuda | [0.21.2](https://github.com/tree-sitter-grammars/tree-sitter-cuda/tree/v0.21.2) |
 | tree-sitter-cue | [0.1.0](https://github.com/eonpatapon/tree-sitter-cue/tree/v0.1.0) |
 | tree-sitter-curry | [0.0.4](https://github.com/matthesjh/tree-sitter-curry/tree/v0.0.4) |
 | tree-sitter-cyberchef | [2026-03-18](https://github.com/tree-sitter-grammars/tree-sitter-cyberchef/tree/8bad395b98253324085b4b5227b14d4988f374b7) |
@@ -664,7 +664,7 @@ in {
 | tree-sitter-syncat_stylesheet | [3.8.0](https://github.com/foxfriends/syncat/tree/3.8.0/tree-sitter-syncat-stylesheet) |
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
-| tree-sitter-systemverilog | [0.4.0](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.4.0) |
+| tree-sitter-systemverilog | [0.4.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.4.1) |
 | tree-sitter-t32 | [9.0.2](https://codeberg.org/xasc/tree-sitter-t32/src/v9.0.2) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |

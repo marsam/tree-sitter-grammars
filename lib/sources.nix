@@ -1108,12 +1108,12 @@
     };
   };
   "tree-sitter-cuda" = {
-    version = "0.21.1";
+    version = "0.21.2";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-cuda";
-      rev = "v0.21.1";
-      hash = "sha256-sX9AOe8dJJsRbzGq20qakWBnLiwYQ90mQspAuYxQzoQ=";
+      rev = "v0.21.2";
+      hash = "sha256-s2qrZx5fEu/I6xE2paX/Nlmgvo6T27qqvy1cI8iznAA=";
     };
   };
   "tree-sitter-cue" = {
@@ -5011,12 +5011,12 @@
     };
   };
   "tree-sitter-systemverilog" = {
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchFromGitHub {
       owner = "gmlarumbe";
       repo = "tree-sitter-systemverilog";
-      rev = "v0.4.0";
-      hash = "sha256-ig4mpzN/bvnD5e5MN11a7YkONDeJ3R8kz/AbS0GDreI=";
+      rev = "v0.4.1";
+      hash = "sha256-ukebcwVJvMsGi91NDF1VZMJZufSzTZqsDapZzf33V20=";
     };
   };
   "tree-sitter-t32" = {
