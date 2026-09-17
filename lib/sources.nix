@@ -1081,12 +1081,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-07-06";
+    version = "unstable-2026-09-17";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "9a0a07f13c23ab3f76f172a242e53d8abc154a48";
-      hash = "sha256-OTGNeFh6dVZMO1ia5ems0++pUEIA4JHqe2SMx1iqUK0=";
+      rev = "7d505ca70458e943240a8134a2ee93377d1b44b0";
+      hash = "sha256-21Tm+AXhADmUZ0seYqLqR/VJr8uyySURTib6H1FMXd4=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -4614,12 +4614,12 @@
     };
   };
   "tree-sitter-slint" = {
-    version = "unstable-2026-08-09";
+    version = "unstable-2026-09-17";
     src = fetchFromGitHub {
       owner = "slint-ui";
       repo = "tree-sitter-slint";
-      rev = "f0c59d1507a4221b521a772296f7b3adf87b44ed";
-      hash = "sha256-An7nP/fd9d4k1ozwBOM0VXZBiItbr/Gj5S1h4xHEZVM=";
+      rev = "7f3e775941f0268334c5219586d5811229ffcf34";
+      hash = "sha256-7RJzHXwqRzDb8tvYAs+J6o3gZB5L1R+oak6uhNUMhFc=";
     };
   };
   "tree-sitter-smali" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.9.10";
+    version = "2026.9.17";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.9.10";
-      hash = "sha256-Ja3R0KgY43ICf7dJRZRtmINtmJoSQ7dOfqn+pyXNYq4=";
+      rev = "2026.9.17";
+      hash = "sha256-XB1ixG3ayiQNUyn0rBkBWbuUAZlLVag7YeV81HGxzf0=";
     };
   };
   "tree-sitter-ssh_config" = {
