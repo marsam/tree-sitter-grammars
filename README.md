@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-09-10](https://github.com/caddyserver/tree-sitter-caddyfile/tree/69f0fa9feb0cfea35835316a78f1548ee0dd9767) |
+| tree-sitter-caddyfile | [2026-09-17](https://github.com/caddyserver/tree-sitter-caddyfile/tree/4ef0479e11161ef4d1b4a89ae966eb1f5f11d764) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -231,7 +231,7 @@ in {
 | tree-sitter-elsa | [1.1.0](https://github.com/glapa-grossklag/tree-sitter-elsa/tree/v1.1.0) |
 | tree-sitter-elvish | [2023-07-17](https://github.com/elves/tree-sitter-elvish/tree/5e7210d945425b77f82cbaebc5af4dd3e1ad40f5) |
 | tree-sitter-embedded_template | [0.25.0](https://github.com/tree-sitter/tree-sitter-embedded-template/tree/v0.25.0) |
-| tree-sitter-enforce | [0.4.0](https://github.com/simonvic/tree-sitter-enforce/tree/v0.4.0) |
+| tree-sitter-enforce | [0.4.1](https://github.com/simonvic/tree-sitter-enforce/tree/v0.4.1) |
 | tree-sitter-envy | [2024-08-19](https://github.com/envyhq/envy/tree/82386ecea370fd45680b2d04f2823f762aad5693/extensions/tree-sitter) |
 | tree-sitter-epics_cmd | [0.1.5](https://github.com/minijackson/tree-sitter-epics-cmd/tree/v0.1.5) |
 | tree-sitter-epics_db | [0.2.0](https://github.com/minijackson/tree-sitter-epics-db/tree/v0.2.0) |
@@ -458,7 +458,7 @@ in {
 | tree-sitter-mozcpp | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-mozcpp) |
 | tree-sitter-mozjs | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-mozjs) |
 | tree-sitter-msg | [0.0.2](https://github.com/omnetpp/tree-sitter-msg/tree/0.0.2) |
-| tree-sitter-mustache | [2025-12-18](https://github.com/TheLeoP/tree-sitter-mustache/tree/0f1f3cf07508a64b84cbff457f1446a787c48a0e) |
+| tree-sitter-mustache | [2026-09-17](https://github.com/TheLeoP/tree-sitter-mustache/tree/f73f2bfcae7ef093eda247fb85ea2bafcaab49c0) |
 | tree-sitter-muttrc | [0.1.4](https://github.com/neomutt/tree-sitter-muttrc/tree/0.1.4) |
 | tree-sitter-nasm | [2024-11-23](https://github.com/naclsn/tree-sitter-nasm/tree/d1b3638d017f2a8585e26dcfc66fe1df94185e30) |
 | tree-sitter-navi | [0.2.2](https://github.com/navi-language/tree-sitter-navi/tree/v0.2.2) |
