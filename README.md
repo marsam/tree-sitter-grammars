@@ -150,9 +150,9 @@ in {
 | tree-sitter-cedarentities | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarentities) |
 | tree-sitter-cedarschema | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarschema) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.35](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.35/cfml) |
-| tree-sitter-cfquery | [0.26.35](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.35/cfquery) |
-| tree-sitter-cfscript | [0.26.35](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.35/cfscript) |
+| tree-sitter-cfml | [0.26.36](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.36/cfml) |
+| tree-sitter-cfquery | [0.26.36](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.36/cfquery) |
+| tree-sitter-cfscript | [0.26.36](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.36/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |

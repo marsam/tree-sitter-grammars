@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.35";
+    version = "0.26.36";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.35";
-      hash = "sha256-UeTmY9o9KANT4EfsKatevA6pYOhq/zpyAor/RCF68jY=";
+      rev = "v0.26.36";
+      hash = "sha256-U4UKDczAPayiFhTPU4pgfJcqSlmalpt56wa6c+wWp1o=";
     };
   };
   "tree-sitter-cgsql" = {
