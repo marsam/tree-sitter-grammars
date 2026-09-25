@@ -136,12 +136,12 @@
     };
   };
   "tree-sitter-php" = {
-    version = "0.24.2";
+    version = "0.25.0";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-php";
-      rev = "v0.24.2";
-      hash = "sha256-jI7yzcoHS/tNxUqJI4aD1rdEZV3jMn1GZD0J+81Dyf0=";
+      rev = "v0.25.0";
+      hash = "sha256-EkKYb9jatSl0/o+7tO2O3vx44ufDmZ4YJ/6t4il/Yk0=";
     };
   };
   "tree-sitter-python" = {
@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.36";
+    version = "0.26.37";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.36";
-      hash = "sha256-U4UKDczAPayiFhTPU4pgfJcqSlmalpt56wa6c+wWp1o=";
+      rev = "v0.26.37";
+      hash = "sha256-h/hmxJz+Hkj71clHDSEkx+kgoDGABvQTjd1YqxJcuk8=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -1694,12 +1694,12 @@
     };
   };
   "tree-sitter-fidl" = {
-    version = "unstable-2024-02-27";
+    version = "unstable-2026-09-24";
     src = fetchFromGitHub {
       owner = "google";
       repo = "tree-sitter-fidl";
-      rev = "0a8910f293268e27ff554357c229ba172b0eaed2";
-      hash = "sha256-QFAkxQo2w/+OR7nZn9ldBk2yHOd23kzciAcQvIZ5hrY=";
+      rev = "3faeeae0dbe66b54be0086daa0e0af4da44e7d68";
+      hash = "sha256-G2a0NGfMnY4e8WbH7QIiX4kaZ7G2Plzt2KO0HXf6vcQ=";
     };
   };
   "tree-sitter-fin" = {
@@ -2938,12 +2938,12 @@
     };
   };
   "tree-sitter-ledger" = {
-    version = "unstable-2026-03-20";
+    version = "unstable-2026-09-25";
     src = fetchFromGitHub {
       owner = "cbarrete";
       repo = "tree-sitter-ledger";
-      rev = "22a1ab8195c1f6e808679f803007756fe7638c6f";
-      hash = "sha256-62xgcEavI5RKi77sbEnx9f3hA4faFeUCw0/uec8Nx3k=";
+      rev = "d5f3973cfe2d42f98819336ce6334ada75b7696f";
+      hash = "sha256-+BgSLNGbtRsQZkw4gBe2K2pcGynDDv8bh9upN3lDPAg=";
     };
   };
   "tree-sitter-leo" = {
@@ -3307,12 +3307,12 @@
     };
   };
   "tree-sitter-mojo" = {
-    version = "unstable-2026-09-23";
+    version = "unstable-2026-09-24";
     src = fetchFromGitHub {
       owner = "lsh";
       repo = "tree-sitter-mojo";
-      rev = "36c85699597ac774f8d8437d6a8661fb60df335b";
-      hash = "sha256-N9FX7/6T05JjGCadr8r2yBgZWhDJI8nlqLgjYrswwjU=";
+      rev = "c4f24f94a1a3d0e133abfbc4a4ae336b5b61bf8f";
+      hash = "sha256-UkFmPCn6DqeN3I3X3lOdgizphfDgGl9CZDpWWjO60VE=";
     };
   };
   "tree-sitter-moonbit" = {
