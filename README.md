@@ -150,9 +150,9 @@ in {
 | tree-sitter-cedarentities | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarentities) |
 | tree-sitter-cedarschema | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarschema) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.37](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.37/cfml) |
-| tree-sitter-cfquery | [0.26.37](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.37/cfquery) |
-| tree-sitter-cfscript | [0.26.37](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.37/cfscript) |
+| tree-sitter-cfml | [0.26.42](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.42/cfml) |
+| tree-sitter-cfquery | [0.26.42](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.42/cfquery) |
+| tree-sitter-cfscript | [0.26.42](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.42/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -446,7 +446,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-09-24](https://github.com/shackle-rs/shackle/tree/d9f5d8243ec3b0424febf0247f83d30706369b00/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-09-19](https://github.com/artagnon/tree-sitter-mlir/tree/eb0541bba21c4ebb3661f02332d1f087d72dbc7c) |
+| tree-sitter-mlir | [2026-09-26](https://github.com/artagnon/tree-sitter-mlir/tree/d93ac1b150580040d16e183ea8bf9daa7841bcc4) |
 | tree-sitter-mojo | [2026-09-24](https://github.com/lsh/tree-sitter-mojo/tree/c4f24f94a1a3d0e133abfbc4a4ae336b5b61bf8f) |
 | tree-sitter-moonbit | [2026-07-22](https://github.com/moonbitlang/tree-sitter-moonbit/tree/5435c307c6cf2ef0d508a99047b06f35a4308444) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
