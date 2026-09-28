@@ -235,12 +235,12 @@
     };
   };
   "tree-sitter-abl" = {
-    version = "0.0.53";
+    version = "0.0.54";
     src = fetchFromGitHub {
       owner = "usagi-coffee";
       repo = "tree-sitter-abl";
-      rev = "v0.0.53";
-      hash = "sha256-EQ79erYvTN//4ZnEd8EDnrcUOttgvAg9p8Qe7Twof3U=";
+      rev = "v0.0.54";
+      hash = "sha256-uU+/bHE9SOt9Ge26kjlAaHF/qFe72suS5TQKVxhN6UM=";
     };
   };
   "tree-sitter-abnf" = {
@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "4.4.0";
+    version = "4.4.1";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "v4.4.0";
-      hash = "sha256-Se5BjKN0Q6F7fEm7ICKJyThmMyyyRuvEGJ3LP+ju1hA=";
+      rev = "v4.4.1";
+      hash = "sha256-FY+Y+WzdZIAi4Nem2+Z/re2AEtE4okb8Ez+Zec926nE=";
     };
   };
   "tree-sitter-alcha" = {
@@ -1946,12 +1946,12 @@
     };
   };
   "tree-sitter-gherkin" = {
-    version = "unstable-2025-02-27";
+    version = "unstable-2026-09-28";
     src = fetchFromGitHub {
       owner = "binhtddev";
       repo = "tree-sitter-gherkin";
-      rev = "1a709aebeecbe81bd70dfd6ea784894844be1511";
-      hash = "sha256-a5PLcmczJI+8ROmDfhONA/hQXKCfSfTkIQpQH319Ab4=";
+      rev = "6bd665dd7d4159c63c0b7a9f69d784f3315328c1";
+      hash = "sha256-DJ+m0sdqpn1xSQoKGnHimfA0GcyScoTp8G1rG9zNXgA=";
     };
   };
   "tree-sitter-ghostty" = {
@@ -2207,12 +2207,12 @@
     };
   };
   "tree-sitter-groovy" = {
-    version = "unstable-2026-04-11";
+    version = "unstable-2026-09-27";
     src = fetchFromGitHub {
       owner = "murtaza64";
       repo = "tree-sitter-groovy";
-      rev = "deb0dcf8c4544f07564060f6e9b9f6e4b0bfc27d";
-      hash = "sha256-x7PawYYtgsduh60KNnS4LgB7SvoBV9aOJ9cHNsLBBhc=";
+      rev = "2a6ddd558b6aa39c5b77d8db9fe9baf817486b2c";
+      hash = "sha256-VCGG8La067V2m/16wxwldj3rKrAl822j58u7j9Qa1d0=";
     };
   };
   "tree-sitter-gstlaunch" = {
@@ -4100,12 +4100,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-09-13";
+    version = "unstable-2026-09-27";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "3609d5173d55e82432dd37ffffec5f422f7898eb";
-      hash = "sha256-MmphXwPJ7vLT9vivSUDrTMP08u6JaZyUvEvAXQaiwtk=";
+      rev = "f5f5b19811dced7e861e12d601372a05662eb0a1";
+      hash = "sha256-A79aDvI23Lfs3MJKEn7j+zc/DgszGZtcs8BNBB7suPM=";
     };
   };
   "tree-sitter-q" = {
