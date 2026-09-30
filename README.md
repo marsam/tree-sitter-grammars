@@ -88,7 +88,7 @@ in {
 | tree-sitter-apex | [2.3](https://github.com/aheber/tree-sitter-sfapex/tree/v2.3/apex) |
 | tree-sitter-apparmor | [2024-11-23](https://github.com/Su3h7aM/tree-sitter-apparmor/tree/1a600d3b93cde5c86af0940b376241cd770061cc) |
 | tree-sitter-applesoft | [5.0.0](https://github.com/dfgordon/tree-sitter-applesoft/tree/v5.0.0) |
-| tree-sitter-arcana | [2026-09-28](https://github.com/Skyppex/tree-sitter-arcana/tree/e33dca0a9b71ffc9fab2b9559d07c4438cdb2136) |
+| tree-sitter-arcana | [2026-09-29](https://github.com/Skyppex/tree-sitter-arcana/tree/ca27029ddaf7f55ca0469ab4ba9f6b5d0006762e) |
 | tree-sitter-arduino | [0.24.0](https://github.com/tree-sitter-grammars/tree-sitter-arduino/tree/v0.24.0) |
 | tree-sitter-aria | [2025-11-20](https://github.com/arialang/tree-sitter-aria/tree/6a96e4d7de32fe89a8b0c3d79167a2797dd29c01) |
 | tree-sitter-asa | [2024-11-20](https://github.com/menaruben/tree-sitter-asa/tree/ddc26bd9dd5ad59aae23f4cf5bad67751a1dc0ae) |
@@ -150,9 +150,9 @@ in {
 | tree-sitter-cedarentities | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarentities) |
 | tree-sitter-cedarschema | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarschema) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.42](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.42/cfml) |
-| tree-sitter-cfquery | [0.26.42](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.42/cfquery) |
-| tree-sitter-cfscript | [0.26.42](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.42/cfscript) |
+| tree-sitter-cfml | [0.26.43](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.43/cfml) |
+| tree-sitter-cfquery | [0.26.43](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.43/cfquery) |
+| tree-sitter-cfscript | [0.26.43](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.43/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -728,7 +728,7 @@ in {
 | tree-sitter-vimdoc | [4.1.0](https://github.com/neovim/tree-sitter-vimdoc/tree/v4.1.0) |
 | tree-sitter-virgil | [2024-07-05](https://github.com/btwj/tree-sitter-virgil/tree/8e6907839b384af9019f4d52ee24d7b7cfb9cf70) |
 | tree-sitter-void | [2024-07-16](https://github.com/ge0mk/tree-sitter-void/tree/82ba59e160925a646b9b3c5e3aad846124cd4d05) |
-| tree-sitter-vola | [2026-09-28](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/a18e5e53c7667c46aee7acd7326b9314507444a7) |
+| tree-sitter-vola | [2026-09-29](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/8f937bcfdeb39257189d8b4372316c0098d1133f) |
 | tree-sitter-vrl | [0.1.1](https://github.com/belltoy/tree-sitter-vrl/tree/v0.1.1) |
 | tree-sitter-vue | [2026-01-24](https://github.com/tree-sitter-grammars/tree-sitter-vue/tree/ce8011a414fdf8091f4e4071752efc376f4afb08) |
 | tree-sitter-wasp | [2024-10-17](https://github.com/bx2/tree-sitter-wasp/tree/3669fc2724bc7dcfd7d00f92d48c543c35455583) |
