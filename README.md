@@ -484,11 +484,11 @@ in {
 | tree-sitter-nur | [2025-10-13](https://github.com/alkhizanah/tree-sitter-nur/tree/fed8074a0c9fc6d940adcd665e18fc0a63a46317) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
-| tree-sitter-objectscript | [1.10.0](https://github.com/intersystems/tree-sitter-objectscript/tree/1.10.0/objectscript) |
-| tree-sitter-objectscript_core | [1.10.0](https://github.com/intersystems/tree-sitter-objectscript/tree/1.10.0/core) |
-| tree-sitter-objectscript_expr | [1.10.0](https://github.com/intersystems/tree-sitter-objectscript/tree/1.10.0/expr) |
-| tree-sitter-objectscript_routine | [1.10.0](https://github.com/intersystems/tree-sitter-objectscript/tree/1.10.0/objectscript_routine) |
-| tree-sitter-objectscript_udl | [1.10.0](https://github.com/intersystems/tree-sitter-objectscript/tree/1.10.0/udl) |
+| tree-sitter-objectscript | [1.10.1](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.1/objectscript) |
+| tree-sitter-objectscript_core | [1.10.1](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.1/core) |
+| tree-sitter-objectscript_expr | [1.10.1](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.1/expr) |
+| tree-sitter-objectscript_routine | [1.10.1](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.1/objectscript_routine) |
+| tree-sitter-objectscript_udl | [1.10.1](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.1/udl) |
 | tree-sitter-ocaml | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/ocaml) |
 | tree-sitter-ocaml_interface | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/interface) |
 | tree-sitter-ocaml_type | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/type) |
@@ -550,7 +550,7 @@ in {
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2026-10-01](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/cca9f54ef805acdbca55bdbf79c2ddfda398e53a) |
+| tree-sitter-pyrope | [2026-10-02](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/66dda7f312f582ab1831623a2982558dc4a6e3fe) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.12](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.12) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
