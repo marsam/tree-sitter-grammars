@@ -206,7 +206,7 @@ in {
 | tree-sitter-dialogue | [2026-05-28](https://github.com/IntangibleMatter/tree-sitter-dialogue/tree/2e7e82f319fa2536d4f52f8a3da07e4c142a703e) |
 | tree-sitter-diff | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-diff/tree/v0.2.0) |
 | tree-sitter-disassembly | [1.3.1](https://github.com/ColinKennedy/tree-sitter-disassembly/tree/1.3.1) |
-| tree-sitter-djot | [2026-06-25](https://codeberg.org/treeman/tree-sitter-djot/src/ed551f3fdc504a04b1b84c78886d8bd8f244331d) |
+| tree-sitter-djot | [2026-09-28](https://codeberg.org/treeman/tree-sitter-djot/src/a84d5e011131f8f6b5c5dd9668f249a020c40018) |
 | tree-sitter-dockerfile | [0.2.0](https://github.com/camdencheek/tree-sitter-dockerfile/tree/v0.2.0) |
 | tree-sitter-dot | [2025-10-21](https://github.com/rydesun/tree-sitter-dot/tree/80327abbba6f47530edeb0df9f11bd5d5c93c14d) |
 | tree-sitter-dotbox | [2022-11-27](https://github.com/jakehamilton/tree-sitter-dotbox/tree/234f92d21f2a7b987477a763e117c58af47e429f) |
@@ -658,7 +658,7 @@ in {
 | tree-sitter-sus | [0.5.0](https://github.com/pc2/sus-compiler/tree/v0.5.0/tree-sitter-sus) |
 | tree-sitter-svelte | [1.0.2](https://github.com/tree-sitter-grammars/tree-sitter-svelte/tree/v1.0.2) |
 | tree-sitter-sway | [1.0.0](https://github.com/FuelLabs/tree-sitter-sway/tree/v1.0.0) |
-| tree-sitter-swift | [0.7.3](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.3) |
+| tree-sitter-swift | [0.7.4](https://github.com/alex-pinkus/tree-sitter-swift/tree/0.7.4) |
 | tree-sitter-swifter | [0.9.24](https://codeberg.org/woolsweater/tree-sitter-swifter/src/v0.9.24) |
 | tree-sitter-sxhkdrc | [2022-08-31](https://github.com/RaafatTurki/tree-sitter-sxhkdrc/tree/440d5f913d9465c9c776a1bd92334d32febcf065) |
 | tree-sitter-syncat_stylesheet | [3.8.0](https://github.com/foxfriends/syncat/tree/3.8.0/tree-sitter-syncat-stylesheet) |
