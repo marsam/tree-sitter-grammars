@@ -402,7 +402,7 @@ in {
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
-| tree-sitter-lean | [2026-09-06](https://github.com/Julian/tree-sitter-lean/tree/259a2daf7a699cc047221f1e043e4d045fcd6be2) |
+| tree-sitter-lean | [2026-10-04](https://github.com/Julian/tree-sitter-lean/tree/916c44f4d89c970f66dd34a49e7ce848f4d29e72) |
 | tree-sitter-ledger | [2026-09-25](https://github.com/cbarrete/tree-sitter-ledger/tree/d5f3973cfe2d42f98819336ce6334ada75b7696f) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |

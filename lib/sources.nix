@@ -2929,12 +2929,12 @@
     };
   };
   "tree-sitter-lean" = {
-    version = "unstable-2026-09-06";
+    version = "unstable-2026-10-04";
     src = fetchFromGitHub {
       owner = "Julian";
       repo = "tree-sitter-lean";
-      rev = "259a2daf7a699cc047221f1e043e4d045fcd6be2";
-      hash = "sha256-6g9DRLer/GZbGnv0qk8MEMGHJ84PHH/7ty4bbfNFvWw=";
+      rev = "916c44f4d89c970f66dd34a49e7ce848f4d29e72";
+      hash = "sha256-L62/JqAPc8e7RiNLo1t/gmSfilVI8nL6KYKKo2Kmegs=";
     };
   };
   "tree-sitter-ledger" = {
