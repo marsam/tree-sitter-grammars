@@ -252,7 +252,7 @@ in {
 | tree-sitter-fasm | [2024-11-21](https://github.com/wassup05/tree-sitter-fasm/tree/6b9e9de027273380d34ed705636c71481f0a2239) |
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
 | tree-sitter-faust | [1.2.0](https://github.com/khiner/tree-sitter-faust/tree/v1.2.0) |
-| tree-sitter-fennel | [2026-01-21](https://github.com/alexmozaidze/tree-sitter-fennel/tree/3f0f6b24d599e92460b969aabc4f4c5a914d15a0) |
+| tree-sitter-fennel | [2026-10-06](https://github.com/alexmozaidze/tree-sitter-fennel/tree/8c0d338cdb95285eb5d59a70b513ddaae374786c) |
 | tree-sitter-fga | [2026-03-19](https://github.com/matoous/tree-sitter-fga/tree/ce72d1c484ba133a18e966d67be66bce85695451) |
 | tree-sitter-fidl | [2026-09-28](https://github.com/google/tree-sitter-fidl/tree/bd81f6429a1539b05f52a4344bc9f6ac11d73d1f) |
 | tree-sitter-fin | [2024-07-04](https://github.com/fin-org/tree-sitter-fin/tree/33a570c1fd5118b0c00137b143d0e7e0e184bdef) |
@@ -353,7 +353,7 @@ in {
 | tree-sitter-idl | [3.18.0](https://github.com/cathaysia/tree-sitter-idl/tree/v3.18.0) |
 | tree-sitter-idris | [2026-09-11](https://github.com/kayhide/tree-sitter-idris/tree/9fe334fb603fdce0e84349ed78f41ae3d2f7036b) |
 | tree-sitter-iex | [2022-01-08](https://github.com/elixir-lang/tree-sitter-iex/tree/39f20bb51f502e32058684e893c0c0b00bb2332c) |
-| tree-sitter-ignis | [2026-08-20](https://github.com/Ignis-lang/tree-sitter-ignis/tree/5a862fc024da6c4417e031865dae6ed24a8a6fdd) |
+| tree-sitter-ignis | [2026-10-05](https://github.com/Ignis-lang/tree-sitter-ignis/tree/facdda064e38f5f65dd0f06955c0623c5d9186f9) |
 | tree-sitter-ini | [1.4.0](https://github.com/justinmk/tree-sitter-ini/tree/v1.4.0) |
 | tree-sitter-ink | [26.5.5](https://github.com/wldmr/tree-sitter-ink/tree/v26.5.5) |
 | tree-sitter-inko | [0.8.0](https://github.com/inko-lang/tree-sitter-inko/tree/v0.8.0) |
@@ -550,7 +550,7 @@ in {
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2026-10-02](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/66dda7f312f582ab1831623a2982558dc4a6e3fe) |
+| tree-sitter-pyrope | [2026-10-05](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/9807390890f3ec324f2ebdebd2c2bb585dbff411) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.12](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.12) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
