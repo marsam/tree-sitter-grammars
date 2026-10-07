@@ -136,12 +136,12 @@
     };
   };
   "tree-sitter-php" = {
-    version = "0.25.0";
+    version = "0.25.1";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-php";
-      rev = "v0.25.0";
-      hash = "sha256-EkKYb9jatSl0/o+7tO2O3vx44ufDmZ4YJ/6t4il/Yk0=";
+      rev = "v0.25.1";
+      hash = "sha256-L8c2OkkwryR5wpqYS++Zn8ZJ85wr//dvH2oe1PJcE8o=";
     };
   };
   "tree-sitter-python" = {

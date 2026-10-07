@@ -513,8 +513,8 @@ in {
 | tree-sitter-perm | [0.0.1](https://github.com/theoriginalstove/tree-sitter-perm/tree/v0.0.1) |
 | tree-sitter-pest | [0.1.0](https://github.com/pest-parser/tree-sitter-pest/tree/v0.1.0) |
 | tree-sitter-pgn | [1.4.4](https://github.com/rolandwalker/tree-sitter-pgn/tree/v1.4.4) |
-| tree-sitter-php | [0.25.0](https://github.com/tree-sitter/tree-sitter-php/tree/v0.25.0/php) |
-| tree-sitter-php_only | [0.25.0](https://github.com/tree-sitter/tree-sitter-php/tree/v0.25.0/php_only) |
+| tree-sitter-php | [0.25.1](https://github.com/tree-sitter/tree-sitter-php/tree/v0.25.1/php) |
+| tree-sitter-php_only | [0.25.1](https://github.com/tree-sitter/tree-sitter-php/tree/v0.25.1/php_only) |
 | tree-sitter-phpdoc | [0.1.8](https://github.com/claytonrcarter/tree-sitter-phpdoc/tree/v0.1.8) |
 | tree-sitter-pic | [2025-12-14](https://github.com/smoeding/tree-sitter-pic/tree/c02aa6060c06147fec52a784a92b3f88f3610462) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
