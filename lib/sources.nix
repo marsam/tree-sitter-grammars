@@ -1559,12 +1559,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "0.20";
+    version = "0.21.0";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "0.20";
-      hash = "sha256-gtcpOFhtzS/xeDmUWKbBWiLgHo3DavzRqLGD21/Vxc8=";
+      rev = "0.21.0";
+      hash = "sha256-K4ytlHKE5YW8gu1YvXVv9bKrpU6o0I7NNP0kXcV4mSk=";
     };
   };
   "tree-sitter-esdl" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.10.1";
+    version = "2026.10.8";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.10.1";
-      hash = "sha256-8E9U8ipr587DIfRot34HoEguekx95spoXkEcdPM3WJI=";
+      rev = "2026.10.8";
+      hash = "sha256-PhNHsWjqTmchRH+noVQcwCFNNyA6/RvPiwDDquBuQFo=";
     };
   };
   "tree-sitter-ssh_config" = {
