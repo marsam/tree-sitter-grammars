@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2026-09-28";
+    version = "unstable-2026-10-08";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "ffdae3d79b838104d74a19dd3896dadc62587186";
-      hash = "sha256-twUESeG6tm1U5MG7afmWx9w1oEVilhLgDWNA8KNPHCI=";
+      rev = "e88e372aeeba3965e4f767a86679198592238b45";
+      hash = "sha256-BaW7v5D+eU0IA8qXSZwB6WA2NEZ4rE5l2cw6PvCW1LA=";
     };
   };
   "tree-sitter-cairo" = {
@@ -1081,12 +1081,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-09-17";
+    version = "unstable-2026-10-09";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "7d505ca70458e943240a8134a2ee93377d1b44b0";
-      hash = "sha256-21Tm+AXhADmUZ0seYqLqR/VJr8uyySURTib6H1FMXd4=";
+      rev = "6c5c43083da1a81248ebcfc1e3c46f8f82f6fa5e";
+      hash = "sha256-uwaMsez5VdQ6C1N8//jh/sZssTlZL6hMrlPMTA05XPc=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -3298,12 +3298,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-10-03";
+    version = "unstable-2026-10-09";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "15c6e3f56467c6ff215d3a15de0ef1167439c9cc";
-      hash = "sha256-IN+VZsN46R0NVouWaI6p9YxujHKeiLDOFBhwFvu4QOM=";
+      rev = "0c6800f05e13de91ccb0e378f82cda13536e0ea2";
+      hash = "sha256-Sqrj+C80BQP0wCXfs+ORaTlYYA6wyVTLDpUyHNKfIYo=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4614,12 +4614,12 @@
     };
   };
   "tree-sitter-slint" = {
-    version = "unstable-2026-09-17";
+    version = "unstable-2026-10-09";
     src = fetchFromGitHub {
       owner = "slint-ui";
       repo = "tree-sitter-slint";
-      rev = "7f3e775941f0268334c5219586d5811229ffcf34";
-      hash = "sha256-7RJzHXwqRzDb8tvYAs+J6o3gZB5L1R+oak6uhNUMhFc=";
+      rev = "b494447aeb10e540b9f0fbde08748c052859e42d";
+      hash = "sha256-pUJKECB118KsJgV1oV/YVxRKf+f/SyuBEFiiZO7Mf2Y=";
     };
   };
   "tree-sitter-smali" = {
