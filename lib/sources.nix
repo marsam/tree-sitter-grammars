@@ -1189,12 +1189,12 @@
     };
   };
   "tree-sitter-dart" = {
-    version = "unstable-2026-07-07";
+    version = "unstable-2026-10-14";
     src = fetchFromGitHub {
       owner = "UserNobody14";
       repo = "tree-sitter-dart";
-      rev = "be07cf7118d3dba06236a3f19541685a68209934";
-      hash = "sha256-BPy4K3mjVBFdAtkVJBa8JCaWwRiO73khO32lh0rlcfw=";
+      rev = "3f0c7a8309d89927e7cc6bef39569c815fddb2e5";
+      hash = "sha256-4LL6asiSdDLDXIPtGoXdDVqPMzK0BNshbMmNwebTCxA=";
     };
   };
   "tree-sitter-datazinc" = {
@@ -2072,12 +2072,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "4.2.0";
+    version = "4.2.1";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v4.2.0";
-      hash = "sha256-gnOTaD18ouEuEjO0gRW4ZlqNavQwjMPo6rrP1SO4ujI=";
+      rev = "v4.2.1";
+      hash = "sha256-0cWMl/2VY9WHw2fJbVKRaJhyFJw0HsQjyuQZdmwzl9M=";
     };
   };
   "tree-sitter-gobra" = {
@@ -2559,12 +2559,12 @@
     };
   };
   "tree-sitter-inko" = {
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchFromGitHub {
       owner = "inko-lang";
       repo = "tree-sitter-inko";
-      rev = "v0.8.0";
-      hash = "sha256-Jud0/5vgm3hF94lXu2i6rxHHvpMWFH3y5ye9jIrjmZk=";
+      rev = "v0.9.0";
+      hash = "sha256-thSOSJLxRztyp3krxS2yGUTCof42JotCcFmK08/Lb4M=";
     };
   };
   "tree-sitter-integerbasic" = {
@@ -5020,13 +5020,13 @@
     };
   };
   "tree-sitter-t32" = {
-    version = "9.0.2";
+    version = "9.0.3";
     src = fetchFromGitea {
       domain = "codeberg.org";
       owner = "xasc";
       repo = "tree-sitter-t32";
-      rev = "v9.0.2";
-      hash = "sha256-hs0JHC4SOC4LvBQTMv/kKDQnW590p6waPHuO58CUaUw=";
+      rev = "v9.0.3";
+      hash = "sha256-tM0xN+boHCJzK16jRZKQYk/KkwEBut7KGZxj8KDHMMg=";
     };
   };
   "tree-sitter-tablegen" = {
@@ -5201,12 +5201,12 @@
     };
   };
   "tree-sitter-tmux" = {
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchFromGitHub {
       owner = "Freed-Wu";
       repo = "tree-sitter-tmux";
-      rev = "0.1.4";
-      hash = "sha256-L0MBSDLrtwwl4K5G2AB5I8egkmA2kN66nZ7GqWAIc8g=";
+      rev = "0.1.5";
+      hash = "sha256-zrtzLpFk+k0ESMI4d+vOeTSl2hIxBk/FwIh3oobVf5A=";
     };
   };
   "tree-sitter-tmuxf" = {
