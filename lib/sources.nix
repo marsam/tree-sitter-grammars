@@ -4380,12 +4380,12 @@
     };
   };
   "tree-sitter-roc" = {
-    version = "unstable-2026-08-22";
+    version = "unstable-2026-10-15";
     src = fetchFromGitHub {
       owner = "faldor20";
       repo = "tree-sitter-roc";
-      rev = "2760de95b87004ed537151f2467377a6ddafdef0";
-      hash = "sha256-+J7PRYVD4J4mGJIvZnmSKuwGG/vdNkVPuEmCTq8mtwI=";
+      rev = "7f9ae855ba7819c5d9279853691fd072e233226b";
+      hash = "sha256-4iLryTwjduSQh4hNjhF98xThw3K9GT9iBEslCMpPC9o=";
     };
   };
   "tree-sitter-rocq" = {

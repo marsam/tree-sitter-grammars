@@ -585,7 +585,7 @@ in {
 | tree-sitter-rnoweb | [2024-03-14](https://github.com/bamonroe/tree-sitter-rnoweb/tree/1a74dc0ed731ad07db39f063e2c5a6fe528cae7f) |
 | tree-sitter-robot | [1.5.0](https://github.com/Hubro/tree-sitter-robot/tree/v1.5.0) |
 | tree-sitter-robots_txt | [1.0.1](https://github.com/opa-oz/tree-sitter-robots-txt/tree/v1.0.1) |
-| tree-sitter-roc | [2026-08-22](https://github.com/faldor20/tree-sitter-roc/tree/2760de95b87004ed537151f2467377a6ddafdef0) |
+| tree-sitter-roc | [2026-10-15](https://github.com/faldor20/tree-sitter-roc/tree/7f9ae855ba7819c5d9279853691fd072e233226b) |
 | tree-sitter-rocq | [2025-08-17](https://github.com/lamg/tree-sitter-rocq/tree/051e6cf9c2c37eadc447551097d6ea9a523e8afd) |
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
 | tree-sitter-rpmbash | [2026-05-01](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/7d1557162655f677729dca90cc180aca657053ec/rpmbash) |
