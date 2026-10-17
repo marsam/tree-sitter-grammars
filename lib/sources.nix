@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2026-10-08";
+    version = "unstable-2026-10-16";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "e88e372aeeba3965e4f767a86679198592238b45";
-      hash = "sha256-BaW7v5D+eU0IA8qXSZwB6WA2NEZ4rE5l2cw6PvCW1LA=";
+      rev = "b352f9e55faec5e63536e22686fb03c19059723b";
+      hash = "sha256-Y7fS300XrnT5SsiDIoxuvXsNjl13yoXyCsUlI7IIPkI=";
     };
   };
   "tree-sitter-cairo" = {
@@ -5507,12 +5507,12 @@
     };
   };
   "tree-sitter-vimdoc" = {
-    version = "4.2.0";
+    version = "4.3.0";
     src = fetchFromGitHub {
       owner = "neovim";
       repo = "tree-sitter-vimdoc";
-      rev = "v4.2.0";
-      hash = "sha256-gFkenbn90DZV5rvkpnbQoNznaB/pTnorx/MbZEToaFE=";
+      rev = "v4.3.0";
+      hash = "sha256-rRH3RhZGuBTW7S4pzvvGlDl2YPc426/ZEbLlhZWkvtw=";
     };
   };
   "tree-sitter-virgil" = {

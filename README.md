@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-10-08](https://github.com/caddyserver/tree-sitter-caddyfile/tree/e88e372aeeba3965e4f767a86679198592238b45) |
+| tree-sitter-caddyfile | [2026-10-16](https://github.com/caddyserver/tree-sitter-caddyfile/tree/b352f9e55faec5e63536e22686fb03c19059723b) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -725,7 +725,7 @@ in {
 | tree-sitter-vhdl | [2.0.3](https://github.com/jpt13653903/tree-sitter-vhdl/tree/v2.0.3) |
 | tree-sitter-vhs | [2025-03-26](https://github.com/charmbracelet/tree-sitter-vhs/tree/0c6fae9d2cfc5b217bfd1fe84a7678f5917116db) |
 | tree-sitter-vim | [0.8.1](https://github.com/tree-sitter-grammars/tree-sitter-vim/tree/v0.8.1) |
-| tree-sitter-vimdoc | [4.2.0](https://github.com/neovim/tree-sitter-vimdoc/tree/v4.2.0) |
+| tree-sitter-vimdoc | [4.3.0](https://github.com/neovim/tree-sitter-vimdoc/tree/v4.3.0) |
 | tree-sitter-virgil | [2024-07-05](https://github.com/btwj/tree-sitter-virgil/tree/8e6907839b384af9019f4d52ee24d7b7cfb9cf70) |
 | tree-sitter-void | [2024-07-16](https://github.com/ge0mk/tree-sitter-void/tree/82ba59e160925a646b9b3c5e3aad846124cd4d05) |
 | tree-sitter-vola | [2026-09-29](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/8f937bcfdeb39257189d8b4372316c0098d1133f) |
