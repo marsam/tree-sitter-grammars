@@ -218,7 +218,7 @@ in {
 | tree-sitter-ebnf | [2023-02-06](https://github.com/RubixDev/ebnf/tree/8e635b0b723c620774dfb8abf382a7f531894b40/crates/tree-sitter-ebnf) |
 | tree-sitter-edge | [2024-10-16](https://github.com/Kenzo-Wada/tree-sitter-edge/tree/6a60f9bf8f4f07ae691f0ddb621d0a9272490fac) |
 | tree-sitter-editorconfig | [2.0.0](https://github.com/ValdezFOmar/tree-sitter-editorconfig/tree/v2.0.0) |
-| tree-sitter-edl | [2025-03-02](https://github.com/LateinCecer/tree-sitter-edl/tree/daf12caf1aa73e6bc64eacab3870546acaf8afb6) |
+| tree-sitter-edl | [2026-10-20](https://github.com/LateinCecer/tree-sitter-edl/tree/9db03f523076cb32e35e77e8f71904e7d12cc012) |
 | tree-sitter-edoc | [2022-11-23](https://github.com/the-mikedavis/tree-sitter-edoc/tree/74774af7b45dd9cefbf9510328fc6ff2374afc50) |
 | tree-sitter-eds | [2024-10-14](https://github.com/uyha/tree-sitter-eds/tree/26d529e6cfecde391a03c21d1474eb51e0285805) |
 | tree-sitter-eex | [0.1.0](https://github.com/connorlay/tree-sitter-eex/tree/v0.1.0) |
@@ -590,7 +590,7 @@ in {
 | tree-sitter-ron | [0.2.0](https://github.com/tree-sitter-grammars/tree-sitter-ron/tree/v0.2.0) |
 | tree-sitter-rpmbash | [2026-05-01](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/7d1557162655f677729dca90cc180aca657053ec/rpmbash) |
 | tree-sitter-rpmspec | [2026-05-01](https://gitlab.com/cryptomilk/tree-sitter-rpmspec//tree/7d1557162655f677729dca90cc180aca657053ec/rpmspec) |
-| tree-sitter-rshtml | [0.1.6](https://github.com/rshtml/tree-sitter-rshtml/tree/v0.1.6) |
+| tree-sitter-rshtml | [0.1.7](https://github.com/rshtml/tree-sitter-rshtml/tree/v0.1.7) |
 | tree-sitter-rslox | [0.1.1](https://github.com/boycgit/tree-sitter-rslox/tree/0.1.1) |
 | tree-sitter-rson | [2025-02-13](https://github.com/TheNeikos/tree-sitter-rson/tree/39929d6a84a931683df44fa2fa91c7f2cb0be069) |
 | tree-sitter-rst | [0.2.0](https://github.com/stsewd/tree-sitter-rst/tree/v0.2.0) |
