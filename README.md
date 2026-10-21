@@ -218,7 +218,7 @@ in {
 | tree-sitter-ebnf | [2023-02-06](https://github.com/RubixDev/ebnf/tree/8e635b0b723c620774dfb8abf382a7f531894b40/crates/tree-sitter-ebnf) |
 | tree-sitter-edge | [2024-10-16](https://github.com/Kenzo-Wada/tree-sitter-edge/tree/6a60f9bf8f4f07ae691f0ddb621d0a9272490fac) |
 | tree-sitter-editorconfig | [2.0.0](https://github.com/ValdezFOmar/tree-sitter-editorconfig/tree/v2.0.0) |
-| tree-sitter-edl | [2026-10-20](https://github.com/LateinCecer/tree-sitter-edl/tree/9db03f523076cb32e35e77e8f71904e7d12cc012) |
+| tree-sitter-edl | [2026-10-20](https://github.com/LateinCecer/tree-sitter-edl/tree/733e7f6b134757595248b603910dc0de17325bac) |
 | tree-sitter-edoc | [2022-11-23](https://github.com/the-mikedavis/tree-sitter-edoc/tree/74774af7b45dd9cefbf9510328fc6ff2374afc50) |
 | tree-sitter-eds | [2024-10-14](https://github.com/uyha/tree-sitter-eds/tree/26d529e6cfecde391a03c21d1474eb51e0285805) |
 | tree-sitter-eex | [0.1.0](https://github.com/connorlay/tree-sitter-eex/tree/v0.1.0) |
@@ -446,7 +446,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-10-11](https://github.com/shackle-rs/shackle/tree/bf85782079b79e65d7858c5b61d072b3d54f85d5/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-10-12](https://github.com/artagnon/tree-sitter-mlir/tree/103d1d89836cf07d986ad7c0aeca5f154e4574d7) |
+| tree-sitter-mlir | [2026-10-20](https://github.com/artagnon/tree-sitter-mlir/tree/0954bc6ce5b53dcc9e3d616aa85be47c9e6c6dd2) |
 | tree-sitter-mojo | [2026-10-14](https://github.com/lsh/tree-sitter-mojo/tree/e5905c480b9ebbeb4195032805781a5e535547f7) |
 | tree-sitter-moonbit | [2026-07-22](https://github.com/moonbitlang/tree-sitter-moonbit/tree/5435c307c6cf2ef0d508a99047b06f35a4308444) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |

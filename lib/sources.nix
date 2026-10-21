@@ -1392,8 +1392,8 @@
     src = fetchFromGitHub {
       owner = "LateinCecer";
       repo = "tree-sitter-edl";
-      rev = "9db03f523076cb32e35e77e8f71904e7d12cc012";
-      hash = "sha256-dpYyd5IfVKQ2RXoO9NHNpstOXSPBwNVudmlEthXViJ4=";
+      rev = "733e7f6b134757595248b603910dc0de17325bac";
+      hash = "sha256-kT6JJuPfyQkceQouWpocX52LNShmuXSGLFalv+mk3QU=";
     };
   };
   "tree-sitter-edoc" = {
@@ -3298,12 +3298,12 @@
     };
   };
   "tree-sitter-mlir" = {
-    version = "unstable-2026-10-12";
+    version = "unstable-2026-10-20";
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "103d1d89836cf07d986ad7c0aeca5f154e4574d7";
-      hash = "sha256-pLvXWLTFkWP7bdR1oafZE/GI8QorT8jkTQdtY+w947U=";
+      rev = "0954bc6ce5b53dcc9e3d616aa85be47c9e6c6dd2";
+      hash = "sha256-I62bgpLoQXFm13DMlXmcCQoMx8BtmbUgQVxYYCgKWNo=";
     };
   };
   "tree-sitter-mojo" = {
