@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-10-16](https://github.com/caddyserver/tree-sitter-caddyfile/tree/b352f9e55faec5e63536e22686fb03c19059723b) |
+| tree-sitter-caddyfile | [2026-10-22](https://github.com/caddyserver/tree-sitter-caddyfile/tree/86e8f31101b5a2795b966d4c2e85bbe3c977f519) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -484,11 +484,11 @@ in {
 | tree-sitter-nur | [2025-10-13](https://github.com/alkhizanah/tree-sitter-nur/tree/fed8074a0c9fc6d940adcd665e18fc0a63a46317) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
-| tree-sitter-objectscript | [1.10.2](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.2/objectscript) |
-| tree-sitter-objectscript_core | [1.10.2](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.2/core) |
-| tree-sitter-objectscript_expr | [1.10.2](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.2/expr) |
-| tree-sitter-objectscript_routine | [1.10.2](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.2/objectscript_routine) |
-| tree-sitter-objectscript_udl | [1.10.2](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.10.2/udl) |
+| tree-sitter-objectscript | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/objectscript) |
+| tree-sitter-objectscript_core | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/core) |
+| tree-sitter-objectscript_expr | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/expr) |
+| tree-sitter-objectscript_routine | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/objectscript_routine) |
+| tree-sitter-objectscript_udl | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/udl) |
 | tree-sitter-ocaml | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/ocaml) |
 | tree-sitter-ocaml_interface | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/interface) |
 | tree-sitter-ocaml_type | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/type) |
