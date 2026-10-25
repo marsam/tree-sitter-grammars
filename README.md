@@ -313,7 +313,7 @@ in {
 | tree-sitter-gram | [0.3.11](https://github.com/gram-data/tree-sitter-gram/tree/v0.3.11) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/gren-lang/tree-sitter-gren/tree/v2.0.0) |
-| tree-sitter-gritql | [2026-06-04](https://github.com/biomejs/tree-sitter-gritql/tree/7e3e1a74e82c7a5caac1e58884067289f0ebae51) |
+| tree-sitter-gritql | [2026-10-25](https://github.com/biomejs/tree-sitter-gritql/tree/ecaec54b30685c23e65013b2f116a1fb65284f2e) |
 | tree-sitter-groovy | [2026-09-27](https://github.com/murtaza64/tree-sitter-groovy/tree/2a6ddd558b6aa39c5b77d8db9fe9baf817486b2c) |
 | tree-sitter-gstlaunch | [0.1.0](https://github.com/tree-sitter-grammars/tree-sitter-gstlaunch/tree/v0.1.0) |
 | tree-sitter-gularen | [2025-11-07](https://github.com/noorwachid/tree-sitter-gularen/tree/9b089d770db747cf9239b237e1fc356a06591139) |
@@ -427,8 +427,8 @@ in {
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
-| tree-sitter-markdown | [0.5.3](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.3/tree-sitter-markdown) |
-| tree-sitter-markdown_inline | [0.5.3](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.3/tree-sitter-markdown-inline) |
+| tree-sitter-markdown | [0.5.4](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.4/tree-sitter-markdown) |
+| tree-sitter-markdown_inline | [0.5.4](https://github.com/tree-sitter-grammars/tree-sitter-markdown/tree/v0.5.4/tree-sitter-markdown-inline) |
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
 | tree-sitter-mathprog | [1.0.0](https://github.com/smoeding/tree-sitter-mathprog/tree/v1.0.0) |

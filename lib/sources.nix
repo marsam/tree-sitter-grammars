@@ -2198,12 +2198,12 @@
     };
   };
   "tree-sitter-gritql" = {
-    version = "unstable-2026-06-04";
+    version = "unstable-2026-10-25";
     src = fetchFromGitHub {
       owner = "biomejs";
       repo = "tree-sitter-gritql";
-      rev = "7e3e1a74e82c7a5caac1e58884067289f0ebae51";
-      hash = "sha256-9E8HU7nbzD9oMwXCe+U09fAhxTL9WeGu7RuWyUkFy2Y=";
+      rev = "ecaec54b30685c23e65013b2f116a1fb65284f2e";
+      hash = "sha256-LxdiSPJQCGXpCti0LQVqHwMmqpxbsPAb8Q9X+D1FM80=";
     };
   };
   "tree-sitter-groovy" = {
@@ -3145,12 +3145,12 @@
     };
   };
   "tree-sitter-markdown" = {
-    version = "0.5.3";
+    version = "0.5.4";
     src = fetchFromGitHub {
       owner = "tree-sitter-grammars";
       repo = "tree-sitter-markdown";
-      rev = "v0.5.3";
-      hash = "sha256-WUVN7+lzDI+VC5PuJjhHiS4JpVr1x0Ic30i2tVrI6W8=";
+      rev = "v0.5.4";
+      hash = "sha256-8T5EiN8t6nMaKndAxff1hl2DIAhTQY/58oavD9ZrJ5c=";
     };
   };
   "tree-sitter-marte" = {
