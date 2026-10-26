@@ -74,11 +74,11 @@ in {
 | tree-sitter-abl | [0.0.54](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.54) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
-| tree-sitter-ada | [2026-10-17](https://github.com/briot/tree-sitter-ada/tree/732287de54ae608d359baa3be5bf632b7cd673bd) |
+| tree-sitter-ada | [2026-10-25](https://github.com/briot/tree-sitter-ada/tree/477421622b2d693c285c4a4b766de1922b4c4645) |
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
-| tree-sitter-al | [4.4.1](https://github.com/SShadowS/tree-sitter-al/tree/v4.4.1) |
+| tree-sitter-al | [4.5.0](https://github.com/SShadowS/tree-sitter-al/tree/v4.5.0) |
 | tree-sitter-alcha | [0.2.0](https://github.com/jpt13653903/tree-sitter-alcha/tree/v0.2.0) |
 | tree-sitter-alfa | [2024-12-07](https://github.com/achrinza/tree-sitter-alfa/tree/85422f0200f07e73c3913c1a247023e2d1ccfeb9) |
 | tree-sitter-alv | [0.4.0](https://github.com/s-ol/tree-sitter-alv/tree/v0.4.0) |
