@@ -74,7 +74,7 @@ in {
 | tree-sitter-abl | [0.0.54](https://github.com/usagi-coffee/tree-sitter-abl/tree/v0.0.54) |
 | tree-sitter-abnf | [1.0.0](https://github.com/jmitchell/tree-sitter-abnf/tree/1.0.0) |
 | tree-sitter-actionscript | [2023-04-18](https://github.com/Rileran/tree-sitter-actionscript/tree/24919034fc78fdf9bedaac6616b6a60af20ab9b5) |
-| tree-sitter-ada | [2026-10-25](https://github.com/briot/tree-sitter-ada/tree/477421622b2d693c285c4a4b766de1922b4c4645) |
+| tree-sitter-ada | [2026-10-28](https://github.com/briot/tree-sitter-ada/tree/b1d2035a83c43c0c66bf249ef8188ddfd12b9ca0) |
 | tree-sitter-adl | [2024-04-03](https://github.com/adl-lang/tree-sitter-adl/tree/2787d04beadfbe154d3f2da6e98dc45a1b134bbf) |
 | tree-sitter-agda | [1.3.3](https://github.com/tree-sitter/tree-sitter-agda/tree/v1.3.3) |
 | tree-sitter-aiken | [2024-08-12](https://github.com/aiken-lang/tree-sitter-aiken/tree/229c5fa484468e0fd13f6264710a7f6cbb7436f1) |
@@ -180,7 +180,7 @@ in {
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
 | tree-sitter-crystal | [2025-10-12](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/50ca9e6fcfb16a2cbcad59203cfd8ad650e25c49) |
-| tree-sitter-csound | [2026-10-23](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/adfa06e410c51335823c3537b2c724a3cf7b24f8) |
+| tree-sitter-csound | [2026-10-27](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/09e553dcc7a256c841f3fe50a8b2d8f0515b47c8) |
 | tree-sitter-css | [0.25.0](https://github.com/tree-sitter/tree-sitter-css/tree/v0.25.0) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -253,7 +253,7 @@ in {
 | tree-sitter-fastbuild | [0.0.1](https://github.com/pinbraerts/tree-sitter-fastbuild/tree/v0.0.1) |
 | tree-sitter-faust | [1.2.0](https://github.com/khiner/tree-sitter-faust/tree/v1.2.0) |
 | tree-sitter-fennel | [2026-10-06](https://github.com/alexmozaidze/tree-sitter-fennel/tree/8c0d338cdb95285eb5d59a70b513ddaae374786c) |
-| tree-sitter-fga | [2026-10-15](https://github.com/matoous/tree-sitter-fga/tree/e7c15c74c00447533c767faa3d5065e59e8e78f1) |
+| tree-sitter-fga | [2026-10-28](https://github.com/matoous/tree-sitter-fga/tree/b17d4593107baea124197bc8a034579c90e9ff12) |
 | tree-sitter-fidl | [2026-09-28](https://github.com/google/tree-sitter-fidl/tree/bd81f6429a1539b05f52a4344bc9f6ac11d73d1f) |
 | tree-sitter-fin | [2024-07-04](https://github.com/fin-org/tree-sitter-fin/tree/33a570c1fd5118b0c00137b143d0e7e0e184bdef) |
 | tree-sitter-firrtl | [2024-04-20](https://github.com/tree-sitter-grammars/tree-sitter-firrtl/tree/8503d3a0fe0f9e427863cb0055699ff2d29ae5f5) |
@@ -446,7 +446,7 @@ in {
 | tree-sitter-metal | [2025-05-20](https://github.com/save-buffer/tree-sitter-metal/tree/132410f7fca607991490ac254824a2679bd5b20c) |
 | tree-sitter-minizinc | [2026-10-27](https://github.com/shackle-rs/shackle/tree/0e595284c28dbf56c095985f17436884e3533091/parsers/tree-sitter-minizinc) |
 | tree-sitter-mips | [0.3.1](https://github.com/omeyenburg/tree-sitter-mips/tree/v0.3.1) |
-| tree-sitter-mlir | [2026-10-23](https://github.com/artagnon/tree-sitter-mlir/tree/ef2bc7a82574bd29487ff355e6b0bbd3fb109d33) |
+| tree-sitter-mlir | [2026-10-28](https://github.com/artagnon/tree-sitter-mlir/tree/6b031ff5ebc6afae5adce72ae6631436d378e121) |
 | tree-sitter-mojo | [2026-10-14](https://github.com/lsh/tree-sitter-mojo/tree/e5905c480b9ebbeb4195032805781a5e535547f7) |
 | tree-sitter-moonbit | [2026-07-22](https://github.com/moonbitlang/tree-sitter-moonbit/tree/5435c307c6cf2ef0d508a99047b06f35a4308444) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
@@ -531,7 +531,7 @@ in {
 | tree-sitter-possum | [2024-11-16](https://github.com/mulias/tree-sitter-possum/tree/670eaef36883cd5f772160b9918c6b0003d22320) |
 | tree-sitter-postscript | [1.3.0](https://github.com/smoeding/tree-sitter-postscript/tree/v1.3.0) |
 | tree-sitter-poweron | [1.0.12](https://github.com/phileagleson/tree-sitter-poweron/tree/v1.0.12) |
-| tree-sitter-powershell | [0.26.5](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.26.5) |
+| tree-sitter-powershell | [0.26.6](https://github.com/airbus-cert/tree-sitter-powershell/tree/v0.26.6) |
 | tree-sitter-preproc | [0.0.25](https://github.com/mozilla/rust-code-analysis/tree/v0.0.25/tree-sitter-preproc) |
 | tree-sitter-printf | [0.5.1](https://github.com/tree-sitter-grammars/tree-sitter-printf/tree/v0.5.1) |
 | tree-sitter-prisma | [1.6.0](https://github.com/victorhqc/tree-sitter-prisma/tree/v1.6.0) |
