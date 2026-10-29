@@ -640,12 +640,12 @@
     };
   };
   "tree-sitter-bpftrace" = {
-    version = "0.4.1";
+    version = "0.5.0";
     src = fetchFromGitHub {
       owner = "sgruszka";
       repo = "tree-sitter-bpftrace";
-      rev = "v0.4.1";
-      hash = "sha256-Kmr/a4pazV3k21M0KDNPSUJgvsXKicnB6MZ70Juufiw=";
+      rev = "v0.5.0";
+      hash = "sha256-BcULyoFqcuG/5KI2MV80tz2qn2Ue+MWa/0IeZGu/PeM=";
     };
   };
   "tree-sitter-bqn" = {
@@ -1081,12 +1081,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "unstable-2026-10-27";
+    version = "1.6.3";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "09e553dcc7a256c841f3fe50a8b2d8f0515b47c8";
-      hash = "sha256-rMoDKsuSXS6goXHKHwdNED90lszq6IYU/8/Fl0riWg4=";
+      rev = "v1.6.3";
+      hash = "sha256-jqZlEeGpvHq6dm7Mb7tfTmZiy6tb4GTqS+1Om1RQJKs=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -3302,8 +3302,8 @@
     src = fetchFromGitHub {
       owner = "artagnon";
       repo = "tree-sitter-mlir";
-      rev = "6b031ff5ebc6afae5adce72ae6631436d378e121";
-      hash = "sha256-P2znTWpTcgR8L42uaxVUw08DV+NNYnrxKoWv9J+mofE=";
+      rev = "a07be11d7689880d6ad867c0dbe1d68e34ddc626";
+      hash = "sha256-9l7Sgl1rCgb4owWkJe9gdJyou/0PEX7xS0u8txhLZ3Y=";
     };
   };
   "tree-sitter-mojo" = {
@@ -4794,12 +4794,12 @@
     };
   };
   "tree-sitter-ssh_client_config" = {
-    version = "2026.10.15";
+    version = "2026.10.29";
     src = fetchFromGitHub {
       owner = "metio";
       repo = "tree-sitter-ssh-client-config";
-      rev = "2026.10.15";
-      hash = "sha256-UZL/JxyxCLCez8A5PPcbA0wNzRENMR4sB1HIxDeO0FY=";
+      rev = "2026.10.29";
+      hash = "sha256-FfVUU9S6R54tAt4r8P5sC87Kjr5c6ybOshZhquKMYXs=";
     };
   };
   "tree-sitter-ssh_config" = {
@@ -5858,12 +5858,12 @@
     };
   };
   "tree-sitter-ziggy" = {
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchFromGitHub {
       owner = "kristoff-it";
       repo = "ziggy";
-      rev = "v0.2.0";
-      hash = "sha256-luLYcGQ/2yi5SZbv1l7Be9LcizqiZdJY1i6TuxqFLdg=";
+      rev = "v0.3.0";
+      hash = "sha256-cRUb4kSZnvvj3N0VyGQr65H2DCllqnb/sSgwJkx1YIA=";
     };
   };
   "tree-sitter-zote" = {
