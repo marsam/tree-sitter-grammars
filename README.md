@@ -150,9 +150,9 @@ in {
 | tree-sitter-cedarentities | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarentities) |
 | tree-sitter-cedarschema | [0.12.0](https://github.com/DuskSystems/tree-sitter-cedar/tree/v0.12.0/cedarschema) |
 | tree-sitter-cel | [2026-03-04](https://github.com/bufbuild/tree-sitter-cel/tree/fd2e8efaa07e71e46dcc1d5c4c85556a742d8c36) |
-| tree-sitter-cfml | [0.26.43](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.43/cfml) |
-| tree-sitter-cfquery | [0.26.43](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.43/cfquery) |
-| tree-sitter-cfscript | [0.26.43](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.43/cfscript) |
+| tree-sitter-cfml | [0.26.44](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.44/cfml) |
+| tree-sitter-cfquery | [0.26.44](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.44/cfquery) |
+| tree-sitter-cfscript | [0.26.44](https://github.com/cfmleditor/tree-sitter-cfml/tree/v0.26.44/cfscript) |
 | tree-sitter-cgsql | [2025-03-09](https://github.com/ricomariani/tree-sitter-cgsql/tree/a52fd004e5977b886b931a54b1bdcbd91101d862) |
 | tree-sitter-chatito | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-chatito/tree/v0.5.0) |
 | tree-sitter-chuck | [2026-03-28](https://github.com/tymbalodeon/tree-sitter-chuck/tree/68fb7bdba480915d87177feaa5593a666c0bb602) |
@@ -161,7 +161,7 @@ in {
 | tree-sitter-clojure | [0.0.13](https://github.com/sogaiu/tree-sitter-clojure/tree/v0.0.13) |
 | tree-sitter-cloudflare | [2024-09-09](https://github.com/nfowl/tree-sitter-cloudflare/tree/6cfec8711ca7b1a6e24a710d7987f6286d504caa) |
 | tree-sitter-clue | [2025-06-19](https://github.com/ClueLang/tree-sitter-clue/tree/25da59462e3cdf4df1c7b5d7935a3534ffe474c5) |
-| tree-sitter-cmake | [0.7.5](https://github.com/uyha/tree-sitter-cmake/tree/v0.7.5) |
+| tree-sitter-cmake | [0.7.6](https://github.com/uyha/tree-sitter-cmake/tree/v0.7.6) |
 | tree-sitter-coalton | [2025-08-06](https://github.com/coalton-lang/coalton-labs/tree/27df099f45cb40968662b5ea97dda0eb394c568f/tree-sitter-coalton) |
 | tree-sitter-cobol | [0.1.1](https://github.com/yutaro-sakamoto/tree-sitter-cobol/tree/0.1.1) |
 | tree-sitter-cognate | [2025-07-14](https://github.com/hedyhli/tree-sitter-cognate/tree/d05bf8220010ef85b203cf8e4c6e68fa6feeb43e) |
@@ -261,7 +261,7 @@ in {
 | tree-sitter-flamingo | [0.1.4](https://github.com/inobulles/tree-sitter-flamingo/tree/v0.1.4) |
 | tree-sitter-fluentbit | [0.1.0](https://github.com/sh-cho/tree-sitter-fluentbit/tree/v0.1.0) |
 | tree-sitter-foam | [0.4.4](https://github.com/FoamScience/tree-sitter-foam/tree/v0.4.4) |
-| tree-sitter-fodot | [2026-09-29](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/e3f41d2cd2d10cae3c827bc642fc4ac49a34a494) |
+| tree-sitter-fodot | [2026-10-30](https://gitlab.com/sli-lib/tree-sitter-fodot//tree/d19f140aec4d63883e67396b3b78f3ca9ef4f554) |
 | tree-sitter-forester | [2025-04-03](https://github.com/kentookura/tree-sitter-forester/tree/4b1c6828cc77c62750302e1a9582dc098d74e227) |
 | tree-sitter-format_string | [0.1.1](https://github.com/ValdezFOmar/tree-sitter-format-string/tree/v0.1.1) |
 | tree-sitter-formula | [2022-05-05](https://github.com/siraben/tree-sitter-formula/tree/351159cf66f0e7f8d86fa06fc44ab3c2055082df) |
@@ -310,7 +310,7 @@ in {
 | tree-sitter-gowork | [2024-09-11](https://github.com/zed-industries/tree-sitter-go-work/tree/acb0617bf7f4fda02c6217676cc64acb89536dc7) |
 | tree-sitter-gpg | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-gpg-config/tree/v0.2.1) |
 | tree-sitter-gpr | [2024-08-13](https://github.com/brownts/tree-sitter-gpr/tree/cea857d3c18d1385d1f5b66cd09ea1e44173945c) |
-| tree-sitter-gram | [0.3.11](https://github.com/gram-data/tree-sitter-gram/tree/v0.3.11) |
+| tree-sitter-gram | [0.4.0](https://github.com/gram-data/tree-sitter-gram/tree/v0.4.0) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/gren-lang/tree-sitter-gren/tree/v2.0.0) |
 | tree-sitter-gritql | [2026-10-25](https://github.com/biomejs/tree-sitter-gritql/tree/ecaec54b30685c23e65013b2f116a1fb65284f2e) |
@@ -729,7 +729,7 @@ in {
 | tree-sitter-virgil | [2024-07-05](https://github.com/btwj/tree-sitter-virgil/tree/8e6907839b384af9019f4d52ee24d7b7cfb9cf70) |
 | tree-sitter-void | [2024-07-16](https://github.com/ge0mk/tree-sitter-void/tree/82ba59e160925a646b9b3c5e3aad846124cd4d05) |
 | tree-sitter-vola | [2026-09-29](https://gitlab.com/tendsinmende/tree-sitter-vola//tree/8f937bcfdeb39257189d8b4372316c0098d1133f) |
-| tree-sitter-vrl | [0.1.1](https://github.com/belltoy/tree-sitter-vrl/tree/v0.1.1) |
+| tree-sitter-vrl | [0.2.0](https://github.com/belltoy/tree-sitter-vrl/tree/v0.2.0) |
 | tree-sitter-vue | [2026-01-24](https://github.com/tree-sitter-grammars/tree-sitter-vue/tree/ce8011a414fdf8091f4e4071752efc376f4afb08) |
 | tree-sitter-wasp | [2024-10-17](https://github.com/bx2/tree-sitter-wasp/tree/3669fc2724bc7dcfd7d00f92d48c543c35455583) |
 | tree-sitter-wast | [2022-05-17](https://github.com/wasm-lsp/tree-sitter-wasm/tree/2ca28a9f9d709847bf7a3de0942a84e912f59088/wast) |

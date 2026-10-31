@@ -847,12 +847,12 @@
     };
   };
   "tree-sitter-cfml" = {
-    version = "0.26.43";
+    version = "0.26.44";
     src = fetchFromGitHub {
       owner = "cfmleditor";
       repo = "tree-sitter-cfml";
-      rev = "v0.26.43";
-      hash = "sha256-nmfdNXcbRJzV8FpBc06zMNpY+Cyakz15jwQ3McJdDbM=";
+      rev = "v0.26.44";
+      hash = "sha256-y99PgHwDYRFYWhLtxEEs+4zOHoeR2+VwFPp0pt4UJjk=";
     };
   };
   "tree-sitter-cgsql" = {
@@ -928,12 +928,12 @@
     };
   };
   "tree-sitter-cmake" = {
-    version = "0.7.5";
+    version = "0.7.6";
     src = fetchFromGitHub {
       owner = "uyha";
       repo = "tree-sitter-cmake";
-      rev = "v0.7.5";
-      hash = "sha256-3WAADzMe4Rfd35M1CZd7wc/hE9ydD+vTKaxtcMsjSWM=";
+      rev = "v0.7.6";
+      hash = "sha256-bhxVq5Kc5aK9pQjx+zGlnBlXyJqASUrljOJjvEP3u20=";
     };
   };
   "tree-sitter-cobol" = {
@@ -1757,12 +1757,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2026-09-29";
+    version = "unstable-2026-10-30";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "e3f41d2cd2d10cae3c827bc642fc4ac49a34a494";
-      hash = "sha256-FHvU0raNie2lIrRs3iMTUdWUa91pL4RVphWjubYZUbc=";
+      rev = "d19f140aec4d63883e67396b3b78f3ca9ef4f554";
+      hash = "sha256-mpKyXgBU9/TgTNqk1yZJab5+h5P5hMB7qxlR0pa6yig=";
     };
   };
   "tree-sitter-forester" = {
@@ -2171,12 +2171,12 @@
     };
   };
   "tree-sitter-gram" = {
-    version = "0.3.11";
+    version = "0.4.0";
     src = fetchFromGitHub {
       owner = "gram-data";
       repo = "tree-sitter-gram";
-      rev = "v0.3.11";
-      hash = "sha256-Z9mZNZhx/9BdLtMC03Huht9IuQXmgRE9Hp5qLybZR5s=";
+      rev = "v0.4.0";
+      hash = "sha256-LFX/dKaPN8WysHGPEsj9ZHX3futQtqH0j3TqIDUCaWI=";
     };
   };
   "tree-sitter-graphql" = {
@@ -5543,12 +5543,12 @@
     };
   };
   "tree-sitter-vrl" = {
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchFromGitHub {
       owner = "belltoy";
       repo = "tree-sitter-vrl";
-      rev = "v0.1.1";
-      hash = "sha256-R+wuG8UkvGA11uTiiUAdzzgjRv1ik4W+qh3YwIREUd4=";
+      rev = "v0.2.0";
+      hash = "sha256-w6LT5efpJ98WlAiIaBAWAYbXZRqBSFT3QDx5bMlJJ8A=";
     };
   };
   "tree-sitter-vue" = {
