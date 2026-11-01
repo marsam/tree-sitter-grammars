@@ -2171,12 +2171,12 @@
     };
   };
   "tree-sitter-gram" = {
-    version = "0.4.0";
+    version = "0.6.0";
     src = fetchFromGitHub {
       owner = "gram-data";
       repo = "tree-sitter-gram";
-      rev = "v0.4.0";
-      hash = "sha256-LFX/dKaPN8WysHGPEsj9ZHX3futQtqH0j3TqIDUCaWI=";
+      rev = "v0.6.0";
+      hash = "sha256-70213AlBbeFQURt+wyQgWrwi8NOwB30azHb7b9yxlc8=";
     };
   };
   "tree-sitter-graphql" = {
@@ -4100,12 +4100,12 @@
     };
   };
   "tree-sitter-pyrope" = {
-    version = "unstable-2026-10-10";
+    version = "unstable-2026-10-31";
     src = fetchFromGitHub {
       owner = "masc-ucsc";
       repo = "tree-sitter-pyrope";
-      rev = "64a015dcb3a5b0034ca48b4a1137a26bbc744df8";
-      hash = "sha256-mNsaeBoiQixaigTtvaFocZNrfmoVLqq+sqPCxjbE1x0=";
+      rev = "439c9bbbaf0b812189bec9d146ec20da224f5924";
+      hash = "sha256-4JSHBYORGjsYGaFWxM50UaeCrWPj3N7eetF8rr7t5yA=";
     };
   };
   "tree-sitter-q" = {

@@ -310,7 +310,7 @@ in {
 | tree-sitter-gowork | [2024-09-11](https://github.com/zed-industries/tree-sitter-go-work/tree/acb0617bf7f4fda02c6217676cc64acb89536dc7) |
 | tree-sitter-gpg | [0.2.1](https://github.com/tree-sitter-grammars/tree-sitter-gpg-config/tree/v0.2.1) |
 | tree-sitter-gpr | [2024-08-13](https://github.com/brownts/tree-sitter-gpr/tree/cea857d3c18d1385d1f5b66cd09ea1e44173945c) |
-| tree-sitter-gram | [0.4.0](https://github.com/gram-data/tree-sitter-gram/tree/v0.4.0) |
+| tree-sitter-gram | [0.6.0](https://github.com/gram-data/tree-sitter-gram/tree/v0.6.0) |
 | tree-sitter-graphql | [2021-05-10](https://github.com/bkegley/tree-sitter-graphql/tree/5e66e961eee421786bdda8495ed1db045e06b5fe) |
 | tree-sitter-gren | [2.0.0](https://github.com/gren-lang/tree-sitter-gren/tree/v2.0.0) |
 | tree-sitter-gritql | [2026-10-25](https://github.com/biomejs/tree-sitter-gritql/tree/ecaec54b30685c23e65013b2f116a1fb65284f2e) |
@@ -550,7 +550,7 @@ in {
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2026-10-10](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/64a015dcb3a5b0034ca48b4a1137a26bbc744df8) |
+| tree-sitter-pyrope | [2026-10-31](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/439c9bbbaf0b812189bec9d146ec20da224f5924) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.12](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.12) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
