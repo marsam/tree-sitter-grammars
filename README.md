@@ -136,7 +136,7 @@ in {
 | tree-sitter-cab | [2025-02-01](https://github.com/cull-os/tree-sitter-cab/tree/3215931f6b2ee7ef91b303b2021d5bf9727f7ece) |
 | tree-sitter-cabal | [2024-03-01](https://github.com/thomasvergne/tree-sitter-cabal/tree/1762ded13e5351c0bc662a2273d523b80d314b4e) |
 | tree-sitter-caddy | [0.1.1](https://github.com/opa-oz/tree-sitter-caddy/tree/v0.1.1) |
-| tree-sitter-caddyfile | [2026-10-22](https://github.com/caddyserver/tree-sitter-caddyfile/tree/86e8f31101b5a2795b966d4c2e85bbe3c977f519) |
+| tree-sitter-caddyfile | [2026-11-06](https://github.com/caddyserver/tree-sitter-caddyfile/tree/53c0cf6521c2b562f448d59c0a4ba6fa77933928) |
 | tree-sitter-cairo | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-cairo/tree/v1.0.0) |
 | tree-sitter-calyx | [0.7.1](https://github.com/calyxir/calyx/tree/v0.7.1/calyx-lsp/tree-sitter-calyx) |
 | tree-sitter-cangjie | [2024-11-12](https://github.com/jstzwj/tree-sitter-cangjie/tree/5d873a1e3ec88fad82ef84ae8f9e06b0406b5d1f) |
@@ -180,7 +180,7 @@ in {
 | tree-sitter-cpp | [0.23.4](https://github.com/tree-sitter/tree-sitter-cpp/tree/v0.23.4) |
 | tree-sitter-cql | [0.2.0](https://github.com/shotover/tree-sitter-cql/tree/v0.2.0) |
 | tree-sitter-crystal | [2025-10-12](https://github.com/crystal-lang-tools/tree-sitter-crystal/tree/50ca9e6fcfb16a2cbcad59203cfd8ad650e25c49) |
-| tree-sitter-csound | [1.6.4](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/v1.6.4) |
+| tree-sitter-csound | [1.6.5](https://github.com/PasqualeMainolfi/tree-sitter-csound/tree/v1.6.5) |
 | tree-sitter-css | [0.25.0](https://github.com/tree-sitter/tree-sitter-css/tree/v0.25.0) |
 | tree-sitter-css_in_js | [2025-03-16](https://github.com/orzechowskid/tree-sitter-css-in-js/tree/bcbacde99123f65978580dcf8f1aa51107e546c3) |
 | tree-sitter-csv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/csv) |
@@ -432,7 +432,7 @@ in {
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
 | tree-sitter-mathprog | [1.0.0](https://github.com/smoeding/tree-sitter-mathprog/tree/v1.0.0) |
-| tree-sitter-matlab | [1.3.1](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.1) |
+| tree-sitter-matlab | [1.3.2](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.2) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdn | [0.1.7](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.7) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
@@ -519,7 +519,7 @@ in {
 | tree-sitter-pic | [2025-12-14](https://github.com/smoeding/tree-sitter-pic/tree/c02aa6060c06147fec52a784a92b3f88f3610462) |
 | tree-sitter-piglet | [2025-07-26](https://github.com/piglet-lang/tree-sitter-piglet/tree/a373f4f388bf4c1e36f0a5568ea36cda64eb22e5) |
 | tree-sitter-pioasm | [2024-10-12](https://github.com/leo60228/tree-sitter-pioasm/tree/afece58efdb30440bddd151ef1347fa8d6f744a9) |
-| tree-sitter-pkl | [0.21.0](https://github.com/apple/tree-sitter-pkl/tree/v0.21.0) |
+| tree-sitter-pkl | [0.22.0](https://github.com/apple/tree-sitter-pkl/tree/v0.22.0) |
 | tree-sitter-plume | [2024-05-26](https://github.com/plume-lang/tree-sitter-plume/tree/8ea11031c48ed4379b0d85e652f93d74d1838560) |
 | tree-sitter-pluto | [2024-11-23](https://github.com/asumbek/tree-sitter-pluto/tree/e850a7b932752d5fd89fac73767a8bea101981ad) |
 | tree-sitter-plymouth_script | [2024-06-18](https://github.com/liushuyu/tree-sitter-plymouth-script/tree/843f5bea453e60d1e169cbbfc81fbf41c2ead64a) |

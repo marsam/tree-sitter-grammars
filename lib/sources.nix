@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2026-10-22";
+    version = "unstable-2026-11-06";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "86e8f31101b5a2795b966d4c2e85bbe3c977f519";
-      hash = "sha256-85jPFtt4VJ/ZyeWs7YR1QMLTxx7k3yBLjXk/vtHYHZ8=";
+      rev = "53c0cf6521c2b562f448d59c0a4ba6fa77933928";
+      hash = "sha256-/tJcFLCaSSJV+tZamYFovMOoY/sQLwRgV0mML0gtcYs=";
     };
   };
   "tree-sitter-cairo" = {
@@ -1081,12 +1081,12 @@
     };
   };
   "tree-sitter-csound" = {
-    version = "1.6.4";
+    version = "1.6.5";
     src = fetchFromGitHub {
       owner = "PasqualeMainolfi";
       repo = "tree-sitter-csound";
-      rev = "v1.6.4";
-      hash = "sha256-941iIRdQVuVfF7FfWlnEYJO87Fc7iA4/YyGCoIpQs8Q=";
+      rev = "v1.6.5";
+      hash = "sha256-6y1eVBkLzbClBJdSq935xPbvcxj0pflCTli0ZBAqEl8=";
     };
   };
   "tree-sitter-css_in_js" = {
@@ -3181,12 +3181,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.3.1";
+    version = "1.3.2";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.3.1";
-      hash = "sha256-WfBh8/wWfpUFjH/VdGuVqWDGrvmvmFRW7lTbMCjWJ6U=";
+      rev = "v1.3.2";
+      hash = "sha256-3A7E47oyCRB39Xw7ncq3M7Og31uJZOubH7A2QuTYEdc=";
     };
   };
   "tree-sitter-mcfuncx" = {
@@ -3847,12 +3847,12 @@
     };
   };
   "tree-sitter-pkl" = {
-    version = "0.21.0";
+    version = "0.22.0";
     src = fetchFromGitHub {
       owner = "apple";
       repo = "tree-sitter-pkl";
-      rev = "v0.21.0";
-      hash = "sha256-I6jz9MksI+aiuxMQ3hZ1VyksA+rj3XxRKHfe8gkoO/I=";
+      rev = "v0.22.0";
+      hash = "sha256-2quZj51vgNbqxWxEdwkqasPXUvz1+AXJOQI+byUU9q0=";
     };
   };
   "tree-sitter-plume" = {
