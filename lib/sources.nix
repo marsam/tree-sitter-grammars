@@ -199,12 +199,12 @@
     };
   };
   "tree-sitter-scala" = {
-    version = "0.26.4";
+    version = "0.26.9";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-scala";
-      rev = "v0.26.4";
-      hash = "sha256-aRv/kmqrOyW3mLgssYqhvvMxNxEEO7yHJaZDm/VgtAI=";
+      rev = "v0.26.9";
+      hash = "sha256-1KDZu0p8Bk/TRKsWaUHT7EMmM5nPmAo8QvkxYglLMoM=";
     };
   };
   "tree-sitter-typescript" = {
@@ -622,12 +622,12 @@
     };
   };
   "tree-sitter-bp" = {
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchFromGitHub {
       owner = "ambroisie";
       repo = "tree-sitter-bp";
-      rev = "v0.7.0";
-      hash = "sha256-sCvz8Bf0nffSyis9rhppD/iCrlTyTLPAeH6WXg0N6+Y=";
+      rev = "v0.8.0";
+      hash = "sha256-CGpYsbVkoG0MO9SPWn9Bf1okrpKZ1z1/wSqIzlAeKVI=";
     };
   };
   "tree-sitter-bpf_c" = {
@@ -1757,12 +1757,12 @@
     };
   };
   "tree-sitter-fodot" = {
-    version = "unstable-2026-11-03";
+    version = "unstable-2026-11-06";
     src = fetchFromGitLab {
       owner = "sli-lib";
       repo = "tree-sitter-fodot";
-      rev = "fb680e760f354b6323cbc9d5212e67f667d43cc0";
-      hash = "sha256-wEv46Bai0QsN2Rd6yyRSCKLxZid3MKy/OkCxgfSluU8=";
+      rev = "bfeacc692846c282de7c8224600df1cd9f184aec";
+      hash = "sha256-68cYg5Jc9z9BhdFpJbxhtXAfXASYwdVs0IRn3Ir93+w=";
     };
   };
   "tree-sitter-forester" = {
@@ -3181,12 +3181,12 @@
     };
   };
   "tree-sitter-matlab" = {
-    version = "1.3.2";
+    version = "1.3.3";
     src = fetchFromGitHub {
       owner = "acristoffers";
       repo = "tree-sitter-matlab";
-      rev = "v1.3.2";
-      hash = "sha256-3A7E47oyCRB39Xw7ncq3M7Og31uJZOubH7A2QuTYEdc=";
+      rev = "v1.3.3";
+      hash = "sha256-fgZmVL9tbU8woGD8XI6tWFe/DJ9DKRfCSgz+5ZeVYmQ=";
     };
   };
   "tree-sitter-mcfuncx" = {
