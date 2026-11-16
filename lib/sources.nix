@@ -289,12 +289,12 @@
     };
   };
   "tree-sitter-al" = {
-    version = "5.2.0";
+    version = "5.3.0";
     src = fetchFromGitHub {
       owner = "SShadowS";
       repo = "tree-sitter-al";
-      rev = "v5.2.0";
-      hash = "sha256-Z7pByaaU3cU0aXGVm3YKdBfvkP3DsT6JIVkivUyijHs=";
+      rev = "v5.3.0";
+      hash = "sha256-qx6XFg3YjZumVx4oTlMUWdYvueJ2qt/ATfv0/6YExFo=";
     };
   };
   "tree-sitter-alcha" = {
@@ -1198,12 +1198,12 @@
     };
   };
   "tree-sitter-datazinc" = {
-    version = "unstable-2026-11-10";
+    version = "unstable-2026-11-16";
     src = fetchFromGitHub {
       owner = "shackle-rs";
       repo = "shackle";
-      rev = "a3c39c227b16dc2403e4dc23f0e13c84fffa2efe";
-      hash = "sha256-WQVwM1uVXBlNP7i97A3lWd6yoJZSybBMah40b6C+SKw=";
+      rev = "f39eb733cd093762cf30375a256750f5127a891f";
+      hash = "sha256-Jithytwjn1BM8LzXvQNML0MOA6vKjg7YHq7NH5EIJF4=";
     };
   };
   "tree-sitter-dbml" = {
@@ -3775,12 +3775,12 @@
     };
   };
   "tree-sitter-perl" = {
-    version = "2.0.6";
+    version = "2.1.0";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-perl";
-      rev = "v2.0.6";
-      hash = "sha256-/xKoprd0SxjRw0d6d/8GNmS3r9Ts4OhnsWPUhwacW1o=";
+      rev = "v2.1.0";
+      hash = "sha256-149qsDds6IGptICy1d/HfQIVO/VlA7omcu3xnTHcoQI=";
     };
   };
   "tree-sitter-perm" = {
@@ -4614,12 +4614,12 @@
     };
   };
   "tree-sitter-slint" = {
-    version = "unstable-2026-10-09";
+    version = "unstable-2026-11-16";
     src = fetchFromGitHub {
       owner = "slint-ui";
       repo = "tree-sitter-slint";
-      rev = "b494447aeb10e540b9f0fbde08748c052859e42d";
-      hash = "sha256-pUJKECB118KsJgV1oV/YVxRKf+f/SyuBEFiiZO7Mf2Y=";
+      rev = "b22bb31bd1cf1dfc47e7432197a9474b62d05b14";
+      hash = "sha256-G+qqAmKN5FbMsNeL8XAxocUDNzL2ihICxr+Miuu6qh4=";
     };
   };
   "tree-sitter-smali" = {
@@ -5480,12 +5480,12 @@
     };
   };
   "tree-sitter-vhdl" = {
-    version = "2.0.3";
+    version = "2.1.0";
     src = fetchFromGitHub {
       owner = "jpt13653903";
       repo = "tree-sitter-vhdl";
-      rev = "v2.0.3";
-      hash = "sha256-zDEO5X9aewylftSEOFiczfSZsuj1yd8JDqOkwOXLF1o=";
+      rev = "v2.1.0";
+      hash = "sha256-MJUUqmLKzJxqeS2zIEUWli+ZJfmrkqEeTgIKSSQMiMk=";
     };
   };
   "tree-sitter-vhs" = {
