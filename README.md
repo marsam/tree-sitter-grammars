@@ -423,7 +423,7 @@ in {
 | tree-sitter-luau | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-luau/tree/v1.2.0) |
 | tree-sitter-lx | [2026-01-27](https://github.com/curist/tree-sitter-lx/tree/4c02f5363c3b2089502d6527403e1ad0b6c2761d) |
 | tree-sitter-m68k | [0.3.2](https://github.com/grahambates/tree-sitter-m68k/tree/v0.3.2) |
-| tree-sitter-magik | [2026-10-26](https://github.com/krn-robin/tree-sitter-magik/tree/2ccff2474031ce6e9ce3f94b021ff705a2ce880c) |
+| tree-sitter-magik | [2026-11-17](https://github.com/krn-robin/tree-sitter-magik/tree/ed72470ac75542bf4b6e6ba683a3f4489d75c647) |
 | tree-sitter-make | [1.1.1](https://github.com/tree-sitter-grammars/tree-sitter-make/tree/v1.1.1) |
 | tree-sitter-mandbconfig | [0.1.0](https://github.com/TornaxO7/tree-sitter-man-db-config/tree/d6eb82027c355e70f8186a47d17e6afd97fc7c81) |
 | tree-sitter-markdoc | [2024-10-06](https://github.com/mohitsinghs/tree-sitter-markdoc/tree/e4211fe541a13350275e4684de79adfebe9a91f8) |
@@ -540,7 +540,7 @@ in {
 | tree-sitter-promela | [2022-02-11](https://github.com/siraben/tree-sitter-promela/tree/91da8f141c3c4c695eb71018c8a7b2e7ea39c167) |
 | tree-sitter-promql | [0.1.0](https://github.com/MichaHoffmann/tree-sitter-promql/tree/77625d78eebc3ffc44d114a07b2f348dff3061b0) |
 | tree-sitter-properties | [0.3.0](https://github.com/tree-sitter-grammars/tree-sitter-properties/tree/v0.3.0) |
-| tree-sitter-proto | [0.6.0](https://github.com/coder3101/tree-sitter-proto/tree/0.6.0) |
+| tree-sitter-proto | [0.6.1](https://github.com/coder3101/tree-sitter-proto/tree/0.6.1) |
 | tree-sitter-protobuf | [2021-08-22](https://github.com/90-008/tree-sitter-protobuf/tree/5aef38d655f76a6b0d172340eed3766c93b3124c) |
 | tree-sitter-prql | [2023-07-28](https://github.com/PRQL/tree-sitter-prql/tree/09e158cd3650581c0af4c49c2e5b10c4834c8646) |
 | tree-sitter-psv | [1.2.0](https://github.com/tree-sitter-grammars/tree-sitter-csv/tree/v1.2.0/psv) |
@@ -664,7 +664,7 @@ in {
 | tree-sitter-syncat_stylesheet | [3.8.0](https://github.com/foxfriends/syncat/tree/3.8.0/tree-sitter-syncat-stylesheet) |
 | tree-sitter-systemrdl | [2024-05-12](https://github.com/SystemRDL/tree-sitter-systemrdl/tree/2c27e329f7724e39f40439e68e22133e285a3e3b) |
 | tree-sitter-systemtap | [0.2.0](https://github.com/ok-ryoko/tree-sitter-systemtap/tree/v0.2.0) |
-| tree-sitter-systemverilog | [0.4.1](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.4.1) |
+| tree-sitter-systemverilog | [0.5.0](https://github.com/gmlarumbe/tree-sitter-systemverilog/tree/v0.5.0) |
 | tree-sitter-t32 | [10.0.0](https://codeberg.org/xasc/tree-sitter-t32/src/v10.0.0) |
 | tree-sitter-tablegen | [0.0.1](https://github.com/tree-sitter-grammars/tree-sitter-tablegen/tree/v0.0.1) |
 | tree-sitter-tact | [1.6.0](https://github.com/tact-lang/tree-sitter-tact/tree/v1.6.0) |
@@ -772,7 +772,7 @@ in {
 | tree-sitter-zote | [2024-11-18](https://github.com/KvGeijer/tree-sitter-zote/tree/5f1206bd09ad25314f16cddc639b59e95cf0a9fd) |
 | tree-sitter-zql | [2025-02-11](https://github.com/cmus-enjoyers/tree-sitter-zql/tree/a15ac979941cdd16218aa3ed7d7a73cced06b1f7) |
 | tree-sitter-zscript | [2026-05-02](https://github.com/dastrukar/tree-sitter-zscript/tree/75ff06e2b4fb7bfcdeb165ecb12a20dfea3c318d) |
-| tree-sitter-zsh | [0.63.5](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.63.5) |
+| tree-sitter-zsh | [0.64.3](https://github.com/georgeharker/tree-sitter-zsh/tree/v0.64.3) |
 
 </details>
 <!-- end-gramars -->
