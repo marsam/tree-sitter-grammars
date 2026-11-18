@@ -1559,12 +1559,12 @@
     };
   };
   "tree-sitter-erlang" = {
-    version = "0.21.0";
+    version = "0.22.0";
     src = fetchFromGitHub {
       owner = "WhatsApp";
       repo = "tree-sitter-erlang";
-      rev = "0.21.0";
-      hash = "sha256-K4ytlHKE5YW8gu1YvXVv9bKrpU6o0I7NNP0kXcV4mSk=";
+      rev = "0.22.0";
+      hash = "sha256-4Bm3+A8XXBmwHdBukkVuy2lJ8SrS1dVRENZjBwOCLJ8=";
     };
   };
   "tree-sitter-esdl" = {
@@ -3316,12 +3316,12 @@
     };
   };
   "tree-sitter-moonbit" = {
-    version = "unstable-2026-07-22";
+    version = "unstable-2026-11-18";
     src = fetchFromGitHub {
       owner = "moonbitlang";
       repo = "tree-sitter-moonbit";
-      rev = "5435c307c6cf2ef0d508a99047b06f35a4308444";
-      hash = "sha256-UUEjrF6uGwTtFGRjmjw75ky8eDwVwAHOHro48TAI+WM=";
+      rev = "dd8c9ebab659cf5cd039342704e42aca88b2b34a";
+      hash = "sha256-z912UtIX8619N3rVlX0xhCv3vB0M+xc+e+pgn9UUyGU=";
     };
   };
   "tree-sitter-mor" = {
@@ -4929,12 +4929,12 @@
     };
   };
   "tree-sitter-sus" = {
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchFromGitHub {
       owner = "pc2";
       repo = "sus-compiler";
-      rev = "v0.5.0";
-      hash = "sha256-WRY7MXGSGc5F4bFwRUqVQw4Q0hejX/exmndLnzGevFg=";
+      rev = "v0.6.0";
+      hash = "sha256-u3apJ67hrHmCKXdXR2zWQtQAopT/IiT5m+Wm+TuDF/w=";
     };
   };
   "tree-sitter-svelte" = {
@@ -5426,12 +5426,12 @@
     };
   };
   "tree-sitter-vala" = {
-    version = "unstable-2024-10-29";
+    version = "unstable-2026-11-18";
     src = fetchFromGitHub {
       owner = "vala-lang";
       repo = "tree-sitter-vala";
-      rev = "97e6db3c8c73b15a9541a458d8e797a07f588ef4";
-      hash = "sha256-hAekweZGDHVrWVd04RrN+9Jz0D2kode+DpceTlUXii0=";
+      rev = "dff1b1cf0c80ce625902b90359dbd50be6bfdbde";
+      hash = "sha256-2TJJ+69E7FXoe8I2bxJVeSSeN9YTvKnvUi72azZLhy4=";
     };
   };
   "tree-sitter-vcard" = {
