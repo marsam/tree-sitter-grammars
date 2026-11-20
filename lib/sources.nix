@@ -136,12 +136,12 @@
     };
   };
   "tree-sitter-php" = {
-    version = "0.25.1";
+    version = "0.25.2";
     src = fetchFromGitHub {
       owner = "tree-sitter";
       repo = "tree-sitter-php";
-      rev = "v0.25.1";
-      hash = "sha256-L8c2OkkwryR5wpqYS++Zn8ZJ85wr//dvH2oe1PJcE8o=";
+      rev = "v0.25.2";
+      hash = "sha256-gHEWu+kN6gGJSl15R04NBo4XFaBplIPytmL06YyPRh0=";
     };
   };
   "tree-sitter-python" = {
@@ -766,12 +766,12 @@
     };
   };
   "tree-sitter-caddyfile" = {
-    version = "unstable-2026-11-12";
+    version = "unstable-2026-11-19";
     src = fetchFromGitHub {
       owner = "caddyserver";
       repo = "tree-sitter-caddyfile";
-      rev = "0be921fae0bcf9b163645899db0db730afae8aee";
-      hash = "sha256-SY/ta2IHVUlpKzxOrmab1Ai3hD+W/D3wWTZxk8EgEu0=";
+      rev = "d3028c25872c8fbe90ae5949245034e6d8545ad7";
+      hash = "sha256-WAH74oojTwe7wHG5Czr4Tp88nDT4tLk19S+patTpCTI=";
     };
   };
   "tree-sitter-cairo" = {
@@ -2072,12 +2072,12 @@
     };
   };
   "tree-sitter-gnuplot" = {
-    version = "4.2.1";
+    version = "5.0.0";
     src = fetchFromGitHub {
       owner = "dpezto";
       repo = "tree-sitter-gnuplot";
-      rev = "v4.2.1";
-      hash = "sha256-0cWMl/2VY9WHw2fJbVKRaJhyFJw0HsQjyuQZdmwzl9M=";
+      rev = "v5.0.0";
+      hash = "sha256-Itp9MYax/LZZnT4AQOJhjw7ewUE9b5d5yGcLBBZW9BQ=";
     };
   };
   "tree-sitter-gobra" = {
@@ -3775,12 +3775,12 @@
     };
   };
   "tree-sitter-perl" = {
-    version = "2.1.0";
+    version = "2.1.2";
     src = fetchFromGitHub {
       owner = "tree-sitter-perl";
       repo = "tree-sitter-perl";
-      rev = "v2.1.0";
-      hash = "sha256-149qsDds6IGptICy1d/HfQIVO/VlA7omcu3xnTHcoQI=";
+      rev = "v2.1.2";
+      hash = "sha256-Ll923NtSul0fG0z80RmceL52fHVI9fG3YeOp9BPw9XI=";
     };
   };
   "tree-sitter-perm" = {
