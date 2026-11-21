@@ -402,7 +402,7 @@ in {
 | tree-sitter-latex | [0.6.0](https://github.com/latex-lsp/tree-sitter-latex/tree/v0.6.0) |
 | tree-sitter-ld | [2024-04-12](https://github.com/mtoohey31/tree-sitter-ld/tree/0e9695ae0ede47b8744a8e2ad44d4d40c5d4e4c9) |
 | tree-sitter-ldif | [2023-05-27](https://github.com/kkmp-dk/tree-sitter-ldif/tree/0a917207f65ba3e3acfa9cda16142ee39c4c1aaa) |
-| tree-sitter-lean | [2026-11-01](https://github.com/Julian/tree-sitter-lean/tree/0d28e5d6e8c4755f5df7ef9bde3b6ec6f59fae94) |
+| tree-sitter-lean | [2026-11-21](https://github.com/Julian/tree-sitter-lean/tree/fefc2eff9a83eeb72cda44646709e40e33e09175) |
 | tree-sitter-ledger | [2026-09-25](https://github.com/cbarrete/tree-sitter-ledger/tree/d5f3973cfe2d42f98819336ce6334ada75b7696f) |
 | tree-sitter-leo | [1.0.1](https://github.com/r001/tree-sitter-leo/tree/v1.0.1) |
 | tree-sitter-lfe | [2025-02-11](https://github.com/raw1z/tree-sitter-lfe/tree/46dd5accd6b655dcb05c6982251eb7ed3a0df7ba) |
@@ -432,7 +432,7 @@ in {
 | tree-sitter-marte | [0.0.1](https://github.com/MARTe-Community/tree-sitter-marte/tree/v0.0.1) |
 | tree-sitter-martian | [2024-11-16](https://github.com/LoganAMorrison/tree-sitter-martian/tree/a113d7785e0e32d52d6eb198d54806299d780c97) |
 | tree-sitter-mathprog | [1.0.0](https://github.com/smoeding/tree-sitter-mathprog/tree/v1.0.0) |
-| tree-sitter-matlab | [1.3.3](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.3) |
+| tree-sitter-matlab | [1.3.4](https://github.com/acristoffers/tree-sitter-matlab/tree/v1.3.4) |
 | tree-sitter-mcfuncx | [2025-05-03](https://github.com/PFiS1737/tree-sitter-mcfuncx/tree/ebbf6d87ae8d70f4b691ccffc1ce8acb313ab831) |
 | tree-sitter-mdn | [0.1.7](https://github.com/mdn/tree-sitter-mdn/tree/v0.1.7) |
 | tree-sitter-mdx | [2025-12-26](https://github.com/srazzak/tree-sitter-mdx/tree/3aa29e8de1bf0213948a04fe953039b6ab73777b) |
