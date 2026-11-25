@@ -479,7 +479,7 @@ in {
 | tree-sitter-norg | [0.2.6](https://github.com/nvim-neorg/tree-sitter-norg/tree/v0.2.6) |
 | tree-sitter-npf | [2026-04-09](https://github.com/ntyunyayev/tree-sitter-npf/tree/01cc58a58ac499dfa621a34a4fd17f56d1e5ebce) |
 | tree-sitter-nqc | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-nqc/tree/v1.0.0) |
-| tree-sitter-nu | [2026-11-11](https://github.com/nushell/tree-sitter-nu/tree/0c3f6dfbc30d7713dcbb15b10954f2dee86ef63c) |
+| tree-sitter-nu | [2026-11-25](https://github.com/nushell/tree-sitter-nu/tree/5a5f9c25f9c356f703a637bb3658248a29713684) |
 | tree-sitter-numbat | [2025-10-17](https://github.com/irevoire/tree-sitter-numbat/tree/4d9ce55767f7cc2a0ef97dd070de7e4519920607) |
 | tree-sitter-nur | [2025-10-13](https://github.com/alkhizanah/tree-sitter-nur/tree/fed8074a0c9fc6d940adcd665e18fc0a63a46317) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
