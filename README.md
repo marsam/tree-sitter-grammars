@@ -484,11 +484,11 @@ in {
 | tree-sitter-nur | [2025-10-13](https://github.com/alkhizanah/tree-sitter-nur/tree/fed8074a0c9fc6d940adcd665e18fc0a63a46317) |
 | tree-sitter-objc | [3.0.2](https://github.com/tree-sitter-grammars/tree-sitter-objc/tree/v3.0.2) |
 | tree-sitter-objdump | [1.3.0](https://github.com/ColinKennedy/tree-sitter-objdump/tree/1.3.0) |
-| tree-sitter-objectscript | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/objectscript) |
-| tree-sitter-objectscript_core | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/core) |
-| tree-sitter-objectscript_expr | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/expr) |
-| tree-sitter-objectscript_routine | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/objectscript_routine) |
-| tree-sitter-objectscript_udl | [1.11.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v1.11.0/udl) |
+| tree-sitter-objectscript | [2.0.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v2.0.0/objectscript) |
+| tree-sitter-objectscript_core | [2.0.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v2.0.0/core) |
+| tree-sitter-objectscript_expr | [2.0.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v2.0.0/expr) |
+| tree-sitter-objectscript_routine | [2.0.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v2.0.0/objectscript_routine) |
+| tree-sitter-objectscript_udl | [2.0.0](https://github.com/intersystems/tree-sitter-objectscript/tree/v2.0.0/udl) |
 | tree-sitter-ocaml | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/ocaml) |
 | tree-sitter-ocaml_interface | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/interface) |
 | tree-sitter-ocaml_type | [0.26.0](https://github.com/tree-sitter/tree-sitter-ocaml/tree/v0.26.0/grammars/type) |
@@ -604,7 +604,7 @@ in {
 | tree-sitter-rvparam | [2025-05-28](https://github.com/simonvic/tree-sitter-rvparam/tree/84729fff9175cbba6ef36ca6ccdbd17c0da31a16) |
 | tree-sitter-sasm | [2024-06-16](https://github.com/huntiep/tree-sitter-sasm/tree/94333d9ca27fb0c12af2cdc6b59868f60e5312ac) |
 | tree-sitter-satysfi | [2023-04-08](https://github.com/monaqa/tree-sitter-satysfi/tree/5519c547418ecb31ac7d63e64653aed726b5d1c3) |
-| tree-sitter-scala | [0.26.13](https://github.com/tree-sitter/tree-sitter-scala/tree/v0.26.13) |
+| tree-sitter-scala | [0.26.14](https://github.com/tree-sitter/tree-sitter-scala/tree/v0.26.14) |
 | tree-sitter-scfg | [1.0](https://github.com/rockorager/tree-sitter-scfg/tree/1.0) |
 | tree-sitter-scheme | [0.25.0](https://github.com/6cdh/tree-sitter-scheme/tree/v0.25.0) |
 | tree-sitter-scss | [1.0.0](https://github.com/serenadeai/tree-sitter-scss/tree/v1.0.0) |
@@ -639,7 +639,7 @@ in {
 | tree-sitter-sql | [0.3.13](https://github.com/DerekStride/tree-sitter-sql/tree/v0.3.13) |
 | tree-sitter-sql_bigquery | [0.8.0](https://github.com/takegue/tree-sitter-sql-bigquery/tree/v0.8.0) |
 | tree-sitter-squirrel | [1.0.0](https://github.com/tree-sitter-grammars/tree-sitter-squirrel/tree/v1.0.0) |
-| tree-sitter-ssh_client_config | [2026.11.19](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.11.19) |
+| tree-sitter-ssh_client_config | [2026.11.26](https://github.com/metio/tree-sitter-ssh-client-config/tree/2026.11.26) |
 | tree-sitter-ssh_config | [0.5.0](https://github.com/tree-sitter-grammars/tree-sitter-ssh-config/tree/v0.5.0) |
 | tree-sitter-st | [2024-10-29](https://github.com/bortech/tree-sitter-st/tree/14f1f2b3880b1e4ed7bcbde0a2f1c60384806b46) |
 | tree-sitter-stan | [0.3.1](https://github.com/WardBrian/tree-sitter-stan/tree/v0.3.1/grammars/stan) |
