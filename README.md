@@ -450,7 +450,7 @@ in {
 | tree-sitter-mojo | [2026-11-18](https://github.com/lsh/tree-sitter-mojo/tree/25d997674f83f082a0e39e67396e8a72a5388115) |
 | tree-sitter-moonbit | [2026-11-18](https://github.com/moonbitlang/tree-sitter-moonbit/tree/dd8c9ebab659cf5cd039342704e42aca88b2b34a) |
 | tree-sitter-mor | [2024-12-13](https://github.com/veqox/tree-sitter-mor/tree/4706337d617ed275c7b67fa94ecd4806ca8c74c3) |
-| tree-sitter-morloc | [2026-09-03](https://github.com/morloc-project/tree-sitter-morloc/tree/4c2adde594992a1d6865bf07e17700f6b844c64d) |
+| tree-sitter-morloc | [2026-11-27](https://github.com/morloc-project/tree-sitter-morloc/tree/eaa6cc3dd5a992e653e3ff21f4f9799a1459de7d) |
 | tree-sitter-moshell | [2023-10-11](https://github.com/moshell-lang/tree-sitter-moshell/tree/e189485969e60dd2c79707a4f890424a57a6f3d7) |
 | tree-sitter-motoko | [2024-11-03](https://github.com/polychromatist/tree-sitter-motoko/tree/a172fd1ddc09b9c3806c0d6ecd71ee2f5160aebc) |
 | tree-sitter-move | [2025-07-11](https://github.com/MystenLabs/sui/tree/74e40c8e811a380eaf8d18690d0ec73af135d256/external-crates/move/tooling/tree-sitter) |
@@ -550,7 +550,7 @@ in {
 | tree-sitter-purescript | [0.3.0](https://github.com/postsolar/tree-sitter-purescript/tree/v0.3.0) |
 | tree-sitter-pyjsx | [2025-01-09](https://github.com/mplemay/tree-sitter-pyjsx/tree/82982da0bd66a984e37fe2b6e2d4da7a062a79d8) |
 | tree-sitter-pymanifest | [0.6.0](https://github.com/tree-sitter-grammars/tree-sitter-pymanifest/tree/v0.6.0) |
-| tree-sitter-pyrope | [2026-11-27](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/a87bb9307b8cc0ca42a82f1c771fe84e31a8f46d) |
+| tree-sitter-pyrope | [2026-11-28](https://github.com/masc-ucsc/tree-sitter-pyrope/tree/eec336c80613dedadeae278fd4f36a7fdc223ec8) |
 | tree-sitter-python | [0.25.0](https://github.com/tree-sitter/tree-sitter-python/tree/v0.25.0) |
 | tree-sitter-q | [0.2.12](https://github.com/Gchouchou/tree-sitter-q/tree/v0.2.12) |
 | tree-sitter-qbe | [2024-09-01](https://github.com/bitterbloom/tree-sitter-qbe/tree/20d1d194ee81c1a08d6681919d3cf09656c83b83) |
